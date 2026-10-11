@@ -1,0 +1,909 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Global Arts and Culture Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Global Arts & Culture
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+SUMMARY:Taller de Petromural impartido por Renato Paperetti - Programa de 
+ Laboratorios de educacin e investigacin artsticas de la Ctedra Extraordina
+ ria Juan O'Gorman — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T100000
+DTEND;TZID="UTC-06:00":20261010T140000
+DTSTAMP:20261011T034836Z
+UID:e746fa570b5a322b06e8d1816379@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18528/taller-de-petromural-impartido-por-renato-paperetti
+LOCATION:Escuela de Diseño del INBAL Xocongo 138\, Col. Tránsito\, Alcal
+ día. Cuauhtémoc\,\, Escuela de Diseño del INBAL Xocongo 138\, Col. Trá
+ nsito\, Alcaldía. Cuauhtémoc\, Ciudad de México\, C.P. 06820
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18528/taller-de-petromural-impartido-por
+ -renato-paperetti
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taller de flamenco - Impartido por Brenda Cruz — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T113000
+DTEND;TZID="UTC-06:00":20261010T130000
+DTSTAMP:20261011T034836Z
+UID:7a794009604d0d42db3600e77912@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18477/taller-de-flamenco
+LOCATION:Centro Nacional de las Artes (CENART) - Plaza de la Danza Río Ch
+ urubusco no. 79\, esquina con Calzada de Tlalpan\, Col. Country Club. Alca
+ ldía Coyoacán\, C.P. 04220\,\, Centro Nacional de las Artes (CENART) - P
+ laza de la Danza Río Churubusco no. 79\, esquina con Calzada de Tlalpan\,
+  Col. Country Club. Alcaldía Coyoacán\, C.P. 04220\, Ciudad de México\,
+  CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18477/taller-de-flamenco
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Itinerar la memoria: archivo\, viajes y creacin en la danza espaol
+ a - Conferencia de Ariadna Yez* — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T160000
+DTEND;TZID="UTC-06:00":20261010T170000
+DTSTAMP:20261011T034836Z
+UID:f2f7ded0a8fa21fd7970ca7ddb36@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18472/itinerar-la-memoria-archivo-viajes-y-creacion-en-la-danza-espanola
+LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
+  Consulta link en "Programa"
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18472/itinerar-la-memoria-archivo-viajes
+ -y-creacion-en-la-danza-espanola
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornadas de danza espaola 2026 - Mesa de investigacin por Daniela 
+ Gutirrez Gonzlez y Christian Lpez Martnez — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T171500
+DTEND;TZID="UTC-06:00":20261010T181500
+DTSTAMP:20261011T034836Z
+UID:68dc06af2fc562e9fa4257a963e5@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18473/jornadas-de-danza-espanola-2026
+LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
+  Consulta link en "Programa"
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18473/jornadas-de-danza-espanola-2026
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cepromusic - Tercer Concierto de temporada — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T180000
+DTSTAMP:20261011T034836Z
+UID:1bf238aad3f81ab788e3af2cc2b0@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18509/cepromusic
+LOCATION:Jardín Escénico - Pabellón Av. Paseo de la Reforma 111\, Bosqu
+ e de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín Escénico - Pab
+ ellón Av. Paseo de la Reforma 111\, Bosque de Chapultepec I Secc\, Miguel
+  Hidalgo\, 11580 Ciudad de México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18509/cepromusic
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salom Herrera y Claudio Herrera\, pianos - 50 aos de trayectoria d
+ e Claudio Herrera — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T180000
+DTSTAMP:20261011T034836Z
+UID:6f133ab5fa8a9d5399aa1185cc6d@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18499/salome-herrera-y-claudio-herrera-pianos
+LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1 
+ Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
+ uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
+ d de México\, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18499/salome-herrera-y-claudio-herrera-p
+ ianos
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Germinal - Sesión I — Madrid
+DTSTART;TZID="UTC+02:00":20261010T190000
+DTEND;TZID="UTC+02:00":20261010T190000
+DTSTAMP:20261011T034836Z
+UID:ebfbc81c49d6b38ce683f9439526@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Programa: Casi septiembre (Lucía G. Romero\, 2025\, 29') Alej
+ andra\, una joven que vive en un camping con su familia de forma permanent
+ e y precaria\, tendrá que luchar contra su miedo al abandono cuando conoc
+ e a Amara\, un joven de ciudad que le despierta sentimientos que lleva añ
+ os reprimiendo. Mal de madre (Irene Baqué\, 2025\, 22') Lita (16) le Gene
+  miedo a los lagartos desde que era pequeña. Cada verano\, vuelve a Lagar
+ tera\, donde las tradiciones de su familia están muy arraigadas. Durante 
+ la celebración del Corpus Christi\, mientras su abuela la viste\, Lita de
+ scubre las raíces de su miedo. Que me alimente (Olga Navalón\, Bea Hohen
+ leiter\, 2026\, 15') Cuando la madre de Lourdes muere\, se crea un sil\nCa
+ tegory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.or
+ g/en/schedule/short-film-festival-nosotras-contamos-2026
+LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/short-film-festival-nosotra
+ s-contamos-2026
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Compaa La Meute (Francia) - Motel Cactus — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T200000
+DTSTAMP:20261011T034836Z
+UID:937d343b095f0632f1679d35f3e1@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18307/compania-la-meute-francia
+LOCATION:Centro Cultural del Bosque (CCB) - Teatro del Bosque\, Julio Cast
+ illo Paseo de la Reforma y Campo Marte s/n\, Paseo de la Reforma\, 11560\,
+  Centro Cultural del Bosque (CCB) - Teatro del Bosque\, Julio Castillo Pas
+ eo de la Reforma y Campo Marte s/n\, Paseo de la Reforma\, 11560 Ciudad de
+  México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18307/compania-la-meute-francia
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taller de Escuela Bolera - Impartido por Daniela Gutirrez — Mexi
+ co City
+DTSTART;TZID="UTC-06:00":20261011T100000
+DTEND;TZID="UTC-06:00":20261011T110000
+DTSTAMP:20261011T034836Z
+UID:14afdc7f3dd0538a1002bddbb053@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18476/taller-de-escuela-bolera
+LOCATION:Centro Nacional de las Artes (CENART) - Plaza de la Danza Río Ch
+ urubusco no. 79\, esquina con Calzada de Tlalpan\, Col. Country Club. Alca
+ ldía Coyoacán\, C.P. 04220\,\, Centro Nacional de las Artes (CENART) - P
+ laza de la Danza Río Churubusco no. 79\, esquina con Calzada de Tlalpan\,
+  Col. Country Club. Alcaldía Coyoacán\, C.P. 04220\, Ciudad de México\,
+  CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18476/taller-de-escuela-bolera
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programa 4 - Esplendor de Stradivarius — Mexico City
+DTSTART;TZID="UTC-06:00":20261011T120000
+DTSTAMP:20261011T034836Z
+UID:0ad9b09029a671d4ac843b2b6c24@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18206/programa-4
+LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1 
+ Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
+ uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
+ d de México\, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18206/programa-4
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ignacio Mariscal\, violonchelo  Alain Del Real\, piano - Homenaje 
+ a Pablo Casals a 150 aos de su nacimiento — Mexico City
+DTSTART;TZID="UTC-06:00":20261011T180000
+DTSTAMP:20261011T034836Z
+UID:468874d4d7f7248390704a5c6185@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18500/ignacio-mariscal-violonchelo-alain-del-real-piano
+LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1 
+ Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
+ uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
+ d de México\, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18500/ignacio-mariscal-violonchelo-alain
+ -del-real-piano
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Germinal - Sesión II — Madrid
+DTSTART;TZID="UTC+02:00":20261011T190000
+DTEND;TZID="UTC+02:00":20261011T190000
+DTSTAMP:20261011T034836Z
+UID:1665d5ac2c0e3cd51e756a884d01@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Programa: Entre los días (Judit Ortuño\, 2025\, 27') Una muj
+ er anciana vive sola y aislada en un piso\; su día a día consiste en dea
+ mbular fantasmagóricamente por sus pasillos y habitaciones. Cada noche\, 
+ recibe la llamada telefónica de un hombre anónimo que la busca para mant
+ ener conversaciones eróticas con ella. Anaglifo (Valle Comba\, 2025\, 9')
+  Violeta vive en un mundo rojo y ansioso. Ya no lo soporta\, consumida por
+  tantas nimiedades. Siente una presencia invisible que perturba su realida
+ d. Violet debe aprender a ver de una manera nueva para comprenderse a sí 
+ misma\, a su mente\, y a sus fantasmas. Ningú borda (Júlia Coldwell Serr
+ a\, 2025\, 20') Candela atropella accidentalmente al perro de su sob\nCate
+ gory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/
+ en/schedule/short-film-festival-nosotras-contamos-2026
+LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/short-film-festival-nosotra
+ s-contamos-2026
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Round: L'Rain — London
+DTSTART;VALUE=DATE:20261014
+DTSTAMP:20261011T034836Z
+UID:c515205d4cde1af70c910e6a9e79@global-arts-culture
+CATEGORIES:Arts & Culture\,Live\,London\,United Kingdom
+DESCRIPTION:L’Rain is the musical project of multi-instrumentalist\, com
+ poser\, producer and curator Taja Cheek. Operating between the worlds of a
+ rt and music\, and outwards into film\, fashion and cultural discourse\, C
+ heek is forging a unique path that transcends disciplines to become one of
+  the most vital and adventurous voices for this warped contemporary moment
+ .\nCategory: Live\nOriginal listing: https://www.ica.art/live
+LOCATION:Institute of Contemporary Arts\, The Mall\, London SW1Y 5AH
+STATUS:CONFIRMED
+URL:https://www.ica.art/live
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:ica-london
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:En el balcón vacío — Madrid
+DTSTART;TZID="UTC+02:00":20261014T190000
+DTEND;TZID="UTC+02:00":20261014T190000
+DTSTAMP:20261011T034836Z
+UID:49ba8361419d2ed2532cb0611497@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:En el balcón vacío explora la Guerra Civil española vista a
+  través de los ojos de una niña: Gabriela\, quien ya adulta y exiliada e
+ n México\, recuerda los acontecimientos que la marcaron durante aquella e
+ tapa. Versión restaurada en 2K en Elías Querejeta Zine Eskola (2025) en 
+ colaboración con Filmoteca UNAM y TV UNAM.\nCategory: Multidisciplinary\n
+ Original listing: https://www.mataderomadrid.org/en/schedule/exiles-film-s
+ eries
+LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/exiles-film-series
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eugènia Balcells. Sesión I — Madrid
+DTSTART;TZID="UTC+02:00":20261014T190000
+DTEND;TZID="UTC+02:00":20261014T190000
+DTSTAMP:20261011T034836Z
+UID:435bde2561074f9b3315a7253e9b@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Programa: FIN (España\, 1978\, 15') FIN consiste en una colec
+ ción de 100 finales de fotonovelas románticas que la artista Eugènia B
+ alcells fue seleccionando con la finalidad de exponer los estereotipos sob
+ re los cuales se estructura este género editorial\, muy popularizado dura
+ nte las décadas de los 60 y los 70 en España. Cada “FIN”\, narrado c
+ on códigos propios del cómic y el cine\, condensa de alguna manera la hi
+ storia narrada y representa a su vez el principio de una nueva historia qu
+ e no vemos. La artista expone una serie de finales de historias\, en los q
+ ue básicamente se repite una misma proyección de relación afectiva basa
+ da en los tópicos del amor romántico. La obra de Eugènia Balcells tr\nC
+ ategory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.o
+ rg/en/schedule/tribute-filmmaker-eugenia-balcells
+LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/tribute-filmmaker-eugenia-b
+ alcells
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Litmus Press 25th Anniversary Celebration & Benefit — New York
+DTSTART;TZID="UTC-04:00":20261014T200000
+DTSTAMP:20261011T034836Z
+UID:76ca53c0793111109a95b760c18d@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/litmus-press-celebration
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/litmus-press-celebration
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eugènia Balcells. Sesión II — Madrid
+DTSTART;TZID="UTC+02:00":20261015T190000
+DTEND;TZID="UTC+02:00":20261015T190000
+DTSTAMP:20261011T034836Z
+UID:51ed21722e2defb137633aa86bf0@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Programa: Fuga (1979\, 20') Con este trabajo\, la artista Eug
+ ènia Balcells nos introduce en una interesante reflexión en torno a la r
+ elación entre la imagen\, el espacio y el tiempo. Para ello se sirve de u
+ n artificio técnico\, una cámara Bolex manual que permite adelantar y re
+ trasar la película según un guion de espacios y tiempos precisos. De est
+ a forma\, situando la cámara en un punto fijo en el centro de un espacio 
+ (un interior)\, hace que esta vaya girando siempre a la misma altura del s
+ uelo para filmar los 360º del espacio\, dividido en 12 secciones\, como e
+ n la esfera de un reloj. Indian Circle (1981\, 26') Una vídeo -performanc
+ e que registra la acción que ejecutó el músico Peter Van Riper den\nCat
+ egory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org
+ /en/schedule/tribute-filmmaker-eugenia-balcells
+LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/tribute-filmmaker-eugenia-b
+ alcells
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exocapitalism and the Superdark Factory – Seminar with Marek Pol
+ iks and Roberto Alonso Trillo — Madrid
+DTSTART;TZID="UTC+02:00":20261016T160000
+DTEND;TZID="UTC+02:00":20261017T000000
+DTSTAMP:20261011T034836Z
+UID:fded4b76840a5aecb79824e8e1be@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Exocapitalism is the idea that capitalism doesn't belong to us
+ : that it works as a form\, almost like an algorithm\, and could keep work
+ ing without us. The seminar runs through several of its core mechanisms 
+ – Lift and Fold – before turning to the concept of the Superdark Facto
+ ry. Lift is capital's tendency to pull away from fixed costs\, from the gr
+ ound\, from the sphere of human affairs. You can see it in an airline that
+  no longer sells seats but positions in a queue\, or in a telecom operator
+  that sells its towers and keeps using them as a tenant. Fold is the proce
+ ss by which difference emerges without any change to the substrate – the
+  lens through which we read the software economy. We close \nCategory: Mul
+ tidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/schedu
+ le/exocapitalism-and-superdark-factory-seminar-marek-poliks-and-roberto-al
+ onso-trillo
+LOCATION:Nave 17. Aulario\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/exocapitalism-and-superdark
+ -factory-seminar-marek-poliks-and-roberto-alonso-trillo
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La sexta parte del mundo — Madrid
+DTSTART;TZID="UTC+02:00":20261016T180000
+DTEND;TZID="UTC+02:00":20261016T180000
+DTSTAMP:20261011T034836Z
+UID:7479e453d41c4914d6c9a442b6a4@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Encargada por la empresa estatal de comercio\, Shestaya chast 
+ mira convierte la celebración propagandística de la Unión Soviética en
+  una sinfonía de culturas\, paisajes y rostros\, «desde el faro más all
+ á del Círculo Ártico hasta las montañas del Cáucaso»\, así como en 
+ un experimento en el uso poético de los intertítulos. Warren Sonbert rec
+ onoció en el montaje de Vertov un modelo para su propio cine: menos orien
+ tado a imponer un significado preestablecido que a abrir un espacio de emo
+ ciones y correspondencias ambiguas entre imágenes. > Presentación a carg
+ o de Francisco Algarín y Carlos Saldaña\, comisarios del ciclo.\nCategor
+ y: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/
+ schedule/film-series-air-bridge-cinema-warren-sonbert
+LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-air-bridge-cine
+ ma-warren-sonbert
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wisdom of Wonder\, Eugènia Balcells Once and Again — Madrid
+DTSTART;TZID="UTC+02:00":20261016T190000
+DTEND;TZID="UTC+02:00":20261016T190000
+DTSTAMP:20261011T034836Z
+UID:3a3207c836c6dbc9b8ea9343ba48@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:A través de una mirada sofisticada y llena de asombro\, Eugè
+ nia Balcells\, la célebre videoartista española\, comparte su secreto me
+ jor guardado: la curva de la vida. > Presentación a cargo del director\, 
+ Luis Felipe Ruiz.\nCategory: Multidisciplinary\nOriginal listing: https://
+ www.mataderomadrid.org/en/schedule/tribute-filmmaker-eugenia-balcells
+LOCATION:Sala Borau\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/tribute-filmmaker-eugenia-b
+ alcells
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“And in this heart\, which has neither had a cause nor the lack 
+ of one”: On Translation\, Craft\, and Necessity — New York
+DTSTART;TZID="UTC-04:00":20261016T200000
+DTSTAMP:20261011T034836Z
+UID:69cdf333e9770042e26283f3fe3d@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/on-translation-craft-and-necessity
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/on-translation-craft-and-necessit
+ y
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carriage Trade — Madrid
+DTSTART;TZID="UTC+02:00":20261016T203000
+DTEND;TZID="UTC+02:00":20261016T203000
+DTSTAMP:20261011T034836Z
+UID:9987e8c30fb46704ca0415ec44c4@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Un rompecabezas de tarjetas postales para producir diversos ef
+ ectos. Sonbert entrelaza imágenes tomadas durante sus viajes por Europa\,
+  África\, Asia y Estados Unidos con otras tomas descartadas de varias de 
+ sus películas anteriores. > Presentación a cargo de Francisco Algarín y
+  Carlos Saldaña\, comisarios del ciclo.\nCategory: Multidisciplinary\nOri
+ ginal listing: https://www.mataderomadrid.org/en/schedule/film-series-air-
+ bridge-cinema-warren-sonbert
+LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-air-bridge-cine
+ ma-warren-sonbert
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marnie\, la ladrona — Madrid
+DTSTART;TZID="UTC+02:00":20261017T180000
+DTEND;TZID="UTC+02:00":20261017T180000
+DTSTAMP:20261011T034836Z
+UID:4f7bb5d32836fb24d875b50b2e01@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Marnie pone en escena un intercambio de culpa y deseo entre pe
+ rsonajes profundamente ambiguos\, a la vez que fuerza al público a una in
+ cómoda toma de posición moral. Entre el melodrama y la pesadilla\, Hitch
+ cock tensa valores plásticos como el color y el encuadre en un mundo cont
+ inuamente desestabilizado. Su vivaz y cruel circulación de los puntos de 
+ vista tiene un eco en el cine de Sonbert\, donde su montaje sustituye la n
+ arración por una red abierta de correspondencias. > Presentación a cargo
+  de Francisco Algarín y Carlos Saldaña\, comisarios del ciclo.\nCategory
+ : Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/s
+ chedule/film-series-air-bridge-cinema-warren-sonbert
+LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-air-bridge-cine
+ ma-warren-sonbert
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warren Sonbert. Sesión de cortometrajes I — Madrid
+DTSTART;TZID="UTC+02:00":20261017T203000
+DTEND;TZID="UTC+02:00":20261017T203000
+DTSTAMP:20261011T034836Z
+UID:b6f2b1623e0e957cbcb2685d9d14@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Programa: Where Did Our Love Go? (1966\, 15') Días en la Fact
+ ory de Warhol... Visitas fortuitas\, destellos de Janis\, Castelli y Belle
+ vue... Malanga trabajando... visionados de El desprecio y Con la muerte en
+  los talones ... grupos femeninos de rock y la inauguración de una discot
+ eca... un recorrido por el MoMA... A Woman's Touch (1983\, 21') Tomando co
+ mo modelo Marnie\, la ladrona (Alfred Hitchcock\, 1964)\, donde el persona
+ je de Tippi Hedren queda absorbido por la presencia dominante de Sean Conn
+ ery\, Sonbert recrea esa tensión entre la dominación masculina y la (in)
+ dependencia femenina: los hombres aparecen principalmente en posiciones de
+  poder y negocios\, mientras que las mujeres son mostradas \nCategory: Mul
+ tidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/schedu
+ le/film-series-air-bridge-cinema-warren-sonbert
+LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-air-bridge-cine
+ ma-warren-sonbert
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Escrito sobre el viento — Madrid
+DTSTART;TZID="UTC+02:00":20261018T180000
+DTEND;TZID="UTC+02:00":20261018T180000
+DTSTAMP:20261011T034836Z
+UID:0b5c3ef525ddacf79a4165ad3f43@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Warren Sonbert veía en Douglas Sirk a un cineasta capaz de re
+ velar las fisuras del mundo burgués sin que sus personajes quedaran nunca
+  reducidos a héroes o villanos. Written on the Wind relata la desestructu
+ ración más absoluta de una familia inmensamente rica\, desplegada en un 
+ exuberante mundo plástico. La narración\, a golpe de giros\, acompaña a
+  unos personajes atrapados en sucesivos círculos de deseo\, frustración 
+ y repetición. La saturación expresiva\, de una espectacularidad casi ope
+ rística\, y los hallazgos del montaje recuerdan a la sensibilidad del pro
+ pio cine de Sonbert. > Presentación a cargo de Francisco Algarín y Carlo
+ s Saldaña\, comisarios del ciclo.\nCategory: Multidisciplinary\nOriginal 
+ listing: https://www.mataderomadrid.org/en/schedule/film-series-air-bridge
+ -cinema-warren-sonbert
+LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-air-bridge-cine
+ ma-warren-sonbert
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warren Sonbert. Sesión de cortometrajes II — Madrid
+DTSTART;TZID="UTC+02:00":20261018T203000
+DTEND;TZID="UTC+02:00":20261018T203000
+DTSTAMP:20261011T034836Z
+UID:59079ccf4fa387a4495229bc4d04@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Programa: The Cup and the Lip (1986\, 20') Una película compl
+ eja y desafiante que inspiraría a cineastas audaces durante años. Aunque
+  sus imágenes son demasiado densas\, variadas y vertiginosas para ser ana
+ lizadas por completo tras un solo visionado\, la película parece un ensay
+ o melancólico y quizás sarcástico sobre la fragilidad humana y el esfue
+ rzo por evitar el caos mediante instituciones políticas y religiosas\, qu
+ e conllevan sus propios peligros de control social y manipulación mental.
+  Amphetamine (1966\, 10') En su primera película\, Sonbert representa a h
+ ombres jóvenes que se inyectan anfetamina y hacen el amor en plena era de
+  sexo\, drogas y rock and roll. Rude Awakening (1975\, 36') Según \nCateg
+ ory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/e
+ n/schedule/film-series-air-bridge-cinema-warren-sonbert
+LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-air-bridge-cine
+ ma-warren-sonbert
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Search — Philadelphia
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261011T034836Z
+UID:d0b97d923dd8b7f30f48266474ad@global-arts-culture
+CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
+DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
+ s.com/event/from-mindful-to-ecstatic-a-three-day-movement-intensive/
+LOCATION:FringeArts\, 140 N Columbus Blvd\, Philadelphia\, PA 19106
+STATUS:CONFIRMED
+URL:https://fringearts.com/event/from-mindful-to-ecstatic-a-three-day-move
+ ment-intensive/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:fringearts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rena Anakwe + Muyassar Kurdi — New York
+DTSTART;TZID="UTC-04:00":20261019T200000
+DTSTAMP:20261011T034836Z
+UID:a96ae334601f964bedcffe485f00@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/rena-anakwe-muyassar-kurdi
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/rena-anakwe-muyassar-kurdi
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Launch + Screening + Q&A   Positions by K8 Hardy — London
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20261011T034836Z
+UID:0a5b12c3c14496187edd553b580c@global-arts-culture
+CATEGORIES:Arts & Culture\,Talks & Events\,London\,United Kingdom
+DESCRIPTION:The next MACK Cinema Club celebrates the release of K8 Hardy's
+  new book\,  Positions \, with a special screening of  Outfitumentary  (20
+ 16) followed by a Q&A with London-based artist and curator Nina Manandhar.
+ \nCategory: Talks & Events\nOriginal listing: https://www.ica.art/talks
+LOCATION:Institute of Contemporary Arts\, The Mall\, London SW1Y 5AH
+STATUS:CONFIRMED
+URL:https://www.ica.art/talks
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:ica-london
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tongo Eisen-Martin + Margaret Randall — New York
+DTSTART;TZID="UTC-04:00":20261021T200000
+DTSTAMP:20261011T034836Z
+UID:33479fdff4d887e03dc580d6ff98@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/tongo-eisen-martin-margaret-randall
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randa
+ ll
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lali Ayguadé Company — Madrid
+DTSTART;TZID="UTC+02:00":20261024T200000
+DTEND;TZID="UTC+01:00":20261025T200000
+DTSTAMP:20261011T034836Z
+UID:5381b658ae901c8734522ab2f102@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:The show primarily explores the stark contrast between the vir
+ tual world—including artificial intelligence and social networks—and t
+ he authentic reality of our everyday lives. This dichotomy is depicted thr
+ ough a nuanced interplay of revelation and concealment\, examining the fa
+ çade we present online versus our concealed true selves. While we often p
+ ortray a façade of positivity in digital spaces\, the show delves into th
+ e hidden negativity of our reality that we typically choose to keep privat
+ e. On social media\, everyone has the infinite freedom to shape and presen
+ t their image according to their own vision of authenticity. Still\, it is
+  striking how eerily similar all profiles seem. We engage\nCategory: Multi
+ disciplinary\nOriginal listing: https://www.mataderomadrid.org/en/schedule
+ /lali-ayguade-company
+LOCATION:Centro Danza Matadero\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/lali-ayguade-company
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEJIENDO Y PUNTO — Madrid
+DTSTART;TZID="UTC+02:00":20261024T235959
+DTEND;TZID="UTC+02:00":20261024T235959
+DTSTAMP:20261011T034836Z
+UID:4fd35592fd1d7a08f15cd9f44a5c@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Designed as a participatory experience that fosters community
+ \, shared learning\, and social reflection\, this gathering offers a sanct
+ uary of care\, warmth\, and coexistence through a traditional practice rei
+ nterpreted through a contemporary lens. Programme Preview MORNING SESSION:
+  Crochet and Knitting Workshops (11:00 AM – 2:00 PM) Simultaneous worksh
+ ops tailored for various skill levels and ages. Registration: Advance regi
+ stration via the Matadero Madrid website. Tickets are €3 per person. Rec
+ ommended Age: Intergenerational\, for ages 6 and up. All participants—bo
+ th children and adults—must purchase a ticket. Minors must be accompanie
+ d by a responsible adult at all times. AFTERNOON SESSION: Kni\nCategory: M
+ ultidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/sche
+ dule/tejiendo-y-punto
+LOCATION:Nave 17. Terrario\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/tejiendo-y-punto
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicole Linder + Jasmine Sanders — New York
+DTSTART;TZID="UTC-04:00":20261026T200000
+DTSTAMP:20261011T034836Z
+UID:e3c5e2a7176dc3a63b695430521a@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/nicole-linder-jasmine-sanders
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/nicole-linder-jasmine-sanders
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Search — Philadelphia
+DTSTART;VALUE=DATE:20261028
+DTSTAMP:20261011T034836Z
+UID:731c190f5799f4111a76759a0ef8@global-arts-culture
+CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
+DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
+ s.com/event/feastival-2026/
+LOCATION:FringeArts\, 140 N Columbus Blvd\, Philadelphia\, PA 19106
+STATUS:CONFIRMED
+URL:https://fringearts.com/event/feastival-2026/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:fringearts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mitología de barrio + Quién vio los templos caer — Madrid
+DTSTART;TZID="UTC+01:00":20261028T190000
+DTEND;TZID="UTC+01:00":20261028T190000
+DTSTAMP:20261011T034836Z
+UID:bd4372c6b888af6408d09216816a@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Las ciudades\, lejos de retóricas tradicionalistas\, identita
+ rias\, exotizantes o romantizadoras\, son\, por el contrario\, espacios\, 
+ igual que cualquier otro\, para el control y la dominación\, espacios de 
+ ordenación del territorio y de las personas. Las películas\, lejos tambi
+ én de retóricas autocomplacientes\, son resultado y consecuencia de la 
+ época y las contradicciones que nos rodean. Quién vio los templos caer y
+  Mitología de barrio son dos películas realizadas en paralelo\, sin comu
+ nicarse entre sí ni conocerse durante dicho proceso. Sin embargo\, los pu
+ ntos en común\, tanto en lo formal como en sus contenidos\, son seguramen
+ te inevitables\, pero sobre todo interesantes o propicios para una convers
+ a\nCategory: Multidisciplinary\nOriginal listing: https://www.mataderomadr
+ id.org/en/schedule/film-series-madrid-landscape
+LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-madrid-landscap
+ e
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matt Longabucco + Susana Plotts-Pineda — New York
+DTSTART;TZID="UTC-04:00":20261028T200000
+DTSTAMP:20261011T034836Z
+UID:280140a337e48e292f98115234a2@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/matt-longabucco-susana-plotts-pineda
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/matt-longabucco-susana-plotts-pin
+ eda
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gatos encaramados — Madrid
+DTSTART;TZID="UTC+01:00":20261029T190000
+DTEND;TZID="UTC+01:00":20261029T190000
+DTSTAMP:20261011T034836Z
+UID:97d80ff7d770d454d5b31df51419@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:Tras el 11 de septiembre\, un gato amarillo dibujado comienza 
+ a aparecer en los muros de París\, observando la ciudad con una enigmáti
+ ca sonrisa. Intrigado por esta figura\, Chris Marker emprende un viaje vis
+ ual y reflexivo a través de la capital francesa\, explorando el arte urba
+ no\, las protestas sociales y el estado del mundo en un tiempo de incertid
+ umbre. Chats perchés es una meditación poética sobre la memoria colecti
+ va\, la resistencia y la belleza inesperada en medio del caos. > Coloquio 
+ posterior con los arquitectos Aritz González y David García-Asenjo\nCate
+ gory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/
+ en/schedule/film-series-madrid-landscape
+LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-madrid-landscap
+ e
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crossroads. El viaje circular de Boa Mistura — Madrid
+DTSTART;TZID="UTC+01:00":20261030T190000
+DTEND;TZID="UTC+01:00":20261030T190000
+DTSTAMP:20261011T034836Z
+UID:c45a9ecd5cf31f52b6eab646ca5e@global-arts-culture
+CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
+DESCRIPTION:La periferia de Ciudad del Cabo\, Sudáfrica\, es el epicentro
+  de un inspirador viaje a través del trabajo de Boa Mistura\, colectivo a
+ rtístico de proyección internacional con raíces en el graffiti y el art
+ e urbano. En el camino\, el arte urbano se convierte en el vehículo que c
+ onecta las vidas de un vecino de una favela en São Paulo\, un joven del s
+ lum de Kibera\, en Kenia\, una indígena mapuche en el norte de Chile\, un
+  refugiado sirio y una mujer de una población pesquera de República Domi
+ nicana. Estos pequeños encuentros a través de la pintura son la semilla 
+ de cambios tanto en los vecinos de las comunidades como en el colectivo. >
+  Encuentro posterior con los artistas de Boa Mistura.\nCategory: Multidisc
+ iplinary\nOriginal listing: https://www.mataderomadrid.org/en/schedule/fil
+ m-series-madrid-landscape
+LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
+STATUS:CONFIRMED
+URL:https://www.mataderomadrid.org/en/schedule/film-series-madrid-landscap
+ e
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:matadero-madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"The future exists for the most part in the present": On Poetry\, 
+ the Avant-Garde\, and the Left — New York
+DTSTART;TZID="UTC-05:00":20261102T000000
+DTSTAMP:20261011T034836Z
+UID:3400e9451fa4b3388dc5da612b01@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-
+ avant-garde-and-the-left
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/the-future-exists-for-the-most-pa
+ rt-in-the-present-poetry-the-avant-garde-and-the-left
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christeene + Geo Wyex — New York
+DTSTART;TZID="UTC-05:00":20261109T200000
+DTSTAMP:20261011T034836Z
+UID:f7ddd5286587cebf7caf6cd7b299@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/christeene-geo-wyex
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/christeene-geo-wyex
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sophia Dahlin + Harron Walker — New York
+DTSTART;TZID="UTC-05:00":20261116T200000
+DTSTAMP:20261011T034836Z
+UID:f0fc1655c74ed74f377186b98181@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/sophia-dahlin-harron-walker
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/sophia-dahlin-harron-walker
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amy Ching-Yan Lam + Jacqueline Waters — New York
+DTSTART;TZID="UTC-05:00":20261118T200000
+DTSTAMP:20261011T034836Z
+UID:5607d5a72c7f6772a173070923cd@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/amy-ching-yan-lam-jacqueline-waters
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/amy-ching-yan-lam-jacqueline-wate
+ rs
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crackhead Barney + Ann Liv Young — New York
+DTSTART;TZID="UTC-05:00":20261120T200000
+DTSTAMP:20261011T034836Z
+UID:ca3c40327c0236cb41a5128f9935@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/crackhead-barney-ann-liv-young
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/crackhead-barney-ann-liv-young
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Ebeid + Mark Nowak — New York
+DTSTART;TZID="UTC-05:00":20261202T200000
+DTSTAMP:20261011T034836Z
+UID:74ee0c22537578607ca2c98bc02f@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/carolina-ebeid-mark-nowak
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/carolina-ebeid-mark-nowak
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S*an D. Henry-Smith + julie ezelle patton — New York
+DTSTART;TZID="UTC-05:00":20261204T200000
+DTSTAMP:20261011T034836Z
+UID:c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture
+CATEGORIES:Arts & Culture\,Reading\,New York\,United States
+DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
+ .org/events/s-an-d-henry-smith-julie-patton
+LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
+STATUS:CONFIRMED
+URL:https://www.poetryproject.org/events/s-an-d-henry-smith-julie-patton
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Makers Market — London
+DTSTART;VALUE=DATE:20261206
+DTSTAMP:20261011T034836Z
+UID:d01586fcdb47497b5938b169f439@global-arts-culture
+CATEGORIES:Arts & Culture\,Bookshop\,London\,United Kingdom
+DESCRIPTION:The inaugural ICA Makers Market brings together local artists
+ \, designers and independent makers for a day of seasonal shopping\, gift-
+ buying and mulled wine.\nCategory: Bookshop\nOriginal listing: https://www
+ .ica.art/bookshop
+LOCATION:Institute of Contemporary Arts\, The Mall\, London SW1Y 5AH
+STATUS:CONFIRMED
+URL:https://www.ica.art/bookshop
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:ica-london
+END:VEVENT
+END:VCALENDAR

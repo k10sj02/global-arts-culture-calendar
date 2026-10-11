@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<meta name="description" content="An independent calendar of arts and cultural events in selected international cities.">
+<title>Global Arts &amp; Culture Calendar</title>
+<style>body{font:18px/1.6 system-ui;max-width:750px;margin:60px auto;padding:20px}a{color:#a6192e}input{width:100%;box-sizing:border-box;font-size:16px;padding:8px;margin:.25rem 0 1rem}@media(max-width:600px){body{margin:20px auto}}</style>
+<h1>Global Arts &amp; Culture Calendar</h1>
+<p>An automatically refreshed calendar of film, literature, visual art, performance, experimental music, and multidisciplinary events in selected cities in the United States, Europe, and Mexico.</p>
+<p><a id="subscription" href="global-culture.ics">Subscribe in Apple Calendar</a> · <a href="global-culture.ics">Download calendar</a></p>
+<p>For Google Calendar, choose Other calendars → + → From URL, then paste:</p>
+<input id="url" aria-label="Master calendar subscription URL" readonly>
+<p>Regional feeds: <a href="global-culture-us.ics">United States</a> · <a href="global-culture-europe.ics">Europe</a> · <a href="global-culture-mexico.ics">Mexico</a></p>
+<p><a href="status.json">Last refresh status</a> · <a href="https://www.poetryproject.org/events">Poetry Project</a> · <a href="https://www.ica.art/calendar">ICA London</a> · <a href="https://www.mataderomadrid.org/en/schedule">Matadero Madrid</a> · <a href="https://inba.gob.mx/cartelera/">INBAL</a> · <a href="https://fringearts.com/">FringeArts</a> · <a href="https://github.com/k10sj02/global-arts-culture-calendar">Source code</a></p>
+<p>Refreshes every six hours. The initial source list is intentionally selective and will expand as reliable official calendars are added. Check the original listing before making travel plans.</p>
+<script>const u=new URL('global-culture.ics',location.href);document.querySelector('#url').value=u.href;document.querySelector('#subscription').href=u.href.replace(/^https?:/,'webcal:');</script>
+</html>

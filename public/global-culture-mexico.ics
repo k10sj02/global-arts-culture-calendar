@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Global Arts and Culture Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Global Culture — Mexico
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+SUMMARY:Taller de Petromural impartido por Renato Paperetti - Programa de 
+ Laboratorios de educacin e investigacin artsticas de la Ctedra Extraordina
+ ria Juan O'Gorman — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T100000
+DTEND;TZID="UTC-06:00":20261010T140000
+DTSTAMP:20261011T034836Z
+UID:e746fa570b5a322b06e8d1816379@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18528/taller-de-petromural-impartido-por-renato-paperetti
+LOCATION:Escuela de Diseño del INBAL Xocongo 138\, Col. Tránsito\, Alcal
+ día. Cuauhtémoc\,\, Escuela de Diseño del INBAL Xocongo 138\, Col. Trá
+ nsito\, Alcaldía. Cuauhtémoc\, Ciudad de México\, C.P. 06820
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18528/taller-de-petromural-impartido-por
+ -renato-paperetti
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taller de flamenco - Impartido por Brenda Cruz — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T113000
+DTEND;TZID="UTC-06:00":20261010T130000
+DTSTAMP:20261011T034836Z
+UID:7a794009604d0d42db3600e77912@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18477/taller-de-flamenco
+LOCATION:Centro Nacional de las Artes (CENART) - Plaza de la Danza Río Ch
+ urubusco no. 79\, esquina con Calzada de Tlalpan\, Col. Country Club. Alca
+ ldía Coyoacán\, C.P. 04220\,\, Centro Nacional de las Artes (CENART) - P
+ laza de la Danza Río Churubusco no. 79\, esquina con Calzada de Tlalpan\,
+  Col. Country Club. Alcaldía Coyoacán\, C.P. 04220\, Ciudad de México\,
+  CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18477/taller-de-flamenco
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Itinerar la memoria: archivo\, viajes y creacin en la danza espaol
+ a - Conferencia de Ariadna Yez* — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T160000
+DTEND;TZID="UTC-06:00":20261010T170000
+DTSTAMP:20261011T034836Z
+UID:f2f7ded0a8fa21fd7970ca7ddb36@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18472/itinerar-la-memoria-archivo-viajes-y-creacion-en-la-danza-espanola
+LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
+  Consulta link en "Programa"
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18472/itinerar-la-memoria-archivo-viajes
+ -y-creacion-en-la-danza-espanola
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornadas de danza espaola 2026 - Mesa de investigacin por Daniela 
+ Gutirrez Gonzlez y Christian Lpez Martnez — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T171500
+DTEND;TZID="UTC-06:00":20261010T181500
+DTSTAMP:20261011T034836Z
+UID:68dc06af2fc562e9fa4257a963e5@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18473/jornadas-de-danza-espanola-2026
+LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
+  Consulta link en "Programa"
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18473/jornadas-de-danza-espanola-2026
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cepromusic - Tercer Concierto de temporada — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T180000
+DTSTAMP:20261011T034836Z
+UID:1bf238aad3f81ab788e3af2cc2b0@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18509/cepromusic
+LOCATION:Jardín Escénico - Pabellón Av. Paseo de la Reforma 111\, Bosqu
+ e de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín Escénico - Pab
+ ellón Av. Paseo de la Reforma 111\, Bosque de Chapultepec I Secc\, Miguel
+  Hidalgo\, 11580 Ciudad de México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18509/cepromusic
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salom Herrera y Claudio Herrera\, pianos - 50 aos de trayectoria d
+ e Claudio Herrera — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T180000
+DTSTAMP:20261011T034836Z
+UID:6f133ab5fa8a9d5399aa1185cc6d@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18499/salome-herrera-y-claudio-herrera-pianos
+LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1 
+ Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
+ uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
+ d de México\, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18499/salome-herrera-y-claudio-herrera-p
+ ianos
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Compaa La Meute (Francia) - Motel Cactus — Mexico City
+DTSTART;TZID="UTC-06:00":20261010T200000
+DTSTAMP:20261011T034836Z
+UID:937d343b095f0632f1679d35f3e1@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18307/compania-la-meute-francia
+LOCATION:Centro Cultural del Bosque (CCB) - Teatro del Bosque\, Julio Cast
+ illo Paseo de la Reforma y Campo Marte s/n\, Paseo de la Reforma\, 11560\,
+  Centro Cultural del Bosque (CCB) - Teatro del Bosque\, Julio Castillo Pas
+ eo de la Reforma y Campo Marte s/n\, Paseo de la Reforma\, 11560 Ciudad de
+  México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18307/compania-la-meute-francia
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taller de Escuela Bolera - Impartido por Daniela Gutirrez — Mexi
+ co City
+DTSTART;TZID="UTC-06:00":20261011T100000
+DTEND;TZID="UTC-06:00":20261011T110000
+DTSTAMP:20261011T034836Z
+UID:14afdc7f3dd0538a1002bddbb053@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18476/taller-de-escuela-bolera
+LOCATION:Centro Nacional de las Artes (CENART) - Plaza de la Danza Río Ch
+ urubusco no. 79\, esquina con Calzada de Tlalpan\, Col. Country Club. Alca
+ ldía Coyoacán\, C.P. 04220\,\, Centro Nacional de las Artes (CENART) - P
+ laza de la Danza Río Churubusco no. 79\, esquina con Calzada de Tlalpan\,
+  Col. Country Club. Alcaldía Coyoacán\, C.P. 04220\, Ciudad de México\,
+  CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18476/taller-de-escuela-bolera
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programa 4 - Esplendor de Stradivarius — Mexico City
+DTSTART;TZID="UTC-06:00":20261011T120000
+DTSTAMP:20261011T034836Z
+UID:0ad9b09029a671d4ac843b2b6c24@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18206/programa-4
+LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1 
+ Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
+ uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
+ d de México\, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18206/programa-4
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ignacio Mariscal\, violonchelo  Alain Del Real\, piano - Homenaje 
+ a Pablo Casals a 150 aos de su nacimiento — Mexico City
+DTSTART;TZID="UTC-06:00":20261011T180000
+DTSTAMP:20261011T034836Z
+UID:468874d4d7f7248390704a5c6185@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18500/ignacio-mariscal-violonchelo-alain-del-real-piano
+LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1 
+ Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
+ uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
+ d de México\, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18500/ignacio-mariscal-violonchelo-alain
+ -del-real-piano
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+END:VCALENDAR
