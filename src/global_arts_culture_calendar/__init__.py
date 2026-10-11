@@ -234,6 +234,133 @@ def fringearts(fetcher: Fetcher, now: datetime, final_day: date) -> list[Culture
     return output
 
 
+def chicago_humanities(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    api = "https://api.chicagohumanities.org/api/events/"
+    payload = json.loads(fetcher.get(api))
+    output = []
+    for item in payload:
+        start_date = item.get("start_date")
+        if not start_date or not now.date() <= date.fromisoformat(start_date) <= final_day:
+            continue
+        start_time = item.get("start_time") or "00:00:00"
+        begins = datetime.fromisoformat(f"{start_date}T{start_time}").replace(tzinfo=ZoneInfo("America/Chicago"))
+        ends = None
+        if item.get("end_time"):
+            ends = datetime.fromisoformat(f"{item.get('end_date') or start_date}T{item['end_time']}").replace(tzinfo=ZoneInfo("America/Chicago"))
+        venue = item.get("event_venue_page") or item.get("venue_legacy") or {}
+        address = ", ".join(filter(None, [venue.get("address"), venue.get("address_line_2"), venue.get("city"), venue.get("state"), venue.get("zip")]))
+        event_url = urljoin("https://www.chicagohumanities.org", item.get("url") or "")
+        output.append(CultureEvent("chicago-humanities", str(item["id"]), _plain(item.get("title", "Chicago Humanities event")), begins.isoformat(), ends.isoformat() if ends else None,
+            item.get("venue_name") or venue.get("title_primary") or "Chicago Humanities", address, "Chicago", "United States", "us", "Arts & Ideas", event_url,
+            _plain(item.get("brief", ""))[:700]))
+    if not output:
+        raise RuntimeError("No current Chicago Humanities events found")
+    return output
+
+
+def harvard_film_archive(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    base = "https://harvardfilmarchive.org/calendar"
+    output, seen = [], set()
+    for page in range(1, 8):
+        soup = BeautifulSoup(fetcher.get(f"{base}?page={page}"), "html.parser")
+        cards = soup.select(".m-calendar__spot--event.event")
+        if not cards:
+            break
+        added = 0
+        for card in cards:
+            link, time, title = card.select_one("a.event__link[href]"), card.select_one(".event__time time[datetime]"), card.select_one(".event__title")
+            if not link or not time or not title:
+                continue
+            event_url = urljoin(base, link["href"])
+            key = f"{event_url}-{time['datetime']}"
+            if key in seen:
+                continue
+            seen.add(key)
+            begins = datetime.fromisoformat(time["datetime"]).replace(tzinfo=ZoneInfo("America/New_York"))
+            if not now.date() <= begins.date() <= final_day:
+                continue
+            series = card.select_one(".event__series")
+            description = _plain(card.select_one(".event__info").get_text(" ")) if card.select_one(".event__info") else ""
+            output.append(CultureEvent("harvard-film-archive", key, _plain(title.get_text(" ")), begins.isoformat(), None,
+                "Harvard Film Archive", "24 Quincy St, Cambridge, MA 02138", "Boston/Cambridge", "United States", "us", "Film", event_url,
+                " — ".join(filter(None, [_plain(series.get_text(" ")) if series else "", description]))))
+            added += 1
+        if added == 0:
+            break
+    if not output:
+        raise RuntimeError("No current Harvard Film Archive screenings found")
+    return output
+
+
+def cccb_barcelona(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    url = "https://www.cccb.org/en/calendar"
+    soup = BeautifulSoup(fetcher.get(url), "html.parser")
+    output = []
+    for month_group in soup.select(".mp-component-agenda-list"):
+        heading = month_group.find("h2")
+        match = re.search(r"([A-Za-z]+)\s+(20\d{2})", _plain(heading.get_text(" ")) if heading else "")
+        if not match or match.group(1).casefold() not in MONTHS:
+            continue
+        month, year = MONTHS[match.group(1).casefold()], int(match.group(2))
+        for day_group in month_group.select(".js-agenda-day-card"):
+            day_node = day_group.select_one(".agenda-card-date-num")
+            if not day_node:
+                continue
+            for card in day_group.select("li.js-agenda-item"):
+                link, title, time_node = card.select_one("a[href]"), card.select_one(".agenda-card-title"), card.select_one(".agenda-card-date-time")
+                if not link or not title or not time_node:
+                    continue
+                tm = re.search(r"(\d{1,2}):(\d{2})", _plain(time_node.get_text(" ")))
+                if not tm:
+                    continue
+                begins = datetime(year, month, int(day_node.get_text(strip=True)), int(tm.group(1)), int(tm.group(2)), tzinfo=ZoneInfo("Europe/Madrid"))
+                if not now.date() <= begins.date() <= final_day:
+                    continue
+                category_node, detail = card.select_one(".agenda-card-pretitle span"), card.select_one(".agenda-card-text")
+                event_url = urljoin(url, link["href"])
+                output.append(CultureEvent("cccb", f"{event_url}-{begins.isoformat()}", _plain(title.get_text(" ")), begins.isoformat(), None,
+                    "Centre de Cultura Contemporània de Barcelona", "Carrer de Montalegre 5, 08001 Barcelona", "Barcelona", "Spain", "europe",
+                    _plain(category_node.get_text(" ")) if category_node else "Multidisciplinary", event_url, _plain(detail.get_text(" ")) if detail else ""))
+    if not output:
+        raise RuntimeError("No current CCCB events found")
+    return output
+
+
+def silent_green_berlin(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    output, seen = [], set()
+    cursor = date(now.year, now.month, 1)
+    for offset in range(8):
+        month = (cursor.month - 1 + offset) % 12 + 1
+        year = cursor.year + (cursor.month - 1 + offset) // 12
+        url = f"https://www.silent-green.net/programm/{year}/{month}"
+        soup = BeautifulSoup(fetcher.get(url), "html.parser")
+        for card in soup.select(".eventList-event"):
+            link, title = card.select_one(".eventList-event-title a[href]"), card.select_one(".eventList-event-title h3")
+            date_node, time_node = card.select_one(".eventList-event-date"), card.select_one(".eventList-event-starttime")
+            if not link or not title or not date_node:
+                continue
+            dm = re.search(r"(\d{1,2})\.(\d{1,2})\.", _plain(date_node.get_text(" ")))
+            tm = re.search(r"(\d{1,2}):(\d{2})", _plain(time_node.get_text(" ")) if time_node else "")
+            if not dm:
+                continue
+            begins = datetime(year, int(dm.group(2)), int(dm.group(1)), int(tm.group(1)) if tm else 0, int(tm.group(2)) if tm else 0, tzinfo=ZoneInfo("Europe/Berlin"))
+            if not now.date() <= begins.date() <= final_day:
+                continue
+            event_url = urljoin(url, link["href"])
+            key = f"{event_url.split('?')[0]}-{begins.isoformat()}"
+            if key in seen:
+                continue
+            seen.add(key)
+            category = card.select_one(".eventList-event-cat")
+            location = card.select_one(".eventList-event-location")
+            output.append(CultureEvent("silent-green", key, _plain(title.get_text(" ")), begins.isoformat(), None,
+                f"silent green — {_plain(location.get_text(' '))}" if location else "silent green", "Gerichtstraße 35, 13347 Berlin", "Berlin", "Germany", "europe",
+                _plain(category.get_text(" ")) if category else "Music & Arts", event_url))
+    if not output:
+        raise RuntimeError("No current silent green events found")
+    return output
+
+
 def deduplicate(events: list[CultureEvent]) -> list[CultureEvent]:
     unique = {}
     for event in events:
@@ -297,7 +424,9 @@ def main() -> None:
     now = datetime.now(ZoneInfo("America/Toronto"))
     final_day = now.date() + timedelta(days=365)
     fetcher = Fetcher()
-    loaders = (("poetry-project", poetry_project), ("ica-london", ica_london), ("matadero-madrid", matadero_madrid), ("inbal", inbal_mexico), ("fringearts", fringearts))
+    loaders = (("poetry-project", poetry_project), ("chicago-humanities", chicago_humanities), ("harvard-film-archive", harvard_film_archive),
+               ("fringearts", fringearts), ("ica-london", ica_london), ("matadero-madrid", matadero_madrid), ("cccb", cccb_barcelona),
+               ("silent-green", silent_green_berlin), ("inbal", inbal_mexico))
     collected, successful, errors, counts = [], set(), {}, {}
     for name, loader in loaders:
         try:

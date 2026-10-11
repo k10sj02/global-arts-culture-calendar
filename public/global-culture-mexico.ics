@@ -11,7 +11,7 @@ SUMMARY:Taller de Petromural impartido por Renato Paperetti - Programa de
  ria Juan O'Gorman — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T100000
 DTEND;TZID="UTC-06:00":20261010T140000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:e746fa570b5a322b06e8d1816379@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -19,7 +19,7 @@ DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
 LOCATION:Escuela de Diseño del INBAL Xocongo 138\, Col. Tránsito\, Alcal
  día. Cuauhtémoc\,\, Escuela de Diseño del INBAL Xocongo 138\, Col. Trá
  nsito\, Alcaldía. Cuauhtémoc\, Ciudad de México\, C.P. 06820
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18528/taller-de-petromural-impartido-por
  -renato-paperetti
 X-GLOBAL-CULTURE-REGION:mexico
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Taller de flamenco - Impartido por Brenda Cruz — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T113000
 DTEND;TZID="UTC-06:00":20261010T130000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:7a794009604d0d42db3600e77912@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -40,7 +40,7 @@ LOCATION:Centro Nacional de las Artes (CENART) - Plaza de la Danza Río Ch
  laza de la Danza Río Churubusco no. 79\, esquina con Calzada de Tlalpan\,
   Col. Country Club. Alcaldía Coyoacán\, C.P. 04220\, Ciudad de México\,
   CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18477/taller-de-flamenco
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -50,14 +50,14 @@ SUMMARY:Itinerar la memoria: archivo\, viajes y creacin en la danza espaol
  a - Conferencia de Ariadna Yez* — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T160000
 DTEND;TZID="UTC-06:00":20261010T170000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:f2f7ded0a8fa21fd7970ca7ddb36@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
  d/18472/itinerar-la-memoria-archivo-viajes-y-creacion-en-la-danza-espanola
 LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
   Consulta link en "Programa"
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18472/itinerar-la-memoria-archivo-viajes
  -y-creacion-en-la-danza-espanola
 X-GLOBAL-CULTURE-REGION:mexico
@@ -68,14 +68,14 @@ SUMMARY:Jornadas de danza espaola 2026 - Mesa de investigacin por Daniela
  Gutirrez Gonzlez y Christian Lpez Martnez — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T171500
 DTEND;TZID="UTC-06:00":20261010T181500
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:68dc06af2fc562e9fa4257a963e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
  d/18473/jornadas-de-danza-espanola-2026
 LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
   Consulta link en "Programa"
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18473/jornadas-de-danza-espanola-2026
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cepromusic - Tercer Concierto de temporada — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:1bf238aad3f81ab788e3af2cc2b0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -92,7 +92,7 @@ LOCATION:Jardín Escénico - Pabellón Av. Paseo de la Reforma 111\, Bosqu
  e de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín Escénico - Pab
  ellón Av. Paseo de la Reforma 111\, Bosque de Chapultepec I Secc\, Miguel
   Hidalgo\, 11580 Ciudad de México\, CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18509/cepromusic
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Salom Herrera y Claudio Herrera\, pianos - 50 aos de trayectoria d
  e Claudio Herrera — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:6f133ab5fa8a9d5399aa1185cc6d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -110,7 +110,7 @@ LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1
  Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
  uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
  d de México\, C.P. 06050
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18499/salome-herrera-y-claudio-herrera-p
  ianos
 X-GLOBAL-CULTURE-REGION:mexico
@@ -119,7 +119,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Compaa La Meute (Francia) - Motel Cactus — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:937d343b095f0632f1679d35f3e1@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -129,7 +129,7 @@ LOCATION:Centro Cultural del Bosque (CCB) - Teatro del Bosque\, Julio Cast
   Centro Cultural del Bosque (CCB) - Teatro del Bosque\, Julio Castillo Pas
  eo de la Reforma y Campo Marte s/n\, Paseo de la Reforma\, 11560 Ciudad de
   México\, CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18307/compania-la-meute-francia
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -139,7 +139,7 @@ SUMMARY:Taller de Escuela Bolera - Impartido por Daniela Gutirrez — Mexi
  co City
 DTSTART;TZID="UTC-06:00":20261011T100000
 DTEND;TZID="UTC-06:00":20261011T110000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:14afdc7f3dd0538a1002bddbb053@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Funcin de clausura - Jornadas de Danza Espaola 2026 — Mexico Cit
  y
 DTSTART;TZID="UTC-06:00":20261011T120000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:401f1c9b892a15523eeafdfd1ff0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programa 4 - Esplendor de Stradivarius — Mexico City
 DTSTART;TZID="UTC-06:00":20261011T120000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:0ad9b09029a671d4ac843b2b6c24@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -196,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Ignacio Mariscal\, violonchelo  Alain Del Real\, piano - Homenaje 
  a Pablo Casals a 150 aos de su nacimiento — Mexico City
 DTSTART;TZID="UTC-06:00":20261011T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:468874d4d7f7248390704a5c6185@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -214,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juana Ramrez — Mexico City
 DTSTART;TZID="UTC-06:00":20261011T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:d5cb10f2ba97fc0e0ae1cdbd1792@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -233,7 +233,7 @@ SUMMARY:Qu es un laboratorio de laboratorios de investigacin-creacin desde
   las danzas itinerario de la Comunidad InveC-Labs? - Conversacin conducida
   por Hilda Islas — Mexico City
 DTSTART;TZID="UTC-06:00":20261012T130000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:a84e4bef2ee79b017a2e16ba774c@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -253,7 +253,7 @@ SUMMARY:Sonatas para guitarra de Armando Luna. Anlisis de interpretacin y
  ejecucin. - Conferencia impartida por el Mtro. Julio Escotto — Mexico Ci
  ty
 DTSTART;TZID="UTC-06:00":20261013T150000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:b8e842b36ae9a06f2ffdec8c7c43@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -273,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cuarteto Arod (Francia) - Opus 76 — Mexico City
 DTSTART;TZID="UTC-06:00":20261014T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:67d55f3f5a75e59286f34f14ea9b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida

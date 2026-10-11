@@ -6,9 +6,43 @@ METHOD:PUBLISH
 X-WR-CALNAME:Global Culture — United States
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+SUMMARY:Recollections of the Yellow House — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261011T150000
+DTSTAMP:20261011T185326Z
+UID:d09883cabcefcfad498946e4f0b1@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:João César Monteiro\, Poet-Provocateur — Directed by João
+  César Monteiro\,                     1989\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/recollections-of-the-yellow-h
+ ouse-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/recollections-of-the-yellow-ho
+ use-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIMPLE TOO: An Evening with Yotam Ottolenghi — Chicago
+DTSTART;TZID="UTC-05:00":20261012T193000
+DTEND;TZID="UTC-05:00":20261012T210000
+DTSTAMP:20261011T185326Z
+UID:8027b5646fdbeca0fb1e935c49cb@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The bestselling cookbook author and chef in conversation\nCate
+ gory: Arts & Ideas\nOriginal listing: https://www.chicagohumanities.org/ev
+ ents/attend/yotam-ottolenghi/
+LOCATION:Athenaeum Center for Thought & Culture\, 2936 N. Southport Ave\, 
+ Chicago\, IL\, 60657
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/yotam-ottolenghi/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Litmus Press 25th Anniversary Celebration & Benefit — New York
 DTSTART;TZID="UTC-04:00":20261014T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:76ca53c0793111109a95b760c18d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -20,10 +54,60 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:David Byrne on Sleeping Beauties — Chicago
+DTSTART;TZID="UTC-05:00":20261015T193000
+DTEND;TZID="UTC-05:00":20261015T210000
+DTSTAMP:20261011T185326Z
+UID:a8cc0e0f6d68ce2418873ca5b4ba@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:On hidden breakthroughs\, creative risk\, and the patience of 
+ great ideas\nCategory: Arts & Ideas\nOriginal listing: https://www.chicago
+ humanities.org/events/attend/david-byrne/
+LOCATION:Athenaeum Center for Thought & Culture\, 2936 N. Southport Ave\, 
+ Chicago\, IL\, 60657
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/david-byrne/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jlin + Third Coast Percussion: Vernacular — Chicago
+DTSTART;TZID="UTC-05:00":20261015T193000
+DTEND;TZID="UTC-05:00":20261015T210000
+DTSTAMP:20261011T185326Z
+UID:1ef64456e3c56712783ce850e0f8@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Category: Arts & Ideas\nOriginal listing: https://www.chicagoh
+ umanities.org/events/attend/jlin-third-coast-percussion-vernacular/
+LOCATION:Museum of Contemporary Art Chicago\, 220 E Chicago Ave\, Chicago
+ \, IL\, 60611
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/jlin-third-coast-percu
+ ssion-vernacular/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Human Condition I: No Greater Love — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261016T190000
+DTSTAMP:20261011T185326Z
+UID:b9a9f75841abaf4e2fb6a303ebb2@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
+              1959\nCategory: Film\nOriginal listing: https://harvardfilmar
+ chive.org/calendar/the-human-condition-i-no-greater-love-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-human-condition-i-no-great
+ er-love-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“And in this heart\, which has neither had a cause nor the lack 
  of one”: On Translation\, Craft\, and Necessity — New York
 DTSTART;TZID="UTC-04:00":20261016T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:69cdf333e9770042e26283f3fe3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -36,10 +120,75 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Human Condition II: Road to Eternity — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261017T190000
+DTSTAMP:20261011T185326Z
+UID:e5d97d29e4e88c99fba690023934@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
+              1959\nCategory: Film\nOriginal listing: https://harvardfilmar
+ chive.org/calendar/the-human-condition-ii-road-to-eternity-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-human-condition-ii-road-to
+ -eternity-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Kingsolver: Partita — Chicago
+DTSTART;TZID="UTC-05:00":20261017T193000
+DTEND;TZID="UTC-05:00":20261017T210000
+DTSTAMP:20261011T185326Z
+UID:fd63f61b7017c49346fbd5dd7b09@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The Pulitzer Prize-winning author on her newest novel\nCategor
+ y: Arts & Ideas\nOriginal listing: https://www.chicagohumanities.org/event
+ s/attend/barbara-kingsolver/
+LOCATION:Francis W. Parker School\, 330 W. Webster Ave\, Chicago\, IL\, 60
+ 614
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/barbara-kingsolver/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Human Condition III: A Soldier’s Prayer — Boston/Cambridg
+ e
+DTSTART;TZID="UTC-04:00":20261018T150000
+DTSTAMP:20261011T185326Z
+UID:76acef2d639cb403fb1cd0603280@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
+              1961\nCategory: Film\nOriginal listing: https://harvardfilmar
+ chive.org/calendar/the-human-condition-iii-a-soldiers-prayer-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-human-condition-iii-a-sold
+ iers-prayer-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remake — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261018T183000
+DTSTAMP:20261011T185326Z
+UID:ab62238a34c49b43f4306e4b5111@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Ross McElwee's Remake — Directed by Ross McElwee\,          
+            2026\nCategory: Film\nOriginal listing: https://harvardfilmarch
+ ive.org/calendar/remake-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/remake-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:d0b97d923dd8b7f30f48266474ad@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -52,9 +201,24 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:fringearts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Third Man — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261019T190000
+DTSTAMP:20261011T185326Z
+UID:1bc2477ccfadb6cb3efad5bc8eab@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:The Cold Heart is More Precious than Diamonds. ... — Directe
+ d by Carol Reed\,                     1949\nCategory: Film\nOriginal listi
+ ng: https://harvardfilmarchive.org/calendar/the-third-man-2026-09
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-third-man-2026-09
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rena Anakwe + Muyassar Kurdi — New York
 DTSTART;TZID="UTC-04:00":20261019T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:a96ae334601f964bedcffe485f00@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -68,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tongo Eisen-Martin + Margaret Randall — New York
 DTSTART;TZID="UTC-04:00":20261021T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:33479fdff4d887e03dc580d6ff98@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -81,9 +245,116 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mandy — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261023T190000
+DTSTAMP:20261011T185326Z
+UID:3f6dd0bcbeba1edb5190dacc4f08@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Alexander Mackendrick\,                     1952\nCategory: Film\nOrigi
+ nal listing: https://harvardfilmarchive.org/calendar/mandy-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/mandy-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Yellow Balloon — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261023T210000
+DTSTAMP:20261011T185326Z
+UID:625141ea99657f07b8ea6a91785b@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by J. Lee Thompson\,                     1953\nCategory: Film\nOriginal li
+ sting: https://harvardfilmarchive.org/calendar/the-yellow-balloon-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-yellow-balloon-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Je t’aime\, je t’aime — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261024T140000
+DTSTAMP:20261011T185326Z
+UID:ba99d45e0ed8f7e6f6bc697fe736@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
+ ted by Alain Resnais\,                     1968\nCategory: Film\nOriginal 
+ listing: https://harvardfilmarchive.org/calendar/je-taime-je-taime-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/je-taime-je-taime-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pool of London — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261024T190000
+DTSTAMP:20261011T185326Z
+UID:0bfafc44599f27c6308fec78020e@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Basil Dearden\,                     1951\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/pool-of-london-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/pool-of-london-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turn the Key Softly — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261024T210000
+DTSTAMP:20261011T185326Z
+UID:fc72dca56e831bdc0b7ef308288a@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Jack Lee\,                     1953\nCategory: Film\nOriginal listing: 
+ https://harvardfilmarchive.org/calendar/turn-the-key-softly-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/turn-the-key-softly-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Always Rains on Sunday — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261025T190000
+DTSTAMP:20261011T185326Z
+UID:6e8a4beb7444753ccc1daf3d7f77@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Robert Hamer\,                     1947\nCategory: Film\nOriginal listi
+ ng: https://harvardfilmarchive.org/calendar/it-always-rains-on-sunday-2026
+ -10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/it-always-rains-on-sunday-2026
+ -10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hunted — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261026T190000
+DTSTAMP:20261011T185326Z
+UID:31d53c0d3603e38d75ecb4e20ae0@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Charles Crichton\,                     1952\nCategory: Film\nOriginal l
+ isting: https://harvardfilmarchive.org/calendar/hunted-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/hunted-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nicole Linder + Jasmine Sanders — New York
 DTSTART;TZID="UTC-04:00":20261026T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:e3c5e2a7176dc3a63b695430521a@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -97,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261028
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:731c190f5799f4111a76759a0ef8@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -111,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matt Longabucco + Susana Plotts-Pineda — New York
 DTSTART;TZID="UTC-04:00":20261028T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:280140a337e48e292f98115234a2@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -124,10 +395,88 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marie Antoinette — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261029T180000
+DTSTAMP:20261011T185326Z
+UID:e763bfb286e037987529f31398b1@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Marie Antoinette and Friends\, Three Films ... — Directed by
+  Sofia Coppola\,                     2006\nCategory: Film\nOriginal listin
+ g: https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come and Go — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261030T190000
+DTSTAMP:20261011T185326Z
+UID:13ba161fa0e75213efcb7a471aa0@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:João César Monteiro\, Poet-Provocateur — Directed by João
+  César Monteiro\,                     2003\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/come-and-go-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/come-and-go-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughter of Darkness — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261031T190000
+DTSTAMP:20261011T185326Z
+UID:74904d913ad57ac4f9ae263533ec@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Lance Comfort\,                     1948\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/daughter-of-darkness-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/daughter-of-darkness-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Weird Sisters — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261031T210000
+DTSTAMP:20261011T185326Z
+UID:d8bf19a76d7da712e4d67b3bf924@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Daniel Birt\,                     1948\nCategory: Film\nOriginal listin
+ g: https://harvardfilmarchive.org/calendar/the-three-weird-sisters-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-three-weird-sisters-2026-1
+ 0
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:They Made Me a Fugitive — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261101T150000
+DTSTAMP:20261011T185326Z
+UID:5daf320f190a04e71ab4ff725696@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Alberto Cavalcanti\,                     1947\nCategory: Film\nOriginal
+  listing: https://harvardfilmarchive.org/calendar/they-made-me-a-fugitive-
+ 2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/they-made-me-a-fugitive-2026-1
+ 1
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"The future exists for the most part in the present": On Poetry\, 
  the Avant-Garde\, and the Left — New York
 DTSTART;TZID="UTC-05:00":20261102T000000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:3400e9451fa4b3388dc5da612b01@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -141,9 +490,341 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bullitt — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261106T190000
+DTSTAMP:20261011T185326Z
+UID:d621bb18c5b8f82e30d47fd035fa@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Peter Yates\,                     1968\nCategory: Film\nOriginal 
+ listing: https://harvardfilmarchive.org/calendar/bullitt-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/bullitt-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Conversation — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261106T211500
+DTSTAMP:20261011T185326Z
+UID:cd82e98c8ac94b4133f6178dc95d@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Francis Ford Coppola\,                     1974\nCategory: Film\n
+ Original listing: https://harvardfilmarchive.org/calendar/the-conversation
+ -2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-conversation-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UChicago Faculty-Designed Events — Chicago
+DTSTART;TZID="UTC-06:00":20261107T000000
+DTSTAMP:20261011T185326Z
+UID:eb0ed26949072115508e4d3a06f3@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Category: Arts & Ideas\nOriginal listing: https://www.chicagoh
+ umanities.org/events/attend/uchicago-faculty-curated-events-fall-2026/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/uchicago-faculty-curat
+ ed-events-fall-2026/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:60 Years on the Front Lines of History: A Conversation with David 
+ Hume Kennerly — Chicago
+DTSTART;TZID="UTC-06:00":20261107T110000
+DTEND;TZID="UTC-06:00":20261107T120000
+DTSTAMP:20261011T185326Z
+UID:184413fb856bee773fecf009ccb7@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The Pulitzer Prize-winning photojournalist on his legendary ca
+ reer\nCategory: Arts & Ideas\nOriginal listing: https://www.chicagohumanit
+ ies.org/events/attend/david-hume-kennerly/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/david-hume-kennerly/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Conversation with Pulitzer Prize-Winning Writer Hilton Als — C
+ hicago
+DTSTART;TZID="UTC-06:00":20261107T110000
+DTEND;TZID="UTC-06:00":20261107T120000
+DTSTAMP:20261011T185326Z
+UID:24fa584c89048f9056b6ce67d908@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The New Yorker critic on where we stand\nCategory: Arts & Idea
+ s\nOriginal listing: https://www.chicagohumanities.org/events/attend/hilto
+ n-als/
+LOCATION:University of Chicago\, 5706 S University Ave\, Chicago\, IL\, 60
+ 637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hilton-als/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Designing a Living City — Chicago
+DTSTART;TZID="UTC-06:00":20261107T110000
+DTEND;TZID="UTC-06:00":20261107T120000
+DTSTAMP:20261011T185326Z
+UID:3bf760eacc7331f225c7f82385d5@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:How ecological thinking reshapes cities\nCategory: Arts & Idea
+ s\nOriginal listing: https://www.chicagohumanities.org/events/attend/heidi
+ -natura/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/heidi-natura/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyde Park Brick of Chicago Walking Tour 12:15 p.m. — Chicago
+DTSTART;TZID="UTC-06:00":20261107T121500
+DTEND;TZID="UTC-06:00":20261107T131500
+DTSTAMP:20261011T185326Z
+UID:f740ae214e4fae8cf165cf976516@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:See what Chicago is made of\nCategory: Arts & Ideas\nOriginal 
+ listing: https://www.chicagohumanities.org/events/attend/hyde-park-brick-t
+ our-fall-2026-1215/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hyde-park-brick-tour-f
+ all-2026-1215/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyde Park Doorways of Chicago Walking Tour 12:15 p.m. — Chicago
+DTSTART;TZID="UTC-06:00":20261107T121500
+DTEND;TZID="UTC-06:00":20261107T131500
+DTSTAMP:20261011T185326Z
+UID:f08a8cf6c9675243cef772eca4d4@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:A portal into Chicago’s rich history\nCategory: Arts & Ideas
+ \nOriginal listing: https://www.chicagohumanities.org/events/attend/hyde-p
+ ark-doorways-tour-fall-2026-1215/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hyde-park-doorways-tou
+ r-fall-2026-1215/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Kraus: Angel Down — Chicago
+DTSTART;TZID="UTC-06:00":20261107T133000
+DTEND;TZID="UTC-06:00":20261107T143000
+DTSTAMP:20261011T185326Z
+UID:22e9ccc8fbaf8516095be35f5ce5@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The Pulitzer Prize-winning Chicago author in conversation\nCat
+ egory: Arts & Ideas\nOriginal listing: https://www.chicagohumanities.org/e
+ vents/attend/daniel-kraus/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/daniel-kraus/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Sagal’s Constitution Sessions: How to Save a Constitutiona
+ l Democracy — Chicago
+DTSTART;TZID="UTC-06:00":20261107T133000
+DTEND;TZID="UTC-06:00":20261107T150000
+DTSTAMP:20261011T185326Z
+UID:6e951eb566fa49a895e0d06e5b26@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:A conversation on democracy's fault lines\nCategory: Arts & Id
+ eas\nOriginal listing: https://www.chicagohumanities.org/events/attend/sag
+ al-constitution-sessions-constitutional-democracy/
+LOCATION:University of Chicago\, 5706 S University Ave\, Chicago\, IL\, 60
+ 637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/sagal-constitution-ses
+ sions-constitutional-democracy/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Place: Stephen “ESPO” Powers in Conversation — Ch
+ icago
+DTSTART;TZID="UTC-06:00":20261107T133000
+DTEND;TZID="UTC-06:00":20261107T143000
+DTSTAMP:20261011T185326Z
+UID:962a31e8673c13d808baf29c813a@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The muralist and multimedia artist on art’s impact on belong
+ ing and shared spaces\nCategory: Arts & Ideas\nOriginal listing: https://w
+ ww.chicagohumanities.org/events/attend/stephen-espo-powers/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/stephen-espo-powers/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyde Park Brick of Chicago Walking Tour 3:15 p.m. — Chicago
+DTSTART;TZID="UTC-06:00":20261107T151500
+DTEND;TZID="UTC-06:00":20261107T161500
+DTSTAMP:20261011T185326Z
+UID:10156b30a4ea9fa0208a9aee3445@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:See what Chicago is made of\nCategory: Arts & Ideas\nOriginal 
+ listing: https://www.chicagohumanities.org/events/attend/hyde-park-brick-t
+ our-fall-2026-315/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hyde-park-brick-tour-f
+ all-2026-315/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyde Park Doorways of Chicago Walking Tour 3:15 p.m. — Chicago
+DTSTART;TZID="UTC-06:00":20261107T151500
+DTEND;TZID="UTC-06:00":20261107T161500
+DTSTAMP:20261011T185326Z
+UID:69480e84fb257e0498a0a2c5cca3@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:A portal into Chicago’s rich history\nCategory: Arts & Ideas
+ \nOriginal listing: https://www.chicagohumanities.org/events/attend/hyde-p
+ ark-doorways-tour-fall-2026-315/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hyde-park-doorways-tou
+ r-fall-2026-315/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Susan Stryker: Changing Gender — Chicago
+DTSTART;TZID="UTC-06:00":20261107T160000
+DTEND;TZID="UTC-06:00":20261107T170000
+DTSTAMP:20261011T185326Z
+UID:4e674e46a6c81a802b96530cdb98@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The groundbreaking trans scholar on the story we tell about ge
+ nder\nCategory: Arts & Ideas\nOriginal listing: https://www.chicagohumanit
+ ies.org/events/attend/susan-stryker/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/susan-stryker/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesmyn Ward: On Witness and Respair — Chicago
+DTSTART;TZID="UTC-06:00":20261107T163000
+DTEND;TZID="UTC-06:00":20261107T173000
+DTSTAMP:20261011T185326Z
+UID:f7e2f8db21e192d627e498e57857@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The MacArthur Fellow and National Book Award-winner on her new
+  collection\nCategory: Arts & Ideas\nOriginal listing: https://www.chicago
+ humanities.org/events/attend/jesmyn-ward-witness-respair/
+LOCATION:University of Chicago\, 5706 S University Ave\, Chicago\, IL\, 60
+ 637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/jesmyn-ward-witness-re
+ spair/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with Haley Heynderickx and Mary Lattimore in Rockefelle
+ r Chapel — Chicago
+DTSTART;TZID="UTC-06:00":20261107T180000
+DTEND;TZID="UTC-06:00":20261107T194500
+DTSTAMP:20261011T185326Z
+UID:444c02ad8954b3684fbaedf27d45@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Solo performances by the acclaimed musicians\nCategory: Arts &
+  Ideas\nOriginal listing: https://www.chicagohumanities.org/events/attend/
+ mary-lattimore-haley-heynderickx/
+LOCATION:University of Chicago\, 5850 S Woodlawn Ave\, Chicago\, IL\, 6063
+ 7
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/mary-lattimore-haley-h
+ eynderickx/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Sagal’s Constitution Sessions: The Legacy of the Declarati
+ on of Independence — Chicago
+DTSTART;TZID="UTC-06:00":20261107T183000
+DTEND;TZID="UTC-06:00":20261107T200000
+DTSTAMP:20261011T185326Z
+UID:6964e4c504422f0a923f44ac46ff@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Considering America at 250 with leading UChicago scholars\nCat
+ egory: Arts & Ideas\nOriginal listing: https://www.chicagohumanities.org/e
+ vents/attend/america-250-panel/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/america-250-panel/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark Passage — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261108T150000
+DTSTAMP:20261011T185326Z
+UID:e7e2cfe07a9a3dd10fa668ed6d07@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Delmer Daves\,                     1947\nCategory: Film\nOriginal
+  listing: https://harvardfilmarchive.org/calendar/dark-passage-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/dark-passage-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lineup — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261108T190000
+DTSTAMP:20261011T185326Z
+UID:5691f6662705cbf5ea174d32f3c5@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Don Siegel\,                     1958\nCategory: Film\nOriginal l
+ isting: https://harvardfilmarchive.org/calendar/the-lineup-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-lineup-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261109T190000
+DTSTAMP:20261011T185326Z
+UID:c7d9db8f85df62c671f277a954dc@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Alfred Hitchcock\,                     1958\nCategory: Film\nOrig
+ inal listing: https://harvardfilmarchive.org/calendar/vertigo-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/vertigo-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Christeene + Geo Wyex — New York
 DTSTART;TZID="UTC-05:00":20261109T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:f7ddd5286587cebf7caf6cd7b299@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -155,9 +836,135 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Temptation Harbour — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261113T190000
+DTSTAMP:20261011T185326Z
+UID:6b55f11462ca7fbaaf4f9124e426@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Lance Comfort\,                     1947\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/temptation-harbour-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/temptation-harbour-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger in the Smoke — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261113T211500
+DTSTAMP:20261011T185326Z
+UID:1e7249e06fed863c970e59352d69@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Roy Ward Baker\,                     1956\nCategory: Film\nOriginal lis
+ ting: https://harvardfilmarchive.org/calendar/tiger-in-the-smoke-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/tiger-in-the-smoke-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All About Lily Chou-Chou — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261114T140000
+DTSTAMP:20261011T185326Z
+UID:23e19298668d2b7fb3072d855a14@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
+ ted by Iwai Shunji\,                     2001\nCategory: Film\nOriginal li
+ sting: https://harvardfilmarchive.org/calendar/all-about-lily-chou-chou-20
+ 26-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/all-about-lily-chou-chou-2026-
+ 11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hell is a City — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261114T190000
+DTSTAMP:20261011T185326Z
+UID:1338acf5301051a0e4d095a23fcb@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Val Guest\,                     1960\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/hell-is-a-city-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/hell-is-a-city-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Conversation with the Stars — Chicago
+DTSTART;TZID="UTC-06:00":20261114T193000
+DTEND;TZID="UTC-06:00":20261114T213000
+DTSTAMP:20261011T185326Z
+UID:a76ed1ec4a35c50e15c7373d4e57@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Celebrate the iconic series with Ray Wise (Leland Palmer)\, Mi
+ chael Horse (Deputy Tommy “Hawk” Hill)\, Kimmy Robertson (Lucy Moran/B
+ rennan)\, and Sabrina S. Sutherland (executive producer)\nCategory: Arts &
+  Ideas\nOriginal listing: https://www.chicagohumanities.org/events/attend/
+ twin-peaks/
+LOCATION:Old Town School of Folk Music\, 4544 N. Lincoln Ave\, Chicago\, I
+ L\, 60625
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/twin-peaks/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Never Let Go — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261114T210000
+DTSTAMP:20261011T185326Z
+UID:931aca2df38367e860f18c8655a7@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by John Guillermin\,                     1960\nCategory: Film\nOriginal li
+ sting: https://harvardfilmarchive.org/calendar/never-let-go-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/never-let-go-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marie Antoinette — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261115T150000
+DTSTAMP:20261011T185326Z
+UID:3b49f1f323ed35ca77aa199ef7f8@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Marie Antoinette and Friends\, Three Films ... — Directed by
+  Sofia Coppola\,                     2006\nCategory: Film\nOriginal listin
+ g: https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nowhere to Go — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261116T190000
+DTSTAMP:20261011T185326Z
+UID:0a0d3b8068c01eec27c46fdbf040@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Seth Holt\,                     1958\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/nowhere-to-go-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/nowhere-to-go-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sophia Dahlin + Harron Walker — New York
 DTSTART;TZID="UTC-05:00":20261116T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:f0fc1655c74ed74f377186b98181@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -171,7 +978,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amy Ching-Yan Lam + Jacqueline Waters — New York
 DTSTART;TZID="UTC-05:00":20261118T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:5607d5a72c7f6772a173070923cd@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -184,9 +991,24 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:This Was a Woman — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261120T190000
+DTSTAMP:20261011T185326Z
+UID:9e25d7522542b286f70c840258ff@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Tim Whelan\,                     1948\nCategory: Film\nOriginal listing
+ : https://harvardfilmarchive.org/calendar/this-was-a-woman-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/this-was-a-woman-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crackhead Barney + Ann Liv Young — New York
 DTSTART;TZID="UTC-05:00":20261120T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:ca3c40327c0236cb41a5128f9935@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -198,9 +1020,129 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ashes and Diamonds — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261121T190000
+DTSTAMP:20261011T185326Z
+UID:3b342aee3f0152b3c58ad2150847@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1958\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Generation — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261121T211500
+DTSTAMP:20261011T185326Z
+UID:8ab79b648b80ae3a187293ec68d8@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1955\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/a-generation-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/a-generation-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Innocent Sorcerers — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261122T150000
+DTSTAMP:20261011T185326Z
+UID:fb88e5230704bf940435e224ed3b@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1960\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/innocent-sorcerers-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/innocent-sorcerers-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kanał — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261123T190000
+DTSTAMP:20261011T185326Z
+UID:beae554dafebe42cf75f362ae598@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1957\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/kanal-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/kanal-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Promised Land — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261127T190000
+DTSTAMP:20261011T185326Z
+UID:71bc44f63142e4e7848bde541fa7@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1975\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/the-promised-land-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-promised-land-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man of Marble — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261128T190000
+DTSTAMP:20261011T185326Z
+UID:b282d79820315b85578d9e3a4817@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1977\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/man-of-marble-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/man-of-marble-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wałęsa: Man of Hope — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261129T150000
+DTSTAMP:20261011T185326Z
+UID:f761cac4a4519e9e239ff75c3cfb@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     2013\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/walesa-man-of-hope-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/walesa-man-of-hope-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man of Iron — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261130T190000
+DTSTAMP:20261011T185326Z
+UID:27050edc99652385f739d092e141@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1981\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/man-of-iron-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/man-of-iron-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carolina Ebeid + Mark Nowak — New York
 DTSTART;TZID="UTC-05:00":20261202T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:74ee0c22537578607ca2c98bc02f@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -214,7 +1156,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S*an D. Henry-Smith + julie ezelle patton — New York
 DTSTART;TZID="UTC-05:00":20261204T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -224,5 +1166,100 @@ STATUS:CONFIRMED
 URL:https://www.poetryproject.org/events/s-an-d-henry-smith-julie-patton
 X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Conductor — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261207T190000
+DTSTAMP:20261011T185326Z
+UID:2377bf638a13f931b19a54e5b62d@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1980\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/the-conductor-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-conductor-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Without Anesthesia\, aka Rough Treatment — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261211T190000
+DTSTAMP:20261011T185326Z
+UID:c27d527c8d660021685a785149a7@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1978\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/without-anesthesia-aka-rough-trea
+ tment-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/without-anesthesia-aka-rough-t
+ reatment-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fanny and Alexander — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261212T140000
+DTSTAMP:20261011T185326Z
+UID:70431b95f04053095432abb54ea7@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
+ ted by Ingmar Bergman\,                     1982\nCategory: Film\nOriginal
+  listing: https://harvardfilmarchive.org/calendar/fanny-and-alexander-2026
+ -12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/fanny-and-alexander-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ashes — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261212T190000
+DTSTAMP:20261011T185326Z
+UID:474b659e4677c73ed9a1c454c7ff@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1965\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/the-ashes-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-ashes-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pan Tadeusz\, aka The Last Days — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261213T150000
+DTSTAMP:20261011T185326Z
+UID:ada1d0c94b012c65826f34e8504c@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1999\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/pan-tadeusz-aka-the-last-days-202
+ 6-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/pan-tadeusz-aka-the-last-days-
+ 2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashes and Diamonds — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261214T190000
+DTSTAMP:20261011T185326Z
+UID:6236141e21a7981fb2106ae6ff47@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1958\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
 END:VEVENT
 END:VCALENDAR

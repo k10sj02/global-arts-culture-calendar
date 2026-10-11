@@ -1,18 +1,22 @@
 {
-  "generated": "2026-10-11T08:56:12.844876-04:00",
-  "count": 51,
-  "cancelled": 0,
+  "generated": "2026-10-11T14:53:26.349943-04:00",
+  "count": 258,
+  "cancelled": 8,
   "regions": {
-    "us": 15,
-    "europe": 21,
-    "mexico": 15
+    "us": 80,
+    "europe": 170,
+    "mexico": 8
   },
   "sources": {
     "poetry-project": 13,
+    "chicago-humanities": 20,
+    "harvard-film-archive": 45,
+    "fringearts": 2,
     "ica-london": 3,
     "matadero-madrid": 17,
-    "inbal": 8,
-    "fringearts": 2
+    "cccb": 109,
+    "silent-green": 41,
+    "inbal": 8
   },
   "errors": {}
 }

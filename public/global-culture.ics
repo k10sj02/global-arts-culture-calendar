@@ -11,7 +11,7 @@ SUMMARY:Taller de Petromural impartido por Renato Paperetti - Programa de
  ria Juan O'Gorman — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T100000
 DTEND;TZID="UTC-06:00":20261010T140000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:e746fa570b5a322b06e8d1816379@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -19,7 +19,7 @@ DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
 LOCATION:Escuela de Diseño del INBAL Xocongo 138\, Col. Tránsito\, Alcal
  día. Cuauhtémoc\,\, Escuela de Diseño del INBAL Xocongo 138\, Col. Trá
  nsito\, Alcaldía. Cuauhtémoc\, Ciudad de México\, C.P. 06820
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18528/taller-de-petromural-impartido-por
  -renato-paperetti
 X-GLOBAL-CULTURE-REGION:mexico
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Taller de flamenco - Impartido por Brenda Cruz — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T113000
 DTEND;TZID="UTC-06:00":20261010T130000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:7a794009604d0d42db3600e77912@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -40,7 +40,7 @@ LOCATION:Centro Nacional de las Artes (CENART) - Plaza de la Danza Río Ch
  laza de la Danza Río Churubusco no. 79\, esquina con Calzada de Tlalpan\,
   Col. Country Club. Alcaldía Coyoacán\, C.P. 04220\, Ciudad de México\,
   CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18477/taller-de-flamenco
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -50,14 +50,14 @@ SUMMARY:Itinerar la memoria: archivo\, viajes y creacin en la danza espaol
  a - Conferencia de Ariadna Yez* — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T160000
 DTEND;TZID="UTC-06:00":20261010T170000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:f2f7ded0a8fa21fd7970ca7ddb36@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
  d/18472/itinerar-la-memoria-archivo-viajes-y-creacion-en-la-danza-espanola
 LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
   Consulta link en "Programa"
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18472/itinerar-la-memoria-archivo-viajes
  -y-creacion-en-la-danza-espanola
 X-GLOBAL-CULTURE-REGION:mexico
@@ -68,14 +68,14 @@ SUMMARY:Jornadas de danza espaola 2026 - Mesa de investigacin por Daniela
  Gutirrez Gonzlez y Christian Lpez Martnez — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T171500
 DTEND;TZID="UTC-06:00":20261010T181500
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:68dc06af2fc562e9fa4257a963e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
  d/18473/jornadas-de-danza-espanola-2026
 LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
   Consulta link en "Programa"
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18473/jornadas-de-danza-espanola-2026
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cepromusic - Tercer Concierto de temporada — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:1bf238aad3f81ab788e3af2cc2b0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -92,7 +92,7 @@ LOCATION:Jardín Escénico - Pabellón Av. Paseo de la Reforma 111\, Bosqu
  e de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín Escénico - Pab
  ellón Av. Paseo de la Reforma 111\, Bosque de Chapultepec I Secc\, Miguel
   Hidalgo\, 11580 Ciudad de México\, CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18509/cepromusic
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Salom Herrera y Claudio Herrera\, pianos - 50 aos de trayectoria d
  e Claudio Herrera — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:6f133ab5fa8a9d5399aa1185cc6d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -110,7 +110,7 @@ LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1
  Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
  uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
  d de México\, C.P. 06050
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18499/salome-herrera-y-claudio-herrera-p
  ianos
 X-GLOBAL-CULTURE-REGION:mexico
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Germinal - Sesión I — Madrid
 DTSTART;TZID="UTC+02:00":20261010T190000
 DTEND;TZID="UTC+02:00":20261010T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:ebfbc81c49d6b38ce683f9439526@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Casi septiembre (Lucía G. Romero\, 2025\, 29') Alej
@@ -136,7 +136,7 @@ DESCRIPTION:Programa: Casi septiembre (Lucía G. Romero\, 2025\, 29') Alej
  tegory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.or
  g/en/schedule/short-film-festival-nosotras-contamos-2026
 LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/short-film-festival-nosotra
  s-contamos-2026
 X-GLOBAL-CULTURE-REGION:europe
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Compaa La Meute (Francia) - Motel Cactus — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:937d343b095f0632f1679d35f3e1@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -155,17 +155,55 @@ LOCATION:Centro Cultural del Bosque (CCB) - Teatro del Bosque\, Julio Cast
   Centro Cultural del Bosque (CCB) - Teatro del Bosque\, Julio Castillo Pas
  eo de la Reforma y Campo Marte s/n\, Paseo de la Reforma\, 11560 Ciudad de
   México\, CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18307/compania-la-meute-francia
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9. Festival of Animation Berlin 2026 — Berlin
+DTSTART;TZID="UTC+02:00":20261011T000000
+DTSTAMP:20261011T185326Z
+UID:4d7f473649846b3d239fd0502d7e@global-arts-culture
+CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
+DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
+ reen.net/programm/detail/9-festival-of-animation-berlin-2026?tx_news_pi1%5
+ Bday%5D=8&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=da23a
+ c39b7c4d50821a6c5bcf8d53db5
+LOCATION:silent green — Gesamtes Gelände\, Gerichtstraße 35\, 13347 Be
+ rlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/9-festival-of-animation-b
+ erlin-2026?tx_news_pi1%5Bday%5D=8&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5B
+ year%5D=2026&cHash=da23ac39b7c4d50821a6c5bcf8d53db5
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAB Dimensional 2026 – Animation Expanded — Berlin
+DTSTART;TZID="UTC+02:00":20261011T000000
+DTSTAMP:20261011T185326Z
+UID:fc4ff34d2a3e1523ec45021d324f@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,\n                \n                 
+    Ausstellung\,Berlin\,Germany
+DESCRIPTION:Category: Festival\,\n                \n                    Au
+ sstellung\nOriginal listing: https://www.silent-green.net/programm/detail/
+ fab-dimensional-2026?tx_news_pi1%5Bday%5D=8&tx_news_pi1%5Bmonth%5D=10&tx_n
+ ews_pi1%5Byear%5D=2026&cHash=da23ac39b7c4d50821a6c5bcf8d53db5
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/fab-dimensional-2026?tx_n
+ ews_pi1%5Bday%5D=8&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cH
+ ash=da23ac39b7c4d50821a6c5bcf8d53db5
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taller de Escuela Bolera - Impartido por Daniela Gutirrez — Mexi
  co City
 DTSTART;TZID="UTC-06:00":20261011T100000
 DTEND;TZID="UTC-06:00":20261011T110000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:14afdc7f3dd0538a1002bddbb053@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -185,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Funcin de clausura - Jornadas de Danza Espaola 2026 — Mexico Cit
  y
 DTSTART;TZID="UTC-06:00":20261011T120000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:401f1c9b892a15523eeafdfd1ff0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -204,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programa 4 - Esplendor de Stradivarius — Mexico City
 DTSTART;TZID="UTC-06:00":20261011T120000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:0ad9b09029a671d4ac843b2b6c24@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -219,10 +257,27 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Recollections of the Yellow House — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261011T150000
+DTSTAMP:20261011T185326Z
+UID:d09883cabcefcfad498946e4f0b1@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:João César Monteiro\, Poet-Provocateur — Directed by João
+  César Monteiro\,                     1989\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/recollections-of-the-yellow-h
+ ouse-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/recollections-of-the-yellow-ho
+ use-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ignacio Mariscal\, violonchelo  Alain Del Real\, piano - Homenaje 
  a Pablo Casals a 150 aos de su nacimiento — Mexico City
 DTSTART;TZID="UTC-06:00":20261011T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:468874d4d7f7248390704a5c6185@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -240,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juana Ramrez — Mexico City
 DTSTART;TZID="UTC-06:00":20261011T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:d5cb10f2ba97fc0e0ae1cdbd1792@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -258,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:Germinal - Sesión II — Madrid
 DTSTART;TZID="UTC+02:00":20261011T190000
 DTEND;TZID="UTC+02:00":20261011T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:1665d5ac2c0e3cd51e756a884d01@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Entre los días (Judit Ortuño\, 2025\, 27') Una muj
@@ -285,7 +340,7 @@ SUMMARY:Qu es un laboratorio de laboratorios de investigacin-creacin desde
   las danzas itinerario de la Comunidad InveC-Labs? - Conversacin conducida
   por Hilda Islas — Mexico City
 DTSTART;TZID="UTC-06:00":20261012T130000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:a84e4bef2ee79b017a2e16ba774c@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -301,11 +356,28 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SIMPLE TOO: An Evening with Yotam Ottolenghi — Chicago
+DTSTART;TZID="UTC-05:00":20261012T193000
+DTEND;TZID="UTC-05:00":20261012T210000
+DTSTAMP:20261011T185326Z
+UID:8027b5646fdbeca0fb1e935c49cb@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The bestselling cookbook author and chef in conversation\nCate
+ gory: Arts & Ideas\nOriginal listing: https://www.chicagohumanities.org/ev
+ ents/attend/yotam-ottolenghi/
+LOCATION:Athenaeum Center for Thought & Culture\, 2936 N. Southport Ave\, 
+ Chicago\, IL\, 60657
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/yotam-ottolenghi/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sonatas para guitarra de Armando Luna. Anlisis de interpretacin y 
  ejecucin. - Conferencia impartida por el Mtro. Julio Escotto — Mexico Ci
  ty
 DTSTART;TZID="UTC-06:00":20261013T150000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:b8e842b36ae9a06f2ffdec8c7c43@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -323,9 +395,74 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alessandro Baricco and Joan Magrané — Barcelona
+DTSTART;TZID="UTC+02:00":20261013T180000
+DTSTAMP:20261011T185326Z
+UID:b9f74373bb51ea5fc87f8727cc87@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Literature\, music and mystery\nCategory: Debates\nOriginal li
+ sting: https://www.cccb.org/en/w/activities/alessandro-baricco-and-joan-ma
+ grane
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/alessandro-baricco-and-joan-magra
+ ne
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angélica Liddell and Luna Miguel — Barcelona
+DTSTART;TZID="UTC+02:00":20261013T193000
+DTSTAMP:20261011T185326Z
+UID:9702c4d14946e26bc71da7f7923e@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Strangers in the City\nCategory: Debates\nOriginal listing: ht
+ tps://www.cccb.org/en/w/activities/angelica-liddell-and-luna-miguel
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/angelica-liddell-and-luna-miguel
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryoko Ono + Hanno Leichtmann + Sergeant — Berlin
+DTSTART;TZID="UTC+02:00":20261013T200000
+DTSTAMP:20261011T185326Z
+UID:c422efc34016f8e3f247fd68f340@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/ryoko-ono-hanno-leichtmann?tx_news_pi1%5Bday%5D=13&tx_
+ news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=9bd6d948aa1eaab539
+ b8475ef0ef3f1c
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/ryoko-ono-hanno-leichtman
+ n?tx_news_pi1%5Bday%5D=13&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=
+ 2026&cHash=9bd6d948aa1eaab539b8475ef0ef3f1c
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Returning to the square — Barcelona
+DTSTART;TZID="UTC+02:00":20261013T210000
+DTSTAMP:20261011T185326Z
+UID:e4cdb6a227d7562c6aa221347b5a@global-arts-culture
+CATEGORIES:Arts & Culture\,Scene\,Barcelona\,Spain
+DESCRIPTION:Musical session with Maria Jaume\nCategory: Scene\nOriginal li
+ sting: https://www.cccb.org/en/w/activities/returning-to-the-square
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/returning-to-the-square
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In the Round: L'Rain — London
 DTSTART;VALUE=DATE:20261014
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:c515205d4cde1af70c910e6a9e79@global-arts-culture
 CATEGORIES:Arts & Culture\,Live\,London\,United Kingdom
 DESCRIPTION:L’Rain is the musical project of multi-instrumentalist\, com
@@ -341,10 +478,75 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:ica-london
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 European Prize for Urban Public Space Award Ceremony — Barc
+ elona
+DTSTART;TZID="UTC+02:00":20261014T100000
+DTSTAMP:20261011T185326Z
+UID:331af80980a80c1f923e7fa2b74a@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Category: Debates\nOriginal listing: https://www.cccb.org/en/w
+ /activities/2026-european-prize-for-urban-public-space-award-ceremony
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/2026-european-prize-for-urban-pub
+ lic-space-award-ceremony
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ukraine\, War and Memory — Barcelona
+DTSTART;TZID="UTC+02:00":20261014T120000
+DTSTAMP:20261011T185326Z
+UID:6f841491992597c434113d37edf3@global-arts-culture
+CATEGORIES:Arts & Culture\,Education\,Barcelona\,Spain
+DESCRIPTION:A Morning with Sofia Andrukhovych\nCategory: Education\nOrigin
+ al listing: https://www.cccb.org/en/w/activities/ukraine-war-and-memory
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/ukraine-war-and-memory
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:«The Cult of Beauty» for Blind and Partially Sighted Visitors 
+ — Barcelona
+DTSTART;TZID="UTC+02:00":20261014T160000
+DTSTAMP:20261011T185326Z
+UID:6c748aae877add892d5ac574f352@global-arts-culture
+CATEGORIES:Arts & Culture\,Accessible\,Barcelona\,Spain
+DESCRIPTION:Adapted guided tour\nCategory: Accessible\nOriginal listing: h
+ ttps://www.cccb.org/en/w/activities/the-cult-of-beauty-for-blind-and-parti
+ ally-sighted-visitors
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/the-cult-of-beauty-for-blind-and-
+ partially-sighted-visitors
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omar El Akkad and Fatima Bhutto — Barcelona
+DTSTART;TZID="UTC+02:00":20261014T173000
+DTSTAMP:20261011T185326Z
+UID:735e9c6ee8545bebddbee41fdf93@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Decentring the West\nCategory: Debates\nOriginal listing: http
+ s://www.cccb.org/en/w/activities/omar-el-akkad-and-fatima-bhutto
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/omar-el-akkad-and-fatima-bhutto
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:En el balcón vacío — Madrid
 DTSTART;TZID="UTC+02:00":20261014T190000
 DTEND;TZID="UTC+02:00":20261014T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:49ba8361419d2ed2532cb0611497@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:En el balcón vacío explora la Guerra Civil española vista a
@@ -364,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:Eugènia Balcells. Sesión I — Madrid
 DTSTART;TZID="UTC+02:00":20261014T190000
 DTEND;TZID="UTC+02:00":20261014T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:435bde2561074f9b3315a7253e9b@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: FIN (España\, 1978\, 15') FIN consiste en una colec
@@ -387,9 +589,43 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elaine Vilar Madruga and Anna Starobinets — Barcelona
+DTSTART;TZID="UTC+02:00":20261014T190000
+DTSTAMP:20261011T185326Z
+UID:29ecbf422f3faa81d42b9146642d@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Women Who Write the Darkness\nCategory: Debates\nOriginal list
+ ing: https://www.cccb.org/en/w/activities/elaine-vilar-madruga-and-anna-st
+ arobinets
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/elaine-vilar-madruga-and-anna-sta
+ robinets
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpha Maid + Dylan Kerr & Madeline Stepien — Berlin
+DTSTART;TZID="UTC+02:00":20261014T200000
+DTSTAMP:20261011T185326Z
+UID:48d4eae86477642d6b10161da8d4@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/alpha-maid?tx_news_pi1%5Bday%5D=14&tx_news_pi1%5Bmonth
+ %5D=10&tx_news_pi1%5Byear%5D=2026&cHash=1ae0a27da0bf240222b075c344e69ce5
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/alpha-maid?tx_news_pi1%5B
+ day%5D=14&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=1ae0a
+ 27da0bf240222b075c344e69ce5
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Litmus Press 25th Anniversary Celebration & Benefit — New York
 DTSTART;TZID="UTC-04:00":20261014T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:76ca53c0793111109a95b760c18d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -403,7 +639,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cuarteto Arod (Francia) - Opus 76 — Mexico City
 DTSTART;TZID="UTC-06:00":20261014T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:67d55f3f5a75e59286f34f14ea9b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -418,10 +654,58 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Juan Evaristo Valls Boix and Anna Pacheco — Barcelona
+DTSTART;TZID="UTC+02:00":20261014T203000
+DTSTAMP:20261011T185326Z
+UID:3705779a22db551f72efd8d24444@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Living to Work?\nCategory: Debates\nOriginal listing: https://
+ www.cccb.org/en/w/activities/juan-evaristo-valls-boix-and-anna-pacheco
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/juan-evaristo-valls-boix-and-anna
+ -pacheco
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rafael Moneo and Carmen Díez — Barcelona
+DTSTART;TZID="UTC+02:00":20261015T173000
+DTSTAMP:20261011T185326Z
+UID:e7a648ec706d4e16b855a5f17092@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Building from the City\nCategory: Debates\nOriginal listing: h
+ ttps://www.cccb.org/en/w/activities/rafael-moneo-and-carmen-diez
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/rafael-moneo-and-carmen-diez
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Challenging the Far Right’s Narrative — Barcelona
+DTSTART;TZID="UTC+02:00":20261015T180000
+DTSTAMP:20261011T185326Z
+UID:56e19d1457ab7532b009c149c365@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Youssef M. Ouled\, Montse Santolino and Miquel Ramos\nCategory
+ : Debates\nOriginal listing: https://www.cccb.org/en/w/activities/challeng
+ ing-the-far-rights-narrative
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/challenging-the-far-rights-narrat
+ ive
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eugènia Balcells. Sesión II — Madrid
 DTSTART;TZID="UTC+02:00":20261015T190000
 DTEND;TZID="UTC+02:00":20261015T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:51ed21722e2defb137633aa86bf0@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Fuga (1979\, 20') Con este trabajo\, la artista Eug
@@ -444,11 +728,132 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 European Prize for Urban Public Space Award Ceremony — Barc
+ elona
+DTSTART;TZID="UTC+02:00":20261015T190000
+DTSTAMP:20261011T185326Z
+UID:f44bee7c83c1a2b4f7029601c9d8@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Category: Debates\nOriginal listing: https://www.cccb.org/en/w
+ /activities/2026-european-prize-for-urban-public-space-award-ceremony
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/2026-european-prize-for-urban-pub
+ lic-space-award-ceremony
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Berger - Sontag. ‘Between Self and System’ — Barcelona
+DTSTART;TZID="UTC+02:00":20261015T193000
+DTSTAMP:20261011T185326Z
+UID:0879e7652246da813cbff7ad164c@global-arts-culture
+CATEGORIES:Arts & Culture\,Scene\,Barcelona\,Spain
+DESCRIPTION:Dramatised reading by Héctor Mellinas and Chantal Aimée\nCat
+ egory: Scene\nOriginal listing: https://www.cccb.org/en/w/activities/berge
+ r-sontag-between-self-and-system
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/berger-sontag-between-self-and-sy
+ stem
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Byrne on Sleeping Beauties — Chicago
+DTSTART;TZID="UTC-05:00":20261015T193000
+DTEND;TZID="UTC-05:00":20261015T210000
+DTSTAMP:20261011T185326Z
+UID:a8cc0e0f6d68ce2418873ca5b4ba@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:On hidden breakthroughs\, creative risk\, and the patience of 
+ great ideas\nCategory: Arts & Ideas\nOriginal listing: https://www.chicago
+ humanities.org/events/attend/david-byrne/
+LOCATION:Athenaeum Center for Thought & Culture\, 2936 N. Southport Ave\, 
+ Chicago\, IL\, 60657
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/david-byrne/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jlin + Third Coast Percussion: Vernacular — Chicago
+DTSTART;TZID="UTC-05:00":20261015T193000
+DTEND;TZID="UTC-05:00":20261015T210000
+DTSTAMP:20261011T185326Z
+UID:1ef64456e3c56712783ce850e0f8@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Category: Arts & Ideas\nOriginal listing: https://www.chicagoh
+ umanities.org/events/attend/jlin-third-coast-percussion-vernacular/
+LOCATION:Museum of Contemporary Art Chicago\, 220 E Chicago Ave\, Chicago
+ \, IL\, 60611
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/jlin-third-coast-percu
+ ssion-vernacular/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Urban Interregnum. New Economies and Intimate Stories of Work 
+ — Barcelona
+DTSTART;TZID="UTC+02:00":20261016T100000
+DTSTAMP:20261011T185326Z
+UID:89dcf695a0b22b3b48bda51930b0@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Edgar Pieterse\, Prasad Shetty\, Rupali Gupte\, Thireshen Gove
+ nder and Ashley Walters\nCategory: Debates\nOriginal listing: https://www.
+ cccb.org/en/w/activities/an-urban-interregnum-new-economies-and-intimate-s
+ tories-of-work
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/an-urban-interregnum-new-economie
+ s-and-intimate-stories-of-work
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Urban Interregnum. Absences — Barcelona
+DTSTART;TZID="UTC+02:00":20261016T120000
+DTSTAMP:20261011T185326Z
+UID:a5a211fd13a6a3fd6226843a1c04@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Teresa Caldeira\, Lindokuhle Sobekwa\, Allan Cunha and Tatiana
+  Thieme\nCategory: Debates\nOriginal listing: https://www.cccb.org/en/w/ac
+ tivities/an-urban-interregnum-absence-and-volatility
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/an-urban-interregnum-absence-and-
+ volatility
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thinking about the Future from Africa — Barcelona
+DTSTART;TZID="UTC+02:00":20261016T120000
+DTSTAMP:20261011T185326Z
+UID:22c51b273c14cc9be2b54b2d2817@global-arts-culture
+CATEGORIES:Arts & Culture\,Education\,Barcelona\,Spain
+DESCRIPTION:A Morning with Felwine Sarr\nCategory: Education\nOriginal lis
+ ting: https://www.cccb.org/en/w/activities/thinking-about-the-future-from-
+ africa
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/thinking-about-the-future-from-af
+ rica
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Exocapitalism and the Superdark Factory – Seminar with Marek Pol
  iks and Roberto Alonso Trillo — Madrid
 DTSTART;TZID="UTC+02:00":20261016T160000
 DTEND;TZID="UTC+02:00":20261017T000000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:fded4b76840a5aecb79824e8e1be@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Exocapitalism is the idea that capitalism doesn't belong to us
@@ -472,10 +877,28 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:An Urban Interregnum. Inhabiting the Body\, Inhabiting the City 
+ — Barcelona
+DTSTART;TZID="UTC+02:00":20261016T160000
+DTSTAMP:20261011T185326Z
+UID:c983c0ff7afe5e21e0f287909c8e@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Gautam Bhan\, Priya Sen\, Vikramaditya Sahai and Kelly Gillesp
+ ie\nCategory: Debates\nOriginal listing: https://www.cccb.org/en/w/activit
+ ies/an-urban-interregnum-inhabiting-the-body-inhabiting-the-city
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/an-urban-interregnum-inhabiting-t
+ he-body-inhabiting-the-city
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La sexta parte del mundo — Madrid
 DTSTART;TZID="UTC+02:00":20261016T180000
 DTEND;TZID="UTC+02:00":20261016T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:7479e453d41c4914d6c9a442b6a4@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Encargada por la empresa estatal de comercio\, Shestaya chast 
@@ -497,10 +920,27 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New Vocabularies for Cities of the Global South — Barcelona
+DTSTART;TZID="UTC+02:00":20261016T180000
+DTSTAMP:20261011T185326Z
+UID:0572b53a2e3894225af9c5c9eeaa@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Ruth Wilson Gilmore\, Gautam Bhan\, Edgar Pieterse and Teresa 
+ Caldeira\nCategory: Debates\nOriginal listing: https://www.cccb.org/en/w/a
+ ctivities/new-vocabularies-for-cities-of-the-global-south
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/new-vocabularies-for-cities-of-th
+ e-global-south
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wisdom of Wonder\, Eugènia Balcells Once and Again — Madrid
 DTSTART;TZID="UTC+02:00":20261016T190000
 DTEND;TZID="UTC+02:00":20261016T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:3a3207c836c6dbc9b8ea9343ba48@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:A través de una mirada sofisticada y llena de asombro\, Eugè
@@ -516,10 +956,60 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Human Condition I: No Greater Love — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261016T190000
+DTSTAMP:20261011T185326Z
+UID:b9a9f75841abaf4e2fb6a303ebb2@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
+              1959\nCategory: Film\nOriginal listing: https://harvardfilmar
+ chive.org/calendar/the-human-condition-i-no-greater-love-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-human-condition-i-no-great
+ er-love-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Felwine Sarr and Myriam Mallart — Barcelona
+DTSTART;TZID="UTC+02:00":20261016T193000
+DTSTAMP:20261011T185326Z
+UID:a824c3a944adfa3af513ddbe4add@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:The Revolution of Imaginaries\nCategory: Debates\nOriginal lis
+ ting: https://www.cccb.org/en/w/activities/felwine-sarr-and-myriam-mallart
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/felwine-sarr-and-myriam-mallart
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Früchte\, die wir tragen. — Berlin
+DTSTART;TZID="UTC+02:00":20261016T200000
+DTSTAMP:20261011T185326Z
+UID:f9eaeebc26f61010debb4e06908f@global-arts-culture
+CATEGORIES:Arts & Culture\,Artist-Talk\,\n                \n              
+       Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Artist-Talk\,\n                \n                   
+  Konzert\nOriginal listing: https://www.silent-green.net/programm/detail/d
+ ie-fruechte-die-wir-tragen?tx_news_pi1%5Bday%5D=16&tx_news_pi1%5Bmonth%5D=
+ 10&tx_news_pi1%5Byear%5D=2026&cHash=50aefb89c5086f0a600036cd94cc82f4
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/die-fruechte-die-wir-trag
+ en?tx_news_pi1%5Bday%5D=16&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D
+ =2026&cHash=50aefb89c5086f0a600036cd94cc82f4
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:“And in this heart\, which has neither had a cause nor the lack 
  of one”: On Translation\, Craft\, and Necessity — New York
 DTSTART;TZID="UTC-04:00":20261016T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:69cdf333e9770042e26283f3fe3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -535,7 +1025,7 @@ BEGIN:VEVENT
 SUMMARY:Carriage Trade — Madrid
 DTSTART;TZID="UTC+02:00":20261016T203000
 DTEND;TZID="UTC+02:00":20261016T203000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:9987e8c30fb46704ca0415ec44c4@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Un rompecabezas de tarjetas postales para producir diversos ef
@@ -553,10 +1043,109 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La gran cacería — Barcelona
+DTSTART;TZID="UTC+02:00":20261016T211500
+DTSTAMP:20261011T185326Z
+UID:4f3335df96e972d387cf9cb3afe3@global-arts-culture
+CATEGORIES:Arts & Culture\,Scene\,Barcelona\,Spain
+DESCRIPTION:Monologue by Juan Mayorga\nCategory: Scene\nOriginal listing: 
+ https://www.cccb.org/en/w/activities/la-gran-caceria
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/la-gran-caceria
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Julián Casanova and Xavier Domènech — Barcelona
+DTSTART;TZID="UTC+02:00":20261017T113000
+DTSTAMP:20261011T185326Z
+UID:4c4f48db91902282eaa8d4fe67bd@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:The Battle for Memory\nCategory: Debates\nOriginal listing: ht
+ tps://www.cccb.org/en/w/activities/julian-casanova-and-xavier-domenech
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/julian-casanova-and-xavier-domene
+ ch
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Historische Führung — Berlin
+DTSTART;TZID="UTC+02:00":20261017T120000
+DTSTAMP:20261011T185326Z
+UID:2826c7ce59d1a2e4e40c509e957a@global-arts-culture
+CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
+DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
+ reen.net/programm/detail/historische-fuehrung-39?tx_news_pi1%5Bday%5D=17&t
+ x_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=37ea0452debba8d6
+ cdcb2b978b2bc0a7
+LOCATION:silent green — Wiese\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/historische-fuehrung-39?t
+ x_news_pi1%5Bday%5D=17&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=202
+ 6&cHash=37ea0452debba8d6cdcb2b978b2bc0a7
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theatre in the Fight for Democracy — Barcelona
+DTSTART;TZID="UTC+02:00":20261017T130000
+DTSTAMP:20261011T185326Z
+UID:dd9d8fb9c0cf20e2923b1ed09f3b@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Victoria Szpunberg\, Israel Solà and Juan Mayorga\nCategory: 
+ Debates\nOriginal listing: https://www.cccb.org/en/w/activities/theatre-in
+ -the-fight-for-democracy
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/theatre-in-the-fight-for-democrac
+ y
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omri Boehm and Jordi Graupera — Barcelona
+DTSTART;TZID="UTC+02:00":20261017T170000
+DTSTAMP:20261011T185326Z
+UID:556439fbd7e23c0b9183090e8231@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:The Universal and Its Limits\nCategory: Debates\nOriginal list
+ ing: https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:«The Cult of Beauty» with Catalan Sign Language (LSC) — Barcel
+ ona
+DTSTART;TZID="UTC+02:00":20261017T170000
+DTSTAMP:20261011T185326Z
+UID:1bf96c347f82908bc2bdd99d8f9a@global-arts-culture
+CATEGORIES:Arts & Culture\,Accessible\,Barcelona\,Spain
+DESCRIPTION:Adapted guided tour\nCategory: Accessible\nOriginal listing: h
+ ttps://www.cccb.org/en/w/activities/the-cult-of-beauty-with-catalan-sign-l
+ anguage-lsc
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/the-cult-of-beauty-with-catalan-s
+ ign-language-lsc
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marnie\, la ladrona — Madrid
 DTSTART;TZID="UTC+02:00":20261017T180000
 DTEND;TZID="UTC+02:00":20261017T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:4f7bb5d32836fb24d875b50b2e01@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Marnie pone en escena un intercambio de culpa y deseo entre pe
@@ -577,10 +1166,95 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ukraine: The Meaning of Writing — Barcelona
+DTSTART;TZID="UTC+02:00":20261017T183000
+DTSTAMP:20261011T185326Z
+UID:47e30d904ea4aad3bb9628e8a1ca@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Sofia Andrukhovych\, Volodymyr Yermolenko and Tetyana Ogarkova
+ \nCategory: Debates\nOriginal listing: https://www.cccb.org/en/w/activitie
+ s/ukraine-the-meaning-of-writing
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Human Condition II: Road to Eternity — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261017T190000
+DTSTAMP:20261011T185326Z
+UID:e5d97d29e4e88c99fba690023934@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
+              1959\nCategory: Film\nOriginal listing: https://harvardfilmar
+ chive.org/calendar/the-human-condition-ii-road-to-eternity-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-human-condition-ii-road-to
+ -eternity-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Kingsolver: Partita — Chicago
+DTSTART;TZID="UTC-05:00":20261017T193000
+DTEND;TZID="UTC-05:00":20261017T210000
+DTSTAMP:20261011T185326Z
+UID:fd63f61b7017c49346fbd5dd7b09@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The Pulitzer Prize-winning author on her newest novel\nCategor
+ y: Arts & Ideas\nOriginal listing: https://www.chicagohumanities.org/event
+ s/attend/barbara-kingsolver/
+LOCATION:Francis W. Parker School\, 330 W. Webster Ave\, Chicago\, IL\, 60
+ 614
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/barbara-kingsolver/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patrick Radden Keefe and Judit Carrera — Barcelona
+DTSTART;TZID="UTC+02:00":20261017T200000
+DTSTAMP:20261011T185326Z
+UID:c1400897190b1128bef357562440@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:London: The Hidden City\nCategory: Debates\nOriginal listing: 
+ https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrer
+ a
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-ca
+ rrera
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andriy K. & Tharim Cornelisse pres. DUST + mu tate pres. life of m
+ u — Berlin
+DTSTART;TZID="UTC+02:00":20261017T200000
+DTSTAMP:20261011T185326Z
+UID:a516203ff354fbe615b31308637b@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/andryi-k-tharim-cornelisse-pres-dust?tx_news_pi1%5Bday
+ %5D=17&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=37ea0452
+ debba8d6cdcb2b978b2bc0a7
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/andryi-k-tharim-corneliss
+ e-pres-dust?tx_news_pi1%5Bday%5D=17&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%
+ 5Byear%5D=2026&cHash=37ea0452debba8d6cdcb2b978b2bc0a7
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Warren Sonbert. Sesión de cortometrajes I — Madrid
 DTSTART;TZID="UTC+02:00":20261017T203000
 DTEND;TZID="UTC+02:00":20261017T203000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:b6f2b1623e0e957cbcb2685d9d14@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Where Did Our Love Go? (1966\, 15') Días en la Fact
@@ -603,10 +1277,78 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maryam Madjidi and Youssef El Maimouni — Barcelona
+DTSTART;TZID="UTC+02:00":20261018T113000
+DTSTAMP:20261011T185326Z
+UID:dca4871c63ba694e3e77b1e8c48e@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:(Not) Being Like Everyone Else\nCategory: Debates\nOriginal li
+ sting: https://www.cccb.org/en/w/activities/maryam-madjidi-and-youssef-el-
+ maimouni
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/maryam-madjidi-and-youssef-el-mai
+ mouni
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xiaolu Guo and Xisi Sofia Ye Chen — Barcelona
+DTSTART;TZID="UTC+02:00":20261018T130000
+DTSTAMP:20261011T185326Z
+UID:a8dfe348858308f59c39e2ba7b36@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Language\, Memory and Diaspora\nCategory: Debates\nOriginal li
+ sting: https://www.cccb.org/en/w/activities/xiaolu-guo-and-xisi-sofia-ye-c
+ hen
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xiaolu-guo-and-xisi-sofia-ye-chen
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kantine Musik — Berlin
+DTSTART;TZID="UTC+02:00":20261018T150000
+DTSTAMP:20261011T185326Z
+UID:4e10794eeba5e55bcaee64c91c05@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/kantine-musik-6?tx_news_pi1%5Bday%5D=18&tx_news_pi1%5B
+ month%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=4dd07bf06926c10efe6105172e21f
+ 422
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/kantine-musik-6?tx_news_p
+ i1%5Bday%5D=18&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=
+ 4dd07bf06926c10efe6105172e21f422
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Human Condition III: A Soldier’s Prayer — Boston/Cambridg
+ e
+DTSTART;TZID="UTC-04:00":20261018T150000
+DTSTAMP:20261011T185326Z
+UID:76acef2d639cb403fb1cd0603280@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
+              1961\nCategory: Film\nOriginal listing: https://harvardfilmar
+ chive.org/calendar/the-human-condition-iii-a-soldiers-prayer-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-human-condition-iii-a-sold
+ iers-prayer-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Escrito sobre el viento — Madrid
 DTSTART;TZID="UTC+02:00":20261018T180000
 DTEND;TZID="UTC+02:00":20261018T180000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:0b5c3ef525ddacf79a4165ad3f43@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Warren Sonbert veía en Douglas Sirk a un cineasta capaz de re
@@ -629,10 +1371,57 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mariana Enriquez and Valerie Miles — Barcelona
+DTSTART;TZID="UTC+02:00":20261018T180000
+DTSTAMP:20261011T185326Z
+UID:900da7726037f81808c541458c4a@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:The City at Night\nCategory: Debates\nOriginal listing: https:
+ //www.cccb.org/en/w/activities/mariana-enriquez-and-valerie-miles
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/mariana-enriquez-and-valerie-mile
+ s
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remake — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261018T183000
+DTSTAMP:20261011T185326Z
+UID:ab62238a34c49b43f4306e4b5111@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Ross McElwee's Remake — Directed by Ross McElwee\,          
+            2026\nCategory: Film\nOriginal listing: https://harvardfilmarch
+ ive.org/calendar/remake-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/remake-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cities in Correspondence — Barcelona
+DTSTART;TZID="UTC+02:00":20261018T193000
+DTSTAMP:20261011T185326Z
+UID:4d0a6234b6c9df88c1a23286d40c@global-arts-culture
+CATEGORIES:Arts & Culture\,Accessible\,Barcelona\,Spain
+DESCRIPTION:Closing Ceremony of the 2026 Biennial of Thought\nCategory: Ac
+ cessible\nOriginal listing: https://www.cccb.org/en/w/activities/cities-in
+ -correspondence
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/cities-in-correspondence
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Warren Sonbert. Sesión de cortometrajes II — Madrid
 DTSTART;TZID="UTC+02:00":20261018T203000
 DTEND;TZID="UTC+02:00":20261018T203000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:59079ccf4fa387a4495229bc4d04@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: The Cup and the Lip (1986\, 20') Una película compl
@@ -658,7 +1447,7 @@ BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:d0b97d923dd8b7f30f48266474ad@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -671,9 +1460,40 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:fringearts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Can you read in the dark? — Barcelona
+DTSTART;TZID="UTC+02:00":20261019T190000
+DTSTAMP:20261011T185326Z
+UID:274efd302a3819b0dc84656a38ac@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Programa de projeccions vinculades a l'Aula Xcèntric\nCategor
+ y: Audiovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/ca
+ n-you-read-in-the-dark
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/can-you-read-in-the-dark
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Third Man — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261019T190000
+DTSTAMP:20261011T185326Z
+UID:1bc2477ccfadb6cb3efad5bc8eab@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:The Cold Heart is More Precious than Diamonds. ... — Directe
+ d by Carol Reed\,                     1949\nCategory: Film\nOriginal listi
+ ng: https://harvardfilmarchive.org/calendar/the-third-man-2026-09
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-third-man-2026-09
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rena Anakwe + Muyassar Kurdi — New York
 DTSTART;TZID="UTC-04:00":20261019T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:a96ae334601f964bedcffe485f00@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -687,7 +1507,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Book Launch + Screening + Q&A   Positions by K8 Hardy — London
 DTSTART;VALUE=DATE:20261020
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:0a5b12c3c14496187edd553b580c@global-arts-culture
 CATEGORIES:Arts & Culture\,Talks & Events\,London\,United Kingdom
 DESCRIPTION:The next MACK Cinema Club celebrates the release of K8 Hardy's
@@ -701,9 +1521,112 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:ica-london
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+02:00":20261020T183000
+DTSTAMP:20261011T185326Z
+UID:59ddc418a6afa513bdbfe5a61a89@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravada\, escrita\, pronunciada — Barcelona
+DTSTART;TZID="UTC+02:00":20261020T183000
+DTSTAMP:20261011T185326Z
+UID:5797534d2f98806d0b9fa85cf656@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La paraula al cinema experimental\nCategory: Courses and works
+ hops\nOriginal listing: https://www.cccb.org/en/w/activitats/gravada-escri
+ ta-pronunciada
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psychic Liberation Night: Andrea Pensado + HMOT + bela — Berlin
+DTSTART;TZID="UTC+02:00":20261020T200000
+DTSTAMP:20261011T185326Z
+UID:34e642bc634f0daa3301519c7454@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/psychic-liberation-night-hmot-bela-andrea-pensado?tx_n
+ ews_pi1%5Bday%5D=20&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&c
+ Hash=0eed3847d108ce3fcbe1bb46baa0ee23
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/psychic-liberation-night-
+ hmot-bela-andrea-pensado?tx_news_pi1%5Bday%5D=20&tx_news_pi1%5Bmonth%5D=10
+ &tx_news_pi1%5Byear%5D=2026&cHash=0eed3847d108ce3fcbe1bb46baa0ee23
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"El informe. Trabajo intelectual y tristeza burocrática"\, by Rem
+ edios Zafra — Barcelona
+DTSTART;TZID="UTC+02:00":20261021T183000
+DTSTAMP:20261011T185326Z
+UID:90bc3e1eb86f5e5f14ad403228d6@global-arts-culture
+CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
+DESCRIPTION:Exclusive reading club for Friends of the CCCB\nCategory: Amic
+ s CCCB\nOriginal listing: https://www.cccb.org/en/w/activities/el-informe-
+ trabajo-intelectual-y-tristeza-burocratica-by-remedios-zafra
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/el-informe-trabajo-intelectual-y-
+ tristeza-burocratica-by-remedios-zafra
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una història cromàtica — Barcelona
+DTSTART;TZID="UTC+02:00":20261021T183000
+DTSTAMP:20261011T185326Z
+UID:ba496940cac5cae1e5babcb61017@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Blau\, groc\, verd\, vermell\nCategory: Courses and workshops
+ \nOriginal listing: https://www.cccb.org/en/w/activitats/una-historia-crom
+ atica-del-color
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/una-historia-cromatica-del-color
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sintonia 2026 Attunement I: Concepción Huerta + hexorcismos — B
+ erlin
+DTSTART;TZID="UTC+02:00":20261021T200000
+DTSTAMP:20261011T185326Z
+UID:3c218449de6cb8bf2b8a8ae68dc0@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/sintonia-2026-attunement-i?tx_news_pi1%5Bday%5D=21&tx_
+ news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=aff6f6e51eb20bb47b
+ aacfc9f8fd54cd
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/sintonia-2026-attunement-
+ i?tx_news_pi1%5Bday%5D=21&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=
+ 2026&cHash=aff6f6e51eb20bb47baacfc9f8fd54cd
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tongo Eisen-Martin + Margaret Randall — New York
 DTSTART;TZID="UTC-04:00":20261021T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:33479fdff4d887e03dc580d6ff98@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -716,10 +1639,157 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Emily Dickinson\, una carta al món — Barcelona
+DTSTART;TZID="UTC+02:00":20261022T183000
+DTSTAMP:20261011T185326Z
+UID:00e3526e4829da3a2ad4715ecd12@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Category: Courses and workshops\nOriginal listing: https://www
+ .cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ernest Cañada\, Anna Pacheco and Carolina del Olmo — Barcelona
+DTSTART;TZID="UTC+02:00":20261022T183000
+DTSTAMP:20261011T185326Z
+UID:587ddab529a76b544931bc2b0afd@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Utopias\, Here and Now\nCategory: Debates\nOriginal listing: h
+ ttps://www.cccb.org/en/w/activities/ernest-canada-anna-pacheco-and-carolin
+ a-del-olmo
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/ernest-canada-anna-pacheco-and-ca
+ rolina-del-olmo
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tourism\, a Social Right? — Barcelona
+DTSTART;TZID="UTC+02:00":20261023T093000
+DTSTAMP:20261011T185326Z
+UID:87b7d8618a688a5132af0249f29f@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Category: Debates\nOriginal listing: https://www.cccb.org/en/w
+ /activities/tourism-a-social-right
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/tourism-a-social-right
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mandy — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261023T190000
+DTSTAMP:20261011T185326Z
+UID:3f6dd0bcbeba1edb5190dacc4f08@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Alexander Mackendrick\,                     1952\nCategory: Film\nOrigi
+ nal listing: https://harvardfilmarchive.org/calendar/mandy-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/mandy-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acephalic Headspace pres. ladr ache + Lésions Graves Sextet plays
+  Julius Eastman — Berlin
+DTSTART;TZID="UTC+02:00":20261023T200000
+DTSTAMP:20261011T185326Z
+UID:22e766f0f6953ff951df68b644ea@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/acephalic-headspace-pres-ladr-ache-lesions-graves-sext
+ et-plays-julius-eastman?tx_news_pi1%5Bday%5D=23&tx_news_pi1%5Bmonth%5D=10&
+ tx_news_pi1%5Byear%5D=2026&cHash=a14cede126b8d95ed4bf4ad3b5f099b5
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/acephalic-headspace-pres-
+ ladr-ache-lesions-graves-sextet-plays-julius-eastman?tx_news_pi1%5Bday%5D=
+ 23&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=a14cede126b8
+ d95ed4bf4ad3b5f099b5
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HALF LIGHT – Abul Mogard\, Marja de Sanctis\, Rafael Anton Irisa
+ rri\, Concepción Huerta — Berlin
+DTSTART;TZID="UTC+02:00":20261023T200000
+DTSTAMP:20261011T185326Z
+UID:95727b5a604f0004639c0214a6ec@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/half-light-abul-mogard-marja-de-sanctis-rafael-anton-i
+ risarri-concepcion-huerta?tx_news_pi1%5Bday%5D=23&tx_news_pi1%5Bmonth%5D=1
+ 0&tx_news_pi1%5Byear%5D=2026&cHash=a14cede126b8d95ed4bf4ad3b5f099b5
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/half-light-abul-mogard-ma
+ rja-de-sanctis-rafael-anton-irisarri-concepcion-huerta?tx_news_pi1%5Bday%5
+ D=23&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=a14cede126
+ b8d95ed4bf4ad3b5f099b5
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Yellow Balloon — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261023T210000
+DTSTAMP:20261011T185326Z
+UID:625141ea99657f07b8ea6a91785b@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by J. Lee Thompson\,                     1953\nCategory: Film\nOriginal li
+ sting: https://harvardfilmarchive.org/calendar/the-yellow-balloon-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-yellow-balloon-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Je t’aime\, je t’aime — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261024T140000
+DTSTAMP:20261011T185326Z
+UID:ba99d45e0ed8f7e6f6bc697fe736@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
+ ted by Alain Resnais\,                     1968\nCategory: Film\nOriginal 
+ listing: https://harvardfilmarchive.org/calendar/je-taime-je-taime-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/je-taime-je-taime-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pool of London — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261024T190000
+DTSTAMP:20261011T185326Z
+UID:0bfafc44599f27c6308fec78020e@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Basil Dearden\,                     1951\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/pool-of-london-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/pool-of-london-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lali Ayguadé Company — Madrid
 DTSTART;TZID="UTC+02:00":20261024T200000
 DTEND;TZID="UTC+01:00":20261025T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:5381b658ae901c8734522ab2f102@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:The show primarily explores the stark contrast between the vir
@@ -741,10 +1811,45 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kjartan Sveinsson + Gyda Valtýsdóttir + Bert Cools + Indrė Jurg
+ elevičiūtė — Berlin
+DTSTART;TZID="UTC+02:00":20261024T200000
+DTSTAMP:20261011T185326Z
+UID:55f6798a3ddb1c09ed95ea8f1be9@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/kjartan-sveinsson-gyda-valtysdottir-bert-cools-indre-j
+ urgeleviciute?tx_news_pi1%5Bday%5D=24&tx_news_pi1%5Bmonth%5D=10&tx_news_pi
+ 1%5Byear%5D=2026&cHash=22baf019a8e750f721afaa9d25a6663a
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/kjartan-sveinsson-gyda-va
+ ltysdottir-bert-cools-indre-jurgeleviciute?tx_news_pi1%5Bday%5D=24&tx_news
+ _pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=22baf019a8e750f721afaa
+ 9d25a6663a
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turn the Key Softly — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261024T210000
+DTSTAMP:20261011T185326Z
+UID:fc72dca56e831bdc0b7ef308288a@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Jack Lee\,                     1953\nCategory: Film\nOriginal listing: 
+ https://harvardfilmarchive.org/calendar/turn-the-key-softly-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/turn-the-key-softly-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TEJIENDO Y PUNTO — Madrid
 DTSTART;TZID="UTC+02:00":20261024T235959
 DTEND;TZID="UTC+02:00":20261024T235959
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:4fd35592fd1d7a08f15cd9f44a5c@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Designed as a participatory experience that fosters community
@@ -766,9 +1871,76 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Visit the Mirador CCCB 2026 — Barcelona
+DTSTART;TZID="UTC+01:00":20261025T100000
+DTSTAMP:20261011T185326Z
+UID:3bc7efc06df9a303f69c25fc9b3c@global-arts-culture
+CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
+DESCRIPTION:And enjoy the views of the city\nCategory: \nOriginal listing:
+  https://www.cccb.org/en/w/activities/visit-the-mirador-cccb-2026
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/visit-the-mirador-cccb-2026
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Always Rains on Sunday — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261025T190000
+DTSTAMP:20261011T185326Z
+UID:6e8a4beb7444753ccc1daf3d7f77@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Robert Hamer\,                     1947\nCategory: Film\nOriginal listi
+ ng: https://harvardfilmarchive.org/calendar/it-always-rains-on-sunday-2026
+ -10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/it-always-rains-on-sunday-2026
+ -10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hunted — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261026T190000
+DTSTAMP:20261011T185326Z
+UID:31d53c0d3603e38d75ecb4e20ae0@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Charles Crichton\,                     1952\nCategory: Film\nOriginal l
+ isting: https://harvardfilmarchive.org/calendar/hunted-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/hunted-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Einhörner: Buchpremiere mit Annekathrin Kohout — Berlin
+DTSTART;TZID="UTC+01:00":20261026T193000
+DTSTAMP:20261011T185326Z
+UID:79ab44805051c3ccb2e44aa4505e@global-arts-culture
+CATEGORIES:Arts & Culture\,Lesung\,\n                \n                   
+  Buchpremiere\,Berlin\,Germany
+DESCRIPTION:Category: Lesung\,\n                \n                    Buch
+ premiere\nOriginal listing: https://www.silent-green.net/programm/detail/e
+ inhoerner-buchpremiere-mit-annekathrin-kohout?tx_news_pi1%5Bday%5D=26&tx_n
+ ews_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=6d9fbde3c555ed23966
+ df0fe9ae69c12
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/einhoerner-buchpremiere-m
+ it-annekathrin-kohout?tx_news_pi1%5Bday%5D=26&tx_news_pi1%5Bmonth%5D=10&tx
+ _news_pi1%5Byear%5D=2026&cHash=6d9fbde3c555ed23966df0fe9ae69c12
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nicole Linder + Jasmine Sanders — New York
 DTSTART;TZID="UTC-04:00":20261026T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:e3c5e2a7176dc3a63b695430521a@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -780,9 +1952,76 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Guided tour: ‘Charlotte Perriand’\, Fundació Joan Miró — B
+ arcelona
+DTSTART;TZID="UTC+01:00":20261027T180000
+DTSTAMP:20261011T185326Z
+UID:aa02f4e58d6f2993f18bf7914b33@global-arts-culture
+CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
+DESCRIPTION:An exclusive event for Amics CCCB\nCategory: Amics CCCB\nOrigi
+ nal listing: https://www.cccb.org/en/w/activities/guided-tour-charlotte-pe
+ rriand-fundacio-joan-miro
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/guided-tour-charlotte-perriand-fu
+ ndacio-joan-miro
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20261027T183000
+DTSTAMP:20261011T185326Z
+UID:cc7c6235860bc3d8b18ef9d49672@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravada\, escrita\, pronunciada — Barcelona
+DTSTART;TZID="UTC+01:00":20261027T183000
+DTSTAMP:20261011T185326Z
+UID:82ff4f75e41b4a28077988b0d691@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La paraula al cinema experimental\nCategory: Courses and works
+ hops\nOriginal listing: https://www.cccb.org/en/w/activitats/gravada-escri
+ ta-pronunciada
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Superfan + Coals — Berlin
+DTSTART;TZID="UTC+01:00":20261027T200000
+DTSTAMP:20261011T185326Z
+UID:49d0de580a90297d7c5775a1f508@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/superfan?tx_news_pi1%5Bday%5D=27&tx_news_pi1%5Bmonth%5
+ D=10&tx_news_pi1%5Byear%5D=2026&cHash=05ccbcaa1ed0b1433ba02c3992042bcb
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/superfan?tx_news_pi1%5Bda
+ y%5D=27&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=05ccbca
+ a1ed0b1433ba02c3992042bcb
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261028
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:731c190f5799f4111a76759a0ef8@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -794,10 +2033,57 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:fringearts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Photoscriptures — Barcelona
+DTSTART;TZID="UTC+01:00":20261028T180000
+DTSTAMP:20261011T185326Z
+UID:16c784c050c83411e6873196ade3@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Literature and Photography\, 200 Years Later\nCategory: Debate
+ s\nOriginal listing: https://www.cccb.org/en/w/activities/photoscriptures
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/photoscriptures
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+01:00":20261028T180000
+DTSTAMP:20261011T185326Z
+UID:a16afa12923c43e9cee2074b3700@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una història cromàtica — Barcelona
+DTSTART;TZID="UTC+01:00":20261028T183000
+DTSTAMP:20261011T185326Z
+UID:3b3e9fab73e82f6f973368597536@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Blau\, groc\, verd\, vermell\nCategory: Courses and workshops
+ \nOriginal listing: https://www.cccb.org/en/w/activitats/una-historia-crom
+ atica-del-color
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/una-historia-cromatica-del-color
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mitología de barrio + Quién vio los templos caer — Madrid
 DTSTART;TZID="UTC+01:00":20261028T190000
 DTEND;TZID="UTC+01:00":20261028T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:bd4372c6b888af6408d09216816a@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Las ciudades\, lejos de retóricas tradicionalistas\, identita
@@ -820,9 +2106,43 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chanel Beads + urika's bedroom — Berlin
+DTSTART;TZID="UTC+01:00":20261028T200000
+DTSTAMP:20261011T185326Z
+UID:85ba66f5d6e3897cd9821be28162@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/chanel-beads?tx_news_pi1%5Bday%5D=28&tx_news_pi1%5Bmon
+ th%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=36186a8fd2c2ab16a7d0b39535a172d2
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/chanel-beads?tx_news_pi1%
+ 5Bday%5D=28&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=361
+ 86a8fd2c2ab16a7d0b39535a172d2
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LudoWic — Berlin
+DTSTART;TZID="UTC+01:00":20261028T200000
+DTSTAMP:20261011T185326Z
+UID:5e08d3d58bce0f3525278949f951@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/ludowic?tx_news_pi1%5Bday%5D=28&tx_news_pi1%5Bmonth%5D
+ =10&tx_news_pi1%5Byear%5D=2026&cHash=36186a8fd2c2ab16a7d0b39535a172d2
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/ludowic?tx_news_pi1%5Bday
+ %5D=28&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=36186a8f
+ d2c2ab16a7d0b39535a172d2
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Matt Longabucco + Susana Plotts-Pineda — New York
 DTSTART;TZID="UTC-04:00":20261028T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:280140a337e48e292f98115234a2@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -835,10 +2155,57 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seminar with Paco Gómez and Laura C. Vela — Barcelona
+DTSTART;TZID="UTC+01:00":20261029T100000
+DTSTAMP:20261011T185326Z
+UID:e803eb44822ffceed15ba2c763af@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Photoscriptures. Creating and Editing Text-Image Projects\nCat
+ egory: Debates\nOriginal listing: https://www.cccb.org/en/w/activities/sem
+ inar-with-paco-gomez-and-laura-c-vela
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/seminar-with-paco-gomez-and-laura
+ -c-vela
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marie Antoinette — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261029T180000
+DTSTAMP:20261011T185326Z
+UID:e763bfb286e037987529f31398b1@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Marie Antoinette and Friends\, Three Films ... — Directed by
+  Sofia Coppola\,                     2006\nCategory: Film\nOriginal listin
+ g: https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviatan\, de Thomas Hobbes — Barcelona
+DTSTART;TZID="UTC+01:00":20261029T183000
+DTSTAMP:20261011T185326Z
+UID:59a8011de5ef7d850bbf5d169a68@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Llegir filosofia\, 7\nCategory: Courses and workshops\nOrigina
+ l listing: https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gatos encaramados — Madrid
 DTSTART;TZID="UTC+01:00":20261029T190000
 DTEND;TZID="UTC+01:00":20261029T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:97d80ff7d770d454d5b31df51419@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Tras el 11 de septiembre\, un gato amarillo dibujado comienza 
@@ -859,10 +2226,44 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bivac 2026 — Barcelona
+DTSTART;TZID="UTC+01:00":20261029T190000
+DTSTAMP:20261011T185326Z
+UID:739d89bf3688a8cf82f180b9a6c5@global-arts-culture
+CATEGORIES:Arts & Culture\,Festivals\,Barcelona\,Spain
+DESCRIPTION:Prêt-à-rester. Heirs of Leftovers\nCategory: Festivals\nOrig
+ inal listing: https://www.cccb.org/en/w/activities/bivac-2026
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/bivac-2026
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temple of Faitiche pres. U.e. (Ulla) + Martin Brandlmayr — Berli
+ n
+DTSTART;TZID="UTC+01:00":20261029T200000
+DTSTAMP:20261011T185326Z
+UID:49b5657995ad1fd6fc3e07ab7fb1@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/temple-of-faitiche-pres-ulla-martin-brandlmayr?tx_news
+ _pi1%5Bday%5D=29&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHas
+ h=7554cae0ffb597752975ad8839c480b3
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/temple-of-faitiche-pres-u
+ lla-martin-brandlmayr?tx_news_pi1%5Bday%5D=29&tx_news_pi1%5Bmonth%5D=10&tx
+ _news_pi1%5Byear%5D=2026&cHash=7554cae0ffb597752975ad8839c480b3
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crossroads. El viaje circular de Boa Mistura — Madrid
 DTSTART;TZID="UTC+01:00":20261030T190000
 DTEND;TZID="UTC+01:00":20261030T190000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:c45a9ecd5cf31f52b6eab646ca5e@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:La periferia de Ciudad del Cabo\, Sudáfrica\, es el epicentro
@@ -885,10 +2286,89 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Come and Go — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261030T190000
+DTSTAMP:20261011T185326Z
+UID:13ba161fa0e75213efcb7a471aa0@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:João César Monteiro\, Poet-Provocateur — Directed by João
+  César Monteiro\,                     2003\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/come-and-go-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/come-and-go-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughter of Darkness — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261031T190000
+DTSTAMP:20261011T185326Z
+UID:74904d913ad57ac4f9ae263533ec@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Lance Comfort\,                     1948\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/daughter-of-darkness-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/daughter-of-darkness-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Weird Sisters — Boston/Cambridge
+DTSTART;TZID="UTC-04:00":20261031T210000
+DTSTAMP:20261011T185326Z
+UID:d8bf19a76d7da712e4d67b3bf924@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Daniel Birt\,                     1948\nCategory: Film\nOriginal listin
+ g: https://harvardfilmarchive.org/calendar/the-three-weird-sisters-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-three-weird-sisters-2026-1
+ 0
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:They Made Me a Fugitive — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261101T150000
+DTSTAMP:20261011T185326Z
+UID:5daf320f190a04e71ab4ff725696@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Alberto Cavalcanti\,                     1947\nCategory: Film\nOriginal
+  listing: https://harvardfilmarchive.org/calendar/they-made-me-a-fugitive-
+ 2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/they-made-me-a-fugitive-2026-1
+ 1
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A beam of light — Barcelona
+DTSTART;TZID="UTC+01:00":20261101T183000
+DTSTAMP:20261011T185326Z
+UID:d2a4fce35334423cc7dcfcde3161@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Programme of films related to the Aula Xcèntric\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/a-spot-
+ of-light
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/a-spot-of-light
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"The future exists for the most part in the present": On Poetry\, 
  the Avant-Garde\, and the Left — New York
 DTSTART;TZID="UTC-05:00":20261102T000000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:3400e9451fa4b3388dc5da612b01@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -902,9 +2382,637 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seminar with Bonnie Honig — Barcelona
+DTSTART;TZID="UTC+01:00":20261102T100000
+DTSTAMP:20261011T185326Z
+UID:6154dbbfc19e05465f4e9df74133@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Hippolyte\, in reverse: the metamorphosis now\, with Deleuze\,
+  Canetti and Arendt\nCategory: Debates\nOriginal listing: https://www.cccb
+ .org/en/w/activities/seminar-with-bonnie-honig
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/seminar-with-bonnie-honig
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonnie Honig — Barcelona
+DTSTART;TZID="UTC+01:00":20261102T183000
+DTSTAMP:20261011T185326Z
+UID:e72edc663096a0444f0ccacb3232@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Laughing in the Face of Disaster: Arendt\, Plurality\, Communi
+ ty\nCategory: Debates\nOriginal listing: https://www.cccb.org/en/w/activit
+ ies/lecture-by-bonnie-honig
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/lecture-by-bonnie-honig
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beirut: The Myth of Resilience — Barcelona
+DTSTART;TZID="UTC+01:00":20261103T183000
+DTSTAMP:20261011T185326Z
+UID:d92f1daf3e5f4fdb75e178ef0115@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Camille Ammoun\nCategory: Debates\nOriginal listing: https://w
+ ww.cccb.org/en/w/activities/beirut-the-myth-of-resilience
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/beirut-the-myth-of-resilience
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20261103T183000
+DTSTAMP:20261011T185326Z
+UID:436f275c44c0971695fad3977233@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravada\, escrita\, pronunciada — Barcelona
+DTSTART;TZID="UTC+01:00":20261103T183000
+DTSTAMP:20261011T185326Z
+UID:fbb9cb61c2bda0d2d1d554acd233@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La paraula al cinema experimental\nCategory: Courses and works
+ hops\nOriginal listing: https://www.cccb.org/en/w/activitats/gravada-escri
+ ta-pronunciada
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El món com a manicomi — Barcelona
+DTSTART;TZID="UTC+01:00":20261104T183000
+DTSTAMP:20261011T185326Z
+UID:8f26fedbaf7938ff1c5018931212@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Dolor femení\, resistència i literatura\nCategory: Courses a
+ nd workshops\nOriginal listing: https://www.cccb.org/en/w/activitats/el-mo
+ n-com-a-manicomi
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:goat (jp) + Camila Nebbia — Berlin
+DTSTART;TZID="UTC+01:00":20261104T200000
+DTSTAMP:20261011T185326Z
+UID:2292bc54b104b09e7ac4cb5e4f07@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/goat-jp?tx_news_pi1%5Bday%5D=4&tx_news_pi1%5Bmonth%5D=
+ 11&tx_news_pi1%5Byear%5D=2026&cHash=fa8983364cd5c68d5c957c597e0d73d1
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/goat-jp?tx_news_pi1%5Bday
+ %5D=4&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=fa8983364
+ cd5c68d5c957c597e0d73d1
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emily Dickinson\, una carta al món — Barcelona
+DTSTART;TZID="UTC+01:00":20261105T183000
+DTSTAMP:20261011T185326Z
+UID:59651486ef83bfa715f4ca0582ea@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Category: Courses and workshops\nOriginal listing: https://www
+ .cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Berlin International Tea Conference 2026 – VOICES OF TEA — Ber
+ lin
+DTSTART;TZID="UTC+01:00":20261106T100000
+DTSTAMP:20261011T185326Z
+UID:7075f963dc03136fce3b4d92b3a7@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/berlin-international-tea-conference-2026-voices-of-te
+ a?tx_news_pi1%5Bday%5D=6&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2
+ 026&cHash=d2a7df1a5230094b61ec26bfa64efb39
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/berlin-international-tea-
+ conference-2026-voices-of-tea?tx_news_pi1%5Bday%5D=6&tx_news_pi1%5Bmonth%5
+ D=11&tx_news_pi1%5Byear%5D=2026&cHash=d2a7df1a5230094b61ec26bfa64efb39
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bullitt — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261106T190000
+DTSTAMP:20261011T185326Z
+UID:d621bb18c5b8f82e30d47fd035fa@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Peter Yates\,                     1968\nCategory: Film\nOriginal 
+ listing: https://harvardfilmarchive.org/calendar/bullitt-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/bullitt-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radial 3: Andrea El Ameri\, Panzetti/Ticconi and Camilo Mejía —
+  Barcelona
+DTSTART;TZID="UTC+01:00":20261106T193000
+DTSTAMP:20261011T185326Z
+UID:eb7538278d0324920878abe4fdd0@global-arts-culture
+CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
+DESCRIPTION:Concert dance session\nCategory: \nOriginal listing: https://w
+ ww.cccb.org/en/w/activities/radial-3-andrea-el-ameri-panzettiticconi-and-c
+ amilo-mejia
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/radial-3-andrea-el-ameri-panzetti
+ ticconi-and-camilo-mejia
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Conversation — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261106T211500
+DTSTAMP:20261011T185326Z
+UID:cd82e98c8ac94b4133f6178dc95d@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Francis Ford Coppola\,                     1974\nCategory: Film\n
+ Original listing: https://harvardfilmarchive.org/calendar/the-conversation
+ -2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-conversation-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UChicago Faculty-Designed Events — Chicago
+DTSTART;TZID="UTC-06:00":20261107T000000
+DTSTAMP:20261011T185326Z
+UID:eb0ed26949072115508e4d3a06f3@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Category: Arts & Ideas\nOriginal listing: https://www.chicagoh
+ umanities.org/events/attend/uchicago-faculty-curated-events-fall-2026/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/uchicago-faculty-curat
+ ed-events-fall-2026/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walking\, Writing — Barcelona
+DTSTART;TZID="UTC+01:00":20261107T100000
+DTSTAMP:20261011T185326Z
+UID:208721a0cd76204cc4d76d8c7bbe@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Workshop on Writing\, Literature and City\nCategory: Courses a
+ nd workshops\nOriginal listing: https://www.cccb.org/en/w/activities/walki
+ ng-writing
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/walking-writing
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Berlin Tea Festival 2026: CLOSER TO TEA – Main Days — Berlin
+DTSTART;TZID="UTC+01:00":20261107T110000
+DTSTAMP:20261011T185326Z
+UID:044e61a4aecf7d0bba786aa20418@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/berlin-tea-festival-2026-main-days-closer-to-tea?tx_n
+ ews_pi1%5Bday%5D=7&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cH
+ ash=13a66746082298fb9c656d1399913343
+LOCATION:silent green — Betonhalle\, Ateliers\, Gerichtstraße 35\, 1334
+ 7 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/berlin-tea-festival-2026-
+ main-days-closer-to-tea?tx_news_pi1%5Bday%5D=7&tx_news_pi1%5Bmonth%5D=11&t
+ x_news_pi1%5Byear%5D=2026&cHash=13a66746082298fb9c656d1399913343
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:60 Years on the Front Lines of History: A Conversation with David 
+ Hume Kennerly — Chicago
+DTSTART;TZID="UTC-06:00":20261107T110000
+DTEND;TZID="UTC-06:00":20261107T120000
+DTSTAMP:20261011T185326Z
+UID:184413fb856bee773fecf009ccb7@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The Pulitzer Prize-winning photojournalist on his legendary ca
+ reer\nCategory: Arts & Ideas\nOriginal listing: https://www.chicagohumanit
+ ies.org/events/attend/david-hume-kennerly/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/david-hume-kennerly/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Conversation with Pulitzer Prize-Winning Writer Hilton Als — C
+ hicago
+DTSTART;TZID="UTC-06:00":20261107T110000
+DTEND;TZID="UTC-06:00":20261107T120000
+DTSTAMP:20261011T185326Z
+UID:24fa584c89048f9056b6ce67d908@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The New Yorker critic on where we stand\nCategory: Arts & Idea
+ s\nOriginal listing: https://www.chicagohumanities.org/events/attend/hilto
+ n-als/
+LOCATION:University of Chicago\, 5706 S University Ave\, Chicago\, IL\, 60
+ 637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hilton-als/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Designing a Living City — Chicago
+DTSTART;TZID="UTC-06:00":20261107T110000
+DTEND;TZID="UTC-06:00":20261107T120000
+DTSTAMP:20261011T185326Z
+UID:3bf760eacc7331f225c7f82385d5@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:How ecological thinking reshapes cities\nCategory: Arts & Idea
+ s\nOriginal listing: https://www.chicagohumanities.org/events/attend/heidi
+ -natura/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/heidi-natura/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyde Park Brick of Chicago Walking Tour 12:15 p.m. — Chicago
+DTSTART;TZID="UTC-06:00":20261107T121500
+DTEND;TZID="UTC-06:00":20261107T131500
+DTSTAMP:20261011T185326Z
+UID:f740ae214e4fae8cf165cf976516@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:See what Chicago is made of\nCategory: Arts & Ideas\nOriginal 
+ listing: https://www.chicagohumanities.org/events/attend/hyde-park-brick-t
+ our-fall-2026-1215/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hyde-park-brick-tour-f
+ all-2026-1215/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyde Park Doorways of Chicago Walking Tour 12:15 p.m. — Chicago
+DTSTART;TZID="UTC-06:00":20261107T121500
+DTEND;TZID="UTC-06:00":20261107T131500
+DTSTAMP:20261011T185326Z
+UID:f08a8cf6c9675243cef772eca4d4@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:A portal into Chicago’s rich history\nCategory: Arts & Ideas
+ \nOriginal listing: https://www.chicagohumanities.org/events/attend/hyde-p
+ ark-doorways-tour-fall-2026-1215/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hyde-park-doorways-tou
+ r-fall-2026-1215/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Kraus: Angel Down — Chicago
+DTSTART;TZID="UTC-06:00":20261107T133000
+DTEND;TZID="UTC-06:00":20261107T143000
+DTSTAMP:20261011T185326Z
+UID:22e9ccc8fbaf8516095be35f5ce5@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The Pulitzer Prize-winning Chicago author in conversation\nCat
+ egory: Arts & Ideas\nOriginal listing: https://www.chicagohumanities.org/e
+ vents/attend/daniel-kraus/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/daniel-kraus/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Sagal’s Constitution Sessions: How to Save a Constitutiona
+ l Democracy — Chicago
+DTSTART;TZID="UTC-06:00":20261107T133000
+DTEND;TZID="UTC-06:00":20261107T150000
+DTSTAMP:20261011T185326Z
+UID:6e951eb566fa49a895e0d06e5b26@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:A conversation on democracy's fault lines\nCategory: Arts & Id
+ eas\nOriginal listing: https://www.chicagohumanities.org/events/attend/sag
+ al-constitution-sessions-constitutional-democracy/
+LOCATION:University of Chicago\, 5706 S University Ave\, Chicago\, IL\, 60
+ 637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/sagal-constitution-ses
+ sions-constitutional-democracy/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Place: Stephen “ESPO” Powers in Conversation — Ch
+ icago
+DTSTART;TZID="UTC-06:00":20261107T133000
+DTEND;TZID="UTC-06:00":20261107T143000
+DTSTAMP:20261011T185326Z
+UID:962a31e8673c13d808baf29c813a@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The muralist and multimedia artist on art’s impact on belong
+ ing and shared spaces\nCategory: Arts & Ideas\nOriginal listing: https://w
+ ww.chicagohumanities.org/events/attend/stephen-espo-powers/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/stephen-espo-powers/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyde Park Brick of Chicago Walking Tour 3:15 p.m. — Chicago
+DTSTART;TZID="UTC-06:00":20261107T151500
+DTEND;TZID="UTC-06:00":20261107T161500
+DTSTAMP:20261011T185326Z
+UID:10156b30a4ea9fa0208a9aee3445@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:See what Chicago is made of\nCategory: Arts & Ideas\nOriginal 
+ listing: https://www.chicagohumanities.org/events/attend/hyde-park-brick-t
+ our-fall-2026-315/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hyde-park-brick-tour-f
+ all-2026-315/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyde Park Doorways of Chicago Walking Tour 3:15 p.m. — Chicago
+DTSTART;TZID="UTC-06:00":20261107T151500
+DTEND;TZID="UTC-06:00":20261107T161500
+DTSTAMP:20261011T185326Z
+UID:69480e84fb257e0498a0a2c5cca3@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:A portal into Chicago’s rich history\nCategory: Arts & Ideas
+ \nOriginal listing: https://www.chicagohumanities.org/events/attend/hyde-p
+ ark-doorways-tour-fall-2026-315/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/hyde-park-doorways-tou
+ r-fall-2026-315/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Susan Stryker: Changing Gender — Chicago
+DTSTART;TZID="UTC-06:00":20261107T160000
+DTEND;TZID="UTC-06:00":20261107T170000
+DTSTAMP:20261011T185326Z
+UID:4e674e46a6c81a802b96530cdb98@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The groundbreaking trans scholar on the story we tell about ge
+ nder\nCategory: Arts & Ideas\nOriginal listing: https://www.chicagohumanit
+ ies.org/events/attend/susan-stryker/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/susan-stryker/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesmyn Ward: On Witness and Respair — Chicago
+DTSTART;TZID="UTC-06:00":20261107T163000
+DTEND;TZID="UTC-06:00":20261107T173000
+DTSTAMP:20261011T185326Z
+UID:f7e2f8db21e192d627e498e57857@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:The MacArthur Fellow and National Book Award-winner on her new
+  collection\nCategory: Arts & Ideas\nOriginal listing: https://www.chicago
+ humanities.org/events/attend/jesmyn-ward-witness-respair/
+LOCATION:University of Chicago\, 5706 S University Ave\, Chicago\, IL\, 60
+ 637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/jesmyn-ward-witness-re
+ spair/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything that dances — Barcelona
+DTSTART;TZID="UTC+01:00":20261107T170000
+DTSTAMP:20261011T185326Z
+UID:d9c6004955fcedfac89d28e7dc60@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
+ sting: https://www.cccb.org/en/w/activities/everything-that-dances
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/everything-that-dances
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with Haley Heynderickx and Mary Lattimore in Rockefelle
+ r Chapel — Chicago
+DTSTART;TZID="UTC-06:00":20261107T180000
+DTEND;TZID="UTC-06:00":20261107T194500
+DTSTAMP:20261011T185326Z
+UID:444c02ad8954b3684fbaedf27d45@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Solo performances by the acclaimed musicians\nCategory: Arts &
+  Ideas\nOriginal listing: https://www.chicagohumanities.org/events/attend/
+ mary-lattimore-haley-heynderickx/
+LOCATION:University of Chicago\, 5850 S Woodlawn Ave\, Chicago\, IL\, 6063
+ 7
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/mary-lattimore-haley-h
+ eynderickx/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Sagal’s Constitution Sessions: The Legacy of the Declarati
+ on of Independence — Chicago
+DTSTART;TZID="UTC-06:00":20261107T183000
+DTEND;TZID="UTC-06:00":20261107T200000
+DTSTAMP:20261011T185326Z
+UID:6964e4c504422f0a923f44ac46ff@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Considering America at 250 with leading UChicago scholars\nCat
+ egory: Arts & Ideas\nOriginal listing: https://www.chicagohumanities.org/e
+ vents/attend/america-250-panel/
+LOCATION:University of Chicago\, 1212 E 59th St\, Chicago\, IL\, 60637
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/america-250-panel/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything that dances — Barcelona
+DTSTART;TZID="UTC+01:00":20261108T110000
+DTSTAMP:20261011T185326Z
+UID:af18551bc67ff0053988c11f0763@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
+ sting: https://www.cccb.org/en/w/activities/everything-that-dances
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/everything-that-dances
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Berlin Tea Festival 2026: CLOSER TO TEA – Main Days — Berlin
+DTSTART;TZID="UTC+01:00":20261108T110000
+DTSTAMP:20261011T185326Z
+UID:b5e2b751ec0edab149687beb07c0@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/berlin-tea-festival-2026-main-days-closer-to-tea?tx_n
+ ews_pi1%5Bday%5D=7&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cH
+ ash=13a66746082298fb9c656d1399913343
+LOCATION:silent green — Betonhalle\, Ateliers\, Gerichtstraße 35\, 1334
+ 7 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/berlin-tea-festival-2026-
+ main-days-closer-to-tea?tx_news_pi1%5Bday%5D=7&tx_news_pi1%5Bmonth%5D=11&t
+ x_news_pi1%5Byear%5D=2026&cHash=13a66746082298fb9c656d1399913343
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark Passage — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261108T150000
+DTSTAMP:20261011T185326Z
+UID:e7e2cfe07a9a3dd10fa668ed6d07@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Delmer Daves\,                     1947\nCategory: Film\nOriginal
+  listing: https://harvardfilmarchive.org/calendar/dark-passage-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/dark-passage-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lineup — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261108T190000
+DTSTAMP:20261011T185326Z
+UID:5691f6662705cbf5ea174d32f3c5@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Don Siegel\,                     1958\nCategory: Film\nOriginal l
+ isting: https://harvardfilmarchive.org/calendar/the-lineup-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-lineup-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Divina comèdia\, III: «Paradís» — Barcelona
+DTSTART;TZID="UTC+01:00":20261109T183000
+DTSTAMP:20261011T185326Z
+UID:8ef493a2abe3b0a486795112ae70@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Lectura i interpretació d’un clàssic\nCategory: Courses an
+ d workshops\nOriginal listing: https://www.cccb.org/en/w/activitats/la-div
+ ina-comedia-iii-paradis
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/la-divina-comedia-iii-paradis
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Today\, Foucault — Barcelona
+DTSTART;TZID="UTC+01:00":20261109T183000
+DTSTAMP:20261011T185326Z
+UID:bb977836f5fe021aaa886cb2c339@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Category: Debates\nOriginal listing: https://www.cccb.org/en/w
+ /activities/today-foucault
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/today-foucault
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261109T190000
+DTSTAMP:20261011T185326Z
+UID:c7d9db8f85df62c671f277a954dc@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
+ ected by Alfred Hitchcock\,                     1958\nCategory: Film\nOrig
+ inal listing: https://harvardfilmarchive.org/calendar/vertigo-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/vertigo-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ana Roxanne + Clarice — Berlin
+DTSTART;TZID="UTC+01:00":20261109T200000
+DTSTAMP:20261011T185326Z
+UID:2803eaafdebf87dc9d63f59e4167@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/ana-roxanne-1?tx_news_pi1%5Bday%5D=9&tx_news_pi1%5Bmon
+ th%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=a988557a4c9204f306b476d431f478a3
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/ana-roxanne-1?tx_news_pi1
+ %5Bday%5D=9&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=a98
+ 8557a4c9204f306b476d431f478a3
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Christeene + Geo Wyex — New York
 DTSTART;TZID="UTC-05:00":20261109T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:f7ddd5286587cebf7caf6cd7b299@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -916,9 +3024,338 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gravada\, escrita\, pronunciada — Barcelona
+DTSTART;TZID="UTC+01:00":20261110T183000
+DTSTAMP:20261011T185326Z
+UID:67d7fdce72165f6bdb1b1f42baef@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La paraula al cinema experimental\nCategory: Courses and works
+ hops\nOriginal listing: https://www.cccb.org/en/w/activitats/gravada-escri
+ ta-pronunciada
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poppy Ackroyd — Berlin
+DTSTART;TZID="UTC+01:00":20261110T200000
+DTSTAMP:20261011T185326Z
+UID:2bfc9e7813e9f3d111ae141ebbb0@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/poppy-ackroyd?tx_news_pi1%5Bday%5D=10&tx_news_pi1%5Bmo
+ nth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=5415839971ab610692252510575b662
+ 5
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/poppy-ackroyd?tx_news_pi1
+ %5Bday%5D=10&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=54
+ 15839971ab610692252510575b6625
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El món com a manicomi — Barcelona
+DTSTART;TZID="UTC+01:00":20261111T183000
+DTSTAMP:20261011T185326Z
+UID:a4433e965949a0596aa998f9b375@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Dolor femení\, resistència i literatura\nCategory: Courses a
+ nd workshops\nOriginal listing: https://www.cccb.org/en/w/activitats/el-mo
+ n-com-a-manicomi
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sintonia 2026 Attunement II: Nnux + Cinna Peyghamy — Berlin
+DTSTART;TZID="UTC+01:00":20261111T200000
+DTSTAMP:20261011T185326Z
+UID:7293004d202e59dfd91917b5c911@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/sintonia-2026-attunement-ii?tx_news_pi1%5Bday%5D=11&tx
+ _news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=10da4e96885f0df56
+ 33e7240ea05aeea
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/sintonia-2026-attunement-
+ ii?tx_news_pi1%5Bday%5D=11&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D
+ =2026&cHash=10da4e96885f0df5633e7240ea05aeea
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emily Dickinson\, una carta al món — Barcelona
+DTSTART;TZID="UTC+01:00":20261112T183000
+DTSTAMP:20261011T185326Z
+UID:ac2a67a03070811f442874dbb58c@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Category: Courses and workshops\nOriginal listing: https://www
+ .cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tehran Contemporary Sounds Festival 2026 — Berlin
+DTSTART;TZID="UTC+01:00":20261113T000000
+DTSTAMP:20261011T185326Z
+UID:70379550056e267b8ed461e32ca8@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/tehran-contemporary-sounds-festival-2026?tx_news_pi1%
+ 5Bday%5D=13&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=190
+ b45b4f44c9c028ff4987d8428e749
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/tehran-contemporary-sound
+ s-festival-2026?tx_news_pi1%5Bday%5D=13&tx_news_pi1%5Bmonth%5D=11&tx_news_
+ pi1%5Byear%5D=2026&cHash=190b45b4f44c9c028ff4987d8428e749
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temptation Harbour — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261113T190000
+DTSTAMP:20261011T185326Z
+UID:6b55f11462ca7fbaaf4f9124e426@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Lance Comfort\,                     1947\nCategory: Film\nOriginal list
+ ing: https://harvardfilmarchive.org/calendar/temptation-harbour-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/temptation-harbour-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yasuaki Shimizu + Merma Suelo — Berlin
+DTSTART;TZID="UTC+01:00":20261113T200000
+DTSTAMP:20261011T185326Z
+UID:216e91519c3be95269dc1f4ab177@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/yasuaki-shimizu?tx_news_pi1%5Bday%5D=13&tx_news_pi1%5B
+ month%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=190b45b4f44c9c028ff4987d8428e
+ 749
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/yasuaki-shimizu?tx_news_p
+ i1%5Bday%5D=13&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=
+ 190b45b4f44c9c028ff4987d8428e749
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tiger in the Smoke — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261113T211500
+DTSTAMP:20261011T185326Z
+UID:1e7249e06fed863c970e59352d69@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Roy Ward Baker\,                     1956\nCategory: Film\nOriginal lis
+ ting: https://harvardfilmarchive.org/calendar/tiger-in-the-smoke-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/tiger-in-the-smoke-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tehran Contemporary Sounds Festival 2026 — Berlin
+DTSTART;TZID="UTC+01:00":20261114T000000
+DTSTAMP:20261011T185326Z
+UID:f7e67c0d197b369c1b5146555567@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/tehran-contemporary-sounds-festival-2026?tx_news_pi1%
+ 5Bday%5D=13&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=190
+ b45b4f44c9c028ff4987d8428e749
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/tehran-contemporary-sound
+ s-festival-2026?tx_news_pi1%5Bday%5D=13&tx_news_pi1%5Bmonth%5D=11&tx_news_
+ pi1%5Byear%5D=2026&cHash=190b45b4f44c9c028ff4987d8428e749
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walking\, Writing — Barcelona
+DTSTART;TZID="UTC+01:00":20261114T100000
+DTSTAMP:20261011T185326Z
+UID:c243e4628a09a5a7f32034c16179@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Workshop on Writing\, Literature and City\nCategory: Courses a
+ nd workshops\nOriginal listing: https://www.cccb.org/en/w/activities/walki
+ ng-writing
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/walking-writing
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All About Lily Chou-Chou — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261114T140000
+DTSTAMP:20261011T185326Z
+UID:23e19298668d2b7fb3072d855a14@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
+ ted by Iwai Shunji\,                     2001\nCategory: Film\nOriginal li
+ sting: https://harvardfilmarchive.org/calendar/all-about-lily-chou-chou-20
+ 26-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/all-about-lily-chou-chou-2026-
+ 11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hell is a City — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261114T190000
+DTSTAMP:20261011T185326Z
+UID:1338acf5301051a0e4d095a23fcb@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Val Guest\,                     1960\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/hell-is-a-city-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/hell-is-a-city-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Conversation with the Stars — Chicago
+DTSTART;TZID="UTC-06:00":20261114T193000
+DTEND;TZID="UTC-06:00":20261114T213000
+DTSTAMP:20261011T185326Z
+UID:a76ed1ec4a35c50e15c7373d4e57@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
+DESCRIPTION:Celebrate the iconic series with Ray Wise (Leland Palmer)\, Mi
+ chael Horse (Deputy Tommy “Hawk” Hill)\, Kimmy Robertson (Lucy Moran/B
+ rennan)\, and Sabrina S. Sutherland (executive producer)\nCategory: Arts &
+  Ideas\nOriginal listing: https://www.chicagohumanities.org/events/attend/
+ twin-peaks/
+LOCATION:Old Town School of Folk Music\, 4544 N. Lincoln Ave\, Chicago\, I
+ L\, 60625
+STATUS:CONFIRMED
+URL:https://www.chicagohumanities.org/events/attend/twin-peaks/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:chicago-humanities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria BC + Eli Wewentxu & Indrė Jurgelevičiūtė — Berlin
+DTSTART;TZID="UTC+01:00":20261114T200000
+DTSTAMP:20261011T185326Z
+UID:1a777530d9af9d1c114bec5841ba@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/maria-bc?tx_news_pi1%5Bday%5D=14&tx_news_pi1%5Bmonth%5
+ D=11&tx_news_pi1%5Byear%5D=2026&cHash=2aca03a58545c3afea447087b4b08411
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/maria-bc?tx_news_pi1%5Bda
+ y%5D=14&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=2aca03a
+ 58545c3afea447087b4b08411
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Never Let Go — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261114T210000
+DTSTAMP:20261011T185326Z
+UID:931aca2df38367e860f18c8655a7@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by John Guillermin\,                     1960\nCategory: Film\nOriginal li
+ sting: https://harvardfilmarchive.org/calendar/never-let-go-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/never-let-go-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tehran Contemporary Sounds Festival 2026 — Berlin
+DTSTART;TZID="UTC+01:00":20261115T000000
+DTSTAMP:20261011T185326Z
+UID:6302a87e631595bda813a6dc2895@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/tehran-contemporary-sounds-festival-2026?tx_news_pi1%
+ 5Bday%5D=13&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=190
+ b45b4f44c9c028ff4987d8428e749
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/tehran-contemporary-sound
+ s-festival-2026?tx_news_pi1%5Bday%5D=13&tx_news_pi1%5Bmonth%5D=11&tx_news_
+ pi1%5Byear%5D=2026&cHash=190b45b4f44c9c028ff4987d8428e749
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marie Antoinette — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261115T150000
+DTSTAMP:20261011T185326Z
+UID:3b49f1f323ed35ca77aa199ef7f8@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Marie Antoinette and Friends\, Three Films ... — Directed by
+  Sofia Coppola\,                     2006\nCategory: Film\nOriginal listin
+ g: https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/marie-antoinette-2026-10
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michel Foucault — Barcelona
+DTSTART;TZID="UTC+01:00":20261116T183000
+DTSTAMP:20261011T185326Z
+UID:2682be6b726ff57cc9bc6a007563@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Lighthouse\nCategory: Courses and workshops\nOriginal listing:
+  https://www.cccb.org/en/w/activitats/michel-foucault
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/michel-foucault
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nowhere to Go — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261116T190000
+DTSTAMP:20261011T185326Z
+UID:0a0d3b8068c01eec27c46fdbf040@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Seth Holt\,                     1958\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/nowhere-to-go-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/nowhere-to-go-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sophia Dahlin + Harron Walker — New York
 DTSTART;TZID="UTC-05:00":20261116T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:f0fc1655c74ed74f377186b98181@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -930,9 +3367,92 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gravada\, escrita\, pronunciada — Barcelona
+DTSTART;TZID="UTC+01:00":20261117T183000
+DTSTAMP:20261011T185326Z
+UID:0c7f6f346bbd197c204fb25ac2bd@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La paraula al cinema experimental\nCategory: Courses and works
+ hops\nOriginal listing: https://www.cccb.org/en/w/activitats/gravada-escri
+ ta-pronunciada
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"MANIAC"\, by Benjamin Labatut — Barcelona
+DTSTART;TZID="UTC+01:00":20261118T183000
+DTSTAMP:20261011T185326Z
+UID:7cd511b56a818f30c88a733b342b@global-arts-culture
+CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
+DESCRIPTION:Exclusive reading club for Friends of the CCCB\nCategory: Amic
+ s CCCB\nOriginal listing: https://www.cccb.org/en/w/activities/maniac-by-b
+ enjamin-labatut
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/maniac-by-benjamin-labatut
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beirut: The City and Collapse — Barcelona
+DTSTART;TZID="UTC+01:00":20261118T183000
+DTSTAMP:20261011T185326Z
+UID:ff3d6faa9bd7a2e58ee24be7cbe9@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Rana Eid and Camille Ammoun\nCategory: Debates\nOriginal listi
+ ng: https://www.cccb.org/en/w/activities/beirut-the-city-and-collapse
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/beirut-the-city-and-collapse
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El món com a manicomi — Barcelona
+DTSTART;TZID="UTC+01:00":20261118T183000
+DTSTAMP:20261011T185326Z
+UID:787ff732c20306d8d70e229f2b5b@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Dolor femení\, resistència i literatura\nCategory: Courses a
+ nd workshops\nOriginal listing: https://www.cccb.org/en/w/activitats/el-mo
+ n-com-a-manicomi
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein 
+ — Berlin
+DTSTART;TZID="UTC+01:00":20261118T200000
+DTSTAMP:20261011T185326Z
+UID:c3831d39e7e2802ed0e706d2acdd@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/psychic-liberation-night-horse-lords-audrey-chen-nick-
+ klein?tx_news_pi1%5Bday%5D=18&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear
+ %5D=2026&cHash=71668e4c139b1250558e0478552cd873
+LOCATION:silent green — Betonhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/psychic-liberation-night-
+ horse-lords-audrey-chen-nick-klein?tx_news_pi1%5Bday%5D=18&tx_news_pi1%5Bm
+ onth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=71668e4c139b1250558e0478552cd8
+ 73
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Amy Ching-Yan Lam + Jacqueline Waters — New York
 DTSTART;TZID="UTC-05:00":20261118T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:5607d5a72c7f6772a173070923cd@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -945,9 +3465,90 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Writing against oblivion — Barcelona
+DTSTART;TZID="UTC+01:00":20261119T120000
+DTSTAMP:20261011T185326Z
+UID:98d75cca4ad12db4f9af21dd06f9@global-arts-culture
+CATEGORIES:Arts & Culture\,Education\,Barcelona\,Spain
+DESCRIPTION:A morning with Scholastique Mukasonga\nCategory: Education\nOr
+ iginal listing: https://www.cccb.org/en/w/activities/writing-against-obliv
+ ion
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/writing-against-oblivion
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviatan\, de Thomas Hobbes — Barcelona
+DTSTART;TZID="UTC+01:00":20261119T183000
+DTSTAMP:20261011T185326Z
+UID:7f5cca3d8e366caf2264f48d4fb9@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Llegir filosofia\, 7\nCategory: Courses and workshops\nOrigina
+ l listing: https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scholastique Mukasonga — Barcelona
+DTSTART;TZID="UTC+01:00":20261119T183000
+DTSTAMP:20261011T185326Z
+UID:999bb56cb092418a2c96ea9ed629@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:Whoever tells stories has no hatred in their heart\nCategory: 
+ Debates\nOriginal listing: https://www.cccb.org/en/w/activities/scholastiq
+ ue-mukasonga
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/scholastique-mukasonga
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philo.live! Das Philosophie-Festival in Berlin — Berlin
+DTSTART;TZID="UTC+01:00":20261120T000000
+DTSTAMP:20261011T185326Z
+UID:27e34dde5e71b14b0d80b785ae74@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/philolive-das-philosophie-festival-in-berlin-2?tx_new
+ s_pi1%5Bday%5D=20&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHa
+ sh=bacb0ac47c401b33ced4b3299947b101
+LOCATION:silent green — Gesamtes Gelände\, Gerichtstraße 35\, 13347 Be
+ rlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/philolive-das-philosophie
+ -festival-in-berlin-2?tx_news_pi1%5Bday%5D=20&tx_news_pi1%5Bmonth%5D=11&tx
+ _news_pi1%5Byear%5D=2026&cHash=bacb0ac47c401b33ced4b3299947b101
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Was a Woman — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261120T190000
+DTSTAMP:20261011T185326Z
+UID:9e25d7522542b286f70c840258ff@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
+ by Tim Whelan\,                     1948\nCategory: Film\nOriginal listing
+ : https://harvardfilmarchive.org/calendar/this-was-a-woman-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/this-was-a-woman-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crackhead Barney + Ann Liv Young — New York
 DTSTART;TZID="UTC-05:00":20261120T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:ca3c40327c0236cb41a5128f9935@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -959,9 +3560,343 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Philo.live! Das Philosophie-Festival in Berlin — Berlin
+DTSTART;TZID="UTC+01:00":20261121T000000
+DTSTAMP:20261011T185326Z
+UID:b6e34cb290f1255302733b97f176@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/philolive-das-philosophie-festival-in-berlin-2?tx_new
+ s_pi1%5Bday%5D=20&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHa
+ sh=bacb0ac47c401b33ced4b3299947b101
+LOCATION:silent green — Gesamtes Gelände\, Gerichtstraße 35\, 13347 Be
+ rlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/philolive-das-philosophie
+ -festival-in-berlin-2?tx_news_pi1%5Bday%5D=20&tx_news_pi1%5Bmonth%5D=11&tx
+ _news_pi1%5Byear%5D=2026&cHash=bacb0ac47c401b33ced4b3299947b101
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashes and Diamonds — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261121T190000
+DTSTAMP:20261011T185326Z
+UID:3b342aee3f0152b3c58ad2150847@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1958\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Generation — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261121T211500
+DTSTAMP:20261011T185326Z
+UID:8ab79b648b80ae3a187293ec68d8@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1955\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/a-generation-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/a-generation-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philo.live! Das Philosophie-Festival in Berlin — Berlin
+DTSTART;TZID="UTC+01:00":20261122T000000
+DTSTAMP:20261011T185326Z
+UID:8bcfe53f2537389b2c965e4fd2aa@global-arts-culture
+CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
+DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
+ .net/programm/detail/philolive-das-philosophie-festival-in-berlin-2?tx_new
+ s_pi1%5Bday%5D=20&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHa
+ sh=bacb0ac47c401b33ced4b3299947b101
+LOCATION:silent green — Gesamtes Gelände\, Gerichtstraße 35\, 13347 Be
+ rlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/philolive-das-philosophie
+ -festival-in-berlin-2?tx_news_pi1%5Bday%5D=20&tx_news_pi1%5Bmonth%5D=11&tx
+ _news_pi1%5Byear%5D=2026&cHash=bacb0ac47c401b33ced4b3299947b101
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visit the Mirador CCCB 2026 — Barcelona
+DTSTART;TZID="UTC+01:00":20261122T100000
+DTSTAMP:20261011T185326Z
+UID:0ae270a0d834385087ae1fd2749b@global-arts-culture
+CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
+DESCRIPTION:And enjoy the views of the city\nCategory: \nOriginal listing:
+  https://www.cccb.org/en/w/activities/visit-the-mirador-cccb-2026
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/visit-the-mirador-cccb-2026
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Innocent Sorcerers — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261122T150000
+DTSTAMP:20261011T185326Z
+UID:fb88e5230704bf940435e224ed3b@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1960\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/innocent-sorcerers-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/innocent-sorcerers-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michel Foucault — Barcelona
+DTSTART;TZID="UTC+01:00":20261123T183000
+DTSTAMP:20261011T185326Z
+UID:767ad83cdb1aa3c63e91376e57d9@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Lighthouse\nCategory: Courses and workshops\nOriginal listing:
+  https://www.cccb.org/en/w/activitats/michel-foucault
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/michel-foucault
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kanał — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261123T190000
+DTSTAMP:20261011T185326Z
+UID:beae554dafebe42cf75f362ae598@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1957\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/kanal-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/kanal-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravada\, escrita\, pronunciada — Barcelona
+DTSTART;TZID="UTC+01:00":20261124T183000
+DTSTAMP:20261011T185326Z
+UID:94145725084e78f573fc7b34d1e2@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La paraula al cinema experimental\nCategory: Courses and works
+ hops\nOriginal listing: https://www.cccb.org/en/w/activitats/gravada-escri
+ ta-pronunciada
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel Bat Dawid — Berlin
+DTSTART;TZID="UTC+01:00":20261124T200000
+DTSTAMP:20261011T185326Z
+UID:108e3cd5eb6401bd8c6c1e743783@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/angel-bat-dawid?tx_news_pi1%5Bday%5D=24&tx_news_pi1%5B
+ month%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=4829d71072833129503cd9c121dec
+ 7ac
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/angel-bat-dawid?tx_news_p
+ i1%5Bday%5D=24&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=
+ 4829d71072833129503cd9c121dec7ac
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+01:00":20261125T180000
+DTSTAMP:20261011T185326Z
+UID:480dcd7fe8292238994dab3589a9@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El món com a manicomi — Barcelona
+DTSTART;TZID="UTC+01:00":20261125T183000
+DTSTAMP:20261011T185326Z
+UID:3f03b5ac5b509f6970255d559325@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Dolor femení\, resistència i literatura\nCategory: Courses a
+ nd workshops\nOriginal listing: https://www.cccb.org/en/w/activitats/el-mo
+ n-com-a-manicomi
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emily Dickinson\, una carta al món — Barcelona
+DTSTART;TZID="UTC+01:00":20261126T183000
+DTSTAMP:20261011T185326Z
+UID:63d856e53ae8735821dccf580025@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Category: Courses and workshops\nOriginal listing: https://www
+ .cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Promised Land — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261127T190000
+DTSTAMP:20261011T185326Z
+UID:71bc44f63142e4e7848bde541fa7@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1975\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/the-promised-land-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-promised-land-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man of Marble — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261128T190000
+DTSTAMP:20261011T185326Z
+UID:b282d79820315b85578d9e3a4817@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1977\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/man-of-marble-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/man-of-marble-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wałęsa: Man of Hope — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261129T150000
+DTSTAMP:20261011T185326Z
+UID:f761cac4a4519e9e239ff75c3cfb@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     2013\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/walesa-man-of-hope-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/walesa-man-of-hope-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michel Foucault — Barcelona
+DTSTART;TZID="UTC+01:00":20261130T183000
+DTSTAMP:20261011T185326Z
+UID:d7172ae483e69e6bfcaaae413e93@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Lighthouse\nCategory: Courses and workshops\nOriginal listing:
+  https://www.cccb.org/en/w/activitats/michel-foucault
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/michel-foucault
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man of Iron — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261130T190000
+DTSTAMP:20261011T185326Z
+UID:27050edc99652385f739d092e141@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1981\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/man-of-iron-2026-11
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/man-of-iron-2026-11
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20261201T183000
+DTSTAMP:20261011T185326Z
+UID:e91702a2044dc7ad488244bee943@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dubai: The Dream of the Twenty-First Century — Barcelona
+DTSTART;TZID="UTC+01:00":20261202T183000
+DTSTAMP:20261011T185326Z
+UID:ac52aae6c2a683996d4b18238189@global-arts-culture
+CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
+DESCRIPTION:Roman Stadnicki i Camille Ammoun\nCategory: \nOriginal listing
+ : https://www.cccb.org/en/w/activities/dubai-the-dream-of-the-twenty-first
+ -century
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/dubai-the-dream-of-the-twenty-fir
+ st-century
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salut — Barcelona
+DTSTART;TZID="UTC+01:00":20261202T183000
+DTSTAMP:20261011T185326Z
+UID:29e0093b9a9ddf8fe53810c1dfb1@global-arts-culture
+CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
+DESCRIPTION:Lèxic quotidià de filosofia\, 6\nCategory: \nOriginal listin
+ g: https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-
+ 6
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia
+ -6
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carolina Ebeid + Mark Nowak — New York
 DTSTART;TZID="UTC-05:00":20261202T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:74ee0c22537578607ca2c98bc02f@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -973,9 +3908,58 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Colum McCann — Barcelona
+DTSTART;TZID="UTC+01:00":20261203T183000
+DTSTAMP:20261011T185326Z
+UID:07cb7868a897c63e4075ba433e12@global-arts-culture
+CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
+DESCRIPTION:The bus theory and other advice for young writers\nCategory: D
+ ebates\nOriginal listing: https://www.cccb.org/en/w/activities/colum-mccan
+ n
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/colum-mccann
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Records pres. A People’s History of Music — Berlin
+DTSTART;TZID="UTC+01:00":20261203T200000
+DTSTAMP:20261011T185326Z
+UID:da940bb0063b68ba7f7d12408dd9@global-arts-culture
+CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
+DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
+ reen.net/programm/detail/mississippi-records-presents-a-peoples-history-of
+ -music?tx_news_pi1%5Bday%5D=3&tx_news_pi1%5Bmonth%5D=12&tx_news_pi1%5Byear
+ %5D=2026&cHash=5fc4df823efb077762895660fb773d22
+LOCATION:silent green — Atelier 2\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/mississippi-records-prese
+ nts-a-peoples-history-of-music?tx_news_pi1%5Bday%5D=3&tx_news_pi1%5Bmonth%
+ 5D=12&tx_news_pi1%5Byear%5D=2026&cHash=5fc4df823efb077762895660fb773d22
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demarried — Barcelona
+DTSTART;TZID="UTC+01:00":20261204T200000
+DTSTAMP:20261011T185326Z
+UID:499bd25e513c2eb3820c0c637431@global-arts-culture
+CATEGORIES:Arts & Culture\,Music\,Barcelona\,Spain
+DESCRIPTION:Festival Clàssics\nCategory: Music\nOriginal listing: https:/
+ /www.cccb.org/en/w/activities/demarried
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/demarried
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:S*an D. Henry-Smith + julie ezelle patton — New York
 DTSTART;TZID="UTC-05:00":20261204T200000
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -987,9 +3971,28 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:silent green Winterfest 2026 — Berlin
+DTSTART;TZID="UTC+01:00":20261205T000000
+DTSTAMP:20261011T185326Z
+UID:c96581fc788f6aad53dd946a1213@global-arts-culture
+CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
+DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
+ reen.net/programm/detail/open-house-with-winterfest-2026?tx_news_pi1%5Bday
+ %5D=5&tx_news_pi1%5Bmonth%5D=12&tx_news_pi1%5Byear%5D=2026&cHash=bf8ba26f9
+ d51ef86bad6b5f1506efa59
+LOCATION:silent green — Gesamtes Gelände\, Gerichtstraße 35\, 13347 Be
+ rlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/open-house-with-winterfes
+ t-2026?tx_news_pi1%5Bday%5D=5&tx_news_pi1%5Bmonth%5D=12&tx_news_pi1%5Byear
+ %5D=2026&cHash=bf8ba26f9d51ef86bad6b5f1506efa59
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Makers Market — London
 DTSTART;VALUE=DATE:20261206
-DTSTAMP:20261011T125612Z
+DTSTAMP:20261011T185326Z
 UID:d01586fcdb47497b5938b169f439@global-arts-culture
 CATEGORIES:Arts & Culture\,Bookshop\,London\,United Kingdom
 DESCRIPTION:The inaugural ICA Makers Market brings together local artists
@@ -1001,5 +4004,539 @@ STATUS:CONFIRMED
 URL:https://www.ica.art/bookshop
 X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:ica-london
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:silent green Winterfest 2026 — Berlin
+DTSTART;TZID="UTC+01:00":20261206T000000
+DTSTAMP:20261011T185326Z
+UID:c1468bd904e84cdad6377607d816@global-arts-culture
+CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
+DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
+ reen.net/programm/detail/open-house-with-winterfest-2026?tx_news_pi1%5Bday
+ %5D=5&tx_news_pi1%5Bmonth%5D=12&tx_news_pi1%5Byear%5D=2026&cHash=bf8ba26f9
+ d51ef86bad6b5f1506efa59
+LOCATION:silent green — Gesamtes Gelände\, Gerichtstraße 35\, 13347 Be
+ rlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/open-house-with-winterfes
+ t-2026?tx_news_pi1%5Bday%5D=5&tx_news_pi1%5Bmonth%5D=12&tx_news_pi1%5Byear
+ %5D=2026&cHash=bf8ba26f9d51ef86bad6b5f1506efa59
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Conductor — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261207T190000
+DTSTAMP:20261011T185326Z
+UID:2377bf638a13f931b19a54e5b62d@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1980\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/the-conductor-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-conductor-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sintonia 2026 Attunement III: Tuce Alba + Mo'ong & Bilawa — Berl
+ in
+DTSTART;TZID="UTC+01:00":20261209T200000
+DTSTAMP:20261011T185326Z
+UID:2dd8f333e60b7a576525e65c16b4@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/sintonia-2026-attunement-iii?tx_news_pi1%5Bday%5D=9&tx
+ _news_pi1%5Bmonth%5D=12&tx_news_pi1%5Byear%5D=2026&cHash=3a1769a8288037dc7
+ e705fb94b457447
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/sintonia-2026-attunement-
+ iii?tx_news_pi1%5Bday%5D=9&tx_news_pi1%5Bmonth%5D=12&tx_news_pi1%5Byear%5D
+ =2026&cHash=3a1769a8288037dc7e705fb94b457447
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Without Anesthesia\, aka Rough Treatment — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261211T190000
+DTSTAMP:20261011T185326Z
+UID:c27d527c8d660021685a785149a7@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1978\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/without-anesthesia-aka-rough-trea
+ tment-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/without-anesthesia-aka-rough-t
+ reatment-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fanny and Alexander — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261212T140000
+DTSTAMP:20261011T185326Z
+UID:70431b95f04053095432abb54ea7@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
+ ted by Ingmar Bergman\,                     1982\nCategory: Film\nOriginal
+  listing: https://harvardfilmarchive.org/calendar/fanny-and-alexander-2026
+ -12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/fanny-and-alexander-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything that dances — Barcelona
+DTSTART;TZID="UTC+01:00":20261212T170000
+DTSTAMP:20261011T185326Z
+UID:99592bd5275d2599592688c13edc@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
+ sting: https://www.cccb.org/en/w/activities/everything-that-dances
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/everything-that-dances
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ashes — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261212T190000
+DTSTAMP:20261011T185326Z
+UID:474b659e4677c73ed9a1c454c7ff@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1965\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/the-ashes-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/the-ashes-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything that dances — Barcelona
+DTSTART;TZID="UTC+01:00":20261213T110000
+DTSTAMP:20261011T185326Z
+UID:a2f36f684775e532c4dbfd8773d6@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
+ sting: https://www.cccb.org/en/w/activities/everything-that-dances
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/everything-that-dances
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pan Tadeusz\, aka The Last Days — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261213T150000
+DTSTAMP:20261011T185326Z
+UID:ada1d0c94b012c65826f34e8504c@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1999\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/pan-tadeusz-aka-the-last-days-202
+ 6-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/pan-tadeusz-aka-the-last-days-
+ 2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Divina comèdia\, III: «Paradís» — Barcelona
+DTSTART;TZID="UTC+01:00":20261214T183000
+DTSTAMP:20261011T185326Z
+UID:133433cbf4ebee501ef8664314c5@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Lectura i interpretació d’un clàssic\nCategory: Courses an
+ d workshops\nOriginal listing: https://www.cccb.org/en/w/activitats/la-div
+ ina-comedia-iii-paradis
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/la-divina-comedia-iii-paradis
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashes and Diamonds — Boston/Cambridge
+DTSTART;TZID="UTC-05:00":20261214T190000
+DTSTAMP:20261011T185326Z
+UID:6236141e21a7981fb2106ae6ff47@global-arts-culture
+CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
+DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
+ ndrzej Wajda\,                     1958\nCategory: Film\nOriginal listing:
+  https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+LOCATION:Harvard Film Archive\, 24 Quincy St\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://harvardfilmarchive.org/calendar/ashes-and-diamonds-2026-12
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20261215T183000
+DTSTAMP:20261011T185326Z
+UID:951eee8848000e5ce009dbd3bfa6@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Imaginar la fi"\, by Eudald Espluga — Barcelona
+DTSTART;TZID="UTC+01:00":20261216T183000
+DTSTAMP:20261011T185326Z
+UID:5837aeff9b278255c7dcc5c69294@global-arts-culture
+CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
+DESCRIPTION:Exclusive reading club for Friends of the CCCB\nCategory: Amic
+ s CCCB\nOriginal listing: https://www.cccb.org/en/w/activities/imaginar-la
+ -fi-by-eudald-espluga
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/imaginar-la-fi-by-eudald-espluga
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salut — Barcelona
+DTSTART;TZID="UTC+01:00":20261216T183000
+DTSTAMP:20261011T185326Z
+UID:108d57d4d56105acaf05a42f8220@global-arts-culture
+CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
+DESCRIPTION:Lèxic quotidià de filosofia\, 6\nCategory: \nOriginal listin
+ g: https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-
+ 6
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia
+ -6
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leviatan\, de Thomas Hobbes — Barcelona
+DTSTART;TZID="UTC+01:00":20261217T183000
+DTSTAMP:20261011T185326Z
+UID:47936080e6f633596439875748c7@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:Llegir filosofia\, 7\nCategory: Courses and workshops\nOrigina
+ l listing: https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20261222T183000
+DTSTAMP:20261011T185326Z
+UID:dc4a42cd04157869e2d698a8a923@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+01:00":20261223T180000
+DTSTAMP:20261011T185326Z
+UID:d4f78e08f92f9a378836c95d52dd@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visit the Mirador CCCB 2026 — Barcelona
+DTSTART;TZID="UTC+01:00":20261227T100000
+DTSTAMP:20261011T185326Z
+UID:443e35841806c96cb30b2878b9c4@global-arts-culture
+CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
+DESCRIPTION:And enjoy the views of the city\nCategory: \nOriginal listing:
+  https://www.cccb.org/en/w/activities/visit-the-mirador-cccb-2026
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/visit-the-mirador-cccb-2026
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20270112T183000
+DTSTAMP:20261011T185326Z
+UID:e496c85d84396c0f401bebb8b99a@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20270119T183000
+DTSTAMP:20261011T185326Z
+UID:65d22727b891e1c0cae934c12ba1@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20270126T183000
+DTSTAMP:20261011T185326Z
+UID:5cc21b46bc939573ebe29887b42f@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+01:00":20270127T180000
+DTSTAMP:20261011T185326Z
+UID:c01c606e720295175df75ad20c9d@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20270202T183000
+DTSTAMP:20261011T185326Z
+UID:92f96f4392fa6dac642b79697e0f@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20270209T183000
+DTSTAMP:20261011T185326Z
+UID:aff4031352e3a164cc77c4b0f92e@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20270216T183000
+DTSTAMP:20261011T185326Z
+UID:1760002db7e1b821c8de0c625c93@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maria Baptist pres. Music for the Now — Berlin
+DTSTART;TZID="UTC+01:00":20270219T200000
+DTSTAMP:20261011T185326Z
+UID:16a04e2a13138bdb852eb2cdc2d3@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/maria-baptist-pres-music-for-the-now?tx_news_pi1%5Bday
+ %5D=19&tx_news_pi1%5Bmonth%5D=2&tx_news_pi1%5Byear%5D=2027&cHash=e2eba9493
+ b0bd5124f2d77788c22b824
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/maria-baptist-pres-music-
+ for-the-now?tx_news_pi1%5Bday%5D=19&tx_news_pi1%5Bmonth%5D=2&tx_news_pi1%5
+ Byear%5D=2027&cHash=e2eba9493b0bd5124f2d77788c22b824
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El segle XVIII — Barcelona
+DTSTART;TZID="UTC+01:00":20270223T183000
+DTSTAMP:20261011T185326Z
+UID:c48126cadc2ae2219bf75320d24b@global-arts-culture
+CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
+DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
+  Courses and workshops\nOriginal listing: https://www.cccb.org/en/w/activi
+ tats/el-segle-xviii
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activitats/el-segle-xviii
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+01:00":20270224T180000
+DTSTAMP:20261011T185326Z
+UID:877c664148612ed7149891948436@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+02:00":20270331T180000
+DTSTAMP:20261011T185326Z
+UID:f3019e8637079ca9997121dac493@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vernon Spring — Berlin
+DTSTART;TZID="UTC+02:00":20270405T200000
+DTSTAMP:20261011T185326Z
+UID:07a9d5fe5529954a2eef4e25aa04@global-arts-culture
+CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
+DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
+ net/programm/detail/the-vernon-spring?tx_news_pi1%5Bday%5D=5&tx_news_pi1%5
+ Bmonth%5D=4&tx_news_pi1%5Byear%5D=2027&cHash=b9eaf911d8d7cfc22dea89762fc27
+ dcc
+LOCATION:silent green — Kuppelhalle\, Gerichtstraße 35\, 13347 Berlin
+STATUS:CONFIRMED
+URL:https://www.silent-green.net/programm/detail/the-vernon-spring?tx_news
+ _pi1%5Bday%5D=5&tx_news_pi1%5Bmonth%5D=4&tx_news_pi1%5Byear%5D=2027&cHash=
+ b9eaf911d8d7cfc22dea89762fc27dcc
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:silent-green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+02:00":20270428T180000
+DTSTAMP:20261011T185326Z
+UID:294e3b3d775896328340b8498d04@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+02:00":20270526T180000
+DTSTAMP:20261011T185326Z
+UID:497200ee347f98496a5fcb925522@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xcèntric Film Club — Barcelona
+DTSTART;TZID="UTC+02:00":20270630T180000
+DTSTAMP:20261011T185326Z
+UID:e20ced95104f0cb986f4f84c282e@global-arts-culture
+CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
+DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
+ diovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/xcentri
+ c-film-club
+LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
+ gre 5\, 08001 Barcelona
+STATUS:CONFIRMED
+URL:https://www.cccb.org/en/w/activities/xcentric-film-club
+X-GLOBAL-CULTURE-REGION:europe
+X-GLOBAL-CULTURE-SOURCE:cccb
 END:VEVENT
 END:VCALENDAR
