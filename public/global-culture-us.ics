@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 SUMMARY:Recollections of the Yellow House — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261011T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:d09883cabcefcfad498946e4f0b1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:João César Monteiro\, Poet-Provocateur — Directed by João
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:SIMPLE TOO: An Evening with Yotam Ottolenghi — Chicago
 DTSTART;TZID="UTC-05:00":20261012T193000
 DTEND;TZID="UTC-05:00":20261012T210000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:8027b5646fdbeca0fb1e935c49cb@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The bestselling cookbook author and chef in conversation\nCate
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Litmus Press 25th Anniversary Celebration & Benefit — New York
 DTSTART;TZID="UTC-04:00":20261014T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:76ca53c0793111109a95b760c18d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:David Byrne on Sleeping Beauties — Chicago
 DTSTART;TZID="UTC-05:00":20261015T193000
 DTEND;TZID="UTC-05:00":20261015T210000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:a8cc0e0f6d68ce2418873ca5b4ba@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:On hidden breakthroughs\, creative risk\, and the patience of 
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Jlin + Third Coast Percussion: Vernacular — Chicago
 DTSTART;TZID="UTC-05:00":20261015T193000
 DTEND;TZID="UTC-05:00":20261015T210000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:1ef64456e3c56712783ce850e0f8@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Category: Arts & Ideas\nOriginal listing: https://www.chicagoh
@@ -90,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Human Condition I: No Greater Love — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261016T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:b9a9f75841abaf4e2fb6a303ebb2@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:“And in this heart\, which has neither had a cause nor the lack 
  of one”: On Translation\, Craft\, and Necessity — New York
 DTSTART;TZID="UTC-04:00":20261016T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:69cdf333e9770042e26283f3fe3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -122,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Human Condition II: Road to Eternity — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261017T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:e5d97d29e4e88c99fba690023934@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Barbara Kingsolver: Partita — Chicago
 DTSTART;TZID="UTC-05:00":20261017T193000
 DTEND;TZID="UTC-05:00":20261017T210000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:fd63f61b7017c49346fbd5dd7b09@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The Pulitzer Prize-winning author on her newest novel\nCategor
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:The Human Condition III: A Soldier’s Prayer — Boston/Cambridg
  e
 DTSTART;TZID="UTC-04:00":20261018T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:76acef2d639cb403fb1cd0603280@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Remake — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261018T183000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:ab62238a34c49b43f4306e4b5111@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Ross McElwee's Remake — Directed by Ross McElwee\,          
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:d0b97d923dd8b7f30f48266474ad@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -203,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Third Man — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261019T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:1bc2477ccfadb6cb3efad5bc8eab@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:The Cold Heart is More Precious than Diamonds. ... — Directe
@@ -218,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rena Anakwe + Muyassar Kurdi — New York
 DTSTART;TZID="UTC-04:00":20261019T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:a96ae334601f964bedcffe485f00@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -232,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tongo Eisen-Martin + Margaret Randall — New York
 DTSTART;TZID="UTC-04:00":20261021T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:33479fdff4d887e03dc580d6ff98@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -247,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mandy — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261023T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:3f6dd0bcbeba1edb5190dacc4f08@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -262,7 +262,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Yellow Balloon — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261023T210000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:625141ea99657f07b8ea6a91785b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -277,7 +277,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Je t’aime\, je t’aime — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261024T140000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:ba99d45e0ed8f7e6f6bc697fe736@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
@@ -292,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pool of London — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261024T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:0bfafc44599f27c6308fec78020e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -307,7 +307,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Turn the Key Softly — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261024T210000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:fc72dca56e831bdc0b7ef308288a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -322,7 +322,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It Always Rains on Sunday — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261025T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:6e8a4beb7444753ccc1daf3d7f77@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -339,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hunted — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261026T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:31d53c0d3603e38d75ecb4e20ae0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -354,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nicole Linder + Jasmine Sanders — New York
 DTSTART;TZID="UTC-04:00":20261026T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:e3c5e2a7176dc3a63b695430521a@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -368,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261028
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:731c190f5799f4111a76759a0ef8@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -382,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matt Longabucco + Susana Plotts-Pineda — New York
 DTSTART;TZID="UTC-04:00":20261028T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:280140a337e48e292f98115234a2@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -397,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marie Antoinette — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261029T180000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:e763bfb286e037987529f31398b1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Marie Antoinette and Friends\, Three Films ... — Directed by
@@ -412,7 +412,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Come and Go — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261030T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:13ba161fa0e75213efcb7a471aa0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:João César Monteiro\, Poet-Provocateur — Directed by João
@@ -427,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daughter of Darkness — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261031T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:74904d913ad57ac4f9ae263533ec@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -442,7 +442,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Three Weird Sisters — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261031T210000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:d8bf19a76d7da712e4d67b3bf924@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -458,7 +458,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:They Made Me a Fugitive — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261101T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:5daf320f190a04e71ab4ff725696@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:"The future exists for the most part in the present": On Poetry\, 
  the Avant-Garde\, and the Left — New York
 DTSTART;TZID="UTC-05:00":20261102T000000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:3400e9451fa4b3388dc5da612b01@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -492,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bullitt — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261106T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:d621bb18c5b8f82e30d47fd035fa@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -507,7 +507,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conversation — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261106T211500
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:cd82e98c8ac94b4133f6178dc95d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -523,7 +523,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UChicago Faculty-Designed Events — Chicago
 DTSTART;TZID="UTC-06:00":20261107T000000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:eb0ed26949072115508e4d3a06f3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Category: Arts & Ideas\nOriginal listing: https://www.chicagoh
@@ -540,7 +540,7 @@ SUMMARY:60 Years on the Front Lines of History: A Conversation with David
  Hume Kennerly — Chicago
 DTSTART;TZID="UTC-06:00":20261107T110000
 DTEND;TZID="UTC-06:00":20261107T120000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:184413fb856bee773fecf009ccb7@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The Pulitzer Prize-winning photojournalist on his legendary ca
@@ -557,7 +557,7 @@ SUMMARY:A Conversation with Pulitzer Prize-Winning Writer Hilton Als — C
  hicago
 DTSTART;TZID="UTC-06:00":20261107T110000
 DTEND;TZID="UTC-06:00":20261107T120000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:24fa584c89048f9056b6ce67d908@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The New Yorker critic on where we stand\nCategory: Arts & Idea
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:Designing a Living City — Chicago
 DTSTART;TZID="UTC-06:00":20261107T110000
 DTEND;TZID="UTC-06:00":20261107T120000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:3bf760eacc7331f225c7f82385d5@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:How ecological thinking reshapes cities\nCategory: Arts & Idea
@@ -590,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:Hyde Park Brick of Chicago Walking Tour 12:15 p.m. — Chicago
 DTSTART;TZID="UTC-06:00":20261107T121500
 DTEND;TZID="UTC-06:00":20261107T131500
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:f740ae214e4fae8cf165cf976516@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:See what Chicago is made of\nCategory: Arts & Ideas\nOriginal 
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:Hyde Park Doorways of Chicago Walking Tour 12:15 p.m. — Chicago
 DTSTART;TZID="UTC-06:00":20261107T121500
 DTEND;TZID="UTC-06:00":20261107T131500
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:f08a8cf6c9675243cef772eca4d4@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:A portal into Chicago’s rich history\nCategory: Arts & Ideas
@@ -624,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:Daniel Kraus: Angel Down — Chicago
 DTSTART;TZID="UTC-06:00":20261107T133000
 DTEND;TZID="UTC-06:00":20261107T143000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:22e9ccc8fbaf8516095be35f5ce5@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The Pulitzer Prize-winning Chicago author in conversation\nCat
@@ -641,7 +641,7 @@ SUMMARY:Peter Sagal’s Constitution Sessions: How to Save a Constitutiona
  l Democracy — Chicago
 DTSTART;TZID="UTC-06:00":20261107T133000
 DTEND;TZID="UTC-06:00":20261107T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:6e951eb566fa49a895e0d06e5b26@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:A conversation on democracy's fault lines\nCategory: Arts & Id
@@ -660,7 +660,7 @@ SUMMARY:The Art of Place: Stephen “ESPO” Powers in Conversation — Ch
  icago
 DTSTART;TZID="UTC-06:00":20261107T133000
 DTEND;TZID="UTC-06:00":20261107T143000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:962a31e8673c13d808baf29c813a@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The muralist and multimedia artist on art’s impact on belong
@@ -676,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Hyde Park Brick of Chicago Walking Tour 3:15 p.m. — Chicago
 DTSTART;TZID="UTC-06:00":20261107T151500
 DTEND;TZID="UTC-06:00":20261107T161500
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:10156b30a4ea9fa0208a9aee3445@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:See what Chicago is made of\nCategory: Arts & Ideas\nOriginal 
@@ -693,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:Hyde Park Doorways of Chicago Walking Tour 3:15 p.m. — Chicago
 DTSTART;TZID="UTC-06:00":20261107T151500
 DTEND;TZID="UTC-06:00":20261107T161500
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:69480e84fb257e0498a0a2c5cca3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:A portal into Chicago’s rich history\nCategory: Arts & Ideas
@@ -710,7 +710,7 @@ BEGIN:VEVENT
 SUMMARY:Susan Stryker: Changing Gender — Chicago
 DTSTART;TZID="UTC-06:00":20261107T160000
 DTEND;TZID="UTC-06:00":20261107T170000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:4e674e46a6c81a802b96530cdb98@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The groundbreaking trans scholar on the story we tell about ge
@@ -726,7 +726,7 @@ BEGIN:VEVENT
 SUMMARY:Jesmyn Ward: On Witness and Respair — Chicago
 DTSTART;TZID="UTC-06:00":20261107T163000
 DTEND;TZID="UTC-06:00":20261107T173000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:f7e2f8db21e192d627e498e57857@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The MacArthur Fellow and National Book Award-winner on her new
@@ -745,7 +745,7 @@ SUMMARY:An Evening with Haley Heynderickx and Mary Lattimore in Rockefelle
  r Chapel — Chicago
 DTSTART;TZID="UTC-06:00":20261107T180000
 DTEND;TZID="UTC-06:00":20261107T194500
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:444c02ad8954b3684fbaedf27d45@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Solo performances by the acclaimed musicians\nCategory: Arts &
@@ -764,7 +764,7 @@ SUMMARY:Peter Sagal’s Constitution Sessions: The Legacy of the Declarati
  on of Independence — Chicago
 DTSTART;TZID="UTC-06:00":20261107T183000
 DTEND;TZID="UTC-06:00":20261107T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:6964e4c504422f0a923f44ac46ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Considering America at 250 with leading UChicago scholars\nCat
@@ -779,7 +779,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dark Passage — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261108T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:e7e2cfe07a9a3dd10fa668ed6d07@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -794,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lineup — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261108T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:5691f6662705cbf5ea174d32f3c5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -809,7 +809,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vertigo — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261109T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:c7d9db8f85df62c671f277a954dc@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -824,7 +824,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christeene + Geo Wyex — New York
 DTSTART;TZID="UTC-05:00":20261109T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:f7ddd5286587cebf7caf6cd7b299@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -838,7 +838,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Temptation Harbour — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261113T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:6b55f11462ca7fbaaf4f9124e426@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -853,7 +853,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tiger in the Smoke — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261113T211500
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:1e7249e06fed863c970e59352d69@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -868,7 +868,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All About Lily Chou-Chou — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261114T140000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:23e19298668d2b7fb3072d855a14@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
@@ -885,7 +885,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hell is a City — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261114T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:1338acf5301051a0e4d095a23fcb@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -901,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:Twin Peaks: Conversation with the Stars — Chicago
 DTSTART;TZID="UTC-06:00":20261114T193000
 DTEND;TZID="UTC-06:00":20261114T213000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:a76ed1ec4a35c50e15c7373d4e57@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Celebrate the iconic series with Ray Wise (Leland Palmer)\, Mi
@@ -919,7 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Never Let Go — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261114T210000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:931aca2df38367e860f18c8655a7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -934,7 +934,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marie Antoinette — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261115T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:3b49f1f323ed35ca77aa199ef7f8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Marie Antoinette and Friends\, Three Films ... — Directed by
@@ -949,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nowhere to Go — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261116T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:0a0d3b8068c01eec27c46fdbf040@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -964,7 +964,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sophia Dahlin + Harron Walker — New York
 DTSTART;TZID="UTC-05:00":20261116T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:f0fc1655c74ed74f377186b98181@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -978,7 +978,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amy Ching-Yan Lam + Jacqueline Waters — New York
 DTSTART;TZID="UTC-05:00":20261118T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:5607d5a72c7f6772a173070923cd@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -993,7 +993,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:This Was a Woman — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261120T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:9e25d7522542b286f70c840258ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -1008,7 +1008,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crackhead Barney + Ann Liv Young — New York
 DTSTART;TZID="UTC-05:00":20261120T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:ca3c40327c0236cb41a5128f9935@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -1022,7 +1022,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ashes and Diamonds — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261121T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:3b342aee3f0152b3c58ad2150847@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1037,7 +1037,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Generation — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261121T211500
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:8ab79b648b80ae3a187293ec68d8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1052,7 +1052,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Innocent Sorcerers — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261122T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:fb88e5230704bf940435e224ed3b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1067,7 +1067,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kanał — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261123T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:beae554dafebe42cf75f362ae598@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1082,7 +1082,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Promised Land — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261127T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:71bc44f63142e4e7848bde541fa7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1097,7 +1097,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man of Marble — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261128T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:b282d79820315b85578d9e3a4817@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1112,7 +1112,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wałęsa: Man of Hope — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261129T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:f761cac4a4519e9e239ff75c3cfb@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1127,7 +1127,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man of Iron — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261130T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:27050edc99652385f739d092e141@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1142,7 +1142,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carolina Ebeid + Mark Nowak — New York
 DTSTART;TZID="UTC-05:00":20261202T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:74ee0c22537578607ca2c98bc02f@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -1156,7 +1156,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S*an D. Henry-Smith + julie ezelle patton — New York
 DTSTART;TZID="UTC-05:00":20261204T200000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -1170,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conductor — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261207T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:2377bf638a13f931b19a54e5b62d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1185,7 +1185,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Without Anesthesia\, aka Rough Treatment — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261211T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:c27d527c8d660021685a785149a7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1202,7 +1202,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fanny and Alexander — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261212T140000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:70431b95f04053095432abb54ea7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
@@ -1218,7 +1218,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ashes — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261212T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:474b659e4677c73ed9a1c454c7ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1233,7 +1233,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pan Tadeusz\, aka The Last Days — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261213T150000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:ada1d0c94b012c65826f34e8504c@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1250,7 +1250,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ashes and Diamonds — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261214T190000
-DTSTAMP:20261011T185326Z
+DTSTAMP:20261011T185443Z
 UID:6236141e21a7981fb2106ae6ff47@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
