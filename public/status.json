@@ -1,17 +1,17 @@
 {
-  "generated": "2026-10-10T23:49:24.047413-04:00",
-  "count": 46,
+  "generated": "2026-10-11T08:56:12.844876-04:00",
+  "count": 51,
   "cancelled": 0,
   "regions": {
     "us": 15,
     "europe": 21,
-    "mexico": 10
+    "mexico": 15
   },
   "sources": {
     "poetry-project": 13,
     "ica-london": 3,
-    "matadero-madrid": 18,
-    "inbal": 10,
+    "matadero-madrid": 17,
+    "inbal": 8,
     "fringearts": 2
   },
   "errors": {}

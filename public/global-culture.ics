@@ -11,7 +11,7 @@ SUMMARY:Taller de Petromural impartido por Renato Paperetti - Programa de
  ria Juan O'Gorman — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T100000
 DTEND;TZID="UTC-06:00":20261010T140000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:e746fa570b5a322b06e8d1816379@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Taller de flamenco - Impartido por Brenda Cruz — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T113000
 DTEND;TZID="UTC-06:00":20261010T130000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:7a794009604d0d42db3600e77912@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -50,7 +50,7 @@ SUMMARY:Itinerar la memoria: archivo\, viajes y creacin en la danza espaol
  a - Conferencia de Ariadna Yez* — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T160000
 DTEND;TZID="UTC-06:00":20261010T170000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:f2f7ded0a8fa21fd7970ca7ddb36@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -68,7 +68,7 @@ SUMMARY:Jornadas de danza espaola 2026 - Mesa de investigacin por Daniela
  Gutirrez Gonzlez y Christian Lpez Martnez — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T171500
 DTEND;TZID="UTC-06:00":20261010T181500
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:68dc06af2fc562e9fa4257a963e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cepromusic - Tercer Concierto de temporada — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T180000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:1bf238aad3f81ab788e3af2cc2b0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Salom Herrera y Claudio Herrera\, pianos - 50 aos de trayectoria d
  e Claudio Herrera — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T180000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:6f133ab5fa8a9d5399aa1185cc6d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Germinal - Sesión I — Madrid
 DTSTART;TZID="UTC+02:00":20261010T190000
 DTEND;TZID="UTC+02:00":20261010T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:ebfbc81c49d6b38ce683f9439526@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Casi septiembre (Lucía G. Romero\, 2025\, 29') Alej
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Compaa La Meute (Francia) - Motel Cactus — Mexico City
 DTSTART;TZID="UTC-06:00":20261010T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:937d343b095f0632f1679d35f3e1@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -165,7 +165,7 @@ SUMMARY:Taller de Escuela Bolera - Impartido por Daniela Gutirrez — Mexi
  co City
 DTSTART;TZID="UTC-06:00":20261011T100000
 DTEND;TZID="UTC-06:00":20261011T110000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:14afdc7f3dd0538a1002bddbb053@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -182,9 +182,29 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Funcin de clausura - Jornadas de Danza Espaola 2026 — Mexico Cit
+ y
+DTSTART;TZID="UTC-06:00":20261011T120000
+DTSTAMP:20261011T125612Z
+UID:401f1c9b892a15523eeafdfd1ff0@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18475/funcion-de-clausura
+LOCATION:Centro Nacional de las Artes (CENART) - Plaza de la Danza Río Ch
+ urubusco no. 79\, esquina con Calzada de Tlalpan\, Col. Country Club. Alca
+ ldía Coyoacán\, C.P. 04220\,\, Centro Nacional de las Artes (CENART) - P
+ laza de la Danza Río Churubusco no. 79\, esquina con Calzada de Tlalpan\,
+  Col. Country Club. Alcaldía Coyoacán\, C.P. 04220\, Ciudad de México\,
+  CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18475/funcion-de-clausura
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Programa 4 - Esplendor de Stradivarius — Mexico City
 DTSTART;TZID="UTC-06:00":20261011T120000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:0ad9b09029a671d4ac843b2b6c24@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -202,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Ignacio Mariscal\, violonchelo  Alain Del Real\, piano - Homenaje 
  a Pablo Casals a 150 aos de su nacimiento — Mexico City
 DTSTART;TZID="UTC-06:00":20261011T180000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:468874d4d7f7248390704a5c6185@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -218,10 +238,27 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Juana Ramrez — Mexico City
+DTSTART;TZID="UTC-06:00":20261011T180000
+DTSTAMP:20261011T125612Z
+UID:d5cb10f2ba97fc0e0ae1cdbd1792@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18521/juana-ramirez
+LOCATION:Centro Cultural del Bosque (CCB) - Sala Xavier Villaurrutia Paseo
+  de la Reforma y Campo Marte s/n\, Paseo de la Reforma\, 11560\, Centro Cu
+ ltural del Bosque (CCB) - Sala Xavier Villaurrutia Paseo de la Reforma y C
+ ampo Marte s/n\, Paseo de la Reforma\, 11560 Ciudad de México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18521/juana-ramirez
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Germinal - Sesión II — Madrid
 DTSTART;TZID="UTC+02:00":20261011T190000
 DTEND;TZID="UTC+02:00":20261011T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:1665d5ac2c0e3cd51e756a884d01@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Entre los días (Judit Ortuño\, 2025\, 27') Una muj
@@ -244,9 +281,51 @@ X-GLOBAL-CULTURE-REGION:europe
 X-GLOBAL-CULTURE-SOURCE:matadero-madrid
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qu es un laboratorio de laboratorios de investigacin-creacin desde
+  las danzas itinerario de la Comunidad InveC-Labs? - Conversacin conducida
+  por Hilda Islas — Mexico City
+DTSTART;TZID="UTC-06:00":20261012T130000
+DTSTAMP:20261011T125612Z
+UID:a84e4bef2ee79b017a2e16ba774c@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18470/que-es-un-laboratorio-de-laboratorios-de-investigacion-creacion-de
+ sde-las-danzas-itinerario-de-la-comunidad-invec-labs
+LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
+  Consulta link en "Programa"
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18470/que-es-un-laboratorio-de-laborator
+ ios-de-investigacion-creacion-desde-las-danzas-itinerario-de-la-comunidad-
+ invec-labs
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonatas para guitarra de Armando Luna. Anlisis de interpretacin y 
+ ejecucin. - Conferencia impartida por el Mtro. Julio Escotto — Mexico Ci
+ ty
+DTSTART;TZID="UTC-06:00":20261013T150000
+DTSTAMP:20261011T125612Z
+UID:b8e842b36ae9a06f2ffdec8c7c43@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18534/sonatas-para-guitarra-de-armando-luna-analisis-de-interpretacion-y
+ -ejecucion
+LOCATION:Conservatorio Nacional de Música - Sala 4 Agustín Caballero Av.
+  Presidente Masaryk no. 582\, Col. Polanco\, Alcaldía Miguel Hidalgo\,\, 
+ Conservatorio Nacional de Música - Sala 4 Agustín Caballero Av. Presiden
+ te Masaryk no. 582\, Col. Polanco\, Alcaldía Miguel Hidalgo\, Ciudad de M
+ éxico\, C.P. 11560
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18534/sonatas-para-guitarra-de-armando-l
+ una-analisis-de-interpretacion-y-ejecucion
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In the Round: L'Rain — London
 DTSTART;VALUE=DATE:20261014
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:c515205d4cde1af70c910e6a9e79@global-arts-culture
 CATEGORIES:Arts & Culture\,Live\,London\,United Kingdom
 DESCRIPTION:L’Rain is the musical project of multi-instrumentalist\, com
@@ -265,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:En el balcón vacío — Madrid
 DTSTART;TZID="UTC+02:00":20261014T190000
 DTEND;TZID="UTC+02:00":20261014T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:49ba8361419d2ed2532cb0611497@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:En el balcón vacío explora la Guerra Civil española vista a
@@ -285,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Eugènia Balcells. Sesión I — Madrid
 DTSTART;TZID="UTC+02:00":20261014T190000
 DTEND;TZID="UTC+02:00":20261014T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:435bde2561074f9b3315a7253e9b@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: FIN (España\, 1978\, 15') FIN consiste en una colec
@@ -310,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Litmus Press 25th Anniversary Celebration & Benefit — New York
 DTSTART;TZID="UTC-04:00":20261014T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:76ca53c0793111109a95b760c18d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -322,10 +401,27 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cuarteto Arod (Francia) - Opus 76 — Mexico City
+DTSTART;TZID="UTC-06:00":20261014T200000
+DTSTAMP:20261011T125612Z
+UID:67d55f3f5a75e59286f34f14ea9b@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18130/-cuarteto-arod-francia
+LOCATION:Palacio de Bellas Artes - Sala Principal Av. Hidalgo No. 1 Col. C
+ entro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Principal
+  Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciudad de México
+ \, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18130/-cuarteto-arod-francia
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eugènia Balcells. Sesión II — Madrid
 DTSTART;TZID="UTC+02:00":20261015T190000
 DTEND;TZID="UTC+02:00":20261015T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:51ed21722e2defb137633aa86bf0@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Fuga (1979\, 20') Con este trabajo\, la artista Eug
@@ -352,7 +448,7 @@ SUMMARY:Exocapitalism and the Superdark Factory – Seminar with Marek Pol
  iks and Roberto Alonso Trillo — Madrid
 DTSTART;TZID="UTC+02:00":20261016T160000
 DTEND;TZID="UTC+02:00":20261017T000000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:fded4b76840a5aecb79824e8e1be@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Exocapitalism is the idea that capitalism doesn't belong to us
@@ -379,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:La sexta parte del mundo — Madrid
 DTSTART;TZID="UTC+02:00":20261016T180000
 DTEND;TZID="UTC+02:00":20261016T180000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:7479e453d41c4914d6c9a442b6a4@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Encargada por la empresa estatal de comercio\, Shestaya chast 
@@ -404,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:The Wisdom of Wonder\, Eugènia Balcells Once and Again — Madrid
 DTSTART;TZID="UTC+02:00":20261016T190000
 DTEND;TZID="UTC+02:00":20261016T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:3a3207c836c6dbc9b8ea9343ba48@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:A través de una mirada sofisticada y llena de asombro\, Eugè
@@ -423,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:“And in this heart\, which has neither had a cause nor the lack 
  of one”: On Translation\, Craft\, and Necessity — New York
 DTSTART;TZID="UTC-04:00":20261016T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:69cdf333e9770042e26283f3fe3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -439,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Carriage Trade — Madrid
 DTSTART;TZID="UTC+02:00":20261016T203000
 DTEND;TZID="UTC+02:00":20261016T203000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:9987e8c30fb46704ca0415ec44c4@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Un rompecabezas de tarjetas postales para producir diversos ef
@@ -460,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:Marnie\, la ladrona — Madrid
 DTSTART;TZID="UTC+02:00":20261017T180000
 DTEND;TZID="UTC+02:00":20261017T180000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:4f7bb5d32836fb24d875b50b2e01@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Marnie pone en escena un intercambio de culpa y deseo entre pe
@@ -484,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:Warren Sonbert. Sesión de cortometrajes I — Madrid
 DTSTART;TZID="UTC+02:00":20261017T203000
 DTEND;TZID="UTC+02:00":20261017T203000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:b6f2b1623e0e957cbcb2685d9d14@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Where Did Our Love Go? (1966\, 15') Días en la Fact
@@ -510,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:Escrito sobre el viento — Madrid
 DTSTART;TZID="UTC+02:00":20261018T180000
 DTEND;TZID="UTC+02:00":20261018T180000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:0b5c3ef525ddacf79a4165ad3f43@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Warren Sonbert veía en Douglas Sirk a un cineasta capaz de re
@@ -536,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Warren Sonbert. Sesión de cortometrajes II — Madrid
 DTSTART;TZID="UTC+02:00":20261018T203000
 DTEND;TZID="UTC+02:00":20261018T203000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:59079ccf4fa387a4495229bc4d04@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: The Cup and the Lip (1986\, 20') Una película compl
@@ -562,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:d0b97d923dd8b7f30f48266474ad@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -577,7 +673,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rena Anakwe + Muyassar Kurdi — New York
 DTSTART;TZID="UTC-04:00":20261019T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:a96ae334601f964bedcffe485f00@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -591,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Book Launch + Screening + Q&A   Positions by K8 Hardy — London
 DTSTART;VALUE=DATE:20261020
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:0a5b12c3c14496187edd553b580c@global-arts-culture
 CATEGORIES:Arts & Culture\,Talks & Events\,London\,United Kingdom
 DESCRIPTION:The next MACK Cinema Club celebrates the release of K8 Hardy's
@@ -607,7 +703,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tongo Eisen-Martin + Margaret Randall — New York
 DTSTART;TZID="UTC-04:00":20261021T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:33479fdff4d887e03dc580d6ff98@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -623,7 +719,7 @@ BEGIN:VEVENT
 SUMMARY:Lali Ayguadé Company — Madrid
 DTSTART;TZID="UTC+02:00":20261024T200000
 DTEND;TZID="UTC+01:00":20261025T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:5381b658ae901c8734522ab2f102@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:The show primarily explores the stark contrast between the vir
@@ -648,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:TEJIENDO Y PUNTO — Madrid
 DTSTART;TZID="UTC+02:00":20261024T235959
 DTEND;TZID="UTC+02:00":20261024T235959
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:4fd35592fd1d7a08f15cd9f44a5c@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Designed as a participatory experience that fosters community
@@ -672,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nicole Linder + Jasmine Sanders — New York
 DTSTART;TZID="UTC-04:00":20261026T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:e3c5e2a7176dc3a63b695430521a@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -686,7 +782,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261028
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:731c190f5799f4111a76759a0ef8@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -701,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:Mitología de barrio + Quién vio los templos caer — Madrid
 DTSTART;TZID="UTC+01:00":20261028T190000
 DTEND;TZID="UTC+01:00":20261028T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:bd4372c6b888af6408d09216816a@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Las ciudades\, lejos de retóricas tradicionalistas\, identita
@@ -726,7 +822,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matt Longabucco + Susana Plotts-Pineda — New York
 DTSTART;TZID="UTC-04:00":20261028T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:280140a337e48e292f98115234a2@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -742,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:Gatos encaramados — Madrid
 DTSTART;TZID="UTC+01:00":20261029T190000
 DTEND;TZID="UTC+01:00":20261029T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:97d80ff7d770d454d5b31df51419@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Tras el 11 de septiembre\, un gato amarillo dibujado comienza 
@@ -766,7 +862,7 @@ BEGIN:VEVENT
 SUMMARY:Crossroads. El viaje circular de Boa Mistura — Madrid
 DTSTART;TZID="UTC+01:00":20261030T190000
 DTEND;TZID="UTC+01:00":20261030T190000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:c45a9ecd5cf31f52b6eab646ca5e@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:La periferia de Ciudad del Cabo\, Sudáfrica\, es el epicentro
@@ -792,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:"The future exists for the most part in the present": On Poetry\, 
  the Avant-Garde\, and the Left — New York
 DTSTART;TZID="UTC-05:00":20261102T000000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:3400e9451fa4b3388dc5da612b01@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -808,7 +904,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christeene + Geo Wyex — New York
 DTSTART;TZID="UTC-05:00":20261109T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:f7ddd5286587cebf7caf6cd7b299@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -822,7 +918,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sophia Dahlin + Harron Walker — New York
 DTSTART;TZID="UTC-05:00":20261116T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:f0fc1655c74ed74f377186b98181@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -836,7 +932,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amy Ching-Yan Lam + Jacqueline Waters — New York
 DTSTART;TZID="UTC-05:00":20261118T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:5607d5a72c7f6772a173070923cd@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -851,7 +947,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crackhead Barney + Ann Liv Young — New York
 DTSTART;TZID="UTC-05:00":20261120T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:ca3c40327c0236cb41a5128f9935@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -865,7 +961,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carolina Ebeid + Mark Nowak — New York
 DTSTART;TZID="UTC-05:00":20261202T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:74ee0c22537578607ca2c98bc02f@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -879,7 +975,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S*an D. Henry-Smith + julie ezelle patton — New York
 DTSTART;TZID="UTC-05:00":20261204T200000
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -893,7 +989,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Makers Market — London
 DTSTART;VALUE=DATE:20261206
-DTSTAMP:20261011T034924Z
+DTSTAMP:20261011T125612Z
 UID:d01586fcdb47497b5938b169f439@global-arts-culture
 CATEGORIES:Arts & Culture\,Bookshop\,London\,United Kingdom
 DESCRIPTION:The inaugural ICA Makers Market brings together local artists
