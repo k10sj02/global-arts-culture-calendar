@@ -1,17 +1,22 @@
 {
-  "generated": "2026-10-11T14:54:43.171004-04:00",
-  "count": 258,
+  "generated": "2026-10-11T15:15:01.343546-04:00",
+  "count": 506,
   "cancelled": 8,
   "regions": {
-    "us": 80,
+    "us": 328,
     "europe": 170,
     "mexico": 8
   },
   "sources": {
     "poetry-project": 13,
+    "brown-arts": 16,
     "chicago-humanities": 20,
     "harvard-film-archive": 45,
+    "gwu-arts": 72,
     "fringearts": 2,
+    "redcat": 33,
+    "berkeley-arts": 36,
+    "northwest-film-forum": 102,
     "ica-london": 3,
     "matadero-madrid": 17,
     "cccb": 109,

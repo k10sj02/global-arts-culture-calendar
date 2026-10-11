@@ -21,6 +21,7 @@ MONTHS = {name.casefold(): number for number, name in enumerate(
     "January February March April May June July August September October November December".split(), 1
 )}
 MONTHS.update({"ene": 1, "feb": 2, "mar": 3, "abr": 4, "may": 5, "jun": 6, "jul": 7, "ago": 8, "sep": 9, "oct": 10, "nov": 11, "dic": 12})
+MONTHS.update({"jan": 1, "apr": 4, "aug": 8, "sept": 9, "dec": 12})
 
 
 @dataclass(frozen=True)
@@ -361,6 +362,165 @@ def silent_green_berlin(fetcher: Fetcher, now: datetime, final_day: date) -> lis
     return output
 
 
+def _livewhale_arts(fetcher: Fetcher, base: str, source: str, city: str, address: str, timezone: str, now: datetime, final_day: date,
+                    group_names: set[str] | None = None) -> list[CultureEvent]:
+    url = f"{base}/live/json/events/start_date/today/max/500/response_fields/event_types,location,summary,description,group_title"
+    payload = json.loads(fetcher.get(url))
+    items = payload if isinstance(payload, list) else payload.get("data", [])
+    output = []
+    arts_types = {"films", "film", "performing arts", "arts", "exhibits", "music", "theater", "dance", "literature", "readings", "performances, concerts and exhibitions"}
+    for item in items:
+        event_types = {str(value).strip().casefold() for value in (item.get("event_types") or [])}
+        group = _plain(str(item.get("group_title") or ""))
+        if group_names:
+            relevant = group in group_names or bool(event_types & arts_types)
+        else:
+            relevant = bool(event_types & arts_types)
+        if not relevant or item.get("is_canceled"):
+            continue
+        starts = item.get("date_iso")
+        if not starts or not _within(starts, now, final_day):
+            continue
+        # Avoid turning every open day of a long-running exhibition into a separate calendar event.
+        if item.get("is_all_day") and item.get("repeats"):
+            continue
+        location = _plain(str(item.get("location") or ""))
+        category = next(iter(item.get("event_types") or []), "Arts & Culture")
+        output.append(CultureEvent(source, f"{item.get('id')}-{starts}", _plain(item.get("title", "Arts event")), starts,
+            item.get("date2_iso"), location or group or city, address if not location else location, city, "United States", "us", category,
+            item.get("url") or base, _plain(item.get("summary") or item.get("description") or "")[:700]))
+    return output
+
+
+def brown_arts(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    events = _livewhale_arts(fetcher, "https://events.brown.edu", "brown-arts", "Providence", "Brown University, Providence, RI", "America/New_York", now, final_day,
+        {"Brown Arts Institute (BAI)", "Department of Music", "Department of Theatre Arts and Performance Studies", "Library"})
+    if not events:
+        raise RuntimeError("No current Brown Arts events found")
+    return events
+
+
+def berkeley_arts(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    events = _livewhale_arts(fetcher, "https://events.berkeley.edu", "berkeley-arts", "Berkeley/San Francisco", "UC Berkeley, Berkeley, CA", "America/Los_Angeles", now, final_day,
+        {"Berkeley Art Museum & Pacific Film Archive", "Cal Performances", "Department of Art Practice", "Department of Theater, Dance, and Performance Studies"})
+    if not events:
+        raise RuntimeError("No current UC Berkeley arts events found")
+    return events
+
+
+def gwu_arts(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    output, seen = [], set()
+    for page in range(1, 7):
+        payload = json.loads(fetcher.get(f"https://calendar.gwu.edu/api/2/events?days=365&pp=100&page={page}"))
+        rows = payload.get("events", [])
+        if not rows:
+            break
+        for wrapper in rows:
+            item = wrapper.get("event", {})
+            types = [value.get("name", "") for value in (item.get("filters", {}).get("event_types") or [])]
+            if not {value.casefold() for value in types} & {"arts & culture", "exhibition", "lectures & speakers"}:
+                continue
+            for instance_wrapper in item.get("event_instances", []):
+                instance = instance_wrapper.get("event_instance", {})
+                start = instance.get("start")
+                if not start or not _within(start, now, final_day):
+                    continue
+                key = f"{item.get('id')}-{start}"
+                if key in seen:
+                    continue
+                seen.add(key)
+                venue = item.get("location_name") or item.get("location") or "George Washington University"
+                address = item.get("address") or "Washington, DC"
+                output.append(CultureEvent("gwu-arts", key, _plain(item.get("title", "Arts event")), start, instance.get("end"), venue, address,
+                    "Washington, DC", "United States", "us", next((t for t in types if t.casefold() in {"arts & culture", "exhibition"}), types[0] if types else "Arts & Culture"),
+                    item.get("localist_url") or item.get("url") or "https://calendar.gwu.edu/", _plain(item.get("description", ""))[:700]))
+    if not output:
+        raise RuntimeError("No current GW arts events found")
+    return output
+
+
+def redcat_los_angeles(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    listing = "https://www.redcat.org/"
+    soup = BeautifulSoup(fetcher.get(listing), "html.parser")
+    output = []
+    for card in soup.select('a.event-card-stacked[href^="/events/"]'):
+        title_node, date_node = card.select_one(".title"), card.select_one(".date")
+        if not title_node or not date_node:
+            continue
+        clean_title = card.select_one(".title .pl-6")
+        title = _plain((clean_title or title_node).get_text(" "))
+        date_text = _plain(date_node.get_text(" "))
+        match = re.search(r"([A-Za-z]+)\s+(\d{1,2})(?:\s*[–-]\s*(?:([A-Za-z]+)\s*)?(\d{1,2}))?", date_text)
+        if not match or match.group(1).casefold() not in MONTHS:
+            continue
+        first_month, first_day, second_month, second_day = match.groups()
+        year = now.year + (MONTHS[first_month.casefold()] < now.month - 2)
+        first = date(year, MONTHS[first_month.casefold()], int(first_day))
+        last = date(year, MONTHS[(second_month or first_month).casefold()], int(second_day or first_day))
+        event_url = urljoin(listing, card["href"])
+        detail = BeautifulSoup(fetcher.get(event_url), "html.parser")
+        time_label = detail.find("dt", string=lambda value: value and value.strip().casefold() == "time")
+        time_text = _plain(time_label.find_next_sibling("dd").get_text(" ")) if time_label and time_label.find_next_sibling("dd") else ""
+        tm = re.search(r"(\d{1,2})(?::(\d{2}))?\s*PM", time_text, re.I)
+        hour = int(tm.group(1)) % 12 + 12 if tm else 0
+        minute = int(tm.group(2) or 0) if tm else 0
+        category_node = card.select_one(".metier")
+        category = _plain(category_node.get_text(" ")) if category_node else "Multidisciplinary"
+        if category.casefold() == "art" and last > first:
+            if now.date() <= first <= final_day or first <= now.date() <= last:
+                output.append(CultureEvent("redcat", event_url, title, first.isoformat(), (last + timedelta(days=1)).isoformat(), "REDCAT",
+                    "631 W 2nd St, Los Angeles, CA 90012", "Los Angeles", "United States", "us", category, event_url))
+            continue
+        for day_offset in range((last - first).days + 1):
+            occurrence = first + timedelta(days=day_offset)
+            if not now.date() <= occurrence <= final_day:
+                continue
+            begins = datetime(occurrence.year, occurrence.month, occurrence.day, hour, minute, tzinfo=ZoneInfo("America/Los_Angeles"))
+            output.append(CultureEvent("redcat", f"{event_url}-{begins.isoformat()}", title, begins.isoformat(), None, "REDCAT",
+                "631 W 2nd St, Los Angeles, CA 90012", "Los Angeles", "United States", "us", category, event_url))
+    if not output:
+        raise RuntimeError("No current REDCAT events found")
+    return output
+
+
+def northwest_film_forum(fetcher: Fetcher, now: datetime, final_day: date) -> list[CultureEvent]:
+    base = "https://nwfilmforum.org/calendar/"
+    output, seen = [], set()
+    # The venue publishes one server-rendered week at a time. Eighteen weeks covers
+    # its practical advance-sales window without repeatedly requesting empty months.
+    for week in range(18):
+        week_start = now.date() + timedelta(days=7 * week)
+        soup = BeautifulSoup(fetcher.get(f"{base}?start={week_start.isoformat()}"), "html.parser")
+        for card in soup.select("[data-calendar-item]"):
+            start_node = card.select_one('meta[itemprop="startDate"]')
+            title_node = card.select_one('meta[itemprop="name"]')
+            link = card.select_one("a.calendar__item__link[href]")
+            if not start_node or not title_node or not link:
+                continue
+            raw_start = start_node.get("content", "")
+            try:
+                begins = datetime.fromisoformat(raw_start).replace(tzinfo=ZoneInfo("America/Los_Angeles"))
+            except ValueError:
+                continue
+            if not now.date() <= begins.date() <= final_day:
+                continue
+            event_url = urljoin(base, link["href"])
+            key = f"{event_url}-{begins.isoformat()}"
+            if key in seen:
+                continue
+            seen.add(key)
+            duration_node = card.select_one('meta[itemprop="duration"]')
+            duration_match = re.fullmatch(r"PT(?:(\d+)H)?(?:(\d+)M)?", duration_node.get("content", "") if duration_node else "")
+            ends = begins + timedelta(hours=int(duration_match.group(1) or 0), minutes=int(duration_match.group(2) or 0)) if duration_match else None
+            category = "Film" if card.has_attr("data-type-film") else "Workshop" if card.has_attr("data-type-workshop") else "Event"
+            output.append(CultureEvent("northwest-film-forum", key, _plain(title_node.get("content", "Arts event")), begins.isoformat(),
+                ends.isoformat() if ends else None, "Northwest Film Forum", "1515 12th Ave, Seattle, WA 98122", "Seattle", "United States", "us",
+                category, event_url))
+    if not output:
+        raise RuntimeError("No current Northwest Film Forum events found")
+    return output
+
+
 def deduplicate(events: list[CultureEvent]) -> list[CultureEvent]:
     unique = {}
     for event in events:
@@ -424,9 +584,10 @@ def main() -> None:
     now = datetime.now(ZoneInfo("America/Toronto"))
     final_day = now.date() + timedelta(days=365)
     fetcher = Fetcher()
-    loaders = (("poetry-project", poetry_project), ("chicago-humanities", chicago_humanities), ("harvard-film-archive", harvard_film_archive),
-               ("fringearts", fringearts), ("ica-london", ica_london), ("matadero-madrid", matadero_madrid), ("cccb", cccb_barcelona),
-               ("silent-green", silent_green_berlin), ("inbal", inbal_mexico))
+    loaders = (("poetry-project", poetry_project), ("brown-arts", brown_arts), ("chicago-humanities", chicago_humanities),
+               ("harvard-film-archive", harvard_film_archive), ("gwu-arts", gwu_arts), ("fringearts", fringearts),
+               ("redcat", redcat_los_angeles), ("berkeley-arts", berkeley_arts), ("northwest-film-forum", northwest_film_forum), ("ica-london", ica_london),
+               ("matadero-madrid", matadero_madrid), ("cccb", cccb_barcelona), ("silent-green", silent_green_berlin), ("inbal", inbal_mexico))
     collected, successful, errors, counts = [], set(), {}, {}
     for name, loader in loaders:
         try:
@@ -438,7 +599,11 @@ def main() -> None:
         raise RuntimeError("No current cultural events found; refusing to publish an empty calendar")
     events = merge_state(deduplicate(collected), root / "data/state.json", now, successful)
     public = root / "public"; public.mkdir(exist_ok=True)
+    east_coast = {"New York", "Philadelphia", "Boston/Cambridge", "Providence", "Washington, DC"}
+    west_coast = {"Los Angeles", "Berkeley/San Francisco", "Seattle", "Portland"}
     feeds = {"global-culture.ics": (events, "Global Arts & Culture"), "global-culture-us.ics": ([e for e in events if e.region == "us"], "Global Culture — United States"),
+             "global-culture-east-coast.ics": ([e for e in events if e.city in east_coast], "Global Culture — East Coast"),
+             "global-culture-west-coast.ics": ([e for e in events if e.city in west_coast], "Global Culture — West Coast"),
              "global-culture-europe.ics": ([e for e in events if e.region == "europe"], "Global Culture — Europe"), "global-culture-mexico.ics": ([e for e in events if e.region == "mexico"], "Global Culture — Mexico")}
     for filename, (items, title) in feeds.items():
         (public / filename).write_bytes(build_calendar(items, now, title))

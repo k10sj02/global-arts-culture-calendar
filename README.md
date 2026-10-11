@@ -8,4 +8,4 @@ Website: https://k10sj02.github.io/global-arts-culture-calendar/
 
 Master subscription: https://k10sj02.github.io/global-arts-culture-calendar/global-culture.ics
 
-Current sources: The Poetry Project, Chicago Humanities, Harvard Film Archive, FringeArts, ICA London, Matadero Madrid, CCCB Barcelona, silent green Berlin, and INBAL. More official city and festival calendars will be added after their date formats pass automated tests.
+Current sources: The Poetry Project, Brown Arts, Chicago Humanities, Harvard Film Archive, George Washington University arts, FringeArts, REDCAT Los Angeles, UC Berkeley arts, Northwest Film Forum in Seattle, ICA London, Matadero Madrid, CCCB Barcelona, silent green Berlin, and INBAL. The site provides dedicated East Coast and West Coast feeds in addition to the master and regional subscriptions.
