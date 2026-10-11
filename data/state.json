@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:16:21.331994-04:00",
+  "updated": "2026-10-11T15:18:10.496301-04:00",
   "events": {
     "76ca53c0793111109a95b760c18d@global-arts-culture": {
       "source": "poetry-project",
@@ -8601,7 +8601,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/short-film-festival-nosotras-contamos-2026",
       "description": "Programa: Casi septiembre (Lucía G. Romero, 2025, 29') Alejandra, una joven que vive en un camping con su familia de forma permanente y precaria, tendrá que luchar contra su miedo al abandono cuando conoce a Amara, un joven de ciudad que le despierta sentimientos que lleva años reprimiendo. Mal de madre (Irene Baqué, 2025, 22') Lita (16) le Gene miedo a los lagartos desde que era pequeña. Cada verano, vuelve a Lagartera, donde las tradiciones de su familia están muy arraigadas. Durante la celebración del Corpus Christi, mientras su abuela la viste, Lita descubre las raíces de su miedo. Que me alimente (Olga Navalón, Bea Hohenleiter, 2026, 15') Cuando la madre de Lourdes muere, se crea un sil",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "937d343b095f0632f1679d35f3e1@global-arts-culture": {
       "source": "inbal",
@@ -8618,7 +8618,7 @@
       "url": "https://inba.gob.mx/actividad/18307/compania-la-meute-francia",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "f2f7ded0a8fa21fd7970ca7ddb36@global-arts-culture": {
       "source": "inbal",
@@ -8635,7 +8635,7 @@
       "url": "https://inba.gob.mx/actividad/18472/itinerar-la-memoria-archivo-viajes-y-creacion-en-la-danza-espanola",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "68dc06af2fc562e9fa4257a963e5@global-arts-culture": {
       "source": "inbal",
@@ -8652,7 +8652,7 @@
       "url": "https://inba.gob.mx/actividad/18473/jornadas-de-danza-espanola-2026",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "7a794009604d0d42db3600e77912@global-arts-culture": {
       "source": "inbal",
@@ -8669,7 +8669,7 @@
       "url": "https://inba.gob.mx/actividad/18477/taller-de-flamenco",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "6f133ab5fa8a9d5399aa1185cc6d@global-arts-culture": {
       "source": "inbal",
@@ -8686,7 +8686,7 @@
       "url": "https://inba.gob.mx/actividad/18499/salome-herrera-y-claudio-herrera-pianos",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "1bf238aad3f81ab788e3af2cc2b0@global-arts-culture": {
       "source": "inbal",
@@ -8703,7 +8703,7 @@
       "url": "https://inba.gob.mx/actividad/18509/cepromusic",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "e746fa570b5a322b06e8d1816379@global-arts-culture": {
       "source": "inbal",
@@ -8720,7 +8720,7 @@
       "url": "https://inba.gob.mx/actividad/18528/taller-de-petromural-impartido-por-renato-paperetti",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     }
   }
 }
