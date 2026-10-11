@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-11T15:15:01.343546-04:00",
-  "count": 506,
+  "generated": "2026-10-11T15:16:21.331994-04:00",
+  "count": 505,
   "cancelled": 8,
   "regions": {
-    "us": 328,
+    "us": 327,
     "europe": 170,
     "mexico": 8
   },
@@ -14,7 +14,6 @@
     "harvard-film-archive": 45,
     "gwu-arts": 72,
     "fringearts": 2,
-    "redcat": 33,
     "berkeley-arts": 36,
     "northwest-film-forum": 102,
     "ica-london": 3,
@@ -23,5 +22,7 @@
     "silent-green": 41,
     "inbal": 8
   },
-  "errors": {}
+  "errors": {
+    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  }
 }

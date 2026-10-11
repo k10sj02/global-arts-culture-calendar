@@ -6,25 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Global Culture — United States
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-SUMMARY:Bernice Akamine\, Lani Asunción\,… — Los Angeles
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20261011T191501Z
-UID:cae461993f872035795e2d05802d@global-arts-culture
-CATEGORIES:Arts & Culture\,Art\,Los Angeles\,United States
-DESCRIPTION:Category: Art\nOriginal listing: https://www.redcat.org/events
- /flesh-witness
-LOCATION:REDCAT\, 631 W 2nd St\, Los Angeles\, CA 90012
-STATUS:CONFIRMED
-URL:https://www.redcat.org/events/flesh-witness
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:redcat
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Exhibition on View | Building Books with Dayanita Singh — Provid
  ence
 DTSTART;TZID="UTC-04:00":20261011T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:dd4dea355f17bdb8ec9df92a9904@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:In her practice\, Dayanita Singh experiments with form through
@@ -51,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:3rd i’s 24th Annual SF Int’l South Asian Film Festival — Ber
  keley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5b1fbdb2c50fcbee375e9dcb3441@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:The Institute for South Asia Studies and the Subir & Malini Ch
@@ -75,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Centering Philippine and Filipinx American Histories: Se
  lections from The Bancroft Library — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b9c01fb3ee7353b77e2be03a1051@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The Bancroft Library’s collections of materials relating to 
@@ -100,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | De y para el pueblo / By and for the People: Revolutiona
  ry Mexican Prints — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:445bba66f419c33583b4980d1448@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The exhibition\, De y para el pueblo / By and for the People: 
@@ -119,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Divestment Now! Student Activism and the Anti-Apartheid 
  Movement at UC Berkeley — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ad27bf3e11964cbca483531500c9@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:In 1985\, UC Berkeley students\, with support from faculty\, s
@@ -141,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Kōmij Mour Ijin / Our Life Is Here — Berkeley/San Fra
  ncisco
 DTSTART;TZID="UTC-07:00":20261011T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7b3eef893c441cbc1209662240f3@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Kōmij Mour Ijin / Our Life Is Here at Doe Library brings toge
@@ -162,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Photography Installation: Remembering the Future: Nuclear Testing
  \, Rising Seas\, and The Marshall Islands — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1ffeb25cb1cdb8f2e3008f6697ab@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:At Giannini Hall\, 36 photographs selected from the recently p
@@ -183,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Video Exhibition: Kōmij Mour Ijin / Our Life Is Here — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-07:00":20261011T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a1e83559a3c567d7ea40738e7a53@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Worth Ryder Art Gallery and VIDRINE present four artists’ vi
@@ -204,7 +189,7 @@ SUMMARY:BAMPFA Exhibition: Private Frontiers: Media Legacies of the Cold W
  ar — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T110000
 DTEND;TZID="UTC-07:00":20261011T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6fd3d1edab49b602b86fffee74d7@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:On display from Sep 9 - Dec 13\, 2026 | 11 am - 7 p.m. Bookend
@@ -231,7 +216,7 @@ SUMMARY:Exhibit | An Archive of Archives: Roman Vishniac’s Exhibition Hi
  story | New York\, 1971-72 — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T110000
 DTEND;TZID="UTC-07:00":20261011T160000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b2cf5c10b2d16aee6fe15f70f654@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:An Archive of Archives: Roman Vishniac’s Exhibition History 
@@ -253,7 +238,7 @@ SUMMARY:Exhibit | Nancy Lee Katz: A Private Pantheon | Part 1 — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-07:00":20261011T110000
 DTEND;TZID="UTC-07:00":20261011T160000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2706fbd3cbedbaad73748881cfd0@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Nancy Lee Katz: A Private Pantheon explores the artist’s dec
@@ -275,7 +260,7 @@ SUMMARY:Exhibit | Time Capsules: Exploring the Permanent Collection — Be
  rkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T110000
 DTEND;TZID="UTC-07:00":20261011T160000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:8bb2a61f7d17671abdba832cf0b9@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:In celebrating 15 years at UC Berkeley\, Time Capsules revisit
@@ -295,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Exploration of Forms: Divergent Rhythms with Alexis Riley — Berk
  eley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T110000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:46516a68529838a465523a7cbdb4@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Berkeley/San Francisco\,United
   States
@@ -321,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Film Screening: Jean-Luc Godard’s Early Short Films — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-07:00":20261011T130000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9fc069b26aa04e8c4b453421e137@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:This program of Jean-Luc Godard’s first films ranges from Op
@@ -343,7 +328,7 @@ SUMMARY:Gallery Tour | Nancy Lee Katz: A Private Pantheon — Berkeley/San
   Francisco
 DTSTART;TZID="UTC-07:00":20261011T133000
 DTEND;TZID="UTC-07:00":20261011T135000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e5cabd112a1d2423d51341002126@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Stop by the Magnes Collection of Jewish Art and Life during Ho
@@ -364,7 +349,7 @@ SUMMARY:Gallery Concert | Music of Elliott Carter — Berkeley/San Francis
  co
 DTSTART;TZID="UTC-07:00":20261011T140000
 DTEND;TZID="UTC-07:00":20261011T144500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:8a5e62e04b0ed14ebcc1eafd70ea@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Stop by the Magnes Collection of Jewish Art and Life during Ca
@@ -385,7 +370,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Democracy Sessions: The Room Begins to… — Los Angeles
 DTSTART;TZID="UTC-07:00":20261011T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:16d6b63eed23ad4b48592929812a@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Los Angeles\,United States
 DESCRIPTION:Category: Music\nOriginal listing: https://www.redcat.org/even
@@ -399,7 +384,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Recollections of the Yellow House — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261011T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d09883cabcefcfad498946e4f0b1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:João César Monteiro\, Poet-Provocateur — Directed by João
@@ -416,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Public Art Tours — Providence
 DTSTART;TZID="UTC-04:00":20261011T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ccdf07849de9ead406a30114da2e@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:Brown Arts Institute invites you to join us for free\, student
@@ -441,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Film Screening: A Girl Unknown — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T150000
 DTEND;TZID="UTC-07:00":20261011T160000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7e9ad2501dc3ce30accd8b6dd91c@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:Born in the wake of China’s controversial one-child policy\,
@@ -468,7 +453,7 @@ SUMMARY:Takács Quartet with Jeremy Denk\, piano — Berkeley/San Francisc
  o
 DTSTART;TZID="UTC-07:00":20261011T150000
 DTEND;TZID="UTC-07:00":20261011T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c6ac1579d63404e3c268ce9c5613@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Berkeley/San Francisco\,United
   States
@@ -490,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon — Seattle
 DTSTART;TZID="UTC-07:00":20261011T160000
 DTEND;TZID="UTC-07:00":20261011T175300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7b6cc1b2a3863ce409f847b7f33b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -505,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Screamplay (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261011T163000
 DTEND;TZID="UTC-07:00":20261011T180300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ef4f5602be8b10871e615b1e42a1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -520,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Film Screening: The Dreamed Adventure — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T183000
 DTEND;TZID="UTC-07:00":20261011T193000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:892bd06766039dd84b75d7c1f927@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:The winner of the Jury Prize at this year’s Cannes Film Fest
@@ -546,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon — Seattle
 DTSTART;TZID="UTC-07:00":20261011T190000
 DTEND;TZID="UTC-07:00":20261011T205300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0a52bfcc7700ee77565240984c81@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -561,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:Concert Series: Hélène Papadopoulos — At the Still Point — B
  erkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261011T193000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:667d7b584d03fcca8dc4811876df@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Berkeley/San Francisco\,United
   States
@@ -580,7 +565,7 @@ BEGIN:VEVENT
 SUMMARY:Screamplay (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261011T193000
 DTEND;TZID="UTC-07:00":20261011T210300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:025655c932f5b67319503e90e1ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -595,7 +580,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibition on View | Building Books with Dayanita Singh — Provid
  ence
 DTSTART;TZID="UTC-04:00":20261012T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:553718e799add20686854bfc2409@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:In her practice\, Dayanita Singh experiments with form through
@@ -622,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Centering Philippine and Filipinx American Histories: Se
  lections from The Bancroft Library — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261012T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7ede8a543bc3b9dde3cf59bfed3e@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The Bancroft Library’s collections of materials relating to 
@@ -647,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | De y para el pueblo / By and for the People: Revolutiona
  ry Mexican Prints — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261012T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:85899df8a6a5d3113e3a852b5f6b@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The exhibition\, De y para el pueblo / By and for the People: 
@@ -666,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Divestment Now! Student Activism and the Anti-Apartheid 
  Movement at UC Berkeley — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261012T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1682a87edf896130fddd9ff93c13@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:In 1985\, UC Berkeley students\, with support from faculty\, s
@@ -688,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Kōmij Mour Ijin / Our Life Is Here — Berkeley/San Fra
  ncisco
 DTSTART;TZID="UTC-07:00":20261012T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f9ea30e70841fbf10cc7be34a141@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Kōmij Mour Ijin / Our Life Is Here at Doe Library brings toge
@@ -709,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:Photography Installation: Remembering the Future: Nuclear Testing
  \, Rising Seas\, and The Marshall Islands — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261012T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a564ce2ce4d8d1a0315e21e97bde@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:At Giannini Hall\, 36 photographs selected from the recently p
@@ -730,7 +715,7 @@ BEGIN:VEVENT
 SUMMARY:Video Exhibition: Kōmij Mour Ijin / Our Life Is Here — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-07:00":20261012T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:506e0cc66a1dfd238d307d2e1d48@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The VIDRINE presents four artists’ video responses to nuclea
@@ -751,7 +736,7 @@ SUMMARY:A Pictorial Dragon: The Art of Fernando Birri Exhibit — Providen
  ce
 DTSTART;TZID="UTC-04:00":20261012T090000
 DTEND;TZID="UTC-05:00":20270309T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d769147720ffd8a66fd335ee0b19@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:The exhibit A Pictorial Dragon: The Art of Fernando Birri is o
@@ -773,7 +758,7 @@ SUMMARY:Exhibition on View | Sites of Remaking: Port Cities and Our Presen
  t — Providence
 DTSTART;TZID="UTC-04:00":20261012T100000
 DTEND;TZID="UTC-04:00":20261012T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0f58f289d7183dcd4dca5dbac46c@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:This exhibition\, Sites of Remaking: Port Cities and Our Prese
@@ -801,7 +786,7 @@ BEGIN:VEVENT
 SUMMARY:Indigenous Peoples’ Day — Berkeley/San Francisco
 DTSTART;TZID="UTC-07:00":20261012T100000
 DTEND;TZID="UTC-07:00":20261012T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c57b97f2f09380c83ab6db1ff65c@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Join the ‘ottoy Initiative for a celebration of Ohlone scien
@@ -818,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:IFA USA DC Region Career Pathways in Tax Event — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261012T163000
 DTEND;TZID="UTC-04:00":20261012T183000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a6a25e1820d9d7c0ccbe4c9dc2db@global-arts-culture
 CATEGORIES:Arts & Culture\,Career & Professional Development\,Washington\,
   DC\,United States
@@ -839,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:The History of Concrete — Seattle
 DTSTART;TZID="UTC-07:00":20261012T183000
 DTEND;TZID="UTC-07:00":20261012T201100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d2e2b4019fe884ef94e0eb2ae6dc@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -854,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon — Seattle
 DTSTART;TZID="UTC-07:00":20261012T190000
 DTEND;TZID="UTC-07:00":20261012T205300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1d7bf58d162294c380d729e2d521@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -869,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:SIMPLE TOO: An Evening with Yotam Ottolenghi — Chicago
 DTSTART;TZID="UTC-05:00":20261012T193000
 DTEND;TZID="UTC-05:00":20261012T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:8027b5646fdbeca0fb1e935c49cb@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The bestselling cookbook author and chef in conversation\nCate
@@ -886,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibition on View | Building Books with Dayanita Singh — Provid
  ence
 DTSTART;TZID="UTC-04:00":20261013T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:002c83c0371692928c92b2d73a96@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:In her practice\, Dayanita Singh experiments with form through
@@ -914,7 +899,7 @@ SUMMARY:A Pictorial Dragon: The Art of Fernando Birri Exhibit — Providen
  ce
 DTSTART;TZID="UTC-04:00":20261013T090000
 DTEND;TZID="UTC-05:00":20270310T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b1051051d9ba49c8c5761acad606@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:The exhibit A Pictorial Dragon: The Art of Fernando Birri is o
@@ -936,7 +921,7 @@ SUMMARY:1776 Across the Americas: A Hemispheric History from the Collectio
  ns of the John Carter Brown Library — Providence
 DTSTART;TZID="UTC-04:00":20261013T100000
 DTEND;TZID="UTC-04:00":20261013T124500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:31dca46c57ec89e88079b237b469@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:The John Carter Brown Library is pleased to announce a year-lo
@@ -963,7 +948,7 @@ SUMMARY:Exhibition on View | Sites of Remaking: Port Cities and Our Presen
  t — Providence
 DTSTART;TZID="UTC-04:00":20261013T100000
 DTEND;TZID="UTC-04:00":20261013T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c2ce25872b7478f292e4a45ad9c0@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:This exhibition\, Sites of Remaking: Port Cities and Our Prese
@@ -991,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Copyright and Images — Providence
 DTSTART;TZID="UTC-04:00":20261013T120000
 DTEND;TZID="UTC-04:00":20261013T130000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:286c243413caf5246f23c3e00c2a@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
  United States
@@ -1009,7 +994,7 @@ BEGIN:VEVENT
 SUMMARY:Research Fundamentals: Organize Your Research — Providence
 DTSTART;TZID="UTC-04:00":20261013T120000
 DTEND;TZID="UTC-04:00":20261013T125000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:4a5ab20a886d87e9c5c99483e348@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
  United States
@@ -1036,7 +1021,7 @@ BEGIN:VEVENT
 SUMMARY:Census - Bison Bead Project — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261013T130000
 DTEND;TZID="UTC-04:00":20261013T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:28803db08de33f32b2bec7af6381@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Make clay beads honoring each living wild bison in North Ameri
@@ -1061,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:Zotero for Beginners: Reference Management Workshop — Providence
 DTSTART;TZID="UTC-04:00":20261013T133000
 DTEND;TZID="UTC-04:00":20261013T143000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b066b0893e08c15ed0d6aaee7abd@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
  United States
@@ -1083,7 +1068,7 @@ SUMMARY:1776 Across the Americas: A Hemispheric History from the Collectio
  ns of the John Carter Brown Library — Providence
 DTSTART;TZID="UTC-04:00":20261013T140000
 DTEND;TZID="UTC-04:00":20261013T164500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:fe9517e428ba3ed2d52f13c33ef8@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:The John Carter Brown Library is pleased to announce a year-lo
@@ -1110,7 +1095,7 @@ SUMMARY:Living Archives: An Oral History Workshop Series (Session 2\, in-p
  erson) — Providence
 DTSTART;TZID="UTC-04:00":20261013T163000
 DTEND;TZID="UTC-04:00":20261013T183000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6d3f99ee9a6a42178c6e290c7eff@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
  United States
@@ -1138,7 +1123,7 @@ BEGIN:VEVENT
 SUMMARY:Hispanic Heritage Month Celebration — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261013T173000
 DTEND;TZID="UTC-04:00":20261013T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c949f02bbdb3c56842b78677337a@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Come celebrate Hispanic Heritage Month with the George Washing
@@ -1158,7 +1143,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lecture-Performance | HerCinema by Luísa Sequeira — Providence
 DTSTART;TZID="UTC-04:00":20261013T180000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c346528e06bef9432b01254badc6@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
  United States
@@ -1186,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:The History of Concrete — Seattle
 DTSTART;TZID="UTC-07:00":20261013T183000
 DTEND;TZID="UTC-07:00":20261013T201100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:4c55f2c9f10a43503e78431bf545@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1201,7 +1186,7 @@ BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon — Seattle
 DTSTART;TZID="UTC-07:00":20261013T190000
 DTEND;TZID="UTC-07:00":20261013T205300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2ec6b7957f2b5dd31f5ee0b8500f@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1217,7 +1202,7 @@ SUMMARY:Book Launch: Mapping Urban Environmental Risks Using Open Source G
  IS — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261014T114500
 DTEND;TZID="UTC-04:00":20261014T130000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ed2df8a5f69beb3fa89386e92596@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Please join us on October 14 for a lunchtime book launch featu
@@ -1244,7 +1229,7 @@ SUMMARY:Women in International Law Speaker Series with Carolina Jiménez S
  andoval — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261014T120000
 DTEND;TZID="UTC-04:00":20261014T130000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:331bdf56510807657558f37e7958@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1266,7 +1251,7 @@ SUMMARY:Jewish History Colloquium: Maoz Kahana (Tel Aviv University) — W
  ashington\, DC
 DTSTART;TZID="UTC-04:00":20261014T123000
 DTEND;TZID="UTC-04:00":20261014T133000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5a1e524ceb1326122c6b6b360737@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Hosted by the CCAS Judaic Studies Program\, the Jewish History
@@ -1289,7 +1274,7 @@ SUMMARY:Religion in Asia: Lab-Grown Bliss: The Prospects and Challenges of
   the Scientific Study of Asian Meditations — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261014T124500
 DTEND;TZID="UTC-04:00":20261014T134500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7cb86a2278b44d73780514b60a6d@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Accounts of meditative attainments such as states of jhāna (a
@@ -1316,7 +1301,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261014T130000
 DTEND;TZID="UTC-04:00":20261014T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:fcf66bab05a9055b4cdfe4aa1841@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -1342,7 +1327,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-04:00":20261014T130000
 DTEND;TZID="UTC-04:00":20261014T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:66d3a73a66b24bedfb46f8a6c4f3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -1368,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261014T130000
 DTEND;TZID="UTC-04:00":20261014T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2c0b9ae5e430a3dc0eb4c45d7c9d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -1394,7 +1379,7 @@ SUMMARY:The Challenges of Teaching About Animal Activism | Adjunct Teacher
  s in Animal Law — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261014T180000
 DTEND;TZID="UTC-04:00":20261014T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e063bba35a4905a578ebdfe54368@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1421,7 +1406,7 @@ BEGIN:VEVENT
 SUMMARY:SFCS at 10: Green Room — Seattle
 DTSTART;TZID="UTC-07:00":20261014T190000
 DTEND;TZID="UTC-07:00":20261014T203500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a45c5111d2e10cdbeec1e50d0092@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1435,7 +1420,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Film Society's Film Discussion Group — Seattle
 DTSTART;TZID="UTC-07:00":20261014T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1c251f7d986eeed3a21b7fc58697@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -1451,7 +1436,7 @@ BEGIN:VEVENT
 SUMMARY:Chronovisor — Seattle
 DTSTART;TZID="UTC-07:00":20261014T193000
 DTEND;TZID="UTC-07:00":20261014T211000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3b32668a58d392bea27452fb1ecb@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1465,7 +1450,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Litmus Press 25th Anniversary Celebration & Benefit — New York
 DTSTART;TZID="UTC-04:00":20261014T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:76ca53c0793111109a95b760c18d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -1479,7 +1464,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fractais Tropicais (Tropical Fractals) — Los Angeles
 DTSTART;TZID="UTC-07:00":20261014T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:03b921b4cd5fc8166ec77fc2677c@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Los Angeles\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://www.redcat.org/event
@@ -1494,7 +1479,7 @@ BEGIN:VEVENT
 SUMMARY:AUDITIONS: RIDE THE CYCLONE — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261015T063000
 DTEND;TZID="UTC-04:00":20261015T093000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c9e3ef526ffc3bbe5f6f006d31c1@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:by CTAD & CMUS What: Join us to audition for the CTAD & CMUS p
@@ -1519,7 +1504,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261015T130000
 DTEND;TZID="UTC-04:00":20261015T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e04327715eb9d0c7259b6865cc94@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -1545,7 +1530,7 @@ SUMMARY:Age-Friendly Ecosystem Summit Day 2 - The Invisible Workforce: Car
  e Partners in Crisis and the Path Forward — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261015T130000
 DTEND;TZID="UTC-04:00":20261015T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ac85f04dfde868dc632e35c0a1ce@global-arts-culture
 CATEGORIES:Arts & Culture\,Community Service\,Washington\, DC\,United Stat
  es
@@ -1573,7 +1558,7 @@ SUMMARY:Book Talk- How to Survive Authoritarianism: A Russian's Phrasebook
   for Everyday Life in America — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261015T130000
 DTEND;TZID="UTC-04:00":20261015T143000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b39c4ca57cd33cd917a14633382f@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1602,7 +1587,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-04:00":20261015T130000
 DTEND;TZID="UTC-04:00":20261015T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0866b88f46899881b4ddb6edd9ce@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -1628,7 +1613,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261015T130000
 DTEND;TZID="UTC-04:00":20261015T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:93bbd78de4d9bdbcaa4dde04b381@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -1653,7 +1638,7 @@ BEGIN:VEVENT
 SUMMARY:Unruly: The 1920s between Revolution and Reaction — Washington\,
   DC
 DTSTART;TZID="UTC-04:00":20261015T130000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d9eedf0ffdc9109587c4af8c8f67@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A webinar panel discussion with Prof. Ara Merjian (Italian Stu
@@ -1680,7 +1665,7 @@ SUMMARY:Comrades Estranged: Labor and Citizenship in the Twentieth-Century
   Persian Gulf — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261015T140000
 DTEND;TZID="UTC-04:00":20261015T153000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ff817e5d9fabe84fc907e56a2533@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:The Institute for Middle East Studies is proud to host Profess
@@ -1708,7 +1693,7 @@ SUMMARY:Securing the Energy Future: Strategic Geopolitics and U.S. Legal R
  ealities — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261015T160000
 DTEND;TZID="UTC-04:00":20261015T180000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c17f581c24e49ffa9f24e636bff1@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1734,7 +1719,7 @@ SUMMARY:STUFF 2026: Understanding Myself as an Amphibian + Objectionable F
  ruit — Seattle
 DTSTART;TZID="UTC-07:00":20261015T183000
 DTEND;TZID="UTC-07:00":20261015T194700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3943c145a24e11a4bfdcff39269b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1750,7 +1735,7 @@ BEGIN:VEVENT
 SUMMARY:Seattle Film Society In Focus: Tyler Michael James — Seattle
 DTSTART;TZID="UTC-07:00":20261015T190000
 DTEND;TZID="UTC-07:00":20261015T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2913e64611df2145a12cf31ce623@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1766,7 +1751,7 @@ BEGIN:VEVENT
 SUMMARY:David Byrne on Sleeping Beauties — Chicago
 DTSTART;TZID="UTC-05:00":20261015T193000
 DTEND;TZID="UTC-05:00":20261015T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a8cc0e0f6d68ce2418873ca5b4ba@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:On hidden breakthroughs\, creative risk\, and the patience of 
@@ -1783,7 +1768,7 @@ BEGIN:VEVENT
 SUMMARY:Jlin + Third Coast Percussion: Vernacular — Chicago
 DTSTART;TZID="UTC-05:00":20261015T193000
 DTEND;TZID="UTC-05:00":20261015T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1ef64456e3c56712783ce850e0f8@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Category: Arts & Ideas\nOriginal listing: https://www.chicagoh
@@ -1801,7 +1786,7 @@ SUMMARY:Chemistry Seminar: Sofia Horowitz (Cahill Group) & Griffin Klauder
   (Dowd Lab) — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261016T100000
 DTEND;TZID="UTC-04:00":20261016T110000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:70ac1f6d3a9612c97fdefd85462b@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1825,7 +1810,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction to Lean Innovation - October 2026 — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261016T120000
 DTEND;TZID="UTC-04:00":20261016T131500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ead44423e004c70afd1f638a8ad0@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1848,7 +1833,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261016T130000
 DTEND;TZID="UTC-04:00":20261016T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1e8417554db257159bea6f56f418@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -1874,7 +1859,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261016T130000
 DTEND;TZID="UTC-04:00":20261016T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:fc8dcf70c878697c8061b4b855d8@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -1901,7 +1886,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-04:00":20261016T130000
 DTEND;TZID="UTC-04:00":20261016T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:84f886946050207720b85d6e443b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -1927,7 +1912,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261016T130000
 DTEND;TZID="UTC-04:00":20261016T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:cdd19e45726c8ee7c4a5e7f58447@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -1954,7 +1939,7 @@ SUMMARY:Statistics Seminar Series: Conditional Formulation of Gaussian Sys
  n\, DC
 DTSTART;TZID="UTC-04:00":20261016T140000
 DTEND;TZID="UTC-04:00":20261016T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:edac7c7a5340eb8b882921d27ad5@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Conditional Formulation of Gaussian Systems on Spatial Network
@@ -1982,7 +1967,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: Scare Package (Shorts) — Seattle
 DTSTART;TZID="UTC-07:00":20261016T173000
 DTEND;TZID="UTC-07:00":20261016T185200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ea308d104129c316f3af2bca46c0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1997,7 +1982,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: Trans Panic! — Seattle
 DTSTART;TZID="UTC-07:00":20261016T180000
 DTEND;TZID="UTC-07:00":20261016T193300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9c76b7d45613d913812f7eff4c16@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2011,7 +1996,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Human Condition I: No Greater Love — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261016T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b9a9f75841abaf4e2fb6a303ebb2@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
@@ -2028,7 +2013,7 @@ BEGIN:VEVENT
 SUMMARY:“And in this heart\, which has neither had a cause nor the lack 
  of one”: On Translation\, Craft\, and Necessity — New York
 DTSTART;TZID="UTC-04:00":20261016T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:69cdf333e9770042e26283f3fe3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -2044,7 +2029,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Argentine Tango class — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261016T200000
 DTEND;TZID="UTC-04:00":20261016T213000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c18ecb772441f12f716a9f3561bb@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Hi\,  Join us weekly for all levels argentine the tango lesso
@@ -2066,7 +2051,7 @@ BEGIN:VEVENT
 SUMMARY:TRAUMA BOND: Irreversible — Seattle
 DTSTART;TZID="UTC-07:00":20261016T200000
 DTEND;TZID="UTC-07:00":20261016T213300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2457c119cdc097ffcda54a4d7bea@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2081,7 +2066,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261017T130000
 DTEND;TZID="UTC-04:00":20261017T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:613d6698c5d2756790c41b4ca5bf@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -2107,7 +2092,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261017T130000
 DTEND;TZID="UTC-04:00":20261017T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1eddc2d03a0cfc5eb5eb81ae9983@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -2134,7 +2119,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-04:00":20261017T130000
 DTEND;TZID="UTC-04:00":20261017T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1c592a103469ff68fc6d534b3e63@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -2160,7 +2145,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261017T130000
 DTEND;TZID="UTC-04:00":20261017T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5f9d2af2f85d5a2a49b31a14882b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -2185,7 +2170,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: Entanglements (Shorts) — Seattle
 DTSTART;TZID="UTC-07:00":20261017T160000
 DTEND;TZID="UTC-07:00":20261017T172500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7fe3fcdef10b41ca8c9ee12b3aec@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2200,7 +2185,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: Jucks + If I'm Here It Is By Mystery — Seattle
 DTSTART;TZID="UTC-07:00":20261017T163000
 DTEND;TZID="UTC-07:00":20261017T175900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:db04d9ec288705fcf7ed23adc3f5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2214,7 +2199,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Human Condition II: Road to Eternity — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261017T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e5d97d29e4e88c99fba690023934@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
@@ -2231,7 +2216,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: Drawn to Life (Shorts) — Seattle
 DTSTART;TZID="UTC-07:00":20261017T190000
 DTEND;TZID="UTC-07:00":20261017T202500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7169ea826e55e18ba8efb2b1818d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2246,7 +2231,7 @@ BEGIN:VEVENT
 SUMMARY:Barbara Kingsolver: Partita — Chicago
 DTSTART;TZID="UTC-05:00":20261017T193000
 DTEND;TZID="UTC-05:00":20261017T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:fd63f61b7017c49346fbd5dd7b09@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The Pulitzer Prize-winning author on her newest novel\nCategor
@@ -2263,7 +2248,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: Flesh & Fluids (Shorts) — Seattle
 DTSTART;TZID="UTC-07:00":20261017T193000
 DTEND;TZID="UTC-07:00":20261017T205400
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:587cc7388eede09e0a272d325fbe@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2277,7 +2262,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angel City Arts: Jazz Refractions — Los Angeles
 DTSTART;TZID="UTC-07:00":20261017T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ce270308939de2c9fcda6ca06fa2@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Los Angeles\,United States
 DESCRIPTION:Category: Music\nOriginal listing: https://www.redcat.org/even
@@ -2293,7 +2278,7 @@ BEGIN:VEVENT
 SUMMARY:The Human Condition III: A Soldier’s Prayer — Boston/Cambridg
  e
 DTSTART;TZID="UTC-04:00":20261018T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:76acef2d639cb403fb1cd0603280@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:The Human Condition — Directed by Kobayashi Masaki\,        
@@ -2310,7 +2295,7 @@ BEGIN:VEVENT
 SUMMARY:Elizabeth Field and David Sariti - 400 Years of Music! — Washing
  ton\, DC
 DTSTART;TZID="UTC-04:00":20261018T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2ef4b66756ba0314e30f2dffc33b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Elizabeth Field and David Sariti: 2 Violinists\, 4 Violins\, 8
@@ -2335,7 +2320,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: Mutable Archive (Shorts) — Seattle
 DTSTART;TZID="UTC-07:00":20261018T160000
 DTEND;TZID="UTC-07:00":20261018T170600
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a89d2f89e56f2bad99d907bbd448@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2350,7 +2335,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: Trans-It (Shorts) — Seattle
 DTSTART;TZID="UTC-07:00":20261018T163000
 DTEND;TZID="UTC-07:00":20261018T175600
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3c033c95e97034e893884a695386@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2366,7 +2351,7 @@ SUMMARY:STUFF 2026: Castration Movie Chapter iii. Junior Ghosts—Premorph
  ic Drift\; a fragmentary passage — Seattle
 DTSTART;TZID="UTC-07:00":20261018T181500
 DTEND;TZID="UTC-07:00":20261018T204500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c501d144ae270004825f20797294@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2382,7 +2367,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Remake — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261018T183000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ab62238a34c49b43f4306e4b5111@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Ross McElwee's Remake — Directed by Ross McElwee\,          
@@ -2398,7 +2383,7 @@ BEGIN:VEVENT
 SUMMARY:STUFF 2026: We Live!!! (Shorts) — Seattle
 DTSTART;TZID="UTC-07:00":20261018T193000
 DTEND;TZID="UTC-07:00":20261018T205500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:03c952c928a6492f989d40e1c08e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2412,7 +2397,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angel City Arts: Jazz Refractions — Los Angeles
 DTSTART;TZID="UTC-07:00":20261018T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b44fa67ec6a234902625f94fb8f2@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Los Angeles\,United States
 DESCRIPTION:Category: Music\nOriginal listing: https://www.redcat.org/even
@@ -2427,7 +2412,7 @@ BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d0b97d923dd8b7f30f48266474ad@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -2444,7 +2429,7 @@ SUMMARY:Book Launch: The Routledge Handbook of Ideology Analysis — Washi
  ngton\, DC
 DTSTART;TZID="UTC-04:00":20261019T100000
 DTEND;TZID="UTC-04:00":20261019T110000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:da2025e0a14d14d7681f71b461fa@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Join us to discuss The Routledge Handbook of Ideology Analysis
@@ -2468,7 +2453,7 @@ SUMMARY:Trade & Development Seminar:  Joe Gyourko (Wharton) — Washington
  \, DC
 DTSTART;TZID="UTC-04:00":20261019T123000
 DTEND;TZID="UTC-04:00":20261019T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e72643e9066886bd7f4f45ec793e@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Please join the Economics Department for a trade and developme
@@ -2485,7 +2470,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Third Man — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261019T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1bc2477ccfadb6cb3efad5bc8eab@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:The Cold Heart is More Precious than Diamonds. ... — Directe
@@ -2501,7 +2486,7 @@ BEGIN:VEVENT
 SUMMARY:Who Moves America — Seattle
 DTSTART;TZID="UTC-07:00":20261019T190000
 DTEND;TZID="UTC-07:00":20261019T202700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:8a7cbce5804f6521d1df747e2a76@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2515,7 +2500,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rena Anakwe + Muyassar Kurdi — New York
 DTSTART;TZID="UTC-04:00":20261019T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a96ae334601f964bedcffe485f00@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -2530,7 +2515,7 @@ BEGIN:VEVENT
 SUMMARY:Hidden Treasures of Chagall in Washington D.C. — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261020T100000
 DTEND;TZID="UTC-04:00":20261020T163000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9ba8219c4306de344709dc0b1e17@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Representing the culmination of nearly a year of research by m
@@ -2557,7 +2542,7 @@ SUMMARY:America <-> Asia US-Taiwan Relations: Growing Strategic Convergenc
  e Faces Mutual Leadership Uncertainties — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261020T124500
 DTEND;TZID="UTC-04:00":20261020T134500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:05ed938013c387aeaa799907ca39@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:In this talk\, Professor of Practice of International Affairs 
@@ -2584,7 +2569,7 @@ BEGIN:VEVENT
 SUMMARY:Census - Bison Bead Project — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261020T130000
 DTEND;TZID="UTC-04:00":20261020T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1320a5f3a284be81a379b8f0ede2@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Make clay beads honoring each living wild bison in North Ameri
@@ -2610,7 +2595,7 @@ SUMMARY:World on a Plate Guest Lecture Series: Amber Smith — Washington
  \, DC
 DTSTART;TZID="UTC-04:00":20261020T161000
 DTEND;TZID="UTC-04:00":20261020T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ea9106f2fadab01e22a874d648c2@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -2635,7 +2620,7 @@ BEGIN:VEVENT
 SUMMARY:A. Rimbaud — Seattle
 DTSTART;TZID="UTC-07:00":20261020T180000
 DTEND;TZID="UTC-07:00":20261020T205500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b98952767b5f5a88eaf603e37707@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2650,7 +2635,7 @@ BEGIN:VEVENT
 SUMMARY:Who Moves America — Seattle
 DTSTART;TZID="UTC-07:00":20261020T190000
 DTEND;TZID="UTC-07:00":20261020T202700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9c89c8f471fffea8a9642a519c01@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2664,7 +2649,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulysse Marion — Los Angeles
 DTSTART;TZID="UTC-07:00":20261020T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c363249162a4af7ccdae82c836bc@global-arts-culture
 CATEGORIES:Arts & Culture\,Dance\,Los Angeles\,United States
 DESCRIPTION:Category: Dance\nOriginal listing: https://www.redcat.org/even
@@ -2679,7 +2664,7 @@ BEGIN:VEVENT
 SUMMARY:Lunch & Learn: A Discussion on Health Privacy — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261021T120000
 DTEND;TZID="UTC-04:00":20261021T130000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f247b14e7a0b43e3a6258497744e@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -2700,7 +2685,7 @@ SUMMARY:A Day of Dialogue: Securing the Freedom of International Hostages
  and Wrongful Detainees — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261021T123000
 DTEND;TZID="UTC-04:00":20261021T181500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:04866b24cae66ca5ad402d19dfd6@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -2724,7 +2709,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261021T130000
 DTEND;TZID="UTC-04:00":20261021T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:36ceab9489351e030d81a43bc938@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -2750,7 +2735,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-04:00":20261021T130000
 DTEND;TZID="UTC-04:00":20261021T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:faeecaa418dc3843eb54b83d7193@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -2776,7 +2761,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261021T130000
 DTEND;TZID="UTC-04:00":20261021T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7028905470bf83b7decbf9fae868@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -2802,7 +2787,7 @@ SUMMARY:IFCE-EEMI International Colloquium on Emerging Energy Resilience B
  est Practices — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261021T133000
 DTEND;TZID="UTC-04:00":20261021T183000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d54c1df2b94903ac40bbcacaddbe@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -2831,7 +2816,7 @@ SUMMARY:How Democracies Revive: Why Illiberalism Keeps Winning and What to
   Do About It — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261021T160000
 DTEND;TZID="UTC-04:00":20261021T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:69b8ee862ea7b0a6246a68a297e3@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Despite occasional setbacks\, illiberalism keeps winning\, fro
@@ -2858,7 +2843,7 @@ BEGIN:VEVENT
 SUMMARY:Research + Practice Fall 2026 — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261021T183000
 DTEND;TZID="UTC-04:00":20261021T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b006d950a82f3d53785b4fe1538d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The creative practitioners presenting at this semester’s GWU
@@ -2882,7 +2867,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Film Society's Film Discussion Group — Seattle
 DTSTART;TZID="UTC-07:00":20261021T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5bc4daa85f971a04c0ec385dd493@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -2898,7 +2883,7 @@ BEGIN:VEVENT
 SUMMARY:WTF with STUFF - Holy Trinity — Seattle
 DTSTART;TZID="UTC-07:00":20261021T190000
 DTEND;TZID="UTC-07:00":20261021T203100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1b09b7a3233c9c612971dfe7222f@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2914,7 +2899,7 @@ SUMMARY:Earshot Jazz Presents: The Case of The Three Sided Dream — Seatt
  le
 DTSTART;TZID="UTC-07:00":20261021T193000
 DTEND;TZID="UTC-07:00":20261021T205800
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:4eb0377dc8c07eadacd13108a0aa@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2928,7 +2913,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tongo Eisen-Martin + Margaret Randall — New York
 DTSTART;TZID="UTC-04:00":20261021T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:33479fdff4d887e03dc580d6ff98@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -2943,7 +2928,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ulysse Marion — Los Angeles
 DTSTART;TZID="UTC-07:00":20261021T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e645a29ab59653f89c79ce328f1b@global-arts-culture
 CATEGORIES:Arts & Culture\,Dance\,Los Angeles\,United States
 DESCRIPTION:Category: Dance\nOriginal listing: https://www.redcat.org/even
@@ -2958,7 +2943,7 @@ BEGIN:VEVENT
 SUMMARY:Public Interest Faculty Panel Series — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261022T120000
 DTEND;TZID="UTC-04:00":20261022T130000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:764b9299bb7797600dcf9ebf835d@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -2981,7 +2966,7 @@ SUMMARY:China’s Challenge: Managing Debt and Development: China’s Fina
  ncial Statecraft in the Americas — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261022T124500
 DTEND;TZID="UTC-04:00":20261022T134500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a936d174fc51f867b781db6fe637@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:In a region with a history of commodity shocks and debt crises
@@ -3007,7 +2992,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261022T130000
 DTEND;TZID="UTC-04:00":20261022T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ed6f10137dd53101df2d38e6f84e@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -3033,7 +3018,7 @@ SUMMARY:Age-Friendly Ecosystem Summit Day 3 - Mind Matters: Prioritizing B
  rain Health Across the Age-Friendly Ecosystem — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261022T130000
 DTEND;TZID="UTC-04:00":20261022T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:255dddf8277e4732e3383d7aa6e0@global-arts-culture
 CATEGORIES:Arts & Culture\,Community Service\,Washington\, DC\,United Stat
  es
@@ -3062,7 +3047,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-04:00":20261022T130000
 DTEND;TZID="UTC-04:00":20261022T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:248d533f512ccb859bd0f0473706@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -3088,7 +3073,7 @@ BEGIN:VEVENT
 SUMMARY:People of Color in Politics — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261022T130000
 DTEND;TZID="UTC-04:00":20261022T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:28e7790cdd0eef8aa14871d5ee2f@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -3115,7 +3100,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261022T130000
 DTEND;TZID="UTC-04:00":20261022T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:533ec7f458ba464ea65f7c9c9b57@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -3140,7 +3125,7 @@ BEGIN:VEVENT
 SUMMARY:Student Meet & Greet with director of IERES — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261022T140000
 DTEND;TZID="UTC-04:00":20261022T153000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:33d9f465755f0e4c565b70579650@global-arts-culture
 CATEGORIES:Arts & Culture\,Career & Professional Development\,Washington\,
   DC\,United States
@@ -3166,7 +3151,7 @@ SUMMARY:The Julian Clement Chase Prize Tenth Anniversary Celebration and A
  wards Ceremony — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261022T153000
 DTEND;TZID="UTC-04:00":20261022T180000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0e6a12d60657634ae1b8790bae53@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Join the Julian Clement Chase Prize tenth anniversary celebrat
@@ -3193,7 +3178,7 @@ SUMMARY:Earshot Jazz Presents: The Case of The Three Sided Dream — Seatt
  le
 DTSTART;TZID="UTC-07:00":20261022T193000
 DTEND;TZID="UTC-07:00":20261022T205800
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:cd5bcb0977bcd0abe67e82733d8c@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3207,7 +3192,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Animals\, Technology\, & Law 2026 Conference — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261023T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:70790031a5a3eabe5216d6bba7eb@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -3233,7 +3218,7 @@ BEGIN:VEVENT
 SUMMARY:Evaluating the Colombian Special Jurisdiction for Peace: The Power
   and Limits of Judicial-Based Truth — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261023T113000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6d30ceb9734c991b7d9e3bd98816@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -3261,7 +3246,7 @@ BEGIN:VEVENT
 SUMMARY:Pitching to Win Fall 2026 — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261023T123000
 DTEND;TZID="UTC-04:00":20261023T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:cfa1584c92474d733f4cd9835e11@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -3284,7 +3269,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261023T130000
 DTEND;TZID="UTC-04:00":20261023T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:51d1a61da74dcd58ce5a64a67fd9@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -3310,7 +3295,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261023T130000
 DTEND;TZID="UTC-04:00":20261023T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1e6b471622b444493613e348a869@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -3337,7 +3322,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-04:00":20261023T130000
 DTEND;TZID="UTC-04:00":20261023T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2ffe677a3750bdeab2e87b5d39c9@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -3363,7 +3348,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261023T130000
 DTEND;TZID="UTC-04:00":20261023T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:df06296baf68f8c23f4c5fffb624@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -3389,7 +3374,7 @@ SUMMARY:Statistics Seminar Series: Efficient and Stable Box-Cox Regression
   for High-Dimensional Data Analysis — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261023T140000
 DTEND;TZID="UTC-04:00":20261023T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f0820ae61edc16483fb5680aeca8@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Efficient and Stable Box-Cox Regression for High-Dimensional D
@@ -3415,7 +3400,7 @@ BEGIN:VEVENT
 SUMMARY:Begotten (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261023T170000
 DTEND;TZID="UTC-07:00":20261023T181200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d99f6c7a88143b009828bef5e0a2@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3430,7 +3415,7 @@ BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers — Seattle
 DTSTART;TZID="UTC-07:00":20261023T173000
 DTEND;TZID="UTC-07:00":20261023T185700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:de99df75a2c3a2689eb68839cd10@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3444,7 +3429,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mandy — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261023T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3f6dd0bcbeba1edb5190dacc4f08@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -3460,7 +3445,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Argentine Tango class — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261023T200000
 DTEND;TZID="UTC-04:00":20261023T213000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:fe837d3faab75b2583aa6ead15e2@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Hi\,  Join us weekly for all levels argentine the tango lesso
@@ -3482,7 +3467,7 @@ BEGIN:VEVENT
 SUMMARY:TRAUMA BOND: A Serbian Film (2026 Extended Cut) — Seattle
 DTSTART;TZID="UTC-07:00":20261023T200000
 DTEND;TZID="UTC-07:00":20261023T214400
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f5705c59f930af3aade0f06ef361@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3497,7 +3482,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Yellow Balloon — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261023T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:625141ea99657f07b8ea6a91785b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -3512,7 +3497,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Animals\, Technology\, & Law 2026 Conference — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261024T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a0ea117c4f83c3c09fde34ce3603@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -3538,7 +3523,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261024T130000
 DTEND;TZID="UTC-04:00":20261024T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f6340237da885278cc243ed81162@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -3564,7 +3549,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261024T130000
 DTEND;TZID="UTC-04:00":20261024T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a47cb0a708bb52b07d5a22052297@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -3591,7 +3576,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-04:00":20261024T130000
 DTEND;TZID="UTC-04:00":20261024T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d3d45aa1c3756fe0e1646535f862@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -3617,7 +3602,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261024T130000
 DTEND;TZID="UTC-04:00":20261024T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9213e647f741177d231ce03d9d2c@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -3641,7 +3626,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Je t’aime\, je t’aime — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261024T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ba99d45e0ed8f7e6f6bc697fe736@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
@@ -3657,7 +3642,7 @@ BEGIN:VEVENT
 SUMMARY:Begotten (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261024T150000
 DTEND;TZID="UTC-07:00":20261024T161200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6aedea7e89857886074a9f9dda07@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3672,7 +3657,7 @@ BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers — Seattle
 DTSTART;TZID="UTC-07:00":20261024T153000
 DTEND;TZID="UTC-07:00":20261024T165700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:13fe9b20bfb41010cf06f10314a5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3687,7 +3672,7 @@ BEGIN:VEVENT
 SUMMARY:Begotten (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261024T170000
 DTEND;TZID="UTC-07:00":20261024T181200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c553cd1575cc8bf1bf0e4451dbfa@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3702,7 +3687,7 @@ BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers — Seattle
 DTSTART;TZID="UTC-07:00":20261024T173000
 DTEND;TZID="UTC-07:00":20261024T185700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3fdd18b02c29f7f55a450a923447@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3716,7 +3701,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:As Ocean People: Symposium\, Screenings\,… — Los Angeles
 DTSTART;TZID="UTC-07:00":20261024T180000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:77d200f89b244332ed77e95f2544@global-arts-culture
 CATEGORIES:Arts & Culture\,Talk\,Los Angeles\,United States
 DESCRIPTION:Category: Talk\nOriginal listing: https://www.redcat.org/event
@@ -3731,7 +3716,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pool of London — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261024T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0bfafc44599f27c6308fec78020e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -3747,7 +3732,7 @@ BEGIN:VEVENT
 SUMMARY:MOURNING SICKNESS VOL. 5: Elvira: Mistress of the Dark — Seattle
 DTSTART;TZID="UTC-07:00":20261024T200000
 DTEND;TZID="UTC-07:00":20261024T213600
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b54153372afbfd8c5efe62b41681@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3762,7 +3747,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Turn the Key Softly — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261024T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:fc72dca56e831bdc0b7ef308288a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -3777,7 +3762,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Animals\, Technology\, & Law 2026 Conference — Washington\, DC
 DTSTART;TZID="UTC-04:00":20261025T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:63b27be5605bd2c6c4fe80a69d9f@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -3803,7 +3788,7 @@ BEGIN:VEVENT
 SUMMARY:Begotten (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261025T153000
 DTEND;TZID="UTC-07:00":20261025T164200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1b3ebfd75ec1ce39d69113920893@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3818,7 +3803,7 @@ BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers — Seattle
 DTSTART;TZID="UTC-07:00":20261025T163000
 DTEND;TZID="UTC-07:00":20261025T175700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e5e41072a2774be363c836329ce0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3833,7 +3818,7 @@ BEGIN:VEVENT
 SUMMARY:Begotten (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261025T173000
 DTEND;TZID="UTC-07:00":20261025T184200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:74baf61bff117e183645cdfb3878@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3847,7 +3832,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:As Ocean People: Symposium\, Screenings\,… — Los Angeles
 DTSTART;TZID="UTC-07:00":20261025T180000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5ab9a59221e755afc7e733687bad@global-arts-culture
 CATEGORIES:Arts & Culture\,Talk\,Los Angeles\,United States
 DESCRIPTION:Category: Talk\nOriginal listing: https://www.redcat.org/event
@@ -3862,7 +3847,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It Always Rains on Sunday — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261025T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6e8a4beb7444753ccc1daf3d7f77@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -3880,7 +3865,7 @@ BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers — Seattle
 DTSTART;TZID="UTC-07:00":20261025T190000
 DTEND;TZID="UTC-07:00":20261025T202700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:854d423a15fe42b06b52d7d64297@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3895,7 +3880,7 @@ BEGIN:VEVENT
 SUMMARY:Begotten (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261025T193000
 DTEND;TZID="UTC-07:00":20261025T204200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1a642d18baf74a7884e61b09fc0c@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3911,7 +3896,7 @@ SUMMARY:Microeconomic Seminar: Garance Genicot (Georgetown) — Washington
  \, DC
 DTSTART;TZID="UTC-04:00":20261026T123000
 DTEND;TZID="UTC-04:00":20261026T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:380ac8700ccfdc3f957ccfdc5040@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Please join the Economics Department for a microeconomic semin
@@ -3927,7 +3912,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hunted — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261026T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:31d53c0d3603e38d75ecb4e20ae0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -3943,7 +3928,7 @@ BEGIN:VEVENT
 SUMMARY:Begotten (4K Restoration) — Seattle
 DTSTART;TZID="UTC-07:00":20261026T190000
 DTEND;TZID="UTC-07:00":20261026T201200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:56823b0d19a6a5b6d6502eb3f23c@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3958,7 +3943,7 @@ BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers — Seattle
 DTSTART;TZID="UTC-07:00":20261026T193000
 DTEND;TZID="UTC-07:00":20261026T205700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:039ac1404e79fbc6cee446ee699d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -3972,7 +3957,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nicole Linder + Jasmine Sanders — New York
 DTSTART;TZID="UTC-04:00":20261026T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e3c5e2a7176dc3a63b695430521a@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -3987,7 +3972,7 @@ BEGIN:VEVENT
 SUMMARY:Jennifer's Body — Seattle
 DTSTART;TZID="UTC-07:00":20261027T190000
 DTEND;TZID="UTC-07:00":20261027T204700
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e64c3843f3d4f04debebc6f1e2d2@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4001,7 +3986,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Search — Philadelphia
 DTSTART;VALUE=DATE:20261028
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:731c190f5799f4111a76759a0ef8@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Philadelphia\,United States
 DESCRIPTION:Category: Performing Arts\nOriginal listing: https://fringeart
@@ -4015,7 +4000,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Film Society's Film Discussion Group — Seattle
 DTSTART;TZID="UTC-07:00":20261028T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ff90d7e0db6534ee398686fbecb5@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -4030,7 +4015,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matt Longabucco + Susana Plotts-Pineda — New York
 DTSTART;TZID="UTC-04:00":20261028T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:280140a337e48e292f98115234a2@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -4045,7 +4030,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marie Antoinette — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261029T180000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e763bfb286e037987529f31398b1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Marie Antoinette and Friends\, Three Films ... — Directed by
@@ -4062,7 +4047,7 @@ SUMMARY:Seattle Film Society Presents Locals Only: October 2026 — Seattl
  e
 DTSTART;TZID="UTC-07:00":20261029T190000
 DTEND;TZID="UTC-07:00":20261029T195000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:45c796241d948eef01649d6e5ff8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4077,7 +4062,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Come and Go — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261030T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:13ba161fa0e75213efcb7a471aa0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:João César Monteiro\, Poet-Provocateur — Directed by João
@@ -4092,7 +4077,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Collide-O-Scope Halloween Show — Seattle
 DTSTART;TZID="UTC-07:00":20261030T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b1249d4afa191c20d98c7dd7e418@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -4106,7 +4091,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Collide-O-Scope Halloween Show — Seattle
 DTSTART;TZID="UTC-07:00":20261031T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:47d83997f74739b31de99b09b8f2@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -4120,7 +4105,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daughter of Darkness — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261031T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:74904d913ad57ac4f9ae263533ec@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -4135,7 +4120,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Collide-O-Scope Halloween Show — Seattle
 DTSTART;TZID="UTC-07:00":20261031T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ce13b1af4ede73a411d0a438eec7@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -4149,7 +4134,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Three Weird Sisters — Boston/Cambridge
 DTSTART;TZID="UTC-04:00":20261031T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d8bf19a76d7da712e4d67b3bf924@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -4165,7 +4150,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:They Made Me a Fugitive — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261101T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5daf320f190a04e71ab4ff725696@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -4183,7 +4168,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Time In Seattle — Seattle
 DTSTART;TZID="UTC-08:00":20261101T160000
 DTEND;TZID="UTC-08:00":20261101T174100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:63343bddb5104a672f7355a89940@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4198,7 +4183,7 @@ BEGIN:VEVENT
 SUMMARY:Once Upon a Time In Seattle — Seattle
 DTSTART;TZID="UTC-08:00":20261101T190000
 DTEND;TZID="UTC-08:00":20261101T204100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:49314aec74a82ca71aeb615d7519@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4213,7 +4198,7 @@ BEGIN:VEVENT
 SUMMARY:"The future exists for the most part in the present": On Poetry\, 
  the Avant-Garde\, and the Left — New York
 DTSTART;TZID="UTC-05:00":20261102T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3400e9451fa4b3388dc5da612b01@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -4230,7 +4215,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – Tactility and Memory — Seattle
 DTSTART;TZID="UTC-08:00":20261104T190000
 DTEND;TZID="UTC-08:00":20261104T202500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ce941ccf55e8a2cea270ece5c195@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4245,7 +4230,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – Beyond Borders — Seattle
 DTSTART;TZID="UTC-08:00":20261105T190000
 DTEND;TZID="UTC-08:00":20261105T202600
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:307befa658c7f360cd5c1ffcc7c7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4260,7 +4245,7 @@ BEGIN:VEVENT
 SUMMARY:Truth To Fiction: Cameraperson — Seattle
 DTSTART;TZID="UTC-08:00":20261105T193000
 DTEND;TZID="UTC-08:00":20261105T211200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5858a5d98965428da4466e369439@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4274,7 +4259,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261105T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:573324ace69afc32c1ac584ae704@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -4289,7 +4274,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – Tainted — Seattle
 DTSTART;TZID="UTC-08:00":20261106T163000
 DTEND;TZID="UTC-08:00":20261106T174900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:cac1b7541cc9ec51ff93afd1d083@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4303,7 +4288,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bullitt — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261106T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d621bb18c5b8f82e30d47fd035fa@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -4319,7 +4304,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – Expanded Cinema Performance and Film — Seattle
 DTSTART;TZID="UTC-08:00":20261106T190000
 DTEND;TZID="UTC-08:00":20261106T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0e59425763cc50b8d72efd23bae2@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4334,7 +4319,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261106T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:74cc9cfbf6292254fff56ad80e12@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -4348,7 +4333,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conversation — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261106T211500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:cd82e98c8ac94b4133f6178dc95d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -4364,7 +4349,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UChicago Faculty-Designed Events — Chicago
 DTSTART;TZID="UTC-06:00":20261107T000000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:eb0ed26949072115508e4d3a06f3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Category: Arts & Ideas\nOriginal listing: https://www.chicagoh
@@ -4381,7 +4366,7 @@ SUMMARY:60 Years on the Front Lines of History: A Conversation with David
  Hume Kennerly — Chicago
 DTSTART;TZID="UTC-06:00":20261107T110000
 DTEND;TZID="UTC-06:00":20261107T120000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:184413fb856bee773fecf009ccb7@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The Pulitzer Prize-winning photojournalist on his legendary ca
@@ -4398,7 +4383,7 @@ SUMMARY:A Conversation with Pulitzer Prize-Winning Writer Hilton Als — C
  hicago
 DTSTART;TZID="UTC-06:00":20261107T110000
 DTEND;TZID="UTC-06:00":20261107T120000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:24fa584c89048f9056b6ce67d908@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The New Yorker critic on where we stand\nCategory: Arts & Idea
@@ -4415,7 +4400,7 @@ BEGIN:VEVENT
 SUMMARY:Designing a Living City — Chicago
 DTSTART;TZID="UTC-06:00":20261107T110000
 DTEND;TZID="UTC-06:00":20261107T120000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3bf760eacc7331f225c7f82385d5@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:How ecological thinking reshapes cities\nCategory: Arts & Idea
@@ -4431,7 +4416,7 @@ BEGIN:VEVENT
 SUMMARY:Hyde Park Brick of Chicago Walking Tour 12:15 p.m. — Chicago
 DTSTART;TZID="UTC-06:00":20261107T121500
 DTEND;TZID="UTC-06:00":20261107T131500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f740ae214e4fae8cf165cf976516@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:See what Chicago is made of\nCategory: Arts & Ideas\nOriginal 
@@ -4448,7 +4433,7 @@ BEGIN:VEVENT
 SUMMARY:Hyde Park Doorways of Chicago Walking Tour 12:15 p.m. — Chicago
 DTSTART;TZID="UTC-06:00":20261107T121500
 DTEND;TZID="UTC-06:00":20261107T131500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f08a8cf6c9675243cef772eca4d4@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:A portal into Chicago’s rich history\nCategory: Arts & Ideas
@@ -4465,7 +4450,7 @@ BEGIN:VEVENT
 SUMMARY:Daniel Kraus: Angel Down — Chicago
 DTSTART;TZID="UTC-06:00":20261107T133000
 DTEND;TZID="UTC-06:00":20261107T143000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:22e9ccc8fbaf8516095be35f5ce5@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The Pulitzer Prize-winning Chicago author in conversation\nCat
@@ -4482,7 +4467,7 @@ SUMMARY:Peter Sagal’s Constitution Sessions: How to Save a Constitutiona
  l Democracy — Chicago
 DTSTART;TZID="UTC-06:00":20261107T133000
 DTEND;TZID="UTC-06:00":20261107T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6e951eb566fa49a895e0d06e5b26@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:A conversation on democracy's fault lines\nCategory: Arts & Id
@@ -4501,7 +4486,7 @@ SUMMARY:The Art of Place: Stephen “ESPO” Powers in Conversation — Ch
  icago
 DTSTART;TZID="UTC-06:00":20261107T133000
 DTEND;TZID="UTC-06:00":20261107T143000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:962a31e8673c13d808baf29c813a@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The muralist and multimedia artist on art’s impact on belong
@@ -4517,7 +4502,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – Pattern and Place — Seattle
 DTSTART;TZID="UTC-08:00":20261107T150000
 DTEND;TZID="UTC-08:00":20261107T162600
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:81ccbeaa96b60ff68e58cf7ac155@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4532,7 +4517,7 @@ BEGIN:VEVENT
 SUMMARY:Hyde Park Brick of Chicago Walking Tour 3:15 p.m. — Chicago
 DTSTART;TZID="UTC-06:00":20261107T151500
 DTEND;TZID="UTC-06:00":20261107T161500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:10156b30a4ea9fa0208a9aee3445@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:See what Chicago is made of\nCategory: Arts & Ideas\nOriginal 
@@ -4549,7 +4534,7 @@ BEGIN:VEVENT
 SUMMARY:Hyde Park Doorways of Chicago Walking Tour 3:15 p.m. — Chicago
 DTSTART;TZID="UTC-06:00":20261107T151500
 DTEND;TZID="UTC-06:00":20261107T161500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:69480e84fb257e0498a0a2c5cca3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:A portal into Chicago’s rich history\nCategory: Arts & Ideas
@@ -4566,7 +4551,7 @@ BEGIN:VEVENT
 SUMMARY:Susan Stryker: Changing Gender — Chicago
 DTSTART;TZID="UTC-06:00":20261107T160000
 DTEND;TZID="UTC-06:00":20261107T170000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:4e674e46a6c81a802b96530cdb98@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The groundbreaking trans scholar on the story we tell about ge
@@ -4582,7 +4567,7 @@ BEGIN:VEVENT
 SUMMARY:Jesmyn Ward: On Witness and Respair — Chicago
 DTSTART;TZID="UTC-06:00":20261107T163000
 DTEND;TZID="UTC-06:00":20261107T173000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f7e2f8db21e192d627e498e57857@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:The MacArthur Fellow and National Book Award-winner on her new
@@ -4600,7 +4585,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – We Are All Together — Seattle
 DTSTART;TZID="UTC-08:00":20261107T170000
 DTEND;TZID="UTC-08:00":20261107T182100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9887e1de762bd25311b1af81ee8b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4616,7 +4601,7 @@ SUMMARY:An Evening with Haley Heynderickx and Mary Lattimore in Rockefelle
  r Chapel — Chicago
 DTSTART;TZID="UTC-06:00":20261107T180000
 DTEND;TZID="UTC-06:00":20261107T194500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:444c02ad8954b3684fbaedf27d45@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Solo performances by the acclaimed musicians\nCategory: Arts &
@@ -4635,7 +4620,7 @@ SUMMARY:Peter Sagal’s Constitution Sessions: The Legacy of the Declarati
  on of Independence — Chicago
 DTSTART;TZID="UTC-06:00":20261107T183000
 DTEND;TZID="UTC-06:00":20261107T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6964e4c504422f0a923f44ac46ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Considering America at 250 with leading UChicago scholars\nCat
@@ -4651,7 +4636,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – Rankin Renwick Solo Show — Seattle
 DTSTART;TZID="UTC-08:00":20261107T193000
 DTEND;TZID="UTC-08:00":20261107T203000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9d7600d575d65d6d416d89eab278@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4665,7 +4650,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261107T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:dccc8f36b92dbf561189fada4207@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -4679,7 +4664,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dark Passage — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261108T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e7e2cfe07a9a3dd10fa668ed6d07@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -4694,7 +4679,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sage-Based Drag Night — Los Angeles
 DTSTART;TZID="UTC-08:00":20261108T180000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:cc2715a5c66228b1f999cc6b14e4@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Los Angeles\,United States
 DESCRIPTION:Category: Theater\nOriginal listing: https://www.redcat.org/ev
@@ -4708,7 +4693,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lineup — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261108T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5691f6662705cbf5ea174d32f3c5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -4723,7 +4708,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vertigo — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261109T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c7d9db8f85df62c671f277a954dc@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Visions of a City\, Or A Weekend in San Francisco. ... — Dir
@@ -4738,7 +4723,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christeene + Geo Wyex — New York
 DTSTART;TZID="UTC-05:00":20261109T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f7ddd5286587cebf7caf6cd7b299@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -4752,7 +4737,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Film Society's Film Discussion Group — Seattle
 DTSTART;TZID="UTC-08:00":20261111T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:10cc3968f6d42028598a238c286b@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -4767,7 +4752,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Members Only Mystery Preview - November 2026 — Seattle
 DTSTART;TZID="UTC-08:00":20261111T193000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a9632063e12891c8838f88971543@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4782,7 +4767,7 @@ BEGIN:VEVENT
 SUMMARY:The Parallax View — Seattle
 DTSTART;TZID="UTC-08:00":20261112T190000
 DTEND;TZID="UTC-08:00":20261112T204200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7849205a9e186b5067a86a15b0d8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4797,7 +4782,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261112T193000
 DTEND;TZID="UTC-08:00":20261112T210900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e495f91f5fcd60f51f1de0e66ebf@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4811,7 +4796,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261112T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:734ee56dc685f3e7b9ab0033dd46@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -4826,7 +4811,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261113T170000
 DTEND;TZID="UTC-08:00":20261113T183900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c2b039a36213e7ff3366c6d6f398@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4840,7 +4825,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Temptation Harbour — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261113T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6b55f11462ca7fbaaf4f9124e426@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -4855,7 +4840,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261113T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3618cfc82cd24ae6f67e3c08a004@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -4869,7 +4854,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tiger in the Smoke — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261113T211500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1e7249e06fed863c970e59352d69@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -4884,7 +4869,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All About Lily Chou-Chou — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261114T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:23e19298668d2b7fb3072d855a14@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
@@ -4901,7 +4886,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hell is a City — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261114T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1338acf5301051a0e4d095a23fcb@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -4917,7 +4902,7 @@ BEGIN:VEVENT
 SUMMARY:Twin Peaks: Conversation with the Stars — Chicago
 DTSTART;TZID="UTC-06:00":20261114T193000
 DTEND;TZID="UTC-06:00":20261114T213000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a76ed1ec4a35c50e15c7373d4e57@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Ideas\,Chicago\,United States
 DESCRIPTION:Celebrate the iconic series with Ray Wise (Leland Palmer)\, Mi
@@ -4935,7 +4920,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261114T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d2ad7a4560095fdbe420deebaf6e@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -4949,7 +4934,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Never Let Go — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261114T210000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:931aca2df38367e860f18c8655a7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -4964,7 +4949,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marie Antoinette — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261115T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3b49f1f323ed35ca77aa199ef7f8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Marie Antoinette and Friends\, Three Films ... — Directed by
@@ -4980,7 +4965,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261115T160000
 DTEND;TZID="UTC-08:00":20261115T173900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1d80cab6fff41eb5a206aaa827e4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -4995,7 +4980,7 @@ BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End — Seattle
 DTSTART;TZID="UTC-08:00":20261115T163000
 DTEND;TZID="UTC-08:00":20261115T173200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:4b2590ca868619f175c86ba77d33@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5010,7 +4995,7 @@ BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End — Seattle
 DTSTART;TZID="UTC-08:00":20261115T180000
 DTEND;TZID="UTC-08:00":20261115T190200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:bcf851030a42254de5c6cc1b2c7a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5025,7 +5010,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261115T190000
 DTEND;TZID="UTC-08:00":20261115T203900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:e464004e38699edca4f4a39d4a9a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5040,7 +5025,7 @@ BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End — Seattle
 DTSTART;TZID="UTC-08:00":20261115T193000
 DTEND;TZID="UTC-08:00":20261115T203200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:25f4ab997186bb9520e1bda19476@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5054,7 +5039,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nowhere to Go — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261116T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0a0d3b8068c01eec27c46fdbf040@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -5070,7 +5055,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261116T190000
 DTEND;TZID="UTC-08:00":20261116T203900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:38aea247a6d1868d2840691c36cd@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5085,7 +5070,7 @@ BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End — Seattle
 DTSTART;TZID="UTC-08:00":20261116T193000
 DTEND;TZID="UTC-08:00":20261116T203200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:a6bf848b598a2606ff0ff23961c8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5099,7 +5084,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sophia Dahlin + Harron Walker — New York
 DTSTART;TZID="UTC-05:00":20261116T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f0fc1655c74ed74f377186b98181@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -5113,7 +5098,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Film Society's Film Discussion Group — Seattle
 DTSTART;TZID="UTC-08:00":20261118T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:21cc33b043133eb38fa6b9e7b7b6@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -5129,7 +5114,7 @@ BEGIN:VEVENT
 SUMMARY:WTF with STUFF - Kokomo City — Seattle
 DTSTART;TZID="UTC-08:00":20261118T190000
 DTEND;TZID="UTC-08:00":20261118T201300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6caf6784f5e65070cf333d57f5ad@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5144,7 +5129,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261118T193000
 DTEND;TZID="UTC-08:00":20261118T210900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:8fd947b5dd96e8069c9a592ffb8f@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5158,7 +5143,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Amy Ching-Yan Lam + Jacqueline Waters — New York
 DTSTART;TZID="UTC-05:00":20261118T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5607d5a72c7f6772a173070923cd@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -5174,7 +5159,7 @@ BEGIN:VEVENT
 SUMMARY:SFCS at 10: The Witch — Seattle
 DTSTART;TZID="UTC-08:00":20261119T183000
 DTEND;TZID="UTC-08:00":20261119T200200
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f6cac08772332ced87dc30fde8e0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5188,7 +5173,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261119T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b44bc402aa3159c29020dbfb9db1@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -5202,7 +5187,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:This Was a Woman — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261120T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9e25d7522542b286f70c840258ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -5218,7 +5203,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261120T190000
 DTEND;TZID="UTC-08:00":20261120T212000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:72d7c69bbff3858dd18bcac0fc1a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5233,7 +5218,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261120T193000
 DTEND;TZID="UTC-08:00":20261120T205100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2e6532a651f87fa0c69d151ecc3e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5247,7 +5232,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crackhead Barney + Ann Liv Young — New York
 DTSTART;TZID="UTC-05:00":20261120T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ca3c40327c0236cb41a5128f9935@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -5261,7 +5246,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261120T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:cb9fcbae90080a0114c8535ab566@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -5276,7 +5261,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261121T160000
 DTEND;TZID="UTC-08:00":20261121T182000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6d1e8052c5c60b57e4285f39643d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5291,7 +5276,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261121T163000
 DTEND;TZID="UTC-08:00":20261121T175100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9c70edb067694e7f2e3184f9b306@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5305,7 +5290,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ashes and Diamonds — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261121T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:3b342aee3f0152b3c58ad2150847@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5321,7 +5306,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261121T190000
 DTEND;TZID="UTC-08:00":20261121T212000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:fcd7538eecfd82c4c8b69a101376@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5336,7 +5321,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261121T193000
 DTEND;TZID="UTC-08:00":20261121T205100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:4c1f3d3ab3d5197a8e3fc0647821@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5350,7 +5335,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261121T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:dffe29acc67ccb962b9d12de0534@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -5364,7 +5349,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Generation — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261121T211500
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:8ab79b648b80ae3a187293ec68d8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5379,7 +5364,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Innocent Sorcerers — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261122T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:fb88e5230704bf940435e224ed3b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5395,7 +5380,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261122T160000
 DTEND;TZID="UTC-08:00":20261122T182000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:4bbe8a6c5c8871afe0a87361c3b5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5410,7 +5395,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261122T163000
 DTEND;TZID="UTC-08:00":20261122T175100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:10566d710f907681c5a179e9e8ea@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5425,7 +5410,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261122T190000
 DTEND;TZID="UTC-08:00":20261122T212000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b396f79eba9f4e1007870752e412@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5440,7 +5425,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261122T193000
 DTEND;TZID="UTC-08:00":20261122T205100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:bacc6a746a60444d002fa1e5d1d4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5454,7 +5439,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kanał — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261123T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:beae554dafebe42cf75f362ae598@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5470,7 +5455,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261123T193000
 DTEND;TZID="UTC-08:00":20261123T205100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b135f0e721ff49f1764efb204d8b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5485,7 +5470,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261124T193000
 DTEND;TZID="UTC-08:00":20261124T205100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f9abb91d288be2f693f734e39124@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5499,7 +5484,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Promised Land — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261127T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:71bc44f63142e4e7848bde541fa7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5515,7 +5500,7 @@ BEGIN:VEVENT
 SUMMARY:Late Autumn — Seattle
 DTSTART;TZID="UTC-08:00":20261128T160000
 DTEND;TZID="UTC-08:00":20261128T180800
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:bd356fc3428b9ffba9cb5452c8d4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5529,7 +5514,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man of Marble — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261128T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b282d79820315b85578d9e3a4817@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5545,7 +5530,7 @@ BEGIN:VEVENT
 SUMMARY:Late Autumn — Seattle
 DTSTART;TZID="UTC-08:00":20261128T190000
 DTEND;TZID="UTC-08:00":20261128T210800
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0c06d4b8a1128384890681e45986@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5559,7 +5544,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wałęsa: Man of Hope — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261129T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f761cac4a4519e9e239ff75c3cfb@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5575,7 +5560,7 @@ BEGIN:VEVENT
 SUMMARY:Late Autumn — Seattle
 DTSTART;TZID="UTC-08:00":20261129T160000
 DTEND;TZID="UTC-08:00":20261129T180800
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:5e266791c50e3b6db5b3ec3f2123@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5590,7 +5575,7 @@ BEGIN:VEVENT
 SUMMARY:Late Autumn — Seattle
 DTSTART;TZID="UTC-08:00":20261129T190000
 DTEND;TZID="UTC-08:00":20261129T210800
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0e6335052e388c8f8a96c16963f5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5604,7 +5589,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man of Iron — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261130T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:27050edc99652385f739d092e141@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5620,7 +5605,7 @@ BEGIN:VEVENT
 SUMMARY:WTO/99 — Seattle
 DTSTART;TZID="UTC-08:00":20261130T190000
 DTEND;TZID="UTC-08:00":20261130T204000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:815746973c190be283a914170b68@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5635,7 +5620,7 @@ BEGIN:VEVENT
 SUMMARY:WTO/99 — Seattle
 DTSTART;TZID="UTC-08:00":20261201T190000
 DTEND;TZID="UTC-08:00":20261201T204000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:0f4ce87860a26ee7c8629d58e4b1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5649,7 +5634,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carolina Ebeid + Mark Nowak — New York
 DTSTART;TZID="UTC-05:00":20261202T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:74ee0c22537578607ca2c98bc02f@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -5664,7 +5649,7 @@ BEGIN:VEVENT
 SUMMARY:Truth To Fiction: The Store — Seattle
 DTSTART;TZID="UTC-08:00":20261203T190000
 DTEND;TZID="UTC-08:00":20261203T205800
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:74dee42e2e411037c9735deba047@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5678,7 +5663,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S*an D. Henry-Smith + julie ezelle patton — New York
 DTSTART;TZID="UTC-05:00":20261204T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -5692,7 +5677,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CalArts Winter Dance Festival — Los Angeles
 DTSTART;TZID="UTC-08:00":20261204T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:4ef6cc12730d873c81afbeca349f@global-arts-culture
 CATEGORIES:Arts & Culture\,Dance\,Los Angeles\,United States
 DESCRIPTION:Category: Dance\nOriginal listing: https://www.redcat.org/even
@@ -5706,7 +5691,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CalArts Winter Dance Festival — Los Angeles
 DTSTART;TZID="UTC-08:00":20261205T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9f07c2c1358307b67c24dbc45ae4@global-arts-culture
 CATEGORIES:Arts & Culture\,Dance\,Los Angeles\,United States
 DESCRIPTION:Category: Dance\nOriginal listing: https://www.redcat.org/even
@@ -5720,7 +5705,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conductor — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261207T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:2377bf638a13f931b19a54e5b62d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5736,7 +5721,7 @@ BEGIN:VEVENT
 SUMMARY:SFCS at 10: Moonlight — Seattle
 DTSTART;TZID="UTC-08:00":20261209T190000
 DTEND;TZID="UTC-08:00":20261209T205100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:962850d36e559c6ef079deff92c0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5750,7 +5735,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Without Anesthesia\, aka Rough Treatment — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261211T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c27d527c8d660021685a785149a7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5767,7 +5752,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Recital of Citations — Los Angeles
 DTSTART;TZID="UTC-08:00":20261211T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:22484206b4cd7fe8eaa07056fe00@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Los Angeles\,United States
 DESCRIPTION:Category: Theater\nOriginal listing: https://www.redcat.org/ev
@@ -5781,7 +5766,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fanny and Alexander — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261212T140000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:70431b95f04053095432abb54ea7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
@@ -5797,7 +5782,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ashes — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261212T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:474b659e4677c73ed9a1c454c7ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5812,7 +5797,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Recital of Citations — Los Angeles
 DTSTART;TZID="UTC-08:00":20261212T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:286b0b95b979de5946fe766e1609@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Los Angeles\,United States
 DESCRIPTION:Category: Theater\nOriginal listing: https://www.redcat.org/ev
@@ -5826,7 +5811,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pan Tadeusz\, aka The Last Days — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261213T150000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:ada1d0c94b012c65826f34e8504c@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5843,7 +5828,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ashes and Diamonds — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261214T190000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:6236141e21a7981fb2106ae6ff47@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -5859,7 +5844,7 @@ BEGIN:VEVENT
 SUMMARY:Truth To Fiction: Seeds — Seattle
 DTSTART;TZID="UTC-08:00":20270107T190000
 DTEND;TZID="UTC-08:00":20270107T210300
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:32c896899066491d1cc7bd81ce3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5874,7 +5859,7 @@ BEGIN:VEVENT
 SUMMARY:WTF with STUFF - Fresh Kill — Seattle
 DTSTART;TZID="UTC-08:00":20270120T190000
 DTEND;TZID="UTC-08:00":20270120T201900
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b036dc33b81023a7cbdc83c11f58@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5889,7 +5874,7 @@ BEGIN:VEVENT
 SUMMARY:MOURNING SICKNESS VOL. 5: Showgirls Annual Screenings — Seattle
 DTSTART;TZID="UTC-08:00":20270123T200000
 DTEND;TZID="UTC-08:00":20270123T221100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:86682a1ed25a019c413083e151b7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5905,7 +5890,7 @@ BEGIN:VEVENT
 SUMMARY:MOURNING SICKNESS VOL. 5: Showgirls Annual Screenings — Seattle
 DTSTART;TZID="UTC-08:00":20270124T200000
 DTEND;TZID="UTC-08:00":20270124T221100
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f0b9865492c13531ca8ca5eee151@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -5920,7 +5905,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270218T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:7c54401e9120ab32b0917275cd8f@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -5934,7 +5919,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270219T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:f81c18eae6e77ff6e00d984bd591@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -5948,7 +5933,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270220T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:8f400e65ac69a25745c27fa66e8d@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -5962,7 +5947,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270221T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:b0f18a69aeb634b58f19e100fe24@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -5976,7 +5961,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270222T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:697228924df654276cb204c56bb1@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -5990,7 +5975,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270223T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:9b9196042600097200790d9b1c9d@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -6004,7 +5989,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270224T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:dda0ac9a4355e60178797da2efb0@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -6018,7 +6003,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270225T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:1bbb42555e7d134667fc221a86ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -6032,7 +6017,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270226T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:d21337be6f495b24c22ad1af2083@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -6046,7 +6031,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270227T200000
-DTSTAMP:20261011T191501Z
+DTSTAMP:20261011T191621Z
 UID:c2a808b10109b093fd22f7397f95@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
