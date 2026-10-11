@@ -14,7 +14,7 @@ import httpx
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
 
-USER_AGENT = "GlobalArtsCultureCalendar/1.0 (+https://github.com/k10sj02/global-arts-culture-calendar)"
+USER_AGENT = "Mozilla/5.0 (compatible; GlobalArtsCultureCalendar/1.0; +https://github.com/k10sj02/global-arts-culture-calendar)"
 UTC = ZoneInfo("UTC")
 REGION_TZ = {"us": "America/New_York", "europe": "Europe/London", "mexico": "America/Mexico_City"}
 MONTHS = {name.casefold(): number for number, name in enumerate(
