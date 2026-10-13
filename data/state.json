@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:17:20.351491-04:00",
+  "updated": "2026-10-13T18:48:49.410697-04:00",
   "events": {
     "76ca53c0793111109a95b760c18d@global-arts-culture": {
       "source": "poetry-project",
@@ -457,23 +457,6 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/cssj/event/334391-exhibition-on-view-sites-of-remaking-port-cities",
       "description": "This exhibition, Sites of Remaking: Port Cities and Our Present, invites visitors to reconsider and recontextualize port cities, centering Black and Indigenous experiences within the global history of the Transatlantic Slave Trade and its present-day legacies. It explores themes of freedom-making, resistance, place-making and the legacies of slavery through works by three Rhode Island-based multi-disciplinary artists: Jazzmen Lee-Johnson, Kia Lenise and Spencer Evans. Curated by Ivie Orobaton, A.M. Candidate in Public Humanities. The exhibition is an artistic companion to the April 23–24 conference, Reconsidering Port Cities: Critical Commemoration of Slavery, and Transatlantic Legacies , ho",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e8bfc4fc26d3a03a773fb3e67363@global-arts-culture": {
-      "source": "brown-arts",
-      "source_id": "337882-2026-10-14T12:00:00-04:00",
-      "title": "AI Refusal: Practical skills for opting-out of generative AI features, methods, and workflows",
-      "start": "2026-10-14T12:00:00-04:00",
-      "end": "2026-10-14T13:00:00-04:00",
-      "venue": "Rockefeller Library",
-      "address": "Rockefeller Library",
-      "city": "Providence",
-      "country": "United States",
-      "region": "us",
-      "category": "Lectures, Seminars and Workshops",
-      "url": "https://events.brown.edu/library/event/337882-ai-refusal-practical-skills-for-opting-out-of",
-      "description": "“AI refusal can refer to a spectrum of approaches to AI, whether that’s refusing to use AI tools entirely, refusing the use of AI as much as possible, refusing to prioritize the use of AI, refusing to accept either boosterism or doomer narratives, refusing to accept the idea that AI is inevitable, or some other refusal.” - Violet Fox, 2025 What would it mean to refuse to use AI tools and methods in your work? What practical skills would you need to do so? And what’s the broader context to such practices of refusal? In this workshop, we will explore the practices and frameworks that make up AI Refusal, using academic libraries and common academic tech tools as our jumping-off point. We will c",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -3061,20 +3044,20 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "cce7f3bfd704f1e9a902fa86f2f3@global-arts-culture": {
+    "c702710c3a26472040a86f79b469@global-arts-culture": {
       "source": "berkeley-arts",
-      "source_id": "334143-2026-10-13T00:00:00-07:00",
+      "source_id": "334133-2026-10-13T00:00:00-07:00",
       "title": "Video Exhibition: Kōmij Mour Ijin / Our Life Is Here",
       "start": "2026-10-13T00:00:00-07:00",
       "end": null,
-      "venue": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
-      "address": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "venue": "Anthropology & Art Building",
+      "address": "Anthropology & Art Building",
       "city": "Berkeley/San Francisco",
       "country": "United States",
       "region": "us",
       "category": "Exhibits",
-      "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
-      "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
+      "url": "https://events.berkeley.edu/live/events/333518-video-exhibition-kmij-mour-ijin-our-life-is-here",
+      "description": "Worth Ryder Art Gallery and VIDRINE present four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific. All were made in the wake of the 2023 Kōmij Mour Ijin / Our Life Is Here voyage across the Marshall Islands.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -3095,6 +3078,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "a558c1bd3e4634aa5300aba9f771@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334188-2026-10-13T11:00:00-07:00",
+      "title": "Exhibit | An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72",
+      "start": "2026-10-13T11:00:00-07:00",
+      "end": "2026-10-13T16:00:00-07:00",
+      "venue": "2121 Allston Way, Berkeley, CA 94720",
+      "address": "2121 Allston Way, Berkeley, CA 94720",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/330947-exhibit-an-archive-of-archives-roman-vishniacs",
+      "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "ccd237732e9f3ca88665a41cbc93@global-arts-culture": {
       "source": "berkeley-arts",
       "source_id": "334245-2026-10-13T11:00:00-07:00",
@@ -3112,20 +3112,54 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "a558c1bd3e4634aa5300aba9f771@global-arts-culture": {
+    "5568bd3b174209ff3633c929ba58@global-arts-culture": {
       "source": "berkeley-arts",
-      "source_id": "334188-2026-10-13T11:00:00-07:00",
-      "title": "Exhibit | An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72",
-      "start": "2026-10-13T11:00:00-07:00",
-      "end": "2026-10-13T16:00:00-07:00",
-      "venue": "2121 Allston Way, Berkeley, CA 94720",
-      "address": "2121 Allston Way, Berkeley, CA 94720",
+      "source_id": "334904-2026-10-13T19:30:00-07:00",
+      "title": "Michael Pollan & Christof Koch: A Journey into Consciousness",
+      "start": "2026-10-13T19:30:00-07:00",
+      "end": null,
+      "venue": "Zellerbach Hall",
+      "address": "Zellerbach Hall",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Other",
+      "url": "https://events.berkeley.edu/townsend/event/334904-michael-pollan-christof-koch-a-journey-into",
+      "description": "Presented by the UC Berkeley Center for the Science of Psychedelics (BCSP) and Cal Performances",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "a3ebd45648a7bb311a9c6d3df8d2@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334115-2026-10-13T20:00:00-07:00",
+      "title": "Kaiser/DeGruttola/Kim at CNMAT",
+      "start": "2026-10-13T20:00:00-07:00",
+      "end": null,
+      "venue": "CNMAT (1750 Arch St)",
+      "address": "CNMAT (1750 Arch St)",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Performing Arts",
+      "url": "https://events.berkeley.edu/live/events/329018-kaiserdegruttolakim-at-cnmat",
+      "description": "Kaiser/DeGruttola/Kim at CNMAT",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "d06ef320726de234953377157f11@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "288815-2026-10-14T00:00:00-07:00",
+      "title": "Exhibit | Centering Philippine and Filipinx American Histories: Selections from The Bancroft Library",
+      "start": "2026-10-14T00:00:00-07:00",
+      "end": null,
+      "venue": "The Bancroft Library (corridor)",
+      "address": "The Bancroft Library (corridor)",
       "city": "Berkeley/San Francisco",
       "country": "United States",
       "region": "us",
       "category": "Exhibits",
-      "url": "https://events.berkeley.edu/live/events/330947-exhibit-an-archive-of-archives-roman-vishniacs",
-      "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
+      "url": "https://events.berkeley.edu/Library/event/288815-centering-philippine-and-filipinx-american",
+      "description": "The Bancroft Library’s collections of materials relating to the Philippines span nearly 500 years. Highlights in this exhibit include a transcript of an Inquisitorial trial from 1646, a prayer book written in the Cebuano language, and UC Berkeley Filipino student publications from 1905 to the present. The exhibit also features selections from the personal papers of acclaimed author Jessica Hagedorn, including typewritten drafts of her novels, poetry, song lyrics, and a screenplay, as well as childhood drawings and writings. Open hours may vary. Please view the The Bancroft Library hours page for the most up-to-date information.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9549,7 +9583,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Workshops &amp; Classes",
+      "category": "Art Thrives",
       "url": "https://noma.org/event/art-thrives-photography-2026/2026-10-15/",
       "description": "Art Thrives invites participants ages 55 and above to an eight-week course led by local photographer biseat yawkal. Participants will be inspired by NOMA’s permanent collection, as well as works on view in the upcoming exhibition Confluence: The Tina Freeman Collection of Photographs . They will learn how to operate a camera, use peer review to gain more skills in photography, as well as how to mat and frame their photographs. Students will also draw inspiration from the natural life found in the Besthoff Sculpture Garden to inform their practice. Please note: Having your own personal camera is not a requirement for workshop participation. However, participants who have their own camera are ",
       "status": "CONFIRMED",
@@ -9583,7 +9617,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Films",
+      "category": "Talks &amp; Tours",
       "url": "https://noma.org/event/producers-choice-finding-neverland/",
       "description": "Experience films selected and presented by award-winning producer Meryl Poster, in conversation with special guests. Get behind-the-scenes insights and celebrate cinema as an essential art form. Join us for this screening of Finding Neverland (2004) and a post-screening conversation between Poster and the film’s producer Richard Gladstein. Tickets Tickets for the screening and pre-screening conversation are $10 for NOMA members and $15 for general admission. Doors open at 6:00 pm and the screening starts at 6:30 pm. Get Tickets *Please note: NOMA members must log into their my.noma account in order to see their ticket options at the link above. Seating is offered on a first-come, first-serve",
       "status": "CONFIRMED",
@@ -9617,7 +9651,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Workshops &amp; Classes",
+      "category": "Art Thrives",
       "url": "https://noma.org/event/art-thrives-photography-2026/2026-10-22/",
       "description": "Art Thrives invites participants ages 55 and above to an eight-week course led by local photographer biseat yawkal. Participants will be inspired by NOMA’s permanent collection, as well as works on view in the upcoming exhibition Confluence: The Tina Freeman Collection of Photographs . They will learn how to operate a camera, use peer review to gain more skills in photography, as well as how to mat and frame their photographs. Students will also draw inspiration from the natural life found in the Besthoff Sculpture Garden to inform their practice. Please note: Having your own personal camera is not a requirement for workshop participation. However, participants who have their own camera are ",
       "status": "CONFIRMED",
@@ -9634,7 +9668,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Kids &amp; Families",
+      "category": "Workshops &amp; Classes",
       "url": "https://noma.org/event/little-learners-glittering-gold/",
       "description": "Join us at the museum on select Saturday mornings for Studio KIDS! and Little Learners youth art-making workshops. In these workshop series designed for artists ages 4-5 (Little Learners) and 6-12 (Studio KIDS!), we’ll take inspiration from works on view across the museum and the Besthoff Sculpture Garden and make our own creations with a teaching artist. About Little Learners: Glittering Gold Search the galleries for gold! After visiting galleries that glimmer, including Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection , young artists will create their own autumnal artwork using gold. Registration is $15 for members and $20 for other participants. Advance registratio",
       "status": "CONFIRMED",
@@ -9651,7 +9685,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Kids &amp; Families",
+      "category": "Workshops &amp; Classes",
       "url": "https://noma.org/event/studio-kids-glittering-gold/",
       "description": "Join us at the museum on select Saturday mornings for Studio KIDS! and Little Learners youth art-making workshops. In these workshop series designed for artists ages 4-5 (Little Learners) and 6-12 (Studio KIDS!), we’ll take inspiration from works on view across the museum and the Besthoff Sculpture Garden and make our own creations with a teaching artist. About Studio KIDS!: Glittering Gold Search the galleries for gold! After visiting galleries that glimmer, including the exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection , participants will create their own autumnal artwork using gold leaf. The Studio KIDS! sessions will be led by teaching artist Krystyna. ",
       "status": "CONFIRMED",
@@ -9668,7 +9702,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Performances",
+      "category": "Music in the Garden",
       "url": "https://noma.org/event/music-in-the-garden-october-25/",
       "description": "This year, experience the seasons change at NOMA with Music in the Garden! Enjoy local musicians performing alongside artworks new and old in the Sydney and Walda Besthoff Sculpture Garden on Sunday afternoons February 22nd, April 12th, October 25th, and November 15th. On Sunday, October 25, join us for a Music in the Garden performance from Giselle Anguizola Duo and another performer, to be announced soon. This program is free and open to the public, with registration recommended. Individuals who register will receive notifications of weather-related location changes. Register Now Performers and Schedule First Set, 2-3 PM | Performer TBA Please check this page for updates. Second Set, 3-4 P",
       "status": "CONFIRMED",
@@ -9685,7 +9719,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Special",
+      "category": "Member Events",
       "url": "https://noma.org/event/member-sale-at-the-noma-museum-shop-2/",
       "description": "Start your holiday shopping early with the NOMA Museum Shop Member Sale! During our biggest sale of the year, NOMA members save 20% on all regularly priced items and get first access to 70% markdowns in the NOMA Museum Shop. Can’t make it in person? Shop online the day of the sale and get free shipping on orders over $100. Questions? Call 504.658.4133 or email shop@noma.org . Note: the Member Sale does not apply to already marked-down items or consignment merchandise. Visit the NOMA Museum Shop Website Not yet a member? Join today at any level to get access to the NOMA Museum Shop’s annual sale. Become a Member",
       "status": "CONFIRMED",
@@ -9719,7 +9753,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Workshops &amp; Classes",
+      "category": "Art Thrives",
       "url": "https://noma.org/event/art-thrives-photography-2026/2026-10-29/",
       "description": "Art Thrives invites participants ages 55 and above to an eight-week course led by local photographer biseat yawkal. Participants will be inspired by NOMA’s permanent collection, as well as works on view in the upcoming exhibition Confluence: The Tina Freeman Collection of Photographs . They will learn how to operate a camera, use peer review to gain more skills in photography, as well as how to mat and frame their photographs. Students will also draw inspiration from the natural life found in the Besthoff Sculpture Garden to inform their practice. Please note: Having your own personal camera is not a requirement for workshop participation. However, participants who have their own camera are ",
       "status": "CONFIRMED",
@@ -9753,7 +9787,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Workshops &amp; Classes",
+      "category": "Art Thrives",
       "url": "https://noma.org/event/art-thrives-photography-2026/2026-11-05/",
       "description": "Art Thrives invites participants ages 55 and above to an eight-week course led by local photographer biseat yawkal. Participants will be inspired by NOMA’s permanent collection, as well as works on view in the upcoming exhibition Confluence: The Tina Freeman Collection of Photographs . They will learn how to operate a camera, use peer review to gain more skills in photography, as well as how to mat and frame their photographs. Students will also draw inspiration from the natural life found in the Besthoff Sculpture Garden to inform their practice. Please note: Having your own personal camera is not a requirement for workshop participation. However, participants who have their own camera are ",
       "status": "CONFIRMED",
@@ -9770,7 +9804,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Fundraisers",
+      "category": "Special",
       "url": "https://noma.org/event/love-2026/",
       "description": "You’re Invited to Light up the Night at LOVE IN THE GARDEN PRESENTED BY FRISCHHERTZ Sydney and Walda Besthoff Sculpture Garden Patron Party | 7 pm – 8 pm Garden Party | 8 pm – 11 pm NVC Chair Jennifer Rowland Event Chairs Benjamin Conway Olivia Marks Join us on Friday, November 6 , in the Sydney and Walda Besthoff Sculpture Garden as we celebrate LOVE in the Garden Presented by Frischhertz . Funds raised during LOVE in the Garden provide critical support to NOMA’s exhibitions, programs, and educational initiatives all year round. Tickets Patron Party tickets | $175 (Member price: $150) Grants ticket holders access to the event from 7-11 PM GET YOUR TICKETS Garden Party tickets | $125 (Member",
       "status": "CONFIRMED",
@@ -9787,7 +9821,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Kids &amp; Families",
+      "category": "Workshops &amp; Classes",
       "url": "https://noma.org/event/studio-kids-woven-in-color/",
       "description": "Join us at the museum on select Saturday mornings for Studio KIDS! and Little Learners youth art-making workshops. In these workshop series designed for artists ages 4-5 (Little Learners) and 6-12 (Studio KIDS!), we’ll take inspiration from works on view across the museum and the Besthoff Sculpture Garden and make our own creations with a teaching artist. About Studio KIDS!: Woven in Color After discussing color theory, participants will walk through the galleries of the museum on a mission to spot a series of color schemes and harmonies.  Artists will use their findings as inspiration, creating their own woven artworks showcasing their chosen color schemes using looms, yarn, and fabric. Thi",
       "status": "CONFIRMED",
@@ -10011,6 +10045,23 @@
       "category": "Bookshop",
       "url": "https://www.ica.art/bookshop",
       "description": "The inaugural ICA Makers Market brings together local artists, designers and independent makers for a day of seasonal shopping, gift-buying and mulled wine.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "214278bae5a9d5ff48247e10e551@global-arts-culture": {
+      "source": "matadero-madrid",
+      "source_id": "https://www.mataderomadrid.org/en/schedule/alert-mini-monsters-2026-10-30T20:00:00+0100",
+      "title": "ALERT: MINI-MONSTERS!",
+      "start": "2026-10-30T20:00:00+0100",
+      "end": "2026-10-31T14:00:00+0100",
+      "venue": "Taller",
+      "address": "Plaza de Legazpi, 8, Madrid, 28045",
+      "city": "Madrid",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Multidisciplinary",
+      "url": "https://www.mataderomadrid.org/en/schedule/alert-mini-monsters",
+      "description": "Led by illustrator Emo Díaz, this workshop invites us to transform into our favorite monster by creating our own spooky masks using cardboard, paper, and everyday materials. It’s an exercise that encourages imagination, experimentation, and giving shape to new ideas while working together as a family. Emo Díaz is an illustrator, graphic designer, and animator based in Madrid. He is renowned for his friendly, colorful, and approachable style, which resonates strongly with children through soft-shaped characters and visual universes filled with joy and a subtle touch of nostalgia. As a children's book author and creative project creator, he is also a regular workshop leader in cultural and edu",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -10626,6 +10677,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "47e30d904ea4aad3bb9628e8a1ca@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing-2026-10-17T18:30:00+02:00",
+      "title": "Ukraine: The Meaning of Writing",
+      "start": "2026-10-17T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing",
+      "description": "Sofia Andrukhovych, Volodymyr Yermolenko and Tetyana Ogarkova",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "c1400897190b1128bef357562440@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera-2026-10-17T20:00:00+02:00",
@@ -10708,23 +10776,6 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera",
       "description": "The Universal and Its Limits",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "47e30d904ea4aad3bb9628e8a1ca@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing-2026-10-17T18:30:00+02:00",
-      "title": "Ukraine: The Meaning of Writing",
-      "start": "2026-10-17T18:30:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing",
-      "description": "Sofia Andrukhovych, Volodymyr Yermolenko and Tetyana Ogarkova",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -11051,23 +11102,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "739d89bf3688a8cf82f180b9a6c5@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/bivac-2026-2026-10-29T19:00:00+01:00",
-      "title": "Bivac 2026",
-      "start": "2026-10-29T19:00:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Festivals",
-      "url": "https://www.cccb.org/en/w/activities/bivac-2026",
-      "description": "Prêt-à-rester. Heirs of Leftovers",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "59a8011de5ef7d850bbf5d169a68@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes-2026-10-29T18:30:00+01:00",
@@ -11099,6 +11133,23 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/seminar-with-paco-gomez-and-laura-c-vela",
       "description": "Photoscriptures. Creating and Editing Text-Image Projects",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "739d89bf3688a8cf82f180b9a6c5@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/bivac-2026-2026-10-29T19:00:00+01:00",
+      "title": "Bivac 2026",
+      "start": "2026-10-29T19:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Festivals",
+      "url": "https://www.cccb.org/en/w/activities/bivac-2026",
+      "description": "Prêt-à-rester. Heirs of Leftovers",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -11354,6 +11405,23 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/today-foucault",
       "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c402e39eee13931d4e0311c61824@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/michel-foucault-2026-11-09T18:30:00+01:00",
+      "title": "Michel Foucault",
+      "start": "2026-11-09T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/michel-foucault",
+      "description": "Lighthouse",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -12955,6 +13023,40 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "e8bfc4fc26d3a03a773fb3e67363@global-arts-culture": {
+      "source": "brown-arts",
+      "source_id": "337882-2026-10-14T12:00:00-04:00",
+      "title": "AI Refusal: Practical skills for opting-out of generative AI features, methods, and workflows",
+      "start": "2026-10-14T12:00:00-04:00",
+      "end": "2026-10-14T13:00:00-04:00",
+      "venue": "Rockefeller Library",
+      "address": "Rockefeller Library",
+      "city": "Providence",
+      "country": "United States",
+      "region": "us",
+      "category": "Lectures, Seminars and Workshops",
+      "url": "https://events.brown.edu/library/event/337882-ai-refusal-practical-skills-for-opting-out-of",
+      "description": "“AI refusal can refer to a spectrum of approaches to AI, whether that’s refusing to use AI tools entirely, refusing the use of AI as much as possible, refusing to prioritize the use of AI, refusing to accept either boosterism or doomer narratives, refusing to accept the idea that AI is inevitable, or some other refusal.” - Violet Fox, 2025 What would it mean to refuse to use AI tools and methods in your work? What practical skills would you need to do so? And what’s the broader context to such practices of refusal? In this workshop, we will explore the practices and frameworks that make up AI Refusal, using academic libraries and common academic tech tools as our jumping-off point. We will c",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "cce7f3bfd704f1e9a902fa86f2f3@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334143-2026-10-13T00:00:00-07:00",
+      "title": "Video Exhibition: Kōmij Mour Ijin / Our Life Is Here",
+      "start": "2026-10-13T00:00:00-07:00",
+      "end": null,
+      "venue": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "address": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
+      "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "553718e799add20686854bfc2409@global-arts-culture": {
       "source": "brown-arts",
       "source_id": "338354-2026-10-12T00:00:00-04:00",
@@ -12969,8 +13071,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh",
       "description": "In her practice, Dayanita Singh experiments with form through photography, architecture, and books to create exhibitions. Using these mediums, Singh extends an invitation to audiences to question how books, and book-making, might transform a space into an exhibition. This show takes cues from Singh’s artist-led approach to exhibitions to explore the relationship between “making” and “reading.” With Singh’s Book Building (2022) as a blueprint, this exhibition analyzes book-making as an artistic practice, material form, and conceptual process. Works in the exhibition span Singh’s career, including Book Building (2022), Blue Book (2009), File Room (2013), Museum of Chance (2014), and Sent a Let",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d769147720ffd8a66fd335ee0b19@global-arts-culture": {
       "source": "brown-arts",
@@ -12986,8 +13088,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/library/event/341394-a-pictorial-dragon-the-art-of-fernando-birri",
       "description": "The exhibit A Pictorial Dragon: The Art of Fernando Birri is on view in the Harriette Hemmasi Exhibition Gallery at the John Hay Library at Brown University, and online through a digital exhibition. The exhibit celebrates the centennial of Fernando Birri (1925–2017), the pioneering Argentine filmmaker, artist, and theorist of the New Latin American Cinema.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0f58f289d7183dcd4dca5dbac46c@global-arts-culture": {
       "source": "brown-arts",
@@ -13003,8 +13105,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/cssj/event/334389-exhibition-on-view-sites-of-remaking-port-cities",
       "description": "This exhibition, Sites of Remaking: Port Cities and Our Present, invites visitors to reconsider and recontextualize port cities, centering Black and Indigenous experiences within the global history of the Transatlantic Slave Trade and its present-day legacies. It explores themes of freedom-making, resistance, place-making and the legacies of slavery through works by three Rhode Island-based multi-disciplinary artists: Jazzmen Lee-Johnson, Kia Lenise and Spencer Evans. Curated by Ivie Orobaton, A.M. Candidate in Public Humanities. The exhibition is an artistic companion to the April 23–24 conference, Reconsidering Port Cities: Critical Commemoration of Slavery, and Transatlantic Legacies , ho",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8027b5646fdbeca0fb1e935c49cb@global-arts-culture": {
       "source": "chicago-humanities",
@@ -13020,8 +13122,8 @@
       "category": "Arts & Ideas",
       "url": "https://www.chicagohumanities.org/events/attend/yotam-ottolenghi/",
       "description": "The bestselling cookbook author and chef in conversation",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a6a25e1820d9d7c0ccbe4c9dc2db@global-arts-culture": {
       "source": "gwu-arts",
@@ -13037,8 +13139,8 @@
       "category": "Career & Professional Development",
       "url": "https://calendar.gwu.edu/event/ifa-usa-dc-region-career-pathways-in-tax-event",
       "description": "Please join us for a panel discussion on pathways for those considering or starting their careers in tax. October 12, 2026 4:30 PM - 6:30 PM in the Moot Court Room. Reception to follow in the Kelly Lounge. Register for the Event Here",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "7ede8a543bc3b9dde3cf59bfed3e@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13054,8 +13156,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/Library/event/288815-centering-philippine-and-filipinx-american",
       "description": "The Bancroft Library’s collections of materials relating to the Philippines span nearly 500 years. Highlights in this exhibit include a transcript of an Inquisitorial trial from 1646, a prayer book written in the Cebuano language, and UC Berkeley Filipino student publications from 1905 to the present. The exhibit also features selections from the personal papers of acclaimed author Jessica Hagedorn, including typewritten drafts of her novels, poetry, song lyrics, and a screenplay, as well as childhood drawings and writings. Open hours may vary. Please view the The Bancroft Library hours page for the most up-to-date information.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "85899df8a6a5d3113e3a852b5f6b@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13071,8 +13173,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pueblo-for-and-by-the-people-rev",
       "description": "The exhibition, De y para el pueblo / By and for the People: Revolutionary Mexican Prints, features highlights from The Bancroft Library’s extensive collection of prints.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "7cd98d7f5b6ba34ceb5b246c81dc@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13088,8 +13190,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/309073-exhibit-divestment-now-student-activism-and-the-anti-",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f9ea30e70841fbf10cc7be34a141@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13105,8 +13207,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-ijin-our-life-is-here",
       "description": "Kōmij Mour Ijin / Our Life Is Here at Doe Library brings together reproductions of works and interpretive material from the 2023 voyage, exploring climate change, the legacy of US nuclear testing, and Marshallese knowledge and resilience.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a564ce2ce4d8d1a0315e21e97bde@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13122,8 +13224,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330194-photography-installation-remembering-the-future",
       "description": "At Giannini Hall, 36 photographs selected from the recently published Remembering the Future: Nuclear Testing, Rising Seas, and The Marshall Islands (Radius Books, © 2026) by Mark Klett and William L. Fox extend the two men’s decades-long collaboration tracing the nuclear history of the American West and the broader Pacific sphere.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "342d0b1991d597cb596effc80c73@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13139,8 +13241,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/RausserCollege/event/333782-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "https://events.berkeley.edu/live/image/scale/3x/gid/288/width/500/height/243/15793_screenshot_2026-10-02_at_5.01.26_pm.webp 3x\" data-origin=\"responsive\"/> https://events.berkeley.edu/live/image/scale/3x/gid/288/width/500/height/243/15793_screenshot_2026-10-02_at_5.01.26_pm.png 3x\" data-origin=\"responsive\"/> The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage. In Anointed , poet and Marshall Islands Climate Envoy Kathy Jetn̄il-Kijiner stands on Runit Dome at Enewetak Atoll, the concrete cap the United States built over radioactive debris from its nuclear tests, ",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c57b97f2f09380c83ab6db1ff65c@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13156,8 +13258,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/lhs/event/332152-indigenous-peoples-day",
       "description": "Join the ‘ottoy Initiative for a celebration of Ohlone science and culture on Indigenous Peoples’ Day!",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0f14a4986d147ae2d7c8624fffd3@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13173,8 +13275,8 @@
       "category": "Academic",
       "url": "https://events.berkeley.edu/townsend/event/333982-film-screening-from-soweto-to-berkeley",
       "description": "A commemoration of the 1985 UC Berkeley Divestment Movement: Watch the 1988 film, hear from movement veterans, and learn about the one of the largest successful Anti-Apartheid mobilizations in the country. No RSVP needed!",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0cb903ca0ec57d4cd8bc57abc5ac@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13190,8 +13292,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/RausserCollege/event/333781-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "https://events.berkeley.edu/live/image/scale/3x/gid/288/width/500/height/243/15793_screenshot_2026-10-02_at_5.01.26_pm.webp 3x\" data-origin=\"responsive\"/> https://events.berkeley.edu/live/image/scale/3x/gid/288/width/500/height/243/15793_screenshot_2026-10-02_at_5.01.26_pm.png 3x\" data-origin=\"responsive\"/> The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage. In Anointed , poet and Marshall Islands Climate Envoy Kathy Jetn̄il-Kijiner stands on Runit Dome at Enewetak Atoll, the concrete cap the United States built over radioactive debris from its nuclear tests, ",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d2e2b4019fe884ef94e0eb2ae6dc@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13207,8 +13309,8 @@
       "category": "Film",
       "url": "https://nwfilmforum.org/films/the-history-of-concrete/",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1d7bf58d162294c380d729e2d521@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13224,8 +13326,8 @@
       "category": "Film",
       "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a84e4bef2ee79b017a2e16ba774c@global-arts-culture": {
       "source": "inbal",
@@ -13241,8 +13343,8 @@
       "category": "Arts",
       "url": "https://inba.gob.mx/actividad/18470/que-es-un-laboratorio-de-laboratorios-de-investigacion-creacion-desde-las-danzas-itinerario-de-la-comunidad-invec-labs",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b135f0e721ff49f1764efb204d8b@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13259,7 +13361,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "f9abb91d288be2f693f734e39124@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13276,7 +13378,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "1682a87edf896130fddd9ff93c13@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13293,7 +13395,7 @@
       "url": "https://events.berkeley.edu/AC/event/309712-exhibit-divestment-now-student-activism-and-the",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "506e0cc66a1dfd238d307d2e1d48@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13310,7 +13412,7 @@
       "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "fd9ae61bf1c94c48c1c855a07c5b@global-arts-culture": {
       "source": "artsatl",
@@ -13326,8 +13428,8 @@
       "category": "Theater",
       "url": "https://www.artsatl.org/event/puppet-camp/2026-10-12/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d2f7ec5875d00da2e2dc39b990ba@global-arts-culture": {
       "source": "artsatl",
@@ -13343,8 +13445,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/a-fine-line/2026-10-12/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "87b3eff4512f02947cc85aee9079@global-arts-culture": {
       "source": "artsatl",
@@ -13360,8 +13462,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/hand-and-rod-101-18/2026-10-12/",
       "description": "Hand & Rod Puppetry 101 is a multi-session (Sept 28, Oct 5, 12, and 19) introductory course designed to introduce the fundamental ideas and techniques behind hand and rod puppetry. Open to all experience levels, including those with no prior puppetry or performance experience, Hand & Rod Puppetry 101 introduces the foundational techniques behind hand and rod puppetry, with a focus on the skills and vocabulary used in our work. It lays the groundwork for how to approach puppet animation, performance, and ensemble puppetry. Throughout the class, students engage in exercises and explorations that build practical skills for puppet performance. These tools can be applied across a wide range of pu",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "136c9f4ba0fdd2fb8b413ec8e5ff@global-arts-culture": {
       "source": "artsatl",
@@ -13377,8 +13479,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/illumine-2026/2026-10-12/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1cba54567323e852fe00d8ddb46f@global-arts-culture": {
       "source": "artsatl",
@@ -13394,8 +13496,8 @@
       "category": "Theater",
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-10-12/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "03b921b4cd5fc8166ec77fc2677c@global-arts-culture": {
       "source": "redcat",
