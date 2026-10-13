@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T11:33:40.793908-04:00",
+  "updated": "2026-10-12T20:45:31.460575-04:00",
   "events": {
     "76ca53c0793111109a95b760c18d@global-arts-culture": {
       "source": "poetry-project",
@@ -1208,6 +1208,40 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "e7e2cfe07a9a3dd10fa668ed6d07@global-arts-culture": {
+      "source": "harvard-film-archive",
+      "source_id": "https://harvardfilmarchive.org/calendar/dark-passage-2026-11-2026-11-08 15:00:00",
+      "title": "Dark Passage",
+      "start": "2026-11-08T15:00:00-05:00",
+      "end": null,
+      "venue": "Harvard Film Archive",
+      "address": "24 Quincy St, Cambridge, MA 02138",
+      "city": "Boston/Cambridge",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://harvardfilmarchive.org/calendar/dark-passage-2026-11",
+      "description": "Visions of a City, Or A Weekend in San Francisco. ... — Directed by Delmer Daves,                     1947",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5691f6662705cbf5ea174d32f3c5@global-arts-culture": {
+      "source": "harvard-film-archive",
+      "source_id": "https://harvardfilmarchive.org/calendar/the-lineup-2026-11-2026-11-08 19:00:00",
+      "title": "The Lineup",
+      "start": "2026-11-08T19:00:00-05:00",
+      "end": null,
+      "venue": "Harvard Film Archive",
+      "address": "24 Quincy St, Cambridge, MA 02138",
+      "city": "Boston/Cambridge",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://harvardfilmarchive.org/calendar/the-lineup-2026-11",
+      "description": "Visions of a City, Or A Weekend in San Francisco. ... — Directed by Don Siegel,                     1958",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "c7d9db8f85df62c671f277a954dc@global-arts-culture": {
       "source": "harvard-film-archive",
       "source_id": "https://harvardfilmarchive.org/calendar/vertigo-2026-11-2026-11-09 19:00:00",
@@ -2262,6 +2296,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "70c29ffdb04c5b2528444333df12@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54223005665862-2026-10-20T12:00:00-04:00",
+      "title": "Richey Fellow Event Series: No, You Don't Need To Specialize",
+      "start": "2026-10-20T12:00:00-04:00",
+      "end": "2026-10-20T13:00:00-04:00",
+      "venue": "Law School",
+      "address": "2000 H St NW, Washington DC 20052",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Lectures & Speakers",
+      "url": "https://calendar.gwu.edu/event/richey-fellow-event-series-no-you-dont-need-to-specialize",
+      "description": "Join the GW Law Public Interest and Public Service Law Center for a Fireside Chat on \" No, You Don't Need To Specialize \" with our visiting Richey Fellow , Bradley Girard, Senior Counsel for Democracy Forward. You can read his full bio on the Richey Fellows webpage . Register for the Event Here",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "05ed938013c387aeaa799907ca39@global-arts-culture": {
       "source": "gwu-arts",
       "source_id": "54160322627115-2026-10-20T12:45:00-04:00",
@@ -3194,23 +3245,6 @@
       "category": "Performing Arts",
       "url": "https://events.berkeley.edu/TDPS/event/322094-tdps-presents-the-whole-shebang-chronicles-of-very-se",
       "description": "Created with students in the Spring 2026 Theater 114 Class Directed by Timmia DeRoy World Premiere! This brand-new play, collaboratively authored by Berkeley students in the spring of 2026, brings us a slice-of-life look into the lives of Gen Z on and off campus. Inspired by real-life conversations and the subreddit Am I The Asshole? , each vignette—from the raunchy to the heartfelt—creates surprising opportunities for self-reflection. A bit too close to home, comedic, and at times absurd, The Whole Shebang tackles messy and challenging topics through multiple perspectives, offering an unfiltered experience and a mirror to our times. This show discusses topics of political, sexual and person",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "a558c1bd3e4634aa5300aba9f771@global-arts-culture": {
-      "source": "berkeley-arts",
-      "source_id": "334188-2026-10-13T11:00:00-07:00",
-      "title": "Exhibit | An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72",
-      "start": "2026-10-13T11:00:00-07:00",
-      "end": "2026-10-13T16:00:00-07:00",
-      "venue": "2121 Allston Way, Berkeley, CA 94720",
-      "address": "2121 Allston Way, Berkeley, CA 94720",
-      "city": "Berkeley/San Francisco",
-      "country": "United States",
-      "region": "us",
-      "category": "Exhibits",
-      "url": "https://events.berkeley.edu/live/events/330947-exhibit-an-archive-of-archives-roman-vishniacs",
-      "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -4642,12 +4676,12 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "b135f0e721ff49f1764efb204d8b@global-arts-culture": {
+    "5b789309bcf9a81104019f8d8370@global-arts-culture": {
       "source": "northwest-film-forum",
-      "source_id": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/-2026-11-23T19:30:00-08:00",
+      "source_id": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/-2026-11-23T19:00:00-08:00",
       "title": "My Brother's Wedding (4K Restoration)",
-      "start": "2026-11-23T19:30:00-08:00",
-      "end": "2026-11-23T20:51:00-08:00",
+      "start": "2026-11-23T19:00:00-08:00",
+      "end": "2026-11-23T20:21:00-08:00",
       "venue": "Northwest Film Forum",
       "address": "1515 12th Ave, Seattle, WA 98122",
       "city": "Seattle",
@@ -4659,12 +4693,12 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "f9abb91d288be2f693f734e39124@global-arts-culture": {
+    "5863446f796bd179cf8d5da09239@global-arts-culture": {
       "source": "northwest-film-forum",
-      "source_id": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/-2026-11-24T19:30:00-08:00",
+      "source_id": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/-2026-11-24T19:00:00-08:00",
       "title": "My Brother's Wedding (4K Restoration)",
-      "start": "2026-11-24T19:30:00-08:00",
-      "end": "2026-11-24T20:51:00-08:00",
+      "start": "2026-11-24T19:00:00-08:00",
+      "end": "2026-11-24T20:21:00-08:00",
       "venue": "Northwest Film Forum",
       "address": "1515 12th Ave, Seattle, WA 98122",
       "city": "Seattle",
@@ -4778,6 +4812,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "e28f731208dbdfea843d238f7805@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/zero-patience/-2026-12-02T19:30:00-08:00",
+      "title": "Zero Patience",
+      "start": "2026-12-02T19:30:00-08:00",
+      "end": "2026-12-02T21:07:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/zero-patience/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "74dee42e2e411037c9735deba047@global-arts-culture": {
       "source": "northwest-film-forum",
       "source_id": "https://nwfilmforum.org/films/truth-to-fiction-the-store/-2026-12-03T19:00:00-08:00",
@@ -4791,6 +4842,108 @@
       "region": "us",
       "category": "Film",
       "url": "https://nwfilmforum.org/films/truth-to-fiction-the-store/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "0e940d0c4a9dab8f2877d75c1d52@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/zero-patience/-2026-12-03T19:30:00-08:00",
+      "title": "Zero Patience",
+      "start": "2026-12-03T19:30:00-08:00",
+      "end": "2026-12-03T21:07:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/zero-patience/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "8e9e4250fe31455280e9d03496f4@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-december-2026/-2026-12-04T19:00:00-08:00",
+      "title": "The Disabled List Presents: Live Comedy (December 2026)",
+      "start": "2026-12-04T19:00:00-08:00",
+      "end": null,
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Event",
+      "url": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-december-2026/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "ea679d0be57d2fc0d20eeab08092@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/zero-patience/-2026-12-05T16:00:00-08:00",
+      "title": "Zero Patience",
+      "start": "2026-12-05T16:00:00-08:00",
+      "end": "2026-12-05T17:37:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/zero-patience/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "67e3b023e9400ca9589080eb70c9@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/zero-patience/-2026-12-05T19:30:00-08:00",
+      "title": "Zero Patience",
+      "start": "2026-12-05T19:30:00-08:00",
+      "end": "2026-12-05T21:07:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/zero-patience/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b000c78ba3a1d5237326d5e2857a@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/zero-patience/-2026-12-06T16:30:00-08:00",
+      "title": "Zero Patience",
+      "start": "2026-12-06T16:30:00-08:00",
+      "end": "2026-12-06T18:07:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/zero-patience/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "82ffc856cea09447a5957b0532da@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/zero-patience/-2026-12-06T19:30:00-08:00",
+      "title": "Zero Patience",
+      "start": "2026-12-06T19:30:00-08:00",
+      "end": "2026-12-06T21:07:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/zero-patience/",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -5053,7 +5206,7 @@
     "6e6a7bb5900fba20d6aecb2b669f@global-arts-culture": {
       "source": "noma",
       "source_id": "92440-2026-10-25T14:00:00-05:00",
-      "title": "Music in the Garden: October 25",
+      "title": "Music in the Garden: Giselle Anguizola Duo and TBD",
       "start": "2026-10-25T14:00:00-05:00",
       "end": "2026-10-25T16:00:00-05:00",
       "venue": "New Orleans Museum of Art",
@@ -5063,7 +5216,7 @@
       "region": "us",
       "category": "Performances",
       "url": "https://noma.org/event/music-in-the-garden-october-25/",
-      "description": "This year, experience the seasons change at NOMA with Music in the Garden! Enjoy local musicians performing alongside artworks new and old in the Sydney and Walda Besthoff Sculpture Garden on Sunday afternoons February 22nd, April 12th, October 25th, and November 15th. More information about the schedule and performers for Sunday, October 25’s Music in the Garden will be available soon. Please check this page for updates. This program is free and open to the public, with registration recommended. Individuals who register will receive notifications of weather-related location changes. Register Now Performance Schedule Schedule and Locations More information about the schedule for this Music i",
+      "description": "This year, experience the seasons change at NOMA with Music in the Garden! Enjoy local musicians performing alongside artworks new and old in the Sydney and Walda Besthoff Sculpture Garden on Sunday afternoons February 22nd, April 12th, October 25th, and November 15th. On Sunday, October 25, join us for a Music in the Garden performance from Giselle Anguizola Duo and another performer, to be announced soon. This program is free and open to the public, with registration recommended. Individuals who register will receive notifications of weather-related location changes. Register Now Performers and Schedule First Set, 2-3 PM | Performer TBA Please check this page for updates. Second Set, 3-4 P",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5730,23 +5883,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "735e9c6ee8545bebddbee41fdf93@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/omar-el-akkad-and-fatima-bhutto-2026-10-14T17:30:00+02:00",
-      "title": "Omar El Akkad and Fatima Bhutto",
-      "start": "2026-10-14T17:30:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/omar-el-akkad-and-fatima-bhutto",
-      "description": "Decentring the West",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "3705779a22db551f72efd8d24444@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/juan-evaristo-valls-boix-and-anna-pacheco-2026-10-14T20:30:00+02:00",
@@ -5795,6 +5931,23 @@
       "category": "Accessible",
       "url": "https://www.cccb.org/en/w/activities/the-cult-of-beauty-for-blind-and-partially-sighted-visitors",
       "description": "Adapted guided tour",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "735e9c6ee8545bebddbee41fdf93@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/omar-el-akkad-and-fatima-bhutto-2026-10-14T17:30:00+02:00",
+      "title": "Omar El Akkad and Fatima Bhutto",
+      "start": "2026-10-14T17:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/omar-el-akkad-and-fatima-bhutto",
+      "description": "Decentring the West",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5985,23 +6138,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "22c51b273c14cc9be2b54b2d2817@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/thinking-about-the-future-from-africa-2026-10-16T12:00:00+02:00",
-      "title": "Thinking about the Future from Africa",
-      "start": "2026-10-16T12:00:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Education",
-      "url": "https://www.cccb.org/en/w/activities/thinking-about-the-future-from-africa",
-      "description": "A Morning with Felwine Sarr",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "c983c0ff7afe5e21e0f287909c8e@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/an-urban-interregnum-inhabiting-the-body-inhabiting-the-city-2026-10-16T16:00:00+02:00",
@@ -6019,37 +6155,20 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "47e30d904ea4aad3bb9628e8a1ca@global-arts-culture": {
+    "22c51b273c14cc9be2b54b2d2817@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing-2026-10-17T18:30:00+02:00",
-      "title": "Ukraine: The Meaning of Writing",
-      "start": "2026-10-17T18:30:00+02:00",
+      "source_id": "https://www.cccb.org/en/w/activities/thinking-about-the-future-from-africa-2026-10-16T12:00:00+02:00",
+      "title": "Thinking about the Future from Africa",
+      "start": "2026-10-16T12:00:00+02:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
       "address": "Carrer de Montalegre 5, 08001 Barcelona",
       "city": "Barcelona",
       "country": "Spain",
       "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing",
-      "description": "Sofia Andrukhovych, Volodymyr Yermolenko and Tetyana Ogarkova",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c1400897190b1128bef357562440@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera-2026-10-17T20:00:00+02:00",
-      "title": "Patrick Radden Keefe and Judit Carrera",
-      "start": "2026-10-17T20:00:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera",
-      "description": "London: The Hidden City",
+      "category": "Education",
+      "url": "https://www.cccb.org/en/w/activities/thinking-about-the-future-from-africa",
+      "description": "A Morning with Felwine Sarr",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6070,23 +6189,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "4c4f48db91902282eaa8d4fe67bd@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/julian-casanova-and-xavier-domenech-2026-10-17T11:30:00+02:00",
-      "title": "Julián Casanova and Xavier Domènech",
-      "start": "2026-10-17T11:30:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/julian-casanova-and-xavier-domenech",
-      "description": "The Battle for Memory",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "556439fbd7e23c0b9183090e8231@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera-2026-10-17T17:00:00+02:00",
@@ -6101,6 +6203,57 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera",
       "description": "The Universal and Its Limits",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c1400897190b1128bef357562440@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera-2026-10-17T20:00:00+02:00",
+      "title": "Patrick Radden Keefe and Judit Carrera",
+      "start": "2026-10-17T20:00:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera",
+      "description": "London: The Hidden City",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "47e30d904ea4aad3bb9628e8a1ca@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing-2026-10-17T18:30:00+02:00",
+      "title": "Ukraine: The Meaning of Writing",
+      "start": "2026-10-17T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing",
+      "description": "Sofia Andrukhovych, Volodymyr Yermolenko and Tetyana Ogarkova",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4c4f48db91902282eaa8d4fe67bd@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/julian-casanova-and-xavier-domenech-2026-10-17T11:30:00+02:00",
+      "title": "Julián Casanova and Xavier Domènech",
+      "start": "2026-10-17T11:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/julian-casanova-and-xavier-domenech",
+      "description": "The Battle for Memory",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6138,23 +6291,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "a8dfe348858308f59c39e2ba7b36@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/xiaolu-guo-and-xisi-sofia-ye-chen-2026-10-18T13:00:00+02:00",
-      "title": "Xiaolu Guo and Xisi Sofia Ye Chen",
-      "start": "2026-10-18T13:00:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/xiaolu-guo-and-xisi-sofia-ye-chen",
-      "description": "Language, Memory and Diaspora",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "900da7726037f81808c541458c4a@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/mariana-enriquez-and-valerie-miles-2026-10-18T18:00:00+02:00",
@@ -6169,6 +6305,23 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/mariana-enriquez-and-valerie-miles",
       "description": "The City at Night",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "a8dfe348858308f59c39e2ba7b36@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/xiaolu-guo-and-xisi-sofia-ye-chen-2026-10-18T13:00:00+02:00",
+      "title": "Xiaolu Guo and Xisi Sofia Ye Chen",
+      "start": "2026-10-18T13:00:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/xiaolu-guo-and-xisi-sofia-ye-chen",
+      "description": "Language, Memory and Diaspora",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6444,23 +6597,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "739d89bf3688a8cf82f180b9a6c5@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/bivac-2026-2026-10-29T19:00:00+01:00",
-      "title": "Bivac 2026",
-      "start": "2026-10-29T19:00:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Festivals",
-      "url": "https://www.cccb.org/en/w/activities/bivac-2026",
-      "description": "Prêt-à-rester. Heirs of Leftovers",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "59a8011de5ef7d850bbf5d169a68@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes-2026-10-29T18:30:00+01:00",
@@ -6475,6 +6611,23 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes",
       "description": "Llegir filosofia, 7",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "739d89bf3688a8cf82f180b9a6c5@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/bivac-2026-2026-10-29T19:00:00+01:00",
+      "title": "Bivac 2026",
+      "start": "2026-10-29T19:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Festivals",
+      "url": "https://www.cccb.org/en/w/activities/bivac-2026",
+      "description": "Prêt-à-rester. Heirs of Leftovers",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6835,23 +6988,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "7cd511b56a818f30c88a733b342b@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/maniac-by-benjamin-labatut-2026-11-18T18:30:00+01:00",
-      "title": "\"MANIAC\", by Benjamin Labatut",
-      "start": "2026-11-18T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Amics CCCB",
-      "url": "https://www.cccb.org/en/w/activities/maniac-by-benjamin-labatut",
-      "description": "Exclusive reading club for Friends of the CCCB",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "787ff732c20306d8d70e229f2b5b@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi-2026-11-18T18:30:00+01:00",
@@ -6866,6 +7002,23 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi",
       "description": "Dolor femení, resistència i literatura",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7cd511b56a818f30c88a733b342b@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/maniac-by-benjamin-labatut-2026-11-18T18:30:00+01:00",
+      "title": "\"MANIAC\", by Benjamin Labatut",
+      "start": "2026-11-18T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Amics CCCB",
+      "url": "https://www.cccb.org/en/w/activities/maniac-by-benjamin-labatut",
+      "description": "Exclusive reading club for Friends of the CCCB",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6988,23 +7141,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "480dcd7fe8292238994dab3589a9@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/xcentric-film-club-2026-11-25T18:00:00+01:00",
-      "title": "Xcèntric Film Club",
-      "start": "2026-11-25T18:00:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Audiovisuals",
-      "url": "https://www.cccb.org/en/w/activities/xcentric-film-club",
-      "description": "Monthly film forum sessions at Xcèntric Archive",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "3f03b5ac5b509f6970255d559325@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi-2026-11-25T18:30:00+01:00",
@@ -7019,6 +7155,23 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi",
       "description": "Dolor femení, resistència i literatura",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "480dcd7fe8292238994dab3589a9@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/xcentric-film-club-2026-11-25T18:00:00+01:00",
+      "title": "Xcèntric Film Club",
+      "start": "2026-11-25T18:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/xcentric-film-club",
+      "description": "Monthly film forum sessions at Xcèntric Archive",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -7209,23 +7362,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "5837aeff9b278255c7dcc5c69294@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/imaginar-la-fi-by-eudald-espluga-2026-12-16T18:30:00+01:00",
-      "title": "\"Imaginar la fi\", by Eudald Espluga",
-      "start": "2026-12-16T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Amics CCCB",
-      "url": "https://www.cccb.org/en/w/activities/imaginar-la-fi-by-eudald-espluga",
-      "description": "Exclusive reading club for Friends of the CCCB",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "108d57d4d56105acaf05a42f8220@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6-2026-12-16T18:30:00+01:00",
@@ -7240,6 +7376,23 @@
       "category": "",
       "url": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6",
       "description": "Lèxic quotidià de filosofia, 6",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5837aeff9b278255c7dcc5c69294@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/imaginar-la-fi-by-eudald-espluga-2026-12-16T18:30:00+01:00",
+      "title": "\"Imaginar la fi\", by Eudald Espluga",
+      "start": "2026-12-16T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Amics CCCB",
+      "url": "https://www.cccb.org/en/w/activities/imaginar-la-fi-by-eudald-espluga",
+      "description": "Exclusive reading club for Friends of the CCCB",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -8348,37 +8501,54 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "e7e2cfe07a9a3dd10fa668ed6d07@global-arts-culture": {
-      "source": "harvard-film-archive",
-      "source_id": "https://harvardfilmarchive.org/calendar/dark-passage-2026-11-2026-11-08 15:00:00",
-      "title": "Dark Passage",
-      "start": "2026-11-08T15:00:00-05:00",
-      "end": null,
-      "venue": "Harvard Film Archive",
-      "address": "24 Quincy St, Cambridge, MA 02138",
-      "city": "Boston/Cambridge",
+    "a558c1bd3e4634aa5300aba9f771@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334188-2026-10-13T11:00:00-07:00",
+      "title": "Exhibit | An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72",
+      "start": "2026-10-13T11:00:00-07:00",
+      "end": "2026-10-13T16:00:00-07:00",
+      "venue": "2121 Allston Way, Berkeley, CA 94720",
+      "address": "2121 Allston Way, Berkeley, CA 94720",
+      "city": "Berkeley/San Francisco",
       "country": "United States",
       "region": "us",
-      "category": "Film",
-      "url": "https://harvardfilmarchive.org/calendar/dark-passage-2026-11",
-      "description": "Visions of a City, Or A Weekend in San Francisco. ... — Directed by Delmer Daves,                     1947",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/330947-exhibit-an-archive-of-archives-roman-vishniacs",
+      "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
       "status": "CONFIRMED",
       "missing_runs": 1
     },
-    "5691f6662705cbf5ea174d32f3c5@global-arts-culture": {
-      "source": "harvard-film-archive",
-      "source_id": "https://harvardfilmarchive.org/calendar/the-lineup-2026-11-2026-11-08 19:00:00",
-      "title": "The Lineup",
-      "start": "2026-11-08T19:00:00-05:00",
-      "end": null,
-      "venue": "Harvard Film Archive",
-      "address": "24 Quincy St, Cambridge, MA 02138",
-      "city": "Boston/Cambridge",
+    "b135f0e721ff49f1764efb204d8b@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/-2026-11-23T19:30:00-08:00",
+      "title": "My Brother's Wedding (4K Restoration)",
+      "start": "2026-11-23T19:30:00-08:00",
+      "end": "2026-11-23T20:51:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
       "country": "United States",
       "region": "us",
       "category": "Film",
-      "url": "https://harvardfilmarchive.org/calendar/the-lineup-2026-11",
-      "description": "Visions of a City, Or A Weekend in San Francisco. ... — Directed by Don Siegel,                     1958",
+      "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "f9abb91d288be2f693f734e39124@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/-2026-11-24T19:30:00-08:00",
+      "title": "My Brother's Wedding (4K Restoration)",
+      "start": "2026-11-24T19:30:00-08:00",
+      "end": "2026-11-24T20:51:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 1
     },
@@ -8396,8 +8566,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/AC/event/309712-exhibit-divestment-now-student-activism-and-the",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "506e0cc66a1dfd238d307d2e1d48@global-arts-culture": {
       "source": "berkeley-arts",
@@ -8413,8 +8583,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "fd9ae61bf1c94c48c1c855a07c5b@global-arts-culture": {
       "source": "artsatl",
@@ -13072,7 +13242,7 @@
       "url": "https://events.brown.edu/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh",
       "description": "In her practice, Dayanita Singh experiments with form through photography, architecture, and books to create exhibitions. Using these mediums, Singh extends an invitation to audiences to question how books, and book-making, might transform a space into an exhibition. This show takes cues from Singh’s artist-led approach to exhibitions to explore the relationship between “making” and “reading.” With Singh’s Book Building (2022) as a blueprint, this exhibition analyzes book-making as an artistic practice, material form, and conceptual process. Works in the exhibition span Singh’s career, including Book Building (2022), Blue Book (2009), File Room (2013), Museum of Chance (2014), and Sent a Let",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "ccdf07849de9ead406a30114da2e@global-arts-culture": {
       "source": "brown-arts",
@@ -13089,7 +13259,7 @@
       "url": "https://events.brown.edu/bai/event/331236-public-art-tours",
       "description": "Brown Arts Institute invites you to join us for free, student-led Public Art Tours ! Open to everyone, the tours are scheduled every Saturday and Sunday at 3:00 PM, providing weekend enrichment through the exploration of Brown University’s distinctive outdoor public art collection. The Public Art Tours enable the University to share its significant cultural assets with the wider public and underscore the value of public art within the Brown community. With guidance from University Curator Nicole Wholean, 15 students, supported through Brown Arts Institute’s ArtsCrew workforce development initiative, curated tours that feature a personal selection of 6 works from Brown’s wide-ranging public a",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "d09883cabcefcfad498946e4f0b1@global-arts-culture": {
       "source": "harvard-film-archive",
@@ -13106,7 +13276,7 @@
       "url": "https://harvardfilmarchive.org/calendar/recollections-of-the-yellow-house-2026-10",
       "description": "João César Monteiro, Poet-Provocateur — Directed by João César Monteiro,                     1989",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "5b1fbdb2c50fcbee375e9dcb3441@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13123,7 +13293,7 @@
       "url": "https://events.berkeley.edu/csas/event/327730-3rd-is-24th-annual-sf-intl-south-asian-film-festival",
       "description": "The Institute for South Asia Studies and the Subir & Malini Chowdhury Center for Bangladesh Studies at UC Berkeley are proud to co-sponsor 3rd i’s 24th Annual San Francisco International South Asian Film Festival . This year’s festival showcases groundbreaking cinema from India, Pakistan, France, the UK, Canada, and the United States—ranging from witty comedies and nuanced dramas to science fiction and true-to-life stories—celebrating the richness of South Asia and its diaspora on screen. Click HERE to view this year’s program and purchase tickets.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "b9c01fb3ee7353b77e2be03a1051@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13140,7 +13310,7 @@
       "url": "https://events.berkeley.edu/Library/event/288815-centering-philippine-and-filipinx-american",
       "description": "The Bancroft Library’s collections of materials relating to the Philippines span nearly 500 years. Highlights in this exhibit include a transcript of an Inquisitorial trial from 1646, a prayer book written in the Cebuano language, and UC Berkeley Filipino student publications from 1905 to the present. The exhibit also features selections from the personal papers of acclaimed author Jessica Hagedorn, including typewritten drafts of her novels, poetry, song lyrics, and a screenplay, as well as childhood drawings and writings. Open hours may vary. Please view the The Bancroft Library hours page for the most up-to-date information.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "445bba66f419c33583b4980d1448@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13157,7 +13327,7 @@
       "url": "https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pueblo-for-and-by-the-people-rev",
       "description": "The exhibition, De y para el pueblo / By and for the People: Revolutionary Mexican Prints, features highlights from The Bancroft Library’s extensive collection of prints.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "ad27bf3e11964cbca483531500c9@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13174,7 +13344,7 @@
       "url": "https://events.berkeley.edu/AC/event/309712-exhibit-divestment-now-student-activism-and-the",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "7b3eef893c441cbc1209662240f3@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13191,7 +13361,7 @@
       "url": "https://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-ijin-our-life-is-here",
       "description": "Kōmij Mour Ijin / Our Life Is Here at Doe Library brings together reproductions of works and interpretive material from the 2023 voyage, exploring climate change, the legacy of US nuclear testing, and Marshallese knowledge and resilience.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "1ffeb25cb1cdb8f2e3008f6697ab@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13208,7 +13378,7 @@
       "url": "https://events.berkeley.edu/live/events/330194-photography-installation-remembering-the-future",
       "description": "At Giannini Hall, 36 photographs selected from the recently published Remembering the Future: Nuclear Testing, Rising Seas, and The Marshall Islands (Radius Books, © 2026) by Mark Klett and William L. Fox extend the two men’s decades-long collaboration tracing the nuclear history of the American West and the broader Pacific sphere.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "a1e83559a3c567d7ea40738e7a53@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13225,7 +13395,7 @@
       "url": "https://events.berkeley.edu/live/events/333518-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "Worth Ryder Art Gallery and VIDRINE present four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific. All were made in the wake of the 2023 Kōmij Mour Ijin / Our Life Is Here voyage across the Marshall Islands.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "b2cf5c10b2d16aee6fe15f70f654@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13242,7 +13412,7 @@
       "url": "https://events.berkeley.edu/live/events/330946-exhibit-an-archive-of-archives-roman-vishniacs",
       "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "6fd3d1edab49b602b86fffee74d7@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13259,7 +13429,7 @@
       "url": "https://events.berkeley.edu/csas/event/326755-bampfa-exhibition-private-frontiers-media-legacies",
       "description": "On display from Sep 9 - Dec 13, 2026 | 11 am - 7 p.m. Bookended by the end of World War II in 1945 and the fall of the Berlin Wall in 1989, the Cold War was a transformative period in global history, marking both the end of the twentieth century and the waning of modernism. Though earlier historians defined the Cold War as the noncombative contest between the capitalist United States and the communist Soviet Union, recent interventions by scholars, artists, and writers have stressed that this period was also defined by the struggles for decolonization and national liberation movements across Asia and globally. Undeniable to the history of the Cold War is the crucial role that culture played ",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "2706fbd3cbedbaad73748881cfd0@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13276,7 +13446,7 @@
       "url": "https://events.berkeley.edu/live/events/330820-exhibit-nancy-lee-katz-a-private-pantheon-part-1",
       "description": "Nancy Lee Katz: A Private Pantheon explores the artist’s decades-long effort to photograph artists, writers, musicians, and thinkers she admired, including Justice Ruth Bader Ginsburg, Stephen Sondheim, Philip Glass, Elie Wiesel, and Seiji Ozawa. Part 1 on view through Dec 17, 2026.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "8bb2a61f7d17671abdba832cf0b9@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13293,7 +13463,7 @@
       "url": "https://events.berkeley.edu/live/events/330884-exhibit-time-capsules-exploring-the-permanent",
       "description": "In celebrating 15 years at UC Berkeley, Time Capsules revisits ten out of the over thirty exhibitions presented since the Magnes opened the doors of its new academic home to the public.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "46516a68529838a465523a7cbdb4@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13310,7 +13480,7 @@
       "url": "https://events.berkeley.edu/TDPS/event/332153-exploration-of-forms-divergent-rhythms-with-alexis-ri",
       "description": "This workshop offers an introduction to repetition as a disability cultural movement practice. Inspired by (though in no way mimicking) stimming and guided by an autistic artist, this 90-minute session explores iterative motion as an entry point into somatic exploration and movement improvisation. Everyone is welcome , including autistic/neurodivergent, mad/mentally ill, and disabled people, as well as others who are interested in respectfully engaging disability performance lineages in an accessible, sensory-aware, and beginner-friendly environment.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "9fc069b26aa04e8c4b453421e137@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13327,7 +13497,7 @@
       "url": "https://events.berkeley.edu/BAMPFA/event/328101-film-screening-jean-luc-godards-early-short-films",
       "description": "This program of Jean-Luc Godard’s first films ranges from Opération béton , a documentary about the construction of a Swiss dam, to a trio of films about young love, which display his interest in masculine and feminine themes. Une histoire d’eau , written and codirected by François Truffaut, is distinguished by Godard’s editing and use of rapid cuts.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "e5cabd112a1d2423d51341002126@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13344,7 +13514,7 @@
       "url": "https://events.berkeley.edu/Magnes/event/331006-gallery-tour-nancy-lee-katz-a-private-pantheon",
       "description": "Stop by the Magnes Collection of Jewish Art and Life during Homecoming weekend for a free gallery tour of Nancy Lee Katz: A Private Pantheon , led by Learning and Engagement Coordinator, Dan Alter.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "8a5e62e04b0ed14ebcc1eafd70ea@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13361,7 +13531,7 @@
       "url": "https://events.berkeley.edu/live/events/331008-gallery-concert-music-of-elliott-carter",
       "description": "Stop by the Magnes Collection of Jewish Art and Life during Cal’s Alumni and Parent Weekend at Homecoming in the gallery of Nancy Lee Katz: A Private Pantheon for a special concert with UC Berkeley instructor Leighton Fong and student musicians playing compositions by, and instruments of, sitters on view.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "c6ac1579d63404e3c268ce9c5613@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13378,7 +13548,7 @@
       "url": "https://events.berkeley.edu/live/events/323552-takacs-quartet-with-jeremy-denk-piano",
       "description": "The Takács Quartet returns to Berkeley in two performances this season, welcoming the ensemble’s newest member, cellist Mihai Marica. This first concert features the Grammy-winning quartet performing with pianist Jeremy Denk—winner of a MacArthur “Genius” Fellowship and the Avery Fisher Prize.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "7e9ad2501dc3ce30accd8b6dd91c@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13395,7 +13565,7 @@
       "url": "https://events.berkeley.edu/BAMPFA/event/333174-film-screening-a-girl-unknown",
       "description": "Born in the wake of China’s controversial one-child policy, six-year-old Wang Juan (Cao Ruofan) finds her life completely upended by her mother’s pregnancy. The young girl is soon taken from her rural home—where kite flying and swimming fill her days—and brought to the home of a discordant, childless couple. Abandoned in an unfamiliar city with her new legal guardians, Juan strives to find a sense of belonging, a struggle that only worsens when she’s uprooted twice more before turning eighteen. Anchored by a powerful performance from Resurrection ’s Li Gengxi, who plays teenage Juan, Zou Jing’s confident debut is an achingly tender coming-of-age drama. And while it never shies away from the ",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "892bd06766039dd84b75d7c1f927@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13412,7 +13582,7 @@
       "url": "https://events.berkeley.edu/BAMPFA/event/333175-film-screening-the-dreamed-adventure",
       "description": "The winner of the Jury Prize at this year’s Cannes Film Festival, German director Valeska Grisebach’s first feature since 2017’s Western deftly shape-shifts between genres. Yana Radeva plays Veska, a Bulgarian archeologist who runs into an old love, Said (Syuleyman Letifov), who is involved in some legally murky business dealings. When he goes missing, Veska investigates, leading to a labyrinthine border town mystery full of intrigue and local color. The Dreamed Adventure finds Grisebach once again working with a nonprofessional cast to create a film with the grit of a Western and the scope of Chinatown . One could happily get lost in the movie’s intoxicating atmosphere—or instead focus on R",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "667d7b584d03fcca8dc4811876df@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13429,7 +13599,7 @@
       "url": "https://events.berkeley.edu/live/events/329010-concert-series-hlne-papadopoulos-at-the-still-point",
       "description": "Pianist Hélène Papadopoulos presents At the Still Point , a program developed during her residency at CNMAT, UC Berkeley.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "7b6cc1b2a3863ce409f847b7f33b@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13446,7 +13616,7 @@
       "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "ef4f5602be8b10871e615b1e42a1@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13463,7 +13633,7 @@
       "url": "https://nwfilmforum.org/films/screamplay-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0a52bfcc7700ee77565240984c81@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13480,7 +13650,7 @@
       "url": "https://nwfilmforum.org/films/an-autumn-afternoon/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "025655c932f5b67319503e90e1ff@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13497,7 +13667,7 @@
       "url": "https://nwfilmforum.org/films/screamplay-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "fc4ff34d2a3e1523ec45021d324f@global-arts-culture": {
       "source": "silent-green",
@@ -13514,7 +13684,7 @@
       "url": "https://www.silent-green.net/programm/detail/fab-dimensional-2026?tx_news_pi1%5Bday%5D=8&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=da23ac39b7c4d50821a6c5bcf8d53db5",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "4d7f473649846b3d239fd0502d7e@global-arts-culture": {
       "source": "silent-green",
@@ -13531,7 +13701,7 @@
       "url": "https://www.silent-green.net/programm/detail/9-festival-of-animation-berlin-2026?tx_news_pi1%5Bday%5D=8&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=da23ac39b7c4d50821a6c5bcf8d53db5",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0ad9b09029a671d4ac843b2b6c24@global-arts-culture": {
       "source": "inbal",
@@ -13548,7 +13718,7 @@
       "url": "https://inba.gob.mx/actividad/18206/programa-4",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "401f1c9b892a15523eeafdfd1ff0@global-arts-culture": {
       "source": "inbal",
@@ -13565,7 +13735,7 @@
       "url": "https://inba.gob.mx/actividad/18475/funcion-de-clausura",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "14afdc7f3dd0538a1002bddbb053@global-arts-culture": {
       "source": "inbal",
@@ -13582,7 +13752,7 @@
       "url": "https://inba.gob.mx/actividad/18476/taller-de-escuela-bolera",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "468874d4d7f7248390704a5c6185@global-arts-culture": {
       "source": "inbal",
@@ -13599,7 +13769,7 @@
       "url": "https://inba.gob.mx/actividad/18500/ignacio-mariscal-violonchelo-alain-del-real-piano",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "d5cb10f2ba97fc0e0ae1cdbd1792@global-arts-culture": {
       "source": "inbal",
@@ -13616,7 +13786,7 @@
       "url": "https://inba.gob.mx/actividad/18521/juana-ramirez",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "797addac78e92a2561dc2f79988e@global-arts-culture": {
       "source": "artsatl",
@@ -13718,7 +13888,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/short-film-festival-nosotras-contamos-2026",
       "description": "Programa: Entre los días (Judit Ortuño, 2025, 27') Una mujer anciana vive sola y aislada en un piso; su día a día consiste en deambular fantasmagóricamente por sus pasillos y habitaciones. Cada noche, recibe la llamada telefónica de un hombre anónimo que la busca para mantener conversaciones eróticas con ella. Anaglifo (Valle Comba, 2025, 9') Violeta vive en un mundo rojo y ansioso. Ya no lo soporta, consumida por tantas nimiedades. Siente una presencia invisible que perturba su realidad. Violet debe aprender a ver de una manera nueva para comprenderse a sí misma, a su mente, y a sus fantasmas. Ningú borda (Júlia Coldwell Serra, 2025, 20') Candela atropella accidentalmente al perro de su sob",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "16d6b63eed23ad4b48592929812a@global-arts-culture": {
       "source": "redcat",
