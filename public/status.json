@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-14T07:58:50.138010-04:00",
-  "count": 793,
+  "generated": "2026-10-14T13:15:59.927326-04:00",
+  "count": 796,
   "cancelled": 41,
   "regions": {
-    "us": 617,
-    "europe": 169,
+    "us": 619,
+    "europe": 170,
     "mexico": 7
   },
   "sources": {
@@ -21,7 +21,7 @@
     "cac-new-orleans": 4,
     "ica-london": 4,
     "matadero-madrid": 17,
-    "cccb": 110,
+    "cccb": 111,
     "silent-green": 38,
     "inbal": 7
   },
