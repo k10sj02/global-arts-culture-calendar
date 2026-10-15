@@ -1,31 +1,31 @@
 {
-  "generated": "2026-10-14T17:44:41.696712-04:00",
-  "count": 797,
-  "cancelled": 43,
+  "generated": "2026-10-15T00:46:04.885058-04:00",
+  "count": 819,
+  "cancelled": 5,
   "regions": {
-    "us": 620,
+    "us": 642,
     "europe": 170,
     "mexico": 7
   },
   "sources": {
-    "poetry-project": 13,
-    "brown-arts": 10,
+    "poetry-project": 12,
+    "brown-arts": 12,
     "chicago-humanities": 19,
     "harvard-film-archive": 48,
-    "gwu-arts": 78,
+    "gwu-arts": 76,
     "fringearts": 2,
-    "berkeley-arts": 18,
-    "northwest-film-forum": 108,
-    "noma": 23,
+    "northwest-film-forum": 105,
+    "artsatl": 269,
+    "noma": 21,
     "cac-new-orleans": 4,
     "ica-london": 4,
-    "matadero-madrid": 17,
-    "cccb": 111,
-    "silent-green": 38,
-    "inbal": 7
+    "matadero-madrid": 15,
+    "cccb": 105,
+    "silent-green": 37,
+    "inbal": 5
   },
   "errors": {
     "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-    "artsatl": "Client error '429 Too Many Requests' for url 'https://www.artsatl.org/wp-json/tribe/events/v1/events?per_page=50&page=4&start_date=2026-10-14&end_date=2027-10-14'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    "berkeley-arts": "No current UC Berkeley arts events found"
   }
 }
