@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-15T17:27:22.196907-04:00",
-  "count": 785,
-  "cancelled": 68,
+  "generated": "2026-10-16T00:36:47.106966-04:00",
+  "count": 815,
+  "cancelled": 2,
   "regions": {
-    "us": 608,
+    "us": 638,
     "europe": 169,
     "mexico": 8
   },
   "sources": {
     "poetry-project": 12,
-    "brown-arts": 12,
-    "chicago-humanities": 19,
+    "brown-arts": 11,
+    "chicago-humanities": 17,
     "harvard-film-archive": 48,
-    "gwu-arts": 71,
+    "gwu-arts": 73,
     "fringearts": 2,
-    "berkeley-arts": 20,
-    "northwest-film-forum": 106,
-    "artsatl": 269,
-    "noma": 21,
+    "berkeley-arts": 6,
+    "northwest-film-forum": 104,
+    "artsatl": 266,
+    "noma": 18,
     "cac-new-orleans": 4,
     "ica-london": 4,
-    "matadero-madrid": 15,
-    "cccb": 112,
+    "matadero-madrid": 14,
+    "cccb": 108,
     "silent-green": 38,
-    "inbal": 8
+    "inbal": 6
   },
   "errors": {
     "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
