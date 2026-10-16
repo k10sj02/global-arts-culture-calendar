@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:43:12.743664-04:00",
+  "updated": "2026-10-16T17:14:44.184744-04:00",
   "events": {
     "69cdf333e9770042e26283f3fe3d@global-arts-culture": {
       "source": "poetry-project",
@@ -338,6 +338,23 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh",
       "description": "In her practice, Dayanita Singh experiments with form through photography, architecture, and books to create exhibitions. Using these mediums, Singh extends an invitation to audiences to question how books, and book-making, might transform a space into an exhibition. This show takes cues from Singh’s artist-led approach to exhibitions to explore the relationship between “making” and “reading.” With Singh’s Book Building (2022) as a blueprint, this exhibition analyzes book-making as an artistic practice, material form, and conceptual process. Works in the exhibition span Singh’s career, including Book Building (2022), Blue Book (2009), File Room (2013), Museum of Chance (2014), and Sent a Let",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c64e14192890ab4bb08010550fa4@global-arts-culture": {
+      "source": "brown-arts",
+      "source_id": "342017-2026-10-17T14:00:00-04:00",
+      "title": "A Harvest on College Hill (AHOCH)",
+      "start": "2026-10-17T14:00:00-04:00",
+      "end": null,
+      "venue": "Main Green & Ruth J Simmons",
+      "address": "Main Green & Ruth J Simmons",
+      "city": "Providence",
+      "country": "United States",
+      "region": "us",
+      "category": "Free Food",
+      "url": "https://events.brown.edu/general/event/342017-a-harvest-on-college-hill-ahoch",
+      "description": "Bundle up in your coziest sweaters and darn your denims because A Harvest on College Hill (AHOCH) is TODAY! Celebrate stick season with spiced sweet treats, a-maizing activities, plenty of prizes, and apple-solutely stellar student performances! Join us on the Main Green and Ruth J. Simmons Quad from 2-5 PM!",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2330,6 +2347,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "60e55965d86bee9e7a54e35e4800@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54258869286408-2026-10-23T13:00:00-04:00",
+      "title": "The Midterms: The State of the Race and Election Security",
+      "start": "2026-10-23T13:00:00-04:00",
+      "end": "2026-10-23T14:00:00-04:00",
+      "venue": "Media and Public Affairs Building",
+      "address": "805 21st Street NW, Washington DC 20052",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Lectures & Speakers",
+      "url": "https://calendar.gwu.edu/event/election-security",
+      "description": "With the midterms on November 3, join faculty from the GW College of Professional Studies and the Graduate School of Political Management for a candid conversation about where the race stands and what it takes to keep an election secure. What we'll cover Where the race stands heading into Election Day How campaigns, election officials, and law enforcement work together to identify and respond to physical and cybersecurity threats How to read the results (and a slow count) like an insider The panel Mary Eileen Paradis Faculty, Homeland Security Programs, GW College of Professional Studies Keith L. Williams Faculty, Cybersecurity Strategy and Information Management and Homeland Security Progra",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "df06296baf68f8c23f4c5fffb624@global-arts-culture": {
       "source": "gwu-arts",
       "source_id": "53815570214257-2026-10-23T13:00:00-04:00",
@@ -3673,6 +3707,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "353b060470d811e3a130bf54b69e@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-01T15:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-01T15:30:00-08:00",
+      "end": "2026-11-01T17:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "63343bddb5104a672f7355a89940@global-arts-culture": {
       "source": "northwest-film-forum",
       "source_id": "https://nwfilmforum.org/films/once-upon-time-seattle/-2026-11-01T16:00:00-08:00",
@@ -3686,6 +3737,23 @@
       "region": "us",
       "category": "Film",
       "url": "https://nwfilmforum.org/films/once-upon-time-seattle/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5018c0bf95b3dcd2f47d92267156@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-01T18:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-01T18:30:00-08:00",
+      "end": "2026-11-01T20:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -3707,6 +3775,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "25e7b31bb1da87e29a60f210b84d@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-02T18:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-02T18:30:00-08:00",
+      "end": "2026-11-02T20:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "2c838615b2af5cd7503af199c845@global-arts-culture": {
       "source": "northwest-film-forum",
       "source_id": "https://nwfilmforum.org/films/palestine-cinema-days-2026-foragers/-2026-11-02T19:00:00-08:00",
@@ -3720,6 +3805,23 @@
       "region": "us",
       "category": "Film",
       "url": "https://nwfilmforum.org/films/palestine-cinema-days-2026-foragers/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "793c67b9cfb9a4bfdf8328457639@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-04T18:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-04T18:30:00-08:00",
+      "end": "2026-11-04T20:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -3792,6 +3894,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "83a9d34e313521fde5b78895d103@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-06T18:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-06T18:30:00-08:00",
+      "end": "2026-11-06T20:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "0e59425763cc50b8d72efd23bae2@global-arts-culture": {
       "source": "northwest-film-forum",
       "source_id": "https://nwfilmforum.org/films/engauge-2026-expanded-cinema-performance-and-film/-2026-11-06T19:00:00-08:00",
@@ -3826,6 +3945,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "9cc19704f42ce43af5c10f24295e@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-07T15:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-07T15:30:00-08:00",
+      "end": "2026-11-07T17:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "9887e1de762bd25311b1af81ee8b@global-arts-culture": {
       "source": "northwest-film-forum",
       "source_id": "https://nwfilmforum.org/films/engauge-2026-we-are-all-together/-2026-11-07T17:00:00-08:00",
@@ -3839,6 +3975,23 @@
       "region": "us",
       "category": "Film",
       "url": "https://nwfilmforum.org/films/engauge-2026-we-are-all-together/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "290b2799961405c40ac67a3cb33e@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-07T18:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-07T18:30:00-08:00",
+      "end": "2026-11-07T20:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -3873,6 +4026,40 @@
       "region": "us",
       "category": "Film",
       "url": "https://nwfilmforum.org/films/vagabond/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "d50c643fb94b2ce19f235d7cad35@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-08T15:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-08T15:30:00-08:00",
+      "end": "2026-11-08T17:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "daa26c0257c234046a859eb44b26@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/-2026-11-08T18:30:00-08:00",
+      "title": "Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift; a fragmentary passage",
+      "start": "2026-11-08T18:30:00-08:00",
+      "end": "2026-11-08T20:36:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -5046,7 +5233,7 @@
       "region": "us",
       "category": "Talks &amp; Tours",
       "url": "https://noma.org/event/gallery-talk-for-teens-second-nature-japanese-rinpa-paintings-from-the-gitter-yelen-collection/2026-11-17/",
-      "description": "On November 17 and January 19, New Orleans Museum of Art is hosting a Gallery Talk for Teens. The program will take place in the museum’s first floor Ella West Freeman Gallery, where the exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is currently on view . This program will include an interactive gallery activity and a question-and-answer session to encourage peer discussion. To register for either date, please RSVP with Michelle Haysley, NOMA’s Education Programs Manager, at mhaysley@noma.org by October 30, 2026. For questions, contact Michelle Haysley at mhaysley@noma.org . Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is on v",
+      "description": "On November 17 and January 19, New Orleans Museum of Art is hosting a Gallery Talk for Teens. The programs will take place in the museum’s first floor Ella West Freeman Gallery, where the exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is currently on view . This program will include an interactive gallery activity and a question-and-answer session to encourage peer discussion. To register for November 17’s program, please RSVP by October 30, 2026. To register for January 19’s program, please RSVP by December 10, 2026. To RSVP or for questions, contact Michelle Haysley, NOMA’s Education Programs Manager, at mhaysley@noma.org . Second Nature: Japanese Rinpa",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5078,7 +5265,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Kids &amp; Families",
+      "category": "Studio KIDS!",
       "url": "https://noma.org/event/little-learners-puppet-party/",
       "description": "Join us at the museum on select Saturday mornings for Studio KIDS! and Little Learners youth art-making workshops. In these workshop series designed for artists ages 4-5 (Little Learners) and 6-12 (Studio KIDS!), we’ll take inspiration from works on view across the museum and the Besthoff Sculpture Garden and make our own creations with a teaching artist. About Little Learners: Puppet Party Play with puppets! Participants will explore the galleries and search for animals, characters, and stories. Inspired by what they discover, artists will then create their own articulated puppets. Registration is $15 for members and $20 for other participants. Advance registration is required and includes ",
       "status": "CONFIRMED",
@@ -5095,7 +5282,7 @@
       "city": "New Orleans",
       "country": "United States",
       "region": "us",
-      "category": "Kids &amp; Families",
+      "category": "Studio KIDS!",
       "url": "https://noma.org/event/studio-kids-puppet-party/",
       "description": "Join us at the museum on select Saturday mornings for Studio KIDS! and Little Learners youth art-making workshops. In these workshop series designed for artists ages 4-5 (Little Learners) and 6-12 (Studio KIDS!), we’ll take inspiration from works on view across the museum and the Besthoff Sculpture Garden and make our own creations with a teaching artist. About Studio KIDS!: Puppet Party Play with puppets! Participants will explore the galleries and search for animals, characters, and stories. Inspired by what they discover, artists will then create their own imaginative puppets using felt, thread, and found objects. This Studio KIDS! session will be led by teaching artist Krystyna. Registra",
       "status": "CONFIRMED",
@@ -5114,7 +5301,7 @@
       "region": "us",
       "category": "Talks &amp; Tours",
       "url": "https://noma.org/event/gallery-talk-for-teens-second-nature-japanese-rinpa-paintings-from-the-gitter-yelen-collection/2027-01-19/",
-      "description": "On November 17 and January 19, New Orleans Museum of Art is hosting a Gallery Talk for Teens. The program will take place in the museum’s first floor Ella West Freeman Gallery, where the exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is currently on view . This program will include an interactive gallery activity and a question-and-answer session to encourage peer discussion. To register for either date, please RSVP with Michelle Haysley, NOMA’s Education Programs Manager, at mhaysley@noma.org by October 30, 2026. For questions, contact Michelle Haysley at mhaysley@noma.org . Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is on v",
+      "description": "On November 17 and January 19, New Orleans Museum of Art is hosting a Gallery Talk for Teens. The programs will take place in the museum’s first floor Ella West Freeman Gallery, where the exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is currently on view . This program will include an interactive gallery activity and a question-and-answer session to encourage peer discussion. To register for November 17’s program, please RSVP by October 30, 2026. To register for January 19’s program, please RSVP by December 10, 2026. To RSVP or for questions, contact Michelle Haysley, NOMA’s Education Programs Manager, at mhaysley@noma.org . Second Nature: Japanese Rinpa",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5560,23 +5747,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "4f3335df96e972d387cf9cb3afe3@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/la-gran-caceria-2026-10-16T21:15:00+02:00",
-      "title": "La gran cacería",
-      "start": "2026-10-16T21:15:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Scene",
-      "url": "https://www.cccb.org/en/w/activities/la-gran-caceria",
-      "description": "Monologue by Juan Mayorga",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "22c51b273c14cc9be2b54b2d2817@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/thinking-about-the-future-from-africa-2026-10-16T12:00:00+02:00",
@@ -5591,6 +5761,23 @@
       "category": "Education",
       "url": "https://www.cccb.org/en/w/activities/thinking-about-the-future-from-africa",
       "description": "A Morning with Felwine Sarr",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "89dcf695a0b22b3b48bda51930b0@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/an-urban-interregnum-new-economies-and-intimate-stories-of-work-2026-10-16T10:00:00+02:00",
+      "title": "An Urban Interregnum. New Economies and Intimate Stories of Work",
+      "start": "2026-10-16T10:00:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/an-urban-interregnum-new-economies-and-intimate-stories-of-work",
+      "description": "Edgar Pieterse, Prasad Shetty, Rupali Gupte, Thireshen Govender and Ashley Walters",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5628,20 +5815,20 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "89dcf695a0b22b3b48bda51930b0@global-arts-culture": {
+    "4f3335df96e972d387cf9cb3afe3@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/an-urban-interregnum-new-economies-and-intimate-stories-of-work-2026-10-16T10:00:00+02:00",
-      "title": "An Urban Interregnum. New Economies and Intimate Stories of Work",
-      "start": "2026-10-16T10:00:00+02:00",
+      "source_id": "https://www.cccb.org/en/w/activities/la-gran-caceria-2026-10-16T21:15:00+02:00",
+      "title": "La gran cacería",
+      "start": "2026-10-16T21:15:00+02:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
       "address": "Carrer de Montalegre 5, 08001 Barcelona",
       "city": "Barcelona",
       "country": "Spain",
       "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/an-urban-interregnum-new-economies-and-intimate-stories-of-work",
-      "description": "Edgar Pieterse, Prasad Shetty, Rupali Gupte, Thireshen Govender and Ashley Walters",
+      "category": "Scene",
+      "url": "https://www.cccb.org/en/w/activities/la-gran-caceria",
+      "description": "Monologue by Juan Mayorga",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5696,40 +5883,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "556439fbd7e23c0b9183090e8231@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera-2026-10-17T17:00:00+02:00",
-      "title": "Omri Boehm and Jordi Graupera",
-      "start": "2026-10-17T17:00:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera",
-      "description": "The Universal and Its Limits",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c1400897190b1128bef357562440@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera-2026-10-17T20:00:00+02:00",
-      "title": "Patrick Radden Keefe and Judit Carrera",
-      "start": "2026-10-17T20:00:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera",
-      "description": "London: The Hidden City",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "47e30d904ea4aad3bb9628e8a1ca@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/ukraine-the-meaning-of-writing-2026-10-17T18:30:00+02:00",
@@ -5778,6 +5931,40 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/julian-casanova-and-xavier-domenech",
       "description": "The Battle for Memory",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "556439fbd7e23c0b9183090e8231@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera-2026-10-17T17:00:00+02:00",
+      "title": "Omri Boehm and Jordi Graupera",
+      "start": "2026-10-17T17:00:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/omri-boehm-and-jordi-graupera",
+      "description": "The Universal and Its Limits",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c1400897190b1128bef357562440@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera-2026-10-17T20:00:00+02:00",
+      "title": "Patrick Radden Keefe and Judit Carrera",
+      "start": "2026-10-17T20:00:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/patrick-radden-keefe-and-judit-carrera",
+      "description": "London: The Hidden City",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5866,23 +6053,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "5797534d2f98806d0b9fa85cf656@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada-2026-10-20T18:30:00+02:00",
-      "title": "Gravada, escrita, pronunciada",
-      "start": "2026-10-20T18:30:00+02:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Courses and workshops",
-      "url": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada",
-      "description": "La paraula al cinema experimental",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "59ddc418a6afa513bdbfe5a61a89@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/el-segle-xviii-2026-10-20T18:30:00+02:00",
@@ -5900,11 +6070,11 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ba496940cac5cae1e5babcb61017@global-arts-culture": {
+    "5797534d2f98806d0b9fa85cf656@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/una-historia-cromatica-del-color-2026-10-21T18:30:00+02:00",
-      "title": "Una història cromàtica",
-      "start": "2026-10-21T18:30:00+02:00",
+      "source_id": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada-2026-10-20T18:30:00+02:00",
+      "title": "Gravada, escrita, pronunciada",
+      "start": "2026-10-20T18:30:00+02:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
       "address": "Carrer de Montalegre 5, 08001 Barcelona",
@@ -5912,8 +6082,8 @@
       "country": "Spain",
       "region": "europe",
       "category": "Courses and workshops",
-      "url": "https://www.cccb.org/en/w/activitats/una-historia-cromatica-del-color",
-      "description": "Blau, groc, verd, vermell",
+      "url": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada",
+      "description": "La paraula al cinema experimental",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5931,6 +6101,23 @@
       "category": "Amics CCCB",
       "url": "https://www.cccb.org/en/w/activities/el-informe-trabajo-intelectual-y-tristeza-burocratica-by-remedios-zafra",
       "description": "Exclusive reading club for Friends of the CCCB",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "ba496940cac5cae1e5babcb61017@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/una-historia-cromatica-del-color-2026-10-21T18:30:00+02:00",
+      "title": "Una història cromàtica",
+      "start": "2026-10-21T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/una-historia-cromatica-del-color",
+      "description": "Blau, groc, verd, vermell",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6019,23 +6206,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "82ff4f75e41b4a28077988b0d691@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada-2026-10-27T18:30:00+01:00",
-      "title": "Gravada, escrita, pronunciada",
-      "start": "2026-10-27T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Courses and workshops",
-      "url": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada",
-      "description": "La paraula al cinema experimental",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "aa02f4e58d6f2993f18bf7914b33@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/guided-tour-charlotte-perriand-fundacio-joan-miro-2026-10-27T18:00:00+01:00",
@@ -6067,6 +6237,40 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/el-segle-xviii",
       "description": "La tradició clàssica en la cultura occidental, 4",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "82ff4f75e41b4a28077988b0d691@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada-2026-10-27T18:30:00+01:00",
+      "title": "Gravada, escrita, pronunciada",
+      "start": "2026-10-27T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada",
+      "description": "La paraula al cinema experimental",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "16c784c050c83411e6873196ade3@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/photoscriptures-2026-10-28T18:00:00+01:00",
+      "title": "Photoscriptures",
+      "start": "2026-10-28T18:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/photoscriptures",
+      "description": "Literature and Photography, 200 Years Later",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6104,23 +6308,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "16c784c050c83411e6873196ade3@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/photoscriptures-2026-10-28T18:00:00+01:00",
-      "title": "Photoscriptures",
-      "start": "2026-10-28T18:00:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/photoscriptures",
-      "description": "Literature and Photography, 200 Years Later",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "e803eb44822ffceed15ba2c763af@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/seminar-with-paco-gomez-and-laura-c-vela-2026-10-29T10:00:00+01:00",
@@ -6135,23 +6322,6 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/seminar-with-paco-gomez-and-laura-c-vela",
       "description": "Photoscriptures. Creating and Editing Text-Image Projects",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "59a8011de5ef7d850bbf5d169a68@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes-2026-10-29T18:30:00+01:00",
-      "title": "Leviatan, de Thomas Hobbes",
-      "start": "2026-10-29T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Courses and workshops",
-      "url": "https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes",
-      "description": "Llegir filosofia, 7",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6172,6 +6342,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "59a8011de5ef7d850bbf5d169a68@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes-2026-10-29T18:30:00+01:00",
+      "title": "Leviatan, de Thomas Hobbes",
+      "start": "2026-10-29T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/leviatan-de-thomas-hobbes",
+      "description": "Llegir filosofia, 7",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "d2a4fce35334423cc7dcfcde3161@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/a-spot-of-light-2026-11-01T18:30:00+01:00",
@@ -6186,23 +6373,6 @@
       "category": "Audiovisuals",
       "url": "https://www.cccb.org/en/w/activities/a-spot-of-light",
       "description": "Programme of films related to the Aula Xcèntric",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "e72edc663096a0444f0ccacb3232@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/lecture-by-bonnie-honig-2026-11-02T18:30:00+01:00",
-      "title": "Bonnie Honig",
-      "start": "2026-11-02T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/lecture-by-bonnie-honig",
-      "description": "Laughing in the Face of Disaster: Arendt, Plurality, Community",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6223,20 +6393,20 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "fbb9cb61c2bda0d2d1d554acd233@global-arts-culture": {
+    "e72edc663096a0444f0ccacb3232@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada-2026-11-03T18:30:00+01:00",
-      "title": "Gravada, escrita, pronunciada",
-      "start": "2026-11-03T18:30:00+01:00",
+      "source_id": "https://www.cccb.org/en/w/activities/lecture-by-bonnie-honig-2026-11-02T18:30:00+01:00",
+      "title": "Bonnie Honig",
+      "start": "2026-11-02T18:30:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
       "address": "Carrer de Montalegre 5, 08001 Barcelona",
       "city": "Barcelona",
       "country": "Spain",
       "region": "europe",
-      "category": "Courses and workshops",
-      "url": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada",
-      "description": "La paraula al cinema experimental",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/lecture-by-bonnie-honig",
+      "description": "Laughing in the Face of Disaster: Arendt, Plurality, Community",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6271,6 +6441,23 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/el-segle-xviii",
       "description": "La tradició clàssica en la cultura occidental, 4",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "fbb9cb61c2bda0d2d1d554acd233@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada-2026-11-03T18:30:00+01:00",
+      "title": "Gravada, escrita, pronunciada",
+      "start": "2026-11-03T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada",
+      "description": "La paraula al cinema experimental",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6359,23 +6546,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "d9c6004955fcedfac89d28e7dc60@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/everything-that-dances-2026-11-07T17:00:00+01:00",
-      "title": "Everything that dances",
-      "start": "2026-11-07T17:00:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Audiovisuals",
-      "url": "https://www.cccb.org/en/w/activities/everything-that-dances",
-      "description": "Cinema for all the family",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "04b3a6440b23b4db2c5c6532b51e@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/body-algorithm-image-2026-11-07T11:00:00+01:00",
@@ -6410,11 +6580,11 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "af18551bc67ff0053988c11f0763@global-arts-culture": {
+    "d9c6004955fcedfac89d28e7dc60@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/everything-that-dances-2026-11-08T11:00:00+01:00",
+      "source_id": "https://www.cccb.org/en/w/activities/everything-that-dances-2026-11-07T17:00:00+01:00",
       "title": "Everything that dances",
-      "start": "2026-11-08T11:00:00+01:00",
+      "start": "2026-11-07T17:00:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
       "address": "Carrer de Montalegre 5, 08001 Barcelona",
@@ -6444,20 +6614,20 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "c402e39eee13931d4e0311c61824@global-arts-culture": {
+    "af18551bc67ff0053988c11f0763@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/michel-foucault-2026-11-09T18:30:00+01:00",
-      "title": "Michel Foucault",
-      "start": "2026-11-09T18:30:00+01:00",
+      "source_id": "https://www.cccb.org/en/w/activities/everything-that-dances-2026-11-08T11:00:00+01:00",
+      "title": "Everything that dances",
+      "start": "2026-11-08T11:00:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
       "address": "Carrer de Montalegre 5, 08001 Barcelona",
       "city": "Barcelona",
       "country": "Spain",
       "region": "europe",
-      "category": "Courses and workshops",
-      "url": "https://www.cccb.org/en/w/activitats/michel-foucault",
-      "description": "Lighthouse",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/everything-that-dances",
+      "description": "Cinema for all the family",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6492,6 +6662,23 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/la-divina-comedia-iii-paradis",
       "description": "Lectura i interpretació d’un clàssic",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c402e39eee13931d4e0311c61824@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/michel-foucault-2026-11-09T18:30:00+01:00",
+      "title": "Michel Foucault",
+      "start": "2026-11-09T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/michel-foucault",
+      "description": "Lighthouse",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6648,23 +6835,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "787ff732c20306d8d70e229f2b5b@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi-2026-11-18T18:30:00+01:00",
-      "title": "El món com a manicomi",
-      "start": "2026-11-18T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Courses and workshops",
-      "url": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi",
-      "description": "Dolor femení, resistència i literatura",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "7cd511b56a818f30c88a733b342b@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/maniac-by-benjamin-labatut-2026-11-18T18:30:00+01:00",
@@ -6682,20 +6852,37 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "98d75cca4ad12db4f9af21dd06f9@global-arts-culture": {
+    "787ff732c20306d8d70e229f2b5b@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/writing-against-oblivion-2026-11-19T12:00:00+01:00",
-      "title": "Writing against oblivion",
-      "start": "2026-11-19T12:00:00+01:00",
+      "source_id": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi-2026-11-18T18:30:00+01:00",
+      "title": "El món com a manicomi",
+      "start": "2026-11-18T18:30:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
       "address": "Carrer de Montalegre 5, 08001 Barcelona",
       "city": "Barcelona",
       "country": "Spain",
       "region": "europe",
-      "category": "Education",
-      "url": "https://www.cccb.org/en/w/activities/writing-against-oblivion",
-      "description": "A morning with Scholastique Mukasonga",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi",
+      "description": "Dolor femení, resistència i literatura",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "999bb56cb092418a2c96ea9ed629@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/scholastique-mukasonga-2026-11-19T18:30:00+01:00",
+      "title": "Scholastique Mukasonga",
+      "start": "2026-11-19T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/scholastique-mukasonga",
+      "description": "Whoever tells stories has no hatred in their heart",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6716,20 +6903,20 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "999bb56cb092418a2c96ea9ed629@global-arts-culture": {
+    "98d75cca4ad12db4f9af21dd06f9@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/scholastique-mukasonga-2026-11-19T18:30:00+01:00",
-      "title": "Scholastique Mukasonga",
-      "start": "2026-11-19T18:30:00+01:00",
+      "source_id": "https://www.cccb.org/en/w/activities/writing-against-oblivion-2026-11-19T12:00:00+01:00",
+      "title": "Writing against oblivion",
+      "start": "2026-11-19T12:00:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
       "address": "Carrer de Montalegre 5, 08001 Barcelona",
       "city": "Barcelona",
       "country": "Spain",
       "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/scholastique-mukasonga",
-      "description": "Whoever tells stories has no hatred in their heart",
+      "category": "Education",
+      "url": "https://www.cccb.org/en/w/activities/writing-against-oblivion",
+      "description": "A morning with Scholastique Mukasonga",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6937,23 +7124,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "29e0093b9a9ddf8fe53810c1dfb1@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6-2026-12-02T18:30:00+01:00",
-      "title": "Salut",
-      "start": "2026-12-02T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "",
-      "url": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6",
-      "description": "Lèxic quotidià de filosofia, 6",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "ac52aae6c2a683996d4b18238189@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/dubai-the-dream-of-the-twenty-first-century-2026-12-02T18:30:00+01:00",
@@ -6968,6 +7138,23 @@
       "category": "",
       "url": "https://www.cccb.org/en/w/activities/dubai-the-dream-of-the-twenty-first-century",
       "description": "Roman Stadnicki i Camille Ammoun",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "29e0093b9a9ddf8fe53810c1dfb1@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6-2026-12-02T18:30:00+01:00",
+      "title": "Salut",
+      "start": "2026-12-02T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "",
+      "url": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6",
+      "description": "Lèxic quotidià de filosofia, 6",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -7073,23 +7260,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "108d57d4d56105acaf05a42f8220@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6-2026-12-16T18:30:00+01:00",
-      "title": "Salut",
-      "start": "2026-12-16T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "",
-      "url": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6",
-      "description": "Lèxic quotidià de filosofia, 6",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "5837aeff9b278255c7dcc5c69294@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/imaginar-la-fi-by-eudald-espluga-2026-12-16T18:30:00+01:00",
@@ -7104,6 +7274,23 @@
       "category": "Amics CCCB",
       "url": "https://www.cccb.org/en/w/activities/imaginar-la-fi-by-eudald-espluga",
       "description": "Exclusive reading club for Friends of the CCCB",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "108d57d4d56105acaf05a42f8220@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6-2026-12-16T18:30:00+01:00",
+      "title": "Salut",
+      "start": "2026-12-16T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "",
+      "url": "https://www.cccb.org/en/w/activitats/salut-lexic-quotidia-de-filosofia-6",
+      "description": "Lèxic quotidià de filosofia, 6",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -7919,6 +8106,23 @@
       "region": "europe",
       "category": "Konzert",
       "url": "https://www.silent-green.net/programm/detail/angel-bat-dawid?tx_news_pi1%5Bday%5D=24&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=4829d71072833129503cd9c121dec7ac",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4c14dff3d31ac6dd7329a7c81c66@global-arts-culture": {
+      "source": "silent-green",
+      "source_id": "https://www.silent-green.net/programm/detail/historische-fuehrung-40-2026-11-29T12:00:00+01:00",
+      "title": "Historische Führung",
+      "start": "2026-11-29T12:00:00+01:00",
+      "end": null,
+      "venue": "silent green — Wiese",
+      "address": "Gerichtstraße 35, 13347 Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "europe",
+      "category": "Music & Arts",
+      "url": "https://www.silent-green.net/programm/detail/historische-fuehrung-40?tx_news_pi1%5Bday%5D=29&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=1203761fae9b115476cc183425bc79ed",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -12765,8 +12969,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/alert-mini-monsters",
       "description": "Led by illustrator Emo Díaz, this workshop invites us to transform into our favorite monster by creating our own spooky masks using cardboard, paper, and everyday materials. It’s an exercise that encourages imagination, experimentation, and giving shape to new ideas while working together as a family. Emo Díaz is an illustrator, graphic designer, and animator based in Madrid. He is renowned for his friendly, colorful, and approachable style, which resonates strongly with children through soft-shaped characters and visual universes filled with joy and a subtle touch of nostalgia. As a children's book author and creative project creator, he is also a regular workshop leader in cultural and edu",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "bd4372c6b888af6408d09216816a@global-arts-culture": {
       "source": "matadero-madrid",
@@ -12782,8 +12986,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/film-series-madrid-landscape",
       "description": "Las ciudades, lejos de retóricas tradicionalistas, identitarias, exotizantes o romantizadoras, son, por el contrario, espacios, igual que cualquier otro, para el control y la dominación, espacios de ordenación del territorio y de las personas. Las películas, lejos también de retóricas autocomplacientes, son resultado y consecuencia de la época y las contradicciones que nos rodean. Quién vio los templos caer y Mitología de barrio son dos películas realizadas en paralelo, sin comunicarse entre sí ni conocerse durante dicho proceso. Sin embargo, los puntos en común, tanto en lo formal como en sus contenidos, son seguramente inevitables, pero sobre todo interesantes o propicios para una conversa",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "97d80ff7d770d454d5b31df51419@global-arts-culture": {
       "source": "matadero-madrid",
@@ -12799,8 +13003,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/film-series-madrid-landscape",
       "description": "Tras el 11 de septiembre, un gato amarillo dibujado comienza a aparecer en los muros de París, observando la ciudad con una enigmática sonrisa. Intrigado por esta figura, Chris Marker emprende un viaje visual y reflexivo a través de la capital francesa, explorando el arte urbano, las protestas sociales y el estado del mundo en un tiempo de incertidumbre. Chats perchés es una meditación poética sobre la memoria colectiva, la resistencia y la belleza inesperada en medio del caos. > Coloquio posterior con los arquitectos Aritz González y David García-Asenjo",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c45a9ecd5cf31f52b6eab646ca5e@global-arts-culture": {
       "source": "matadero-madrid",
@@ -12816,8 +13020,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/film-series-madrid-landscape",
       "description": "La periferia de Ciudad del Cabo, Sudáfrica, es el epicentro de un inspirador viaje a través del trabajo de Boa Mistura, colectivo artístico de proyección internacional con raíces en el graffiti y el arte urbano. En el camino, el arte urbano se convierte en el vehículo que conecta las vidas de un vecino de una favela en São Paulo, un joven del slum de Kibera, en Kenia, una indígena mapuche en el norte de Chile, un refugiado sirio y una mujer de una población pesquera de República Dominicana. Estos pequeños encuentros a través de la pintura son la semilla de cambios tanto en los vecinos de las comunidades como en el colectivo. > Encuentro posterior con los artistas de Boa Mistura.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "64d46b5692080a871b16d3306397@global-arts-culture": {
       "source": "gwu-arts",
@@ -12834,7 +13038,7 @@
       "url": "https://calendar.gwu.edu/event/opening-reception-for-freedoms-exhibition",
       "description": "Bringing together two exhibitions — one tracing the legacy of Cannupa Hanska Luger’s REFLECT and Eric Gottesman’s NIGHT AND DAY — the opening considers how artists take risks, mobilize collective action, and invites people into participatory experience. Three making stations extend the artists’ inquiries into shared practice. Visitors are invited to create mirror shields in solidarity with water protectors, make clay beads representing the wild bison population in America as part of Census, or respond to banned books, suppressed texts, and contested images through collage, image-making, and other forms of reinterpretation. Together, the exhibitions foreground artistic practice as a form of p",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "ce01de380bcb1494303cb680fbdb@global-arts-culture": {
       "source": "gwu-arts",
@@ -12851,7 +13055,7 @@
       "url": "https://calendar.gwu.edu/event/research-practice-fall-2026",
       "description": "The creative practitioners presenting at this semester’s GWU Corcoran “Research + Practice” event series build on a project in bringing together the arts and design in dialogue. The GWU Corcoran learning community and the artists and designers of the DC region recognize a shared purpose in elevating the culture-shaping work(s) of diverse and free expression. The “Research + Practice” happenings are a supportive platform for connecting ideas and people across the creative fields; they encourage interdisciplinary exchange as a vital ingredient in advancing both arts-design scholarship and the arts and design in society. All events will be Wednesday nights, 6:30pm-8:00pm 9/23/2026: Jomo Tariku ",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "694aec57c4db49d9a120b776c87f@global-arts-culture": {
       "source": "gwu-arts",
@@ -12868,7 +13072,7 @@
       "url": "https://calendar.gwu.edu/event/gw-center-for-law-technology-speaker-series-prof-nikita-aggarwal-university-of-miami",
       "description": "Join Prof. Nikita Aggarwal (University of Miami) as she discusses her paper \"Digital Platforms as Financial Regulators.\" This event is hosted by the GW Bernard Center for Law & Technology, and will include beverages and lunch. Register for the Event Here",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "13bc291de831abaef79114e2e1be@global-arts-culture": {
       "source": "gwu-arts",
@@ -12885,7 +13089,7 @@
       "url": "https://calendar.gwu.edu/event/a-gift-in-motion",
       "description": "A multidisciplinary showcase from the artists and scholars of the full-time faculty and staff at the Corcoran School of the Arts & Design. A Gift In Motion loosely draws from Robin Wall Kimmerer’s book The Serviceberry which uplifts Indigenous frameworks of the natural world to advance the possibilities in collectivity, reciprocity, and the mindset of abundance. These are anti-capitalist models and theories that provide insight into the systems of power we negotiate, but also offer a lens on how we individually move through our daily lives—together—through historically fraught landscapes. A keen reminder that working with, for, and because of each other remains the most human motivation, eve",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "522a76823cade44cf2111861302f@global-arts-culture": {
       "source": "cccb",
@@ -12902,7 +13106,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "9af50de4397a61e95e9362c9a5f6@global-arts-culture": {
       "source": "cccb",
@@ -12919,7 +13123,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "7319a709ed610df1b5d67ecab640@global-arts-culture": {
       "source": "cccb",
@@ -12936,7 +13140,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "8739eb37e54a356e70350af02c9b@global-arts-culture": {
       "source": "brown-arts",
@@ -12953,7 +13157,7 @@
       "url": "https://events.brown.edu/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh",
       "description": "In her practice, Dayanita Singh experiments with form through photography, architecture, and books to create exhibitions. Using these mediums, Singh extends an invitation to audiences to question how books, and book-making, might transform a space into an exhibition. This show takes cues from Singh’s artist-led approach to exhibitions to explore the relationship between “making” and “reading.” With Singh’s Book Building (2022) as a blueprint, this exhibition analyzes book-making as an artistic practice, material form, and conceptual process. Works in the exhibition span Singh’s career, including Book Building (2022), Blue Book (2009), File Room (2013), Museum of Chance (2014), and Sent a Let",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "4837d3bc3b26e5e0b8cb016beb36@global-arts-culture": {
       "source": "brown-arts",
@@ -12970,7 +13174,7 @@
       "url": "https://events.brown.edu/library/event/341397-a-pictorial-dragon-the-art-of-fernando-birri",
       "description": "The exhibit A Pictorial Dragon: The Art of Fernando Birri is on view in the Harriette Hemmasi Exhibition Gallery at the John Hay Library at Brown University, and online through a digital exhibition. The exhibit celebrates the centennial of Fernando Birri (1925–2017), the pioneering Argentine filmmaker, artist, and theorist of the New Latin American Cinema.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d0ce0174c1b54900edfdeaa7c1b2@global-arts-culture": {
       "source": "brown-arts",
@@ -12987,7 +13191,7 @@
       "url": "https://events.brown.edu/john-carter-brown-library/event/326670-1776-across-the-americas-a-hemispheric-history",
       "description": "The John Carter Brown Library is pleased to announce a year-long exhibition titled “1776 Across the Americas: A Hemispheric History from the Collections of the John Carter Brown Library.” The exhibition is now on display in the Bromsen Room at the Library and is open to the public during regular Reading Room hours. The John Carter Brown Library’s Reading Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and from 2 p.m. to 4:45 p.m., and Friday from 10 a.m. to 12:45 p.m. Curated by Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf and JCB 2026 Postdoc Program Coordinator Kathleen Telling , the exhibition is part of the initiative 2026 and Beyond at the JCB",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "4a66d603d588b50f805b6a69549e@global-arts-culture": {
       "source": "brown-arts",
@@ -13004,7 +13208,7 @@
       "url": "https://events.brown.edu/cssj/event/334392-exhibition-on-view-sites-of-remaking-port-cities",
       "description": "This exhibition, Sites of Remaking: Port Cities and Our Present, invites visitors to reconsider and recontextualize port cities, centering Black and Indigenous experiences within the global history of the Transatlantic Slave Trade and its present-day legacies. It explores themes of freedom-making, resistance, place-making and the legacies of slavery through works by three Rhode Island-based multi-disciplinary artists: Jazzmen Lee-Johnson, Kia Lenise and Spencer Evans. Curated by Ivie Orobaton, A.M. Candidate in Public Humanities. The exhibition is an artistic companion to the April 23–24 conference, Reconsidering Port Cities: Critical Commemoration of Slavery, and Transatlantic Legacies , ho",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "22157e286ac3b87930d1bb75c455@global-arts-culture": {
       "source": "brown-arts",
@@ -13021,7 +13225,7 @@
       "url": "https://events.brown.edu/library/event/339722-practical-ai-using-geminis-deep-research-to-contextua",
       "description": "Join us for a hands-on workshop introducing Google Gemini’s “Deep Research” as a tool of contextualizing your research project. This workshop will begin with a brief overview of what generative AI is and what it is not. We will then discuss the usefulness of reference sources as a starting place for academic research. Following these foundational matters, we will have a hands-on activity where we use Gemini to generate custom reference sources with a key eye to the affordances and liabilities of the platform.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "10426620d1e3a7a7e264c122eba0@global-arts-culture": {
       "source": "brown-arts",
@@ -13038,7 +13242,7 @@
       "url": "https://events.brown.edu/john-carter-brown-library/event/326887-1776-across-the-americas-a-hemispheric-history",
       "description": "The John Carter Brown Library is pleased to announce a year-long exhibition titled “1776 Across the Americas: A Hemispheric History from the Collections of the John Carter Brown Library.” The exhibition is now on display in the Bromsen Room at the Library and is open to the public during regular Reading Room hours. The John Carter Brown Library’s Reading Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and from 2 p.m. to 4:45 p.m., and Friday from 10 a.m. to 12:45 p.m. Curated by Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf and JCB 2026 Postdoc Program Coordinator Kathleen Telling , the exhibition is part of the initiative 2026 and Beyond at the JCB",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "2f379e145243b1d8ec76444a897a@global-arts-culture": {
       "source": "brown-arts",
@@ -13055,7 +13259,7 @@
       "url": "https://events.brown.edu/live/events/gay-at-the-hay-elizabeth-groenveld",
       "description": "About the Event Elizabeth Groeneveld , Professor and Chair of of Women’s and Gender Studies at Old Dominion University, will discuss her book “Lesbian Porn Magazines and the Sex Wars: Reimagining Sex, Power and Intimacy” alongside a showcase of materials from the O n Our Backs archive at the Hay. About the Speaker Elizabeth Groeneveld (she/they) is a Professor and Department Chair of the Department of Women’s and Gender Studies at Old Dominion University. Her scholarship explores the relationships between queer feminist advocacy and social change. Her publications include “ Making Feminist Media: Third-Wave Magazines on the Cusp of the Digital Age ” (Laurier University Press, 2016) and “ Les",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c18c8b48142f06cc97b0f72e880f@global-arts-culture": {
       "source": "brown-arts",
@@ -13072,7 +13276,7 @@
       "url": "https://events.brown.edu/live/events/336214-danielle-dutton-writers-on-writing",
       "description": "Danielle Dutton will take part in Writers on Writing, a series sponsored by Literary Arts. Danielle Dutton is the author of two novels— Margaret the First and SPRAWL —and two collections— Prairie, Dresses, Art, Other and Attempts at a Life —as well as various collaborative book projects with visual artists. Her writing has appeared in The New Yorker, Harper’s Magazine, The Paris Review , etc, and she recently wrote introductions to books by Renee Gladman and Ann Quin. Dutton is a professor at Washington University in St. Louis and the co-founder and editor of Dorothy, a publishing project.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e28e0719f721ee1997ba59b02cfc@global-arts-culture": {
       "source": "brown-arts",
@@ -13089,7 +13293,7 @@
       "url": "https://events.brown.edu/live/events/338630-film-screening-director-talk-skin-of-glass",
       "description": "**Date Change** Please join us on Thursday, Oct 15th at 6:00pm in the Joukowsky Forum (Watson School, 111 Thayer Street, Room 155) for a screening of the award-winning documentary Skin of Glass (2023), followed by a talk with the director, Denise Zmekhol. About the Film SKIN OF GLASS follows director Denise Zmekhol’s journey after discovering that her late father’s most celebrated work as an architect, a modernist glass skyscraper in the heart of São Paulo affectionately known as the Pele de Vidro (“Skin of Glass”), has become occupied by hundreds of homeless families. The film delicately interweaves the personal and political in a poetic and cinematic meditation on displacement, inequality,",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "1ef64456e3c56712783ce850e0f8@global-arts-culture": {
       "source": "chicago-humanities",
@@ -13106,7 +13310,7 @@
       "url": "https://www.chicagohumanities.org/events/attend/jlin-third-coast-percussion-vernacular/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a8cc0e0f6d68ce2418873ca5b4ba@global-arts-culture": {
       "source": "chicago-humanities",
@@ -13123,7 +13327,7 @@
       "url": "https://www.chicagohumanities.org/events/attend/david-byrne/",
       "description": "On hidden breakthroughs, creative risk, and the patience of great ideas",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c9e3ef526ffc3bbe5f6f006d31c1@global-arts-culture": {
       "source": "gwu-arts",
@@ -13140,7 +13344,7 @@
       "url": "https://calendar.gwu.edu/event/auditions-ride-the-cyclone",
       "description": "by CTAD & CMUS What: Join us to audition for the CTAD & CMUS production of Ride the Cyclone with music, book & lyrics by Jacob Richmond & Brooke Maxwell. This show will have Jennifer J. Hopkins as Artistic Director & Choreographer with Rahzé Sinclair as Musical Director. It will run from April 1-3 at 7:30 PM & April 4 at 2:00 PM in Betts Theatre, USC. Play Synopsis: The Ultimate Popularity Contest: Six dead teens. Only one gets a ticket back to the land of the living. The catch? They have to vote on who deserves it most. You thought high school group projects were toxic? Try navigating this purgatory! When: Auditions are 10-minute slots on Thursday, October 15, 2026, from 6:30-9:30PM. Callba",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e04327715eb9d0c7259b6865cc94@global-arts-culture": {
       "source": "gwu-arts",
@@ -13157,7 +13361,7 @@
       "url": "https://calendar.gwu.edu/event/a-gift-in-motion",
       "description": "A multidisciplinary showcase from the artists and scholars of the full-time faculty and staff at the Corcoran School of the Arts & Design. A Gift In Motion loosely draws from Robin Wall Kimmerer’s book The Serviceberry which uplifts Indigenous frameworks of the natural world to advance the possibilities in collectivity, reciprocity, and the mindset of abundance. These are anti-capitalist models and theories that provide insight into the systems of power we negotiate, but also offer a lens on how we individually move through our daily lives—together—through historically fraught landscapes. A keen reminder that working with, for, and because of each other remains the most human motivation, eve",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ac85f04dfde868dc632e35c0a1ce@global-arts-culture": {
       "source": "gwu-arts",
@@ -13174,7 +13378,7 @@
       "url": "https://calendar.gwu.edu/event/age-friendly-ecosystem-summit-day-2-the-invisible-workforce-care-partners-in-crisis-and-the-path-forward",
       "description": "Caregiving remains largely invisible, uncompensated, and underappreciated, even as demand outpaces the system. This session examines the full caregiving continuum, from family caregiving to the paid workforce, tackling policy debates - paid leave, respite care, tax credits, and direct pay models - alongside the collective response needed across health care, employers, government, and community. Speakers Amy Goyer - National Family and Caregiving Expert, AARP Ruth Kershner - National Family Caregiver Support Program, Montgomery County DHHS Mary Lazare - Principal Deputy Administrator, Administration for Community Living (ACL) Tom Stevens - Family caregiver, former mayor",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b39c4ca57cd33cd917a14633382f@global-arts-culture": {
       "source": "gwu-arts",
@@ -13191,7 +13395,7 @@
       "url": "https://calendar.gwu.edu/event/book-talk-how-to-survive-authoritarianism-a-russians-phrasebook-for-everyday-life-in-america",
       "description": "The indispensable lexicon you need to face authoritarianism—from the country that’s been surviving it for centuries. America is not the first country to experience the stirring of tyranny; in Russia, it has been the law of the land for generations. Over the years, a vernacular of double-speak emerged, one that helped ordinary people make sense of how illiberalism takes shape and makes itself felt in daily life. It allowed them to talk about authoritarianism and to subvert it—with a healthy dose of humor and irony along the way. In this edifying yet lighthearted glossary, two exiled dissidents share one hundred Russian idioms and turns of phrase, from “apparatchik” to “samizdat.” Some, like “",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0866b88f46899881b4ddb6edd9ce@global-arts-culture": {
       "source": "gwu-arts",
@@ -13208,7 +13412,7 @@
       "url": "https://calendar.gwu.edu/event/cracks-reforms-the-1920s-through-the-gw-collection",
       "description": "The 1920s emerged as a decade suspended between collapse and reconstruction, an era marked by “cracks and reforms” that ushered in a profound reconfiguration of the visual world.  During this period marked by civil transformation and political upheaval, artists, journalists, and makers had opportunities to reconstruct both individual and collective identities. A century later, Cracks & Reforms presents a distinct cross-section of this period, revealing global currents of migration, modernization, and cultural redefinition through the lens of the GW Collection. Students led by Associate Professor Bibiana Obler selected works to study and exhibit, their research eventually leading to unified t",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "93bbd78de4d9bdbcaa4dde04b381@global-arts-culture": {
       "source": "gwu-arts",
@@ -13225,7 +13429,7 @@
       "url": "https://calendar.gwu.edu/event/unfossilizing-african-art",
       "description": "Presented after extensive research, this exhibition recontextualizes African material culture objects held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students from four seminar courses offered between Fall 2024 and Spring 2026, conducted original research to deepen understanding of the university’s holdings and update how we interpret and exhibit these objects. The exhibition features 37 tangible heritage objects, ranging from an Egúngún Paaka from Yorubaland to a Kii [brass pipe], attributed to the Baumum people of Cameroon, accompanied by images and video that illuminate their rich histories. Research on the entire collection is presented in an ",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d9eedf0ffdc9109587c4af8c8f67@global-arts-culture": {
       "source": "gwu-arts",
@@ -13242,7 +13446,7 @@
       "url": "https://calendar.gwu.edu/event/unruly-the-1920s-between-revolution-and-reaction",
       "description": "A webinar panel discussion with Prof. Ara Merjian (Italian Studies, NYU) and Joyce Tsai (Director, Clyfford Still Museum) About the Exhibition: The 1920s emerged as a decade suspended between collapse and reconstruction, an era marked by “cracks and reforms” that ushered in a profound reconfiguration of the visual world. During this period marked by civil transformation and political upheaval, artists, journalists, and makers had opportunities to reconstruct both individual and collective identities. A century later, Cracks & Reforms presents a distinct cross-section of this period, revealing global currents of migration, modernization, and cultural redefinition through the lens of the GW Co",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ff817e5d9fabe84fc907e56a2533@global-arts-culture": {
       "source": "gwu-arts",
@@ -13259,7 +13463,7 @@
       "url": "https://calendar.gwu.edu/event/comrades-estranged-labor-and-citizenship-in-the-twentieth-century-persian-gulf",
       "description": "The Institute for Middle East Studies is proud to host Professor Alex Boodrookas , author of Comrades Estranged: Labor and Citizenship in the Twentieth-Century Persian Gulf . In 1975, Kuwaiti workers orchestrated arguably the most powerful citizen-led movement for noncitizen rights in the history of the Persian Gulf. Their efforts built on decades of wide-ranging struggle over the meanings and outlines of citizenship. During the twentieth century, anti-colonial nationalists, pro-democracy reformers, feminists, and labor organizers joined forces to fight for a more equitable citizenship regime. In so doing, they won a remarkable series of victories: political independence, constitutional righ",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c17f581c24e49ffa9f24e636bff1@global-arts-culture": {
       "source": "gwu-arts",
@@ -13276,7 +13480,7 @@
       "url": "https://calendar.gwu.edu/event/securing-the-energy-future-strategic-geopolitics-and-us-legal-realities",
       "description": "Join Bracewell, GW Law and NYU for a panel discussion: Panel 4–6 PM Reception 6–7 PM Speakers Kirk Morgan — Bracewell partner Brittany Pemberton — Bracewell partner Dr. Kristoffer Svendsen — Assistant Dean for the Environmental & Energy Law Program, GW Law Dr. Carolyn Kissane —Associate Dean of the Graduate Programs in Global Affairs and Global Security, Conflict and Cybercrime at the Center for Global Affairs, NYU This event is eligible for Foundations of Practice credit. Register for the Event Here",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "7596524cf578634884fcddd37858@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13293,7 +13497,7 @@
       "url": "https://events.berkeley.edu/Library/event/288815-centering-philippine-and-filipinx-american",
       "description": "The Bancroft Library’s collections of materials relating to the Philippines span nearly 500 years. Highlights in this exhibit include a transcript of an Inquisitorial trial from 1646, a prayer book written in the Cebuano language, and UC Berkeley Filipino student publications from 1905 to the present. The exhibit also features selections from the personal papers of acclaimed author Jessica Hagedorn, including typewritten drafts of her novels, poetry, song lyrics, and a screenplay, as well as childhood drawings and writings. Open hours may vary. Please view the The Bancroft Library hours page for the most up-to-date information.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ad23f7c9b0dd568fc85b5fc8bad4@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13310,7 +13514,7 @@
       "url": "https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pueblo-for-and-by-the-people-rev",
       "description": "The exhibition, De y para el pueblo / By and for the People: Revolutionary Mexican Prints, features highlights from The Bancroft Library’s extensive collection of prints.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0fc7cae49e0b42c66b6d1e0f9ee8@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13327,7 +13531,7 @@
       "url": "https://events.berkeley.edu/live/events/309073-exhibit-divestment-now-student-activism-and-the-anti-",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "741925134fd01f04672be5be0c03@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13344,7 +13548,7 @@
       "url": "https://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-ijin-our-life-is-here",
       "description": "Kōmij Mour Ijin / Our Life Is Here at Doe Library brings together reproductions of works and interpretive material from the 2023 voyage, exploring climate change, the legacy of US nuclear testing, and Marshallese knowledge and resilience.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "06546199608e54a55947ce4389d2@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13361,7 +13565,7 @@
       "url": "https://events.berkeley.edu/art/event/333517-exit-signs-fall-2026-advanced-studio-and-critique-pro",
       "description": "Worth Ryder Art Gallery and the Department of Art Practice are excited to announce Exit Signs , a group exhibition featuring multidisciplinary artworks from students in the Department of Art Practice’s Fall 2026 Advanced Studio Critique Program.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "6708aeb45999b26cfe8a0d152702@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13378,7 +13582,7 @@
       "url": "https://events.berkeley.edu/live/events/330194-photography-installation-remembering-the-future",
       "description": "At Giannini Hall, 36 photographs selected from the recently published Remembering the Future: Nuclear Testing, Rising Seas, and The Marshall Islands (Radius Books, © 2026) by Mark Klett and William L. Fox extend the two men’s decades-long collaboration tracing the nuclear history of the American West and the broader Pacific sphere.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "82acb19c684296447c08a645b54b@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13395,7 +13599,7 @@
       "url": "https://events.berkeley.edu/TDPS/event/322094-tdps-presents-the-whole-shebang-chronicles-of-very-se",
       "description": "Created with students in the Spring 2026 Theater 114 Class Directed by Timmia DeRoy World Premiere! This brand-new play, collaboratively authored by Berkeley students in the spring of 2026, brings us a slice-of-life look into the lives of Gen Z on and off campus. Inspired by real-life conversations and the subreddit Am I The Asshole? , each vignette—from the raunchy to the heartfelt—creates surprising opportunities for self-reflection. A bit too close to home, comedic, and at times absurd, The Whole Shebang tackles messy and challenging topics through multiple perspectives, offering an unfiltered experience and a mirror to our times. This show discusses topics of political, sexual and person",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c7d200c43af8333942a743774e17@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13412,7 +13616,7 @@
       "url": "https://events.berkeley.edu/RausserCollege/event/333779-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "https://events.berkeley.edu/live/image/scale/3x/gid/288/width/500/height/243/15793_screenshot_2026-10-02_at_5.01.26_pm.webp 3x\" data-origin=\"responsive\"/> https://events.berkeley.edu/live/image/scale/3x/gid/288/width/500/height/243/15793_screenshot_2026-10-02_at_5.01.26_pm.png 3x\" data-origin=\"responsive\"/> The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage. In Anointed , poet and Marshall Islands Climate Envoy Kathy Jetn̄il-Kijiner stands on Runit Dome at Enewetak Atoll, the concrete cap the United States built over radioactive debris from its nuclear tests, ",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "967bdc96c15cb1dbf361e41f8060@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13429,7 +13633,7 @@
       "url": "https://events.berkeley.edu/live/events/330920-exhibit-time-capsules-exploring-the-permanent",
       "description": "In celebrating 15 years at UC Berkeley, Time Capsules revisits ten out of the over thirty exhibitions presented since the Magnes opened the doors of its new academic home to the public.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "68a9ea998ce811ef15f86cb53935@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13446,7 +13650,7 @@
       "url": "https://events.berkeley.edu/live/events/330988-exhibit-an-archive-of-archives-roman-vishniacs",
       "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "6b7b0b1599ac34177d32270c7d82@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13463,7 +13667,7 @@
       "url": "https://events.berkeley.edu/Magnes/event/330859-exhibit-nancy-lee-katz-a-private-pantheon-part-1",
       "description": "Nancy Lee Katz: A Private Pantheon explores the artist’s decades-long effort to photograph artists, writers, musicians, and thinkers she admired, including Justice Ruth Bader Ginsburg, Stephen Sondheim, Philip Glass, Elie Wiesel, and Seiji Ozawa. Part 1 on view through Dec 17, 2026.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d3e4794b0bf3b04359813054279b@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13480,7 +13684,7 @@
       "url": "https://events.berkeley.edu/townsend/event/334777-the-dread-heights-tribulation-and-refuge-after-the",
       "description": "Attuned to a world of brutal sieges and mass displacement, The Dread Heights details how the Islamic tradition guides refugees, relief workers, and religious scholars since the Syrian catastrophe. Through an ethnography of religious imagination and theological argumentation, Iqbal demonstrates what is at stake beyond secular frames for migration and relief. Even as refugees become objects of humanitarian concern suspended between national orders, The Dread Heights brings another suspension into view: a form of life whose gestures are illuminated by the Quranic figure of the Heights. Iqbal’s ethnography pursues an unsentimental lucidity across the search for refuge, the trials of creational e",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ac592e38e656579c7f81baa96cf1@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13497,7 +13701,7 @@
       "url": "https://events.berkeley.edu/live/events/317583-edward-said-the-politics-of-an-oppositional",
       "description": "Please join UC Berkeley’s Palestinian & Arab Studies Program, the Armenian Studies Program, and the Center for Middle Eastern Studies on Thursday, October 15, 2026, for a book talk discussion of Edward Said: The Politics of an Oppositional Intellectual featuring Dr. Nubar Hovsepian. Date: Thursday, October 15, 2026 Time: 5:00 pm Register: https://forms.gle/ 12T27NEX2BpB62A29 Book copies will be available for purchase at the event",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ea6bdc45acb9ad4960304ffe4c06@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13514,7 +13718,7 @@
       "url": "https://events.berkeley.edu/BAMPFA/event/328109-film-screening-collaborations-with-cairos",
       "description": "Stefanie Schulte Strathaus has spent a considerable amount of time living in Cairo and working closely with the staff at Cimatheque – Alternative Film Centre. She presents two recently completed restorations by the Egyptian archive. Sad Song of Touha by Atteyat Al Abnoudy is a dreamlike portrait of Cairo’s street performers, whose stories are told by the voice of poet Abdel Rahman El-Abnoudy. Hussein Shariffe’s The Dislocation of Amber was filmed in the city of Suakin, formerly a flourishing port in Sudan, now reduced to ruins. Also shown will be a selection of home movies shot in Egypt from the Rafla Collection, amassed by Magdy Rafla, a jeweler who was also a passionate film collector.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3943c145a24e11a4bfdcff39269b@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13531,7 +13735,7 @@
       "url": "https://nwfilmforum.org/films/stuff-2026-understanding-myself-as-an-amphibian-objectionable-fruit/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "2913e64611df2145a12cf31ce623@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13548,7 +13752,7 @@
       "url": "https://nwfilmforum.org/films/seattle-film-society-in-focus-tyler-michael-james/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "8f6e47f7cdd4dd7f13dde8ccbd97@global-arts-culture": {
       "source": "artsatl",
@@ -13735,7 +13939,7 @@
       "url": "https://noma.org/event/book-club-stranger-in-the-shoguns-city/",
       "description": "NOMA’s book club meets monthly to discuss fiction and non-fiction books related to art in the museum’s collection and exhibitions. This month’s book club selection is Stranger in the Shogun’s City by Amy Stanley, a vivid, deeply researched work of history that explores the life of an unconventional woman during the first half of the 19th century in Edo–the city that would become Tokyo–and a portrait of a great city on the brink of a momentous encounter with the West. Register Now About NOMA’s Book Club NOMA’s book club is an informal group open to anyone on a month-to-month basis. You do not have to attend every meeting or read every book to participate. In addition to monthly book discussio",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "7c197105dce6ce354e458ae45ddf@global-arts-culture": {
       "source": "noma",
@@ -13752,7 +13956,7 @@
       "url": "https://noma.org/event/art-thrives-photography-2026/2026-10-15/",
       "description": "Art Thrives invites participants ages 55 and above to an eight-week course led by local photographer biseat yawkal. Participants will be inspired by NOMA’s permanent collection, as well as works on view in the upcoming exhibition Confluence: The Tina Freeman Collection of Photographs . They will learn how to operate a camera, use peer review to gain more skills in photography, as well as how to mat and frame their photographs. Students will also draw inspiration from the natural life found in the Besthoff Sculpture Garden to inform their practice. Please note: Having your own personal camera is not a requirement for workshop participation. However, participants who have their own camera are ",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d76a0635e93c6ded3ea174eb3b84@global-arts-culture": {
       "source": "noma",
@@ -13769,7 +13973,7 @@
       "url": "https://noma.org/event/fall-supper-club-2026/",
       "description": "Join us for the Salon Supper Club Presented by First Horizon Bank, a food- and art-focused series of events inspired by works on view at the New Orleans Museum of Art. This fall’s Salon Supper Club, themed “Journey Through the Seasons,” will take inspiration from the upcoming exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection . Guests will enjoy an elegant seated dinner with wine and cocktails in NOMA’s Great Hall (limited to 150 guests), along with live musical entertainment. Event Chairs | Lindsay and Pete Falconer, Amy and Garrison Neill NOMA Volunteer Committee Chair | Jennifer Rowland Your support of the Salon Supper Club series provides critical resourc",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "51ed21722e2defb137633aa86bf0@global-arts-culture": {
       "source": "matadero-madrid",
@@ -13786,7 +13990,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/tribute-filmmaker-eugenia-balcells",
       "description": "Programa: Fuga (1979, 20') Con este trabajo, la artista Eugènia Balcells nos introduce en una interesante reflexión en torno a la relación entre la imagen, el espacio y el tiempo. Para ello se sirve de un artificio técnico, una cámara Bolex manual que permite adelantar y retrasar la película según un guion de espacios y tiempos precisos. De esta forma, situando la cámara en un punto fijo en el centro de un espacio (un interior), hace que esta vaya girando siempre a la misma altura del suelo para filmar los 360º del espacio, dividido en 12 secciones, como en la esfera de un reloj. Indian Circle (1981, 26') Una vídeo -performance que registra la acción que ejecutó el músico Peter Van Riper den",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f44bee7c83c1a2b4f7029601c9d8@global-arts-culture": {
       "source": "cccb",
@@ -13803,7 +14007,7 @@
       "url": "https://www.cccb.org/en/w/activities/2026-european-prize-for-urban-public-space-award-ceremony",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "56e19d1457ab7532b009c149c365@global-arts-culture": {
       "source": "cccb",
@@ -13820,7 +14024,7 @@
       "url": "https://www.cccb.org/en/w/activities/challenging-the-far-rights-narrative",
       "description": "Youssef M. Ouled, Montse Santolino and Miquel Ramos",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e7a648ec706d4e16b855a5f17092@global-arts-culture": {
       "source": "cccb",
@@ -13837,7 +14041,7 @@
       "url": "https://www.cccb.org/en/w/activities/rafael-moneo-and-carmen-diez",
       "description": "Building from the City",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0879e7652246da813cbff7ad164c@global-arts-culture": {
       "source": "cccb",
@@ -13854,7 +14058,7 @@
       "url": "https://www.cccb.org/en/w/activities/berger-sontag-between-self-and-system",
       "description": "Dramatised reading by Héctor Mellinas and Chantal Aimée",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a48e6a194a368c76ecc094c9f23f@global-arts-culture": {
       "source": "inbal",
@@ -13871,7 +14075,7 @@
       "url": "https://inba.gob.mx/actividad/18496/ballet-folklorico-de-mexico-de-amalia-hernandez",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d46284435d654d7ac144d551c4f3@global-arts-culture": {
       "source": "inbal",
@@ -13888,7 +14092,7 @@
       "url": "https://inba.gob.mx/actividad/18536/a-pesar-del-tiempo-sones-de-carnaval-en-el-violin-huasteco-de-fidencio-ramirez-sanchez",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b135f0e721ff49f1764efb204d8b@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13905,7 +14109,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 14
+      "missing_runs": 15
     },
     "f9abb91d288be2f693f734e39124@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13922,7 +14126,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 14
+      "missing_runs": 15
     },
     "ce270308939de2c9fcda6ca06fa2@global-arts-culture": {
       "source": "redcat",
