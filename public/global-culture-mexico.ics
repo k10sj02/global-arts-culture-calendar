@@ -10,7 +10,7 @@ SUMMARY:A pesar del tiempo. Sones de carnaval en el violn huasteco de Fide
  ncio Ramrez Snchez - Presentacin del libro de la etnomusicloga Raquel Para
  so — Mexico City
 DTSTART;TZID="UTC-06:00":20261015T170000
-DTSTAMP:20261016T112948Z
+DTSTAMP:20261016T164312Z
 UID:d46284435d654d7ac144d551c4f3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Ballet Folklrico de Mxico de Amalia Hernndez - con Banda Filarmnic
  a Municipal de San Pedro y San Pablo Mixe — Mexico City
 DTSTART;TZID="UTC-06:00":20261015T203000
-DTSTAMP:20261016T112948Z
+DTSTAMP:20261016T164312Z
 UID:a48e6a194a368c76ecc094c9f23f@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:David Maldonado Islas\, violonchelo  Manuel Gonzlez\, piano - Msic
  a INBAL — Mexico City
 DTSTART;TZID="UTC-06:00":20261016T180000
-DTSTAMP:20261016T112948Z
+DTSTAMP:20261016T164312Z
 UID:33ce83505417c731f791ec8bb9ce@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -66,9 +66,26 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Castel - Vctor Manuel Ruz — Mexico City
+DTSTART;TZID="UTC-06:00":20261016T190000
+DTSTAMP:20261016T164312Z
+UID:f65781663e1fe5aaac0ab726e5af@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18576/castel
+LOCATION:Jardín Escénico - Laboratorio de creación Av. Paseo de la Refo
+ rma 111\, Bosque de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín 
+ Escénico - Laboratorio de creación Av. Paseo de la Reforma 111\, Bosque 
+ de Chapultepec I Secc\, Miguel Hidalgo\, 11580 Ciudad de México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18576/castel
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lela Ka (Francia) - Maldonne — Mexico City
 DTSTART;TZID="UTC-06:00":20261016T200000
-DTSTAMP:20261016T112948Z
+DTSTAMP:20261016T164312Z
 UID:a03a3ed1fc6fc7674b287a649902@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -84,9 +101,45 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Castel - Vctor Manuel Ruz — Mexico City
+DTSTART;TZID="UTC-06:00":20261017T180000
+DTSTAMP:20261016T164312Z
+UID:5223fba3905cb2e95ce3bf67ffb0@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18576/castel
+LOCATION:Jardín Escénico - Laboratorio de creación Av. Paseo de la Refo
+ rma 111\, Bosque de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín 
+ Escénico - Laboratorio de creación Av. Paseo de la Reforma 111\, Bosque 
+ de Chapultepec I Secc\, Miguel Hidalgo\, 11580 Ciudad de México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18576/castel
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Touch me\, feed me shut\, me down / Es de todo\; nada lo define - 
+ Funcin compartida — Mexico City
+DTSTART;TZID="UTC-06:00":20261017T180000
+DTSTAMP:20261016T164312Z
+UID:47c1d6c5f29c22a331b55617b488@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18577/touch-me-feed-me-shut-me-down-es-de-todo-nada-lo-define
+LOCATION:Centro Cultural del Bosque (CCB) - Sala CCB Paseo de la Reforma y
+  Campo Marte s/n\, Paseo de la Reforma\, 11560\, Centro Cultural del Bosqu
+ e (CCB) - Sala CCB Paseo de la Reforma y Campo Marte s/n\, Paseo de la Ref
+ orma\, 11560 Ciudad de México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18577/touch-me-feed-me-shut-me-down-es-d
+ e-todo-nada-lo-define
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CEPROMUSIC - Aliqua — Mexico City
 DTSTART;TZID="UTC-06:00":20261017T190000
-DTSTAMP:20261016T112948Z
+DTSTAMP:20261016T164312Z
 UID:f673c106b849299e04de64b4241e@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -104,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Compaa Antonio Gades (Espaa) - Carmen de Antonio Gades y Carlos Sa
  ura — Mexico City
 DTSTART;TZID="UTC-06:00":20261017T190000
-DTSTAMP:20261016T112948Z
+DTSTAMP:20261016T164312Z
 UID:84557e30051bc3e39ef74812fa28@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -119,9 +172,26 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Castel - Vctor Manuel Ruz — Mexico City
+DTSTART;TZID="UTC-06:00":20261018T170000
+DTSTAMP:20261016T164312Z
+UID:acebfd6f159423287c60323c66fd@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18576/castel
+LOCATION:Jardín Escénico - Laboratorio de creación Av. Paseo de la Refo
+ rma 111\, Bosque de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín 
+ Escénico - Laboratorio de creación Av. Paseo de la Reforma 111\, Bosque 
+ de Chapultepec I Secc\, Miguel Hidalgo\, 11580 Ciudad de México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18576/castel
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Programa 5 - Gala de 70 Aniversario — Mexico City
 DTSTART;TZID="UTC-06:00":20261018T170000
-DTSTAMP:20261016T112948Z
+DTSTAMP:20261016T164312Z
 UID:26d6ad33f7a93d2920b265e3017d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -136,10 +206,29 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Touch me\, feed me shut\, me down / Es de todo\; nada lo define - 
+ Funcin compartida — Mexico City
+DTSTART;TZID="UTC-06:00":20261018T170000
+DTSTAMP:20261016T164312Z
+UID:df3405b58a17210b3d09f6fa81ee@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18577/touch-me-feed-me-shut-me-down-es-de-todo-nada-lo-define
+LOCATION:Centro Cultural del Bosque (CCB) - Sala CCB Paseo de la Reforma y
+  Campo Marte s/n\, Paseo de la Reforma\, 11560\, Centro Cultural del Bosqu
+ e (CCB) - Sala CCB Paseo de la Reforma y Campo Marte s/n\, Paseo de la Ref
+ orma\, 11560 Ciudad de México\, CDMX
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18577/touch-me-feed-me-shut-me-down-es-d
+ e-todo-nada-lo-define
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Israel Torres\, Javier Noyola\, Carlos Rangel - Pasin tanguera —
   Mexico City
 DTSTART;TZID="UTC-06:00":20261018T180000
-DTSTAMP:20261016T112948Z
+DTSTAMP:20261016T164312Z
 UID:9c79bc3dfeda9abce441089871a8@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
