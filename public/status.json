@@ -1,19 +1,20 @@
 {
-  "generated": "2026-10-17T00:33:09.910679-04:00",
-  "count": 830,
-  "cancelled": 13,
+  "generated": "2026-10-17T06:50:03.710671-04:00",
+  "count": 814,
+  "cancelled": 60,
   "regions": {
     "us": 632,
-    "europe": 187,
-    "mexico": 11
+    "europe": 174,
+    "mexico": 8
   },
   "sources": {
     "poetry-project": 11,
     "brown-arts": 12,
     "chicago-humanities": 17,
     "harvard-film-archive": 47,
+    "gwu-arts": 75,
     "fringearts": 2,
-    "berkeley-arts": 11,
+    "berkeley-arts": 45,
     "northwest-film-forum": 110,
     "artsatl": 266,
     "noma": 20,
@@ -25,7 +26,6 @@
     "inbal": 8
   },
   "errors": {
-    "gwu-arts": "The read operation timed out",
     "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   }
 }
