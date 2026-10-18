@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-18T11:55:10.245548-04:00",
-  "count": 795,
-  "cancelled": 67,
+  "generated": "2026-10-18T16:48:45.051561-04:00",
+  "count": 797,
+  "cancelled": 65,
   "regions": {
-    "us": 617,
+    "us": 619,
     "europe": 169,
     "mexico": 9
   },
@@ -16,7 +16,6 @@
     "fringearts": 2,
     "berkeley-arts": 35,
     "northwest-film-forum": 107,
-    "artsatl": 262,
     "noma": 20,
     "cac-new-orleans": 4,
     "ica-london": 4,
@@ -26,6 +25,7 @@
     "inbal": 9
   },
   "errors": {
-    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "artsatl": "Client error '429 Too Many Requests' for url 'https://www.artsatl.org/wp-json/tribe/events/v1/events?per_page=50&page=12&start_date=2026-10-18&end_date=2027-10-18'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
   }
 }
