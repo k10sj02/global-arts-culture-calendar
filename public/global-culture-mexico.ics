@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 SUMMARY:Castel - Vctor Manuel Ruz — Mexico City
 DTSTART;TZID="UTC-06:00":20261017T180000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:5223fba3905cb2e95ce3bf67ffb0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -17,7 +17,7 @@ LOCATION:Jardín Escénico - Laboratorio de creación Av. Paseo de la Refo
  rma 111\, Bosque de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín 
  Escénico - Laboratorio de creación Av. Paseo de la Reforma 111\, Bosque 
  de Chapultepec I Secc\, Miguel Hidalgo\, 11580 Ciudad de México\, CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18576/castel
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cihuameh - Colectiva Arte Escena (Len\, Gto.) — Mexico City
 DTSTART;TZID="UTC-06:00":20261017T180000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:88e5dd9cdb49aa54d3ead801b648@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -34,7 +34,7 @@ LOCATION:Jardín Escénico - Pabellón Av. Paseo de la Reforma 111\, Bosqu
  e de Chapultepec I Secc\, Miguel Hidalgo\, 11580\, Jardín Escénico - Pab
  ellón Av. Paseo de la Reforma 111\, Bosque de Chapultepec I Secc\, Miguel
   Hidalgo\, 11580 Ciudad de México\, CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18575/cihuameh
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Touch me\, feed me shut\, me down / Es de todo\; nada lo define - 
  Funcin compartida — Mexico City
 DTSTART;TZID="UTC-06:00":20261017T180000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:47c1d6c5f29c22a331b55617b488@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -52,7 +52,7 @@ LOCATION:Centro Cultural del Bosque (CCB) - Sala CCB Paseo de la Reforma y
   Campo Marte s/n\, Paseo de la Reforma\, 11560\, Centro Cultural del Bosqu
  e (CCB) - Sala CCB Paseo de la Reforma y Campo Marte s/n\, Paseo de la Ref
  orma\, 11560 Ciudad de México\, CDMX
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18577/touch-me-feed-me-shut-me-down-es-d
  e-todo-nada-lo-define
 X-GLOBAL-CULTURE-REGION:mexico
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CEPROMUSIC - Aliqua — Mexico City
 DTSTART;TZID="UTC-06:00":20261017T190000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:f673c106b849299e04de64b4241e@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -70,7 +70,7 @@ LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1
  Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
  uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
  d de México\, C.P. 06050
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18524/cepromusic
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Compaa Antonio Gades (Espaa) - Carmen de Antonio Gades y Carlos Sa
  ura — Mexico City
 DTSTART;TZID="UTC-06:00":20261017T190000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:84557e30051bc3e39ef74812fa28@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -88,7 +88,7 @@ LOCATION:Palacio de Bellas Artes - Sala Principal Av. Hidalgo No. 1 Col. C
  entro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Principal
   Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciudad de México
  \, C.P. 06050
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://inba.gob.mx/actividad/18129/compania-antonio-gades-espana
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castel - Vctor Manuel Ruz — Mexico City
 DTSTART;TZID="UTC-06:00":20261018T170000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:acebfd6f159423287c60323c66fd@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cihuameh - Colectiva Arte Escena (Len\, Gto.) — Mexico City
 DTSTART;TZID="UTC-06:00":20261018T170000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:a573f663c656ceee76651c7d8746@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programa 5 - Gala de 70 Aniversario — Mexico City
 DTSTART;TZID="UTC-06:00":20261018T170000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:26d6ad33f7a93d2920b265e3017d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Touch me\, feed me shut\, me down / Es de todo\; nada lo define - 
  Funcin compartida — Mexico City
 DTSTART;TZID="UTC-06:00":20261018T170000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:df3405b58a17210b3d09f6fa81ee@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Israel Torres\, Javier Noyola\, Carlos Rangel - Pasin tanguera —
   Mexico City
 DTSTART;TZID="UTC-06:00":20261018T180000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:9c79bc3dfeda9abce441089871a8@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:El ensayo como epistemologa - Conferencia del Mtro. Benjamn Jurez 
  Echenique — Mexico City
 DTSTART;TZID="UTC-06:00":20261019T120000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:57b2b7f6a2689e8ad86e1c692ff3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:Recital de piano - Ctedra de la maestra Isolda Henrquez — Mexico
   City
 DTSTART;TZID="UTC-06:00":20261019T120000
-DTSTAMP:20261018T043904Z
+DTSTAMP:20261018T111303Z
 UID:d78267dabbcf74c37c1a4ecefd67@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
