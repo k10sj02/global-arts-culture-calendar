@@ -1,31 +1,31 @@
 {
-  "generated": "2026-10-17T16:39:42.298907-04:00",
-  "count": 812,
-  "cancelled": 68,
+  "generated": "2026-10-18T00:39:04.980086-04:00",
+  "count": 846,
+  "cancelled": 5,
   "regions": {
-    "us": 626,
-    "europe": 174,
+    "us": 656,
+    "europe": 178,
     "mexico": 12
   },
   "sources": {
-    "poetry-project": 11,
-    "brown-arts": 12,
-    "chicago-humanities": 17,
-    "harvard-film-archive": 47,
-    "gwu-arts": 75,
+    "brown-arts": 11,
+    "chicago-humanities": 16,
+    "gwu-arts": 86,
     "fringearts": 2,
-    "berkeley-arts": 45,
-    "northwest-film-forum": 110,
+    "berkeley-arts": 28,
+    "northwest-film-forum": 107,
+    "artsatl": 262,
     "noma": 20,
     "cac-new-orleans": 4,
     "ica-london": 4,
-    "matadero-madrid": 31,
-    "cccb": 101,
-    "silent-green": 38,
-    "inbal": 12
+    "matadero-madrid": 33,
+    "silent-green": 36,
+    "inbal": 7
   },
   "errors": {
+    "poetry-project": "timed out",
+    "harvard-film-archive": "timed out",
     "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-    "artsatl": "Client error '429 Too Many Requests' for url 'https://www.artsatl.org/wp-json/tribe/events/v1/events?per_page=50&page=5&start_date=2026-10-17&end_date=2027-10-17'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    "cccb": "The read operation timed out"
   }
 }
