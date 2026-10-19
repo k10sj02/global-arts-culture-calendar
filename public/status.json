@@ -1,31 +1,31 @@
 {
-  "generated": "2026-10-18T16:48:45.051561-04:00",
-  "count": 797,
-  "cancelled": 65,
+  "generated": "2026-10-19T00:46:47.888809-04:00",
+  "count": 800,
+  "cancelled": 10,
   "regions": {
-    "us": 619,
+    "us": 622,
     "europe": 169,
     "mexico": 9
   },
   "sources": {
     "poetry-project": 11,
-    "brown-arts": 11,
+    "brown-arts": 12,
     "chicago-humanities": 16,
-    "harvard-film-archive": 46,
-    "gwu-arts": 84,
+    "harvard-film-archive": 44,
+    "gwu-arts": 86,
     "fringearts": 2,
-    "berkeley-arts": 35,
-    "northwest-film-forum": 107,
+    "berkeley-arts": 11,
+    "northwest-film-forum": 103,
     "noma": 20,
     "cac-new-orleans": 4,
     "ica-london": 4,
-    "matadero-madrid": 33,
-    "cccb": 96,
-    "silent-green": 36,
-    "inbal": 9
+    "matadero-madrid": 31,
+    "cccb": 91,
+    "silent-green": 35,
+    "inbal": 4
   },
   "errors": {
     "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-    "artsatl": "Client error '429 Too Many Requests' for url 'https://www.artsatl.org/wp-json/tribe/events/v1/events?per_page=50&page=12&start_date=2026-10-18&end_date=2027-10-18'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+    "artsatl": "Client error '429 Too Many Requests' for url 'https://www.artsatl.org/wp-json/tribe/events/v1/events?per_page=50&page=1&start_date=2026-10-19&end_date=2027-10-19'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
   }
 }
