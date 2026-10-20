@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-20T07:44:13.658387-04:00",
-  "count": 773,
-  "cancelled": 85,
+  "generated": "2026-10-20T13:13:27.927129-04:00",
+  "count": 775,
+  "cancelled": 88,
   "regions": {
-    "us": 577,
-    "europe": 185,
-    "mexico": 11
+    "us": 576,
+    "europe": 187,
+    "mexico": 12
   },
   "sources": {
     "poetry-project": 10,
@@ -16,16 +16,16 @@
     "fringearts": 1,
     "berkeley-arts": 14,
     "northwest-film-forum": 110,
-    "artsatl": 234,
     "noma": 20,
     "cac-new-orleans": 4,
     "ica-london": 4,
     "matadero-madrid": 62,
     "cccb": 97,
-    "silent-green": 35,
-    "inbal": 11
+    "silent-green": 38,
+    "inbal": 12
   },
   "errors": {
-    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "artsatl": "Client error '403 Forbidden' for url 'https://www.artsatl.org/wp-json/tribe/events/v1/events?per_page=50&page=2&start_date=2026-10-20&end_date=2027-10-20'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   }
 }
