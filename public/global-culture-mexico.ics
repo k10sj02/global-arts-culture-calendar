@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Cartografa de una constelacin - Conferencia del maestro Benjamn Ju
  rez Echenique — Mexico City
 DTSTART;TZID="UTC-06:00":20261020T120000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:1e3b9ba65693715a03263dc0cf0a@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Msica mexicana para clarinete y piano. - Presentacin del disco —
   Mexico City
 DTSTART;TZID="UTC-06:00":20261020T150000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:398ad90daa9bd503adc376174aa7@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Martha Graham 100 aos. - La danza que transform el siglo XX - Comp
  aa de Danza Martha Graham — Mexico City
 DTSTART;TZID="UTC-06:00":20261020T160000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:43ca13068d4cf7b5f1cb2259d596@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -64,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Reorganizar el movimiento: una introduccin a la Tcnica Alexander p
  ara bailarines - Charla de Pablo Buniak — Mexico City
 DTSTART;TZID="UTC-06:00":20261020T160000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:ba5cc8e69e2cd82a68d0dc1fe851@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Dab Dance Project (Corea del Sur) - >"hello world"\; — Mexico Ci
  ty
 DTSTART;TZID="UTC-06:00":20261020T200000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:4c6ef8b176a5e2cf7ff1978d5b16@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Martha Graham 100 aos. - La danza que transform el siglo XX  - Com
  paa de Danza Martha Graham — Mexico City
 DTSTART;TZID="UTC-06:00":20261020T200000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:0699c80347586e63d0697f8a0f25@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ctedra Jos Ramn Alcntara Meja 2026 - Da 1 — Mexico City
 DTSTART;TZID="UTC-06:00":20261021T100000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:158ca0d575e42ac4b85d9d0f4cac@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Anlisis de "D'Colonial californiano" y Revolucin diamantina - Conf
  erencia del maestro Benjamn Jurez Echenique — Mexico City
 DTSTART;TZID="UTC-06:00":20261021T120000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:a05bb47413cd6f3756fe382da878@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Literatura\, periodismo y ficcin: Dilogo con Santiago Roncagliolo 
  - Coordinacin Nacional de Literatura — Mexico City
 DTSTART;TZID="UTC-06:00":20261021T180000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:637c50fedacf326256573239154b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -177,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ctedra Jos Ramn Alcntara Meja 2026 - Da 2 — Mexico City
 DTSTART;TZID="UTC-06:00":20261022T100000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:c05970c917c8042dc6f8ba1f9182@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:El futuro del saber musical - Conferencia del maestro Benjamn Jure
  z Echenique — Mexico City
 DTSTART;TZID="UTC-06:00":20261022T120000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:0d756159c8a39b6f70c2cdb2da04@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -211,10 +211,46 @@ X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crear\, transmitir\, transformar: el msico mexicano ante los desaf
+ o del siglo XXI - Mesa redonda — Mexico City
+DTSTART;TZID="UTC-06:00":20261023T120000
+DTSTAMP:20261021T171616Z
+UID:b58f1f2fed0f21be881e1817905f@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18452/crear-transmitir-transformar-el-musico-mexicano-ante-los-desafio-d
+ el-siglo-xxi
+LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
+  Consulta link en "Programa"
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18452/crear-transmitir-transformar-el-mu
+ sico-mexicano-ante-los-desafio-del-siglo-xxi
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proyeccin del estreno en Mxico de Revolucin Diamantina de Gabriela
+  Ortiz - Concierto de clausura — Mexico City
+DTSTART;TZID="UTC-06:00":20261023T140000
+DTSTAMP:20261021T171616Z
+UID:61f2a095459c5d6a31801877659b@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18590/proyeccion-del-estreno-en-mexico-de-revolucion-diamantina-de-gabri
+ ela-ortiz
+LOCATION:Actividad Virtual Consulta link en "Programa"\, Actividad Virtual
+  Consulta link en "Programa"
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18590/proyeccion-del-estreno-en-mexico-d
+ e-revolucion-diamantina-de-gabriela-ortiz
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Daniel Olmos\, guitarra - Ocho dcadas de msica.  Concertistas de B
  ellas Artes — Mexico City
 DTSTART;TZID="UTC-06:00":20261023T180000
-DTSTAMP:20261021T115559Z
+DTSTAMP:20261021T171616Z
 UID:a40d4332c57d0fc4cfc381fd155d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -225,6 +261,59 @@ LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1
  d de México\, C.P. 06050
 STATUS:CONFIRMED
 URL:https://inba.gob.mx/actividad/18503/daniel-olmos-guitarra
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ensamble de flautas  - Concierto — Mexico City
+DTSTART;TZID="UTC-06:00":20261024T160000
+DTSTAMP:20261021T171616Z
+UID:25ea4659a612853ac04514b90721@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18544/ensamble-de-flautas-
+LOCATION:Escuela Superior de Música y Danza de Monterrey Padre Mier Núme
+ ro 1720\, Colonia Obispado\, Monterrey\, Nuevo León. C.P. 64060\, Escuela
+  Superior de Música y Danza de Monterrey Padre Mier Número 1720\, Coloni
+ a Obispado\, Monterrey\, Nuevo León. C.P. 64060
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18544/ensamble-de-flautas-
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lidia Guerberof Hahn\, clavecn - Compositores espaoles.  Catalua\,
+  Andaluca\, Pas Vasco\, Navarra\, Aragn\, Castilla — Mexico City
+DTSTART;TZID="UTC-06:00":20261024T180000
+DTSTAMP:20261021T171616Z
+UID:a2f1fcc614dfafa955563c1bdad7@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18504/lidia-guerberof-hahn-clavecin
+LOCATION:Palacio de Bellas Artes - Sala Manuel M. Ponce Av. Hidalgo No. 1 
+ Col. Centro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Man
+ uel M. Ponce Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciuda
+ d de México\, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18504/lidia-guerberof-hahn-clavecin
+X-GLOBAL-CULTURE-REGION:mexico
+X-GLOBAL-CULTURE-SOURCE:inbal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orquesta Sinfnica de Yucatn  - Alfonso Scarano\, director artstico
+  — Mexico City
+DTSTART;TZID="UTC-06:00":20261024T190000
+DTSTAMP:20261021T171616Z
+UID:2fc4eadce554f30f38d8ee1c09a1@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
+DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
+ d/18481/orquesta-sinfonica-de-yucatan-
+LOCATION:Palacio de Bellas Artes - Sala Principal Av. Hidalgo No. 1 Col. C
+ entro\, Alcaldía Cuauhtémoc\,\, Palacio de Bellas Artes - Sala Principal
+  Av. Hidalgo No. 1 Col. Centro\, Alcaldía Cuauhtémoc\, Ciudad de México
+ \, C.P. 06050
+STATUS:CONFIRMED
+URL:https://inba.gob.mx/actividad/18481/orquesta-sinfonica-de-yucatan-
 X-GLOBAL-CULTURE-REGION:mexico
 X-GLOBAL-CULTURE-SOURCE:inbal
 END:VEVENT

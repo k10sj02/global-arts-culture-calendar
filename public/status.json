@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-21T07:55:59.167843-04:00",
-  "count": 802,
-  "cancelled": 91,
+  "generated": "2026-10-21T13:16:16.608333-04:00",
+  "count": 795,
+  "cancelled": 103,
   "regions": {
-    "us": 610,
-    "europe": 186,
-    "mexico": 6
+    "us": 599,
+    "europe": 185,
+    "mexico": 11
   },
   "sources": {
     "poetry-project": 10,
@@ -17,15 +17,15 @@
     "berkeley-arts": 14,
     "northwest-film-forum": 130,
     "artsatl": 232,
-    "noma": 19,
     "cac-new-orleans": 4,
     "ica-london": 4,
     "matadero-madrid": 60,
     "cccb": 96,
-    "silent-green": 39,
-    "inbal": 6
+    "inbal": 11
   },
   "errors": {
-    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "noma": "The read operation timed out",
+    "silent-green": "timed out"
   }
 }
