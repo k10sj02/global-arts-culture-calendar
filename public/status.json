@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T13:16:16.608333-04:00",
+  "generated": "2026-10-21T17:46:19.047412-04:00",
   "count": 795,
   "cancelled": 103,
   "regions": {
@@ -12,20 +12,20 @@
     "brown-arts": 14,
     "chicago-humanities": 16,
     "harvard-film-archive": 43,
-    "gwu-arts": 92,
+    "gwu-arts": 91,
     "fringearts": 1,
     "berkeley-arts": 14,
     "northwest-film-forum": 130,
     "artsatl": 232,
+    "noma": 19,
     "cac-new-orleans": 4,
     "ica-london": 4,
     "matadero-madrid": 60,
     "cccb": 96,
+    "silent-green": 39,
     "inbal": 11
   },
   "errors": {
-    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-    "noma": "The read operation timed out",
-    "silent-green": "timed out"
+    "redcat": "Client error '403 Forbidden' for url 'https://www.redcat.org/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   }
 }
