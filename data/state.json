@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T07:58:33.846849-04:00",
+  "updated": "2026-10-22T13:14:30.326874-04:00",
   "events": {
     "e3c5e2a7176dc3a63b695430521a@global-arts-culture": {
       "source": "poetry-project",
@@ -1854,6 +1854,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "caa250e2e9971638322ee13dc7e3@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54311407545073-2026-10-27T14:00:00-04:00",
+      "title": "2026 Geiger Gibson Distinguished Visitor Presentation",
+      "start": "2026-10-27T14:00:00-04:00",
+      "end": "2026-10-27T15:00:00-04:00",
+      "venue": "Milken Institute School of Public Health Building",
+      "address": "950 New Hampshire Avenue NW, Washington DC 20052",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Academic",
+      "url": "https://calendar.gwu.edu/event/2026-geiger-gibson-distinguished-visitor-presentation",
+      "description": "Please join the Geiger Gibson Program in Community Health for its 2026 Distinguished Visitor Presentation featuring  Dr. James Hotz, Clinical Services Director and Co-Founder, Albany Area Primary Health Care (AAPHC)  in Albany, GA. Dr. Hotz's talk is titled “ Where Remedies Lie: Reflections of a Community Health Center Clinician Leader and Advocate.\"  His presentation will also include a screening of the new award-winning documentary short film “Doc Albany” (2025), which tells the story of AAPHC's founding.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "e30bd94599da84aef267e8913c67@global-arts-culture": {
       "source": "gwu-arts",
       "source_id": "54003125099448-2026-10-27T16:10:00-04:00",
@@ -2072,6 +2089,23 @@
       "category": "Arts & Culture",
       "url": "https://calendar.gwu.edu/event/research-practice-fall-2026",
       "description": "The creative practitioners presenting at this semester’s GWU Corcoran “Research + Practice” event series build on a project in bringing together the arts and design in dialogue. The GWU Corcoran learning community and the artists and designers of the DC region recognize a shared purpose in elevating the culture-shaping work(s) of diverse and free expression. The “Research + Practice” happenings are a supportive platform for connecting ideas and people across the creative fields; they encourage interdisciplinary exchange as a vital ingredient in advancing both arts-design scholarship and the arts and design in society. All events will be Wednesday nights, 6:30pm-8:00pm 9/23/2026: Jomo Tariku ",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f6a03a412b53d36ef9d1707ab04a@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54294616560509-2026-10-28T19:30:00-04:00",
+      "title": "Accelerating Authoritarianism:  Defending the Constitution Ahead of the Midterms",
+      "start": "2026-10-28T19:30:00-04:00",
+      "end": null,
+      "venue": "Elliott School of International Affairs",
+      "address": "Washington, DC",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Lectures & Speakers",
+      "url": "https://calendar.gwu.edu/event/accelerating-authoritarianism-defending-the-constitution-ahead-of-the-midterms",
+      "description": "Authoritarianism Is Accelerating. The Midterms Are Coming. Here’s What You Can Do. Steven Cash, Executive Director of The Steady State Project, joins George Washington University Democracy Matters to discuss how to protect American democracy before the upcoming midterm elections. Authoritarianism in American government is accelerating, and the upcoming midterm elections may be one of the most important opportunities to push back. In this conversation, Steven Cash, the Executive Director of The Steady State, will explain what is at stake and what students and community members can do in the weeks leading up to Election Day. Whether you are already politically active or just starting to pay at",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2534,6 +2568,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "b8ab767a80046d2582a245816a76@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54310867641160-2026-11-02T12:00:00-05:00",
+      "title": "Richey Fellow Event: Human and Civil Rights Law at the Local, Regional, National, and International Levels",
+      "start": "2026-11-02T12:00:00-05:00",
+      "end": "2026-11-02T13:00:00-05:00",
+      "venue": "Law School",
+      "address": "2000 H St NW, Washington DC 20052",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Lectures & Speakers",
+      "url": "https://calendar.gwu.edu/event/richey-fellow-event-human-and-civil-rights-law-at-the-local-regional-national-and-international-levels",
+      "description": "Join the GW Law Public Interest and Public Service Center for a Fireside Chat on \"Human and Civil Rights Law at the Local, Regional, National, and International Levels\" with our visiting Richey Fellow, Joanne Lin, Executive Director for the Washington Lawyers’ Committee for Civil Rights and Urban Affairs. You can read her full bio on the Richey Fellows webpage. Register for the Event Here",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "1468d4ee9c14c42485ff9a602035@global-arts-culture": {
       "source": "gwu-arts",
       "source_id": "54292886075505-2026-11-02T13:00:00-05:00",
@@ -2752,40 +2803,6 @@
       "category": "Arts & Culture",
       "url": "https://calendar.gwu.edu/event/cracks-reforms-the-1920s-through-the-gw-collection",
       "description": "The 1920s emerged as a decade suspended between collapse and reconstruction, an era marked by “cracks and reforms” that ushered in a profound reconfiguration of the visual world.  During this period marked by civil transformation and political upheaval, artists, journalists, and makers had opportunities to reconstruct both individual and collective identities. A century later, Cracks & Reforms presents a distinct cross-section of this period, revealing global currents of migration, modernization, and cultural redefinition through the lens of the GW Collection. Students led by Associate Professor Bibiana Obler selected works to study and exhibit, their research eventually leading to unified t",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "6b5a2a1d1c5b33ef3db4a055a48f@global-arts-culture": {
-      "source": "gwu-arts",
-      "source_id": "53815570214257-2026-11-04T13:00:00-05:00",
-      "title": "Unfossilizing African Art",
-      "start": "2026-11-04T13:00:00-05:00",
-      "end": "2026-11-04T17:00:00-05:00",
-      "venue": "Flagg Building",
-      "address": "500 17th Street NW, Washington DC 20006",
-      "city": "Washington, DC",
-      "country": "United States",
-      "region": "us",
-      "category": "Arts & Culture",
-      "url": "https://calendar.gwu.edu/event/unfossilizing-african-art",
-      "description": "Presented after extensive research, this exhibition recontextualizes African material culture objects held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students from four seminar courses offered between Fall 2024 and Spring 2026, conducted original research to deepen understanding of the university’s holdings and update how we interpret and exhibit these objects. The exhibition features 37 tangible heritage objects, ranging from an Egúngún Paaka from Yorubaland to a Kii [brass pipe], attributed to the Baumum people of Cameroon, accompanied by images and video that illuminate their rich histories. Research on the entire collection is presented in an ",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "7676a73c4e8fbb35fb9517885a36@global-arts-culture": {
-      "source": "gwu-arts",
-      "source_id": "54294921217399-2026-11-04T16:00:00-05:00",
-      "title": "Demo-ing, Sampling, Lip-Syncing: Commercial Misogynoir in Post-Disco EDM",
-      "start": "2026-11-04T16:00:00-05:00",
-      "end": "2026-11-04T17:00:00-05:00",
-      "venue": "Rome Hall (Academic Center)",
-      "address": "801 22nd Street NW",
-      "city": "Washington, DC",
-      "country": "United States",
-      "region": "us",
-      "category": "Academic",
-      "url": "https://calendar.gwu.edu/event/demo-ing-sampling-lip-syncing-commercial-misogynoir-in-post-disco-edm",
-      "description": "Join the Women's, Gender, and Sexuality Studies (WGSS) Program for an exciting talk from Visiting Assistant Professor Eva Pensis! Across the late twentieth century, the popular music industry faced a series of scandals in live performance with the widespread use of lip-syncing. Following the advent of recorded sound, the commercial use of lip-sync in the popular music industry sought to divide the recorded performance from the performer with the aim of controlling both, most often eliding the visual presence of African American musicians while profiting from their sonic contributions. Framed by the media theorist Moya Bailey's concept of \"misogynoir,\" this presentation considers the case of ",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -10881,23 +10898,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "7e74e874d8daa4567b76d9dac424@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/the-world-to-come-2026-11-10T18:30:00+01:00",
-      "title": "The World to Come",
-      "start": "2026-11-10T18:30:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/the-world-to-come",
-      "description": "Arundhati Roy in conversation with Laila Lalami and Pankaj Mishra",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "67d7fdce72165f6bdb1b1f42baef@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada-2026-11-10T18:30:00+01:00",
@@ -10912,6 +10912,23 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada",
       "description": "La paraula al cinema experimental",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7e74e874d8daa4567b76d9dac424@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/the-world-to-come-2026-11-10T18:30:00+01:00",
+      "title": "The World to Come",
+      "start": "2026-11-10T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/the-world-to-come",
+      "description": "Arundhati Roy in conversation with Laila Lalami and Pankaj Mishra",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -12547,6 +12564,40 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "6b5a2a1d1c5b33ef3db4a055a48f@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "53815570214257-2026-11-04T13:00:00-05:00",
+      "title": "Unfossilizing African Art",
+      "start": "2026-11-04T13:00:00-05:00",
+      "end": "2026-11-04T17:00:00-05:00",
+      "venue": "Flagg Building",
+      "address": "500 17th Street NW, Washington DC 20006",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Arts & Culture",
+      "url": "https://calendar.gwu.edu/event/unfossilizing-african-art",
+      "description": "Presented after extensive research, this exhibition recontextualizes African material culture objects held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students from four seminar courses offered between Fall 2024 and Spring 2026, conducted original research to deepen understanding of the university’s holdings and update how we interpret and exhibit these objects. The exhibition features 37 tangible heritage objects, ranging from an Egúngún Paaka from Yorubaland to a Kii [brass pipe], attributed to the Baumum people of Cameroon, accompanied by images and video that illuminate their rich histories. Research on the entire collection is presented in an ",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "7676a73c4e8fbb35fb9517885a36@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54294921217399-2026-11-04T16:00:00-05:00",
+      "title": "Demo-ing, Sampling, Lip-Syncing: Commercial Misogynoir in Post-Disco EDM",
+      "start": "2026-11-04T16:00:00-05:00",
+      "end": "2026-11-04T17:00:00-05:00",
+      "venue": "Rome Hall (Academic Center)",
+      "address": "801 22nd Street NW",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Academic",
+      "url": "https://calendar.gwu.edu/event/demo-ing-sampling-lip-syncing-commercial-misogynoir-in-post-disco-edm",
+      "description": "Join the Women's, Gender, and Sexuality Studies (WGSS) Program for an exciting talk from Visiting Assistant Professor Eva Pensis! Across the late twentieth century, the popular music industry faced a series of scandals in live performance with the widespread use of lip-syncing. Following the advent of recorded sound, the commercial use of lip-sync in the popular music industry sought to divide the recorded performance from the performer with the aim of controlling both, most often eliding the visual presence of African American musicians while profiting from their sonic contributions. Framed by the media theorist Moya Bailey's concept of \"misogynoir,\" this presentation considers the case of ",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "cbad58493bc2c4fc709e925241fd@global-arts-culture": {
       "source": "brown-arts",
       "source_id": "339659-2026-10-23T09:00:00-04:00",
@@ -12561,8 +12612,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/joukowsky-archaeology/event/divineafterlife",
       "description": "This exhibit of photographs by Brown alumnus and current Brown Medical student Akshay Amesur, presented at the Joukowsky Institute of Archaeology and the Ancient World at Brown University, features a curated collection of images exploring funerary and religious practices in ancient Egypt. Drawing on visual documentation of tombs, temples, and ritual spaces, the exhibit offers glimpses into how ancient Egyptians understood death, the afterlife, and the divine.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "3afd2bffe296ec4f9ac163e249d6@global-arts-culture": {
       "source": "gwu-arts",
@@ -12578,8 +12629,8 @@
       "category": "Arts & Culture",
       "url": "https://calendar.gwu.edu/event/a-gift-in-motion",
       "description": "A multidisciplinary showcase from the artists and scholars of the full-time faculty and staff at the Corcoran School of the Arts & Design. A Gift In Motion loosely draws from Robin Wall Kimmerer’s book The Serviceberry which uplifts Indigenous frameworks of the natural world to advance the possibilities in collectivity, reciprocity, and the mindset of abundance. These are anti-capitalist models and theories that provide insight into the systems of power we negotiate, but also offer a lens on how we individually move through our daily lives—together—through historically fraught landscapes. A keen reminder that working with, for, and because of each other remains the most human motivation, eve",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b58f0eac1de52896cc4249239921@global-arts-culture": {
       "source": "gwu-arts",
@@ -12595,8 +12646,8 @@
       "category": "Arts & Culture",
       "url": "https://calendar.gwu.edu/event/camp-one-heartland",
       "description": "Camp One Heartland is a solo exhibition by Tye DuSold-O’Connor archiving documentation of one of the world’s first nonprofit summer camps designated to supporting and empowering youth affected by HIV and AIDS, eventually transforming into a vital beacon of safety, liberation and eutopia for LGBTQ+ youth across the country. After its inaugural session in the summer of 1993 and many more held at different campsites across the country, Camp One Heartland found its permanent residence in Willow River, Minnesota. Over the next three decades it broadened its reach to provide summer camp sessions for youth experiencing housing instability, LGBTQ+ youth, and specifically trans youth. Tye attended Ca",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "26f196ebea1328c7bf5e731b3b16@global-arts-culture": {
       "source": "gwu-arts",
@@ -12612,8 +12663,8 @@
       "category": "Arts & Culture",
       "url": "https://calendar.gwu.edu/event/cracks-reforms-the-1920s-through-the-gw-collection",
       "description": "The 1920s emerged as a decade suspended between collapse and reconstruction, an era marked by “cracks and reforms” that ushered in a profound reconfiguration of the visual world.  During this period marked by civil transformation and political upheaval, artists, journalists, and makers had opportunities to reconstruct both individual and collective identities. A century later, Cracks & Reforms presents a distinct cross-section of this period, revealing global currents of migration, modernization, and cultural redefinition through the lens of the GW Collection. Students led by Associate Professor Bibiana Obler selected works to study and exhibit, their research eventually leading to unified t",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6b8f2c9906dfa151bb2db2d29f08@global-arts-culture": {
       "source": "gwu-arts",
@@ -12629,8 +12680,8 @@
       "category": "Arts & Culture",
       "url": "https://calendar.gwu.edu/event/unfossilizing-african-art",
       "description": "Presented after extensive research, this exhibition recontextualizes African material culture objects held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students from four seminar courses offered between Fall 2024 and Spring 2026, conducted original research to deepen understanding of the university’s holdings and update how we interpret and exhibit these objects. The exhibition features 37 tangible heritage objects, ranging from an Egúngún Paaka from Yorubaland to a Kii [brass pipe], attributed to the Baumum people of Cameroon, accompanied by images and video that illuminate their rich histories. Research on the entire collection is presented in an ",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0edcae194c3648443faaa31d650a@global-arts-culture": {
       "source": "gwu-arts",
@@ -12646,8 +12697,8 @@
       "category": "Arts & Culture",
       "url": "https://calendar.gwu.edu/event/from-seoul-to-seh-2026",
       "description": "Curious about studying abroad in South Korea? Come experience a taste of Korea right here at GW Engineering! Join us for an interactive afternoon featuring Korean food and snacks, matcha and coffee, hands-on cultural activities, and firsthand stories from GW students who have studied abroad in Korea. Learn about study abroad opportunities at Korea University, discover scholarship opportunities, and connect with students and organizations that can help you start planning your own journey abroad.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "def2df9b2c0e71ce5dc0577e256d@global-arts-culture": {
       "source": "gwu-arts",
@@ -12663,8 +12714,8 @@
       "category": "Arts & Culture",
       "url": "https://calendar.gwu.edu/event/jenny-mckean-moore-reading-series-featuring-lacey-dunham",
       "description": "The CCAS Department of English and the Creative Writing Program present a reading from novelist Lacey Dunham , author of The Belles.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c05970c917c8042dc6f8ba1f9182@global-arts-culture": {
       "source": "inbal",
@@ -12817,7 +12868,7 @@
       "url": "https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randall",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "c30009dff02a43be20188196eb8a@global-arts-culture": {
       "source": "brown-arts",
@@ -12834,7 +12885,7 @@
       "url": "https://events.brown.edu/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh",
       "description": "In her practice, Dayanita Singh experiments with form through photography, architecture, and books to create exhibitions. Using these mediums, Singh extends an invitation to audiences to question how books, and book-making, might transform a space into an exhibition. This show takes cues from Singh’s artist-led approach to exhibitions to explore the relationship between “making” and “reading.” With Singh’s Book Building (2022) as a blueprint, this exhibition analyzes book-making as an artistic practice, material form, and conceptual process. Works in the exhibition span Singh’s career, including Book Building (2022), Blue Book (2009), File Room (2013), Museum of Chance (2014), and Sent a Let",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "471ad2c894b7e12106d6305be17e@global-arts-culture": {
       "source": "brown-arts",
@@ -12851,7 +12902,7 @@
       "url": "https://events.brown.edu/library/event/341401-a-pictorial-dragon-the-art-of-fernando-birri",
       "description": "The exhibit A Pictorial Dragon: The Art of Fernando Birri is on view in the Harriette Hemmasi Exhibition Gallery at the John Hay Library at Brown University, and online through a digital exhibition. The exhibit celebrates the centennial of Fernando Birri (1925–2017), the pioneering Argentine filmmaker, artist, and theorist of the New Latin American Cinema.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "b5e14e3510ee01b91d4fea6f8564@global-arts-culture": {
       "source": "brown-arts",
@@ -12868,7 +12919,7 @@
       "url": "https://events.brown.edu/john-carter-brown-library/event/326674-1776-across-the-americas-a-hemispheric-history",
       "description": "The John Carter Brown Library is pleased to announce a year-long exhibition titled “1776 Across the Americas: A Hemispheric History from the Collections of the John Carter Brown Library.” The exhibition is now on display in the Bromsen Room at the Library and is open to the public during regular Reading Room hours. The John Carter Brown Library’s Reading Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and from 2 p.m. to 4:45 p.m., and Friday from 10 a.m. to 12:45 p.m. Curated by Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf and JCB 2026 Postdoc Program Coordinator Kathleen Telling , the exhibition is part of the initiative 2026 and Beyond at the JCB",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "a61af81248269c025d97b8e3b50a@global-arts-culture": {
       "source": "brown-arts",
@@ -12885,7 +12936,7 @@
       "url": "https://events.brown.edu/cssj/event/334396-exhibition-on-view-sites-of-remaking-port-cities",
       "description": "This exhibition, Sites of Remaking: Port Cities and Our Present, invites visitors to reconsider and recontextualize port cities, centering Black and Indigenous experiences within the global history of the Transatlantic Slave Trade and its present-day legacies. It explores themes of freedom-making, resistance, place-making and the legacies of slavery through works by three Rhode Island-based multi-disciplinary artists: Jazzmen Lee-Johnson, Kia Lenise and Spencer Evans. Curated by Ivie Orobaton, A.M. Candidate in Public Humanities. The exhibition is an artistic companion to the April 23–24 conference, Reconsidering Port Cities: Critical Commemoration of Slavery, and Transatlantic Legacies , ho",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "c201074fa2c9afbf7a066a509a4f@global-arts-culture": {
       "source": "brown-arts",
@@ -12902,7 +12953,7 @@
       "url": "https://events.brown.edu/library/event/337052-questions-concerning-methods-research-methods-amp",
       "description": "Explore research methods and supporting resources across various disciplines–all are welcome!",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "254c29794a1a4987b3e47eeb1a6a@global-arts-culture": {
       "source": "brown-arts",
@@ -12919,7 +12970,7 @@
       "url": "https://events.brown.edu/john-carter-brown-library/event/326806-1776-across-the-americas-a-hemispheric-history",
       "description": "The John Carter Brown Library is pleased to announce a year-long exhibition titled “1776 Across the Americas: A Hemispheric History from the Collections of the John Carter Brown Library.” The exhibition is now on display in the Bromsen Room at the Library and is open to the public during regular Reading Room hours. The John Carter Brown Library’s Reading Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and from 2 p.m. to 4:45 p.m., and Friday from 10 a.m. to 12:45 p.m. Curated by Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf and JCB 2026 Postdoc Program Coordinator Kathleen Telling , the exhibition is part of the initiative 2026 and Beyond at the JCB",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "4a00556c2d737a049d1c0d2c181c@global-arts-culture": {
       "source": "gwu-arts",
@@ -12936,7 +12987,7 @@
       "url": "https://calendar.gwu.edu/event/a-conversation-with-kersti-kaljulaid-former-president-of-estonia",
       "description": "Please join us for a fireside chat with the former President of Estonia, Kersti Kaljulaid. The President will discuss topics such as Estonia's role in European security, support for Ukraine, and Estonia as a digital nation. The event will include a Q&A with the audience.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "585dce0e70b52bc7c4157b3ca59b@global-arts-culture": {
       "source": "gwu-arts",
@@ -12953,7 +13004,7 @@
       "url": "https://calendar.gwu.edu/event/a-celebration-of-arts-diplomacy",
       "description": "Arts diplomacy uses artistic works (such as paintings, sculptures andmusic) and creative performances to build connections between nation-states and people in other countries. On October 21, “A Celebration of Arts Diplomacy,” will honor the strategy and practice of arts diplomacy by countries around the world. Two midday panels will be convened. The first examines how practitioners implement arts diplomacy successfully. The second looks at the effects of arts diplomacy, based on the findings of scholars and historians. This program will be in person and livestreamed from George Washington University’s Elliott School ofInternational Affairs. It will be followed by an in-person reception at Ho",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "2261f8881ace098bd21ac9f6e112@global-arts-culture": {
       "source": "gwu-arts",
@@ -12970,7 +13021,7 @@
       "url": "https://calendar.gwu.edu/event/lawyering-after-with-ed-walters-part-ii-finding-a-successful-balance-with-ai-in-law-school-and-in-practice",
       "description": "Should law students use AI for work in law school? Law firms want to hire students who can use AI successfully, but law professors emphasize not using AI as a shortcut. In this lunchtime session, legal tech entrepreneur and law professor Ed Walters will discuss how to sharpen skills in school, impress employers, and to find balance in AI use in law school. Lunch will be provided! Kindly RSVP by Tuesday, October 20 at 12pm so we have an accurate headcount for food. Register for the Event Here",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "f247b14e7a0b43e3a6258497744e@global-arts-culture": {
       "source": "gwu-arts",
@@ -12987,7 +13038,7 @@
       "url": "https://calendar.gwu.edu/event/lunch-learn-a-discussion-on-health-privacy",
       "description": "Interested in health privacy? Join this month's lunch and learn presentation with Sara Geoghegan, EPIC's Senior Counsel and Director of the Consumer Privacy Program. Register for the Event Here",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "04866b24cae66ca5ad402d19dfd6@global-arts-culture": {
       "source": "gwu-arts",
@@ -13004,7 +13055,7 @@
       "url": "https://calendar.gwu.edu/event/a-day-of-dialogue-securing-the-freedom-of-international-hostages-and-wrongful-detainees",
       "description": "Join the National Security Law Program for the Colloquium on Securing the Freedom of International Hostages and Wrongful Detainees. The event will feature two panels and keynote remarks by Ambassador James O'Brien, former Special Presidential Envoy for Hostage Affairs, 2015-17. Registration and boxed lunch pickup opens at 12pm. This event is eligible for upper-level Foundations of Practice credit only. Register for the Event Here",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "36ceab9489351e030d81a43bc938@global-arts-culture": {
       "source": "gwu-arts",
@@ -13021,7 +13072,7 @@
       "url": "https://calendar.gwu.edu/event/a-gift-in-motion",
       "description": "A multidisciplinary showcase from the artists and scholars of the full-time faculty and staff at the Corcoran School of the Arts & Design. A Gift In Motion loosely draws from Robin Wall Kimmerer’s book The Serviceberry which uplifts Indigenous frameworks of the natural world to advance the possibilities in collectivity, reciprocity, and the mindset of abundance. These are anti-capitalist models and theories that provide insight into the systems of power we negotiate, but also offer a lens on how we individually move through our daily lives—together—through historically fraught landscapes. A keen reminder that working with, for, and because of each other remains the most human motivation, eve",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "faeecaa418dc3843eb54b83d7193@global-arts-culture": {
       "source": "gwu-arts",
@@ -13038,7 +13089,7 @@
       "url": "https://calendar.gwu.edu/event/cracks-reforms-the-1920s-through-the-gw-collection",
       "description": "The 1920s emerged as a decade suspended between collapse and reconstruction, an era marked by “cracks and reforms” that ushered in a profound reconfiguration of the visual world.  During this period marked by civil transformation and political upheaval, artists, journalists, and makers had opportunities to reconstruct both individual and collective identities. A century later, Cracks & Reforms presents a distinct cross-section of this period, revealing global currents of migration, modernization, and cultural redefinition through the lens of the GW Collection. Students led by Associate Professor Bibiana Obler selected works to study and exhibit, their research eventually leading to unified t",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "7028905470bf83b7decbf9fae868@global-arts-culture": {
       "source": "gwu-arts",
@@ -13055,7 +13106,7 @@
       "url": "https://calendar.gwu.edu/event/unfossilizing-african-art",
       "description": "Presented after extensive research, this exhibition recontextualizes African material culture objects held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students from four seminar courses offered between Fall 2024 and Spring 2026, conducted original research to deepen understanding of the university’s holdings and update how we interpret and exhibit these objects. The exhibition features 37 tangible heritage objects, ranging from an Egúngún Paaka from Yorubaland to a Kii [brass pipe], attributed to the Baumum people of Cameroon, accompanied by images and video that illuminate their rich histories. Research on the entire collection is presented in an ",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "d54c1df2b94903ac40bbcacaddbe@global-arts-culture": {
       "source": "gwu-arts",
@@ -13072,7 +13123,7 @@
       "url": "https://calendar.gwu.edu/event/ifce-eemi-international-colloquium-on-emerging-energy-resilience-best-practices",
       "description": "Join IFCE and GW’s EEMI for a global dialogue on how emerging technologies and innovative policies advance energy resilience! This engaging international conversation is about strengthening energy resilience where it matters most: at the user end. Co-organized by the International Fund for China’s Environment and the Environmental and Energy Management Institute at the George Washington University, this event will bring together experts from government, academia, think tanks, technology companies, and nonprofit organizations to exchange ideas and practical solutions. Through keynote presentations and expert panels, attendees will explore distributed energy storage, green power, virtual power",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "110f191dd0e129e0938237068c3d@global-arts-culture": {
       "source": "gwu-arts",
@@ -13089,7 +13140,7 @@
       "url": "https://calendar.gwu.edu/event/macroeconomic-seminar-with-chang-he-uva",
       "description": "Please join the Economics Department for a macroeconomic seminar with Chang He, an assistant professor in the University of Virginia Department of Economics.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "51871f3a81c13c689149b715a6c4@global-arts-culture": {
       "source": "gwu-arts",
@@ -13106,7 +13157,7 @@
       "url": "https://calendar.gwu.edu/event/ieee-gwu-x-wmata-the-future-of-autonomous-trains",
       "description": "Please join IEEE-GWU in welcoming Ludovica Coppola, WMATA's Director of Signaling Systems . She holds an M.S. in Mechanical Engineering and has previously served as a vehicles and signaling design engineer for Hitachi Rail in Italy and the United States. Leading the rail modernization program, Ludovica is working to establish the complete adoption of autonomous trains and platform screen doors on the Metro. === Agenda: 3:00pm: Presentation 3:30pm: Q&A 3:45pm: Food, socializing, and networking",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "69b8ee862ea7b0a6246a68a297e3@global-arts-culture": {
       "source": "gwu-arts",
@@ -13123,7 +13174,7 @@
       "url": "https://calendar.gwu.edu/event/how-democracies-revive-why-illiberalism-keeps-winning-and-what-to-do-about-it",
       "description": "Despite occasional setbacks, illiberalism keeps winning, from India and the United States to Germany. Analytical frameworks remain polarized among cultural backlash, economic grievance, and illiberal-playbook accounts. Each explains part of the picture, but none captures the comprehensiveness of the illiberal challenge. This talk, drawing on a forthcoming Stanford University Press book that blends scholarly research with insider political experience, proposes a relational materialist framework. It traces illiberalism to the contradictions of an uneven and shifting hierarchical global economic order, which generate a triple devaluation of economic status, cultural worth, and political voice t",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "278226851188a274875d1c2f431d@global-arts-culture": {
       "source": "gwu-arts",
@@ -13140,7 +13191,7 @@
       "url": "https://calendar.gwu.edu/event/russian-in-american-movies",
       "description": "Join the Department of Romance, German and Slavic Studies' Russian Program for an interactive lecture in English and Russian about the Russian language, Russian actors, and Russian-speaking characters through Hollywood's lens!",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "b006d950a82f3d53785b4fe1538d@global-arts-culture": {
       "source": "gwu-arts",
@@ -13157,7 +13208,7 @@
       "url": "https://calendar.gwu.edu/event/research-practice-fall-2026",
       "description": "The creative practitioners presenting at this semester’s GWU Corcoran “Research + Practice” event series build on a project in bringing together the arts and design in dialogue. The GWU Corcoran learning community and the artists and designers of the DC region recognize a shared purpose in elevating the culture-shaping work(s) of diverse and free expression. The “Research + Practice” happenings are a supportive platform for connecting ideas and people across the creative fields; they encourage interdisciplinary exchange as a vital ingredient in advancing both arts-design scholarship and the arts and design in society. All events will be Wednesday nights, 6:30pm-8:00pm 9/23/2026: Jomo Tariku ",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "5eadf3028d3f913623d9fa6ca608@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13173,8 +13224,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/Library/event/288815-centering-philippine-and-filipinx-american",
       "description": "The Bancroft Library’s collections of materials relating to the Philippines span nearly 500 years. Highlights in this exhibit include a transcript of an Inquisitorial trial from 1646, a prayer book written in the Cebuano language, and UC Berkeley Filipino student publications from 1905 to the present. The exhibit also features selections from the personal papers of acclaimed author Jessica Hagedorn, including typewritten drafts of her novels, poetry, song lyrics, and a screenplay, as well as childhood drawings and writings. Open hours may vary. Please view the The Bancroft Library hours page for the most up-to-date information.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6309e94c1127f603b9c4bacbbba0@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13190,8 +13241,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pueblo-for-and-by-the-people-rev",
       "description": "The exhibition, De y para el pueblo / By and for the People: Revolutionary Mexican Prints, features highlights from The Bancroft Library’s extensive collection of prints.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "fad59b68dd8a41798b445479ccf0@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13207,8 +13258,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/309073-exhibit-divestment-now-student-activism-and-the-anti-",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "02541db44a2fe7911ac949b2b185@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13224,8 +13275,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-ijin-our-life-is-here",
       "description": "Kōmij Mour Ijin / Our Life Is Here at Doe Library brings together reproductions of works and interpretive material from the 2023 voyage, exploring climate change, the legacy of US nuclear testing, and Marshallese knowledge and resilience.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d6b26371937f175b9e05a820637b@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13241,8 +13292,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/art/event/333517-exit-signs-fall-2026-advanced-studio-and-critique-pro",
       "description": "Worth Ryder Art Gallery and the Department of Art Practice are excited to announce Exit Signs , a group exhibition featuring multidisciplinary artworks from students in the Department of Art Practice’s Fall 2026 Advanced Studio Critique Program.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ec45e6038023acc8e5c1f1358976@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13258,8 +13309,8 @@
       "category": "Academic",
       "url": "https://events.berkeley.edu/Equity-and-Inclusion/event/329846-national-transfer-student-week-oct-19-23",
       "description": "Celebrate National Transfer Student Week at UC Berkeley and recognize the experiences, achievements, and contributions of transfer students. Explore campus events, student resources, stories, research, and opportunities to connect with Berkeley’s transfer community.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "325964b9f2e3159ea893329bad54@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13275,8 +13326,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330194-photography-installation-remembering-the-future",
       "description": "At Giannini Hall, 36 photographs selected from the recently published Remembering the Future: Nuclear Testing, Rising Seas, and The Marshall Islands (Radius Books, © 2026) by Mark Klett and William L. Fox extend the two men’s decades-long collaboration tracing the nuclear history of the American West and the broader Pacific sphere.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "28dc20b7f64c7a42754fa5ca3232@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13292,8 +13343,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/333518-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "Worth Ryder Art Gallery and VIDRINE present four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific. All were made in the wake of the 2023 Kōmij Mour Ijin / Our Life Is Here voyage across the Marshall Islands.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "16cceec290e7af265423ab717840@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13309,8 +13360,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330951-exhibit-an-archive-of-archives-roman-vishniacs",
       "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "08985d3892306f12254e18caf501@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13326,8 +13377,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330825-exhibit-nancy-lee-katz-a-private-pantheon-part-1",
       "description": "Nancy Lee Katz: A Private Pantheon explores the artist’s decades-long effort to photograph artists, writers, musicians, and thinkers she admired, including Justice Ruth Bader Ginsburg, Stephen Sondheim, Philip Glass, Elie Wiesel, and Seiji Ozawa. Part 1 on view through Dec 17, 2026.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "67c18c3946a34e475de820725190@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13343,8 +13394,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330889-exhibit-time-capsules-exploring-the-permanent",
       "description": "In celebrating 15 years at UC Berkeley, Time Capsules revisits ten out of the over thirty exhibitions presented since the Magnes opened the doors of its new academic home to the public.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "2b4af9dedf7bec8feefe90834bc1@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13360,8 +13411,8 @@
       "category": "Performing Arts",
       "url": "https://events.berkeley.edu/live/events/323907-noon-concert-chamber-music",
       "description": "Schumann, Piano Quartet in E-Flat Major Barber, Cello Sonata",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1b09b7a3233c9c612971dfe7222f@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13378,7 +13429,7 @@
       "url": "https://nwfilmforum.org/films/wtf-with-stuff-holy-trinity/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "5bc4daa85f971a04c0ec385dd493@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13395,7 +13446,7 @@
       "url": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "4eb0377dc8c07eadacd13108a0aa@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13412,7 +13463,7 @@
       "url": "https://nwfilmforum.org/films/the-case-of-the-three-sided-dream/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "c39a31bff6e2af68748e25f10991@global-arts-culture": {
       "source": "artsatl",
@@ -13428,8 +13479,8 @@
       "category": "Theater",
       "url": "https://www.artsatl.org/event/puppet-camp/2026-10-21/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a7a12842024be00040ed6088618c@global-arts-culture": {
       "source": "artsatl",
@@ -13445,8 +13496,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/between-here-infinity-celebrating-30-years-of-the-spelman-college-art-collection/2026-10-21/",
       "description": "Between Here & Infinity: Celebrating 30 Years of the Spelman College Art Collection, an expansive exhibition featuring nearly seventy works by Black women artists who shape our permanent collection and define our mission. Beginning September 9, 2026, visitors to the Spelman College Museum will have opportunities to discover art and artists from the collection. The first exhibition to span both the museum’s galleries, this exhibition will open in two waves: at the Bank of America Gallery at the Mary Schmidt Campbell Center for Innovation & the Arts, opening September 9, 2026, and in the gallery in the Camille Olivia Hanks Cosby, Ed.D. Academic Center on October 2, 2026. Between Here & Infinit",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "bd4e29bc35833e7b886d87c72860@global-arts-culture": {
       "source": "artsatl",
@@ -13462,8 +13513,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/a-fine-line/2026-10-21/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "fe9b4b00620ee23e6a9a0f158739@global-arts-culture": {
       "source": "artsatl",
@@ -13479,8 +13530,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/beat-the-canvas/",
       "description": "A beginner-friendly guided paint-along night. We provide a pre-sketched canvas, pre-mixed colors, and a step-by-step guide — you bring a friend. Three designs to choose from: a dragon boy, a beach jeep, and an elk in aspens. No experience needed. Presented by The Bakery Atlanta.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8ef75b03309f74058a2af0d4d2a5@global-arts-culture": {
       "source": "artsatl",
@@ -13496,8 +13547,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/illumine-2026/2026-10-21/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1cbd099286db7f567d9fe82c68d3@global-arts-culture": {
       "source": "artsatl",
@@ -13513,8 +13564,8 @@
       "category": "Film + TV",
       "url": "https://www.artsatl.org/event/the-emory-cinematheque-presents-girl-6-1996/",
       "description": "1996 | Run Time: 108 min | 35mm Directed by Spike Lee Introduced by Dr. Stephane Dunn (Morehouse College) Print provided by Yale Film Archive. GIRL 6 is Spike Lee’s eighth commercial film and the third where he centers a woman as the main protagonist. Made in 1996, it is based on a play by African-American playwright Suzan-Lori Parks. It examines the phone sex business (as a parody of Hollywood) and one Black woman’s dreams against her negotiation of that industry. Essence gushes about Theresa Randle who stars as girl 6 saying, “Randle possesses the chameleonlike ability to be every woman you’ve ever known and one you’ve never met before.” Even cultural critic bell hooks, known for getting i",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8610e5b8bf443abce29eace8e730@global-arts-culture": {
       "source": "artsatl",
@@ -13530,8 +13581,8 @@
       "category": "Theater",
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-10-21/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8722e822cd32b54264220cf9dd71@global-arts-culture": {
       "source": "noma",
@@ -13548,7 +13599,7 @@
       "url": "https://noma.org/event/gallery-talk-curator-orlando-hernandez-ying-loreto-saraceni/",
       "description": "Join us for weekly gallery talks every Wednesday at NOMA, featuring curators, artists, and other special guests. This week’s gallery talk will be hosted by Orlando Hernandez Ying, Lapis Curator of the Arts of the Americas, and will be focused on the work Our Lady of Loreto by Carlo Saraceni. This gallery talk will take place at 12:30 PM in the Stafford Gallery on the museum’s second-floor mezzanine. When you arrive at the museum, check in with the admissions desk to be directed to the gallery talk’s location. Free with museum admission. Louisiana residents receive free admission to NOMA every Wednesday, courtesy of The Helis Foundation’s Art for All Initiative.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0ec89dbd2c1d506d152253c14111@global-arts-culture": {
       "source": "matadero-madrid",
@@ -13565,7 +13616,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/another-way-film-festival-2026",
       "description": "En las montañas de Noruega, uno de los mayores proyectos eólicos de Europa amenaza las tierras de pastoreo de las que dependen las comunidades sami y su cultura ancestral. Aunque el Tribunal Supremo reconoce que la instalación vulnera sus derechos, las turbinas permanecen. Let Our Mountains Live acompaña su lucha frente al Estado y plantea una incómoda paradoja: ¿puede construirse una transición verde sacrificando a quienes llevan generaciones protegiendo el territorio? Un relato sobre justicia climática, poder y resistencia indígena. > Estreno en España > Coloquio posterior con Rosa Pardo , profesora en el departamento de Historia Contemporánea en la UNED y colaboradora de ALIENTE.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "9b4667e33e716f04609c249714d1@global-arts-culture": {
       "source": "matadero-madrid",
@@ -13582,7 +13633,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/another-way-film-festival-2026",
       "description": "En una remota granja al pie del mayor glaciar de Islandia, los recuerdos de una familia se entrelazan con un paisaje que está desapareciendo. A través de fotografías, voces y una poderosa memoria íntima, La Pietà convierte el retroceso del hielo en una historia sobre el paso del tiempo, la pérdida y nuestra relación con la naturaleza. Un relato bello y conmovedor que nos recuerda que, cuando un paisaje desaparece, también se desvanece parte de la memoria de quienes aprendieron a vivir junto a él. > Estreno en Madrid > Coloquio posterior con Rafa Molès y Pepe Andreu , directores, guionistas y productores en SUICAfilms.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "7c954aab445d62323150b596c697@global-arts-culture": {
       "source": "matadero-madrid",
@@ -13599,7 +13650,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/another-way-film-festival-2026",
       "description": "En las montañas del Congo, Numbi parece estar lejos de nuestro mundo, pero guarda bajo tierra uno de los minerales que lo mantienen conectado. Allí, hombres y mujeres extraen coltán a mano, atrapados entre la precariedad, los intereses económicos y un conflicto que se alimenta de esa riqueza. Of Mud and Blood se sumerge en su vida cotidiana para revelar el reverso de nuestra comodidad digital y plantearnos una pregunta incómoda: ¿qué parte de este sistema nos corresponde cuando encendemos cada día nuestros dispositivos? > Estreno en Madrid > Coloquio posterior con Nicole Ndongala , Directora General de la Asociación Karibu.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "ba496940cac5cae1e5babcb61017@global-arts-culture": {
       "source": "cccb",
@@ -13616,7 +13667,7 @@
       "url": "https://www.cccb.org/en/w/activitats/una-historia-cromatica-del-color",
       "description": "Blau, groc, verd, vermell",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "90bc3e1eb86f5e5f14ad403228d6@global-arts-culture": {
       "source": "cccb",
@@ -13633,7 +13684,7 @@
       "url": "https://www.cccb.org/en/w/activities/el-informe-trabajo-intelectual-y-tristeza-burocratica-by-remedios-zafra",
       "description": "Exclusive reading club for Friends of the CCCB",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "3c218449de6cb8bf2b8a8ae68dc0@global-arts-culture": {
       "source": "silent-green",
@@ -13650,7 +13701,7 @@
       "url": "https://www.silent-green.net/programm/detail/sintonia-2026-attunement-i?tx_news_pi1%5Bday%5D=21&tx_news_pi1%5Bmonth%5D=10&tx_news_pi1%5Byear%5D=2026&cHash=aff6f6e51eb20bb47baacfc9f8fd54cd",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "158ca0d575e42ac4b85d9d0f4cac@global-arts-culture": {
       "source": "inbal",
@@ -13718,7 +13769,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/alert-mini-monsters",
       "description": "Led by illustrator Emo Díaz, this workshop invites us to transform into our favorite monster by creating our own spooky masks using cardboard, paper, and everyday materials. It’s an exercise that encourages imagination, experimentation, and giving shape to new ideas while working together as a family. Emo Díaz is an illustrator, graphic designer, and animator based in Madrid. He is renowned for his friendly, colorful, and approachable style, which resonates strongly with children through soft-shaped characters and visual universes filled with joy and a subtle touch of nostalgia. As a children's book author and creative project creator, he is also a regular workshop leader in cultural and edu",
       "status": "CANCELLED",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "ae83408c31d5dd01f37221b39e65@global-arts-culture": {
       "source": "artsatl",
@@ -13735,7 +13786,7 @@
       "url": "https://www.artsatl.org/event/author-talk-with-actor-and-author-susan-huckle/",
       "description": "Dr. Beverly J. Armento, an Atlanta author and educator, will moderate what is sure to be a lively discussion about Susan’s #1 New Release debut memoir, The Earth Is Flat?! And Other Things My Mother Taught Me. Reserve your ticket now! This laugh-out-loud and vulnerable debut MOMoir is about a homeschooled Pentecostal girl in the ’90s, her flat-earther mother, and the hilarious, heartbreaking work of figuring out what’s actually true. “Unputdownable” -The Santa Barbara Independent Susan has appeared on Jane the Virgin, The Mindy Project, and hosts L.A. This Week. She earned her B.A. in Journalism and Dramatic Art from UNC-Chapel Hill and a Master of Sustainable Tourism from ASU.",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "a748fe429eb4569265069609abcb@global-arts-culture": {
       "source": "cccb",
@@ -13752,7 +13803,7 @@
       "url": "https://www.cccb.org/en/w/activities/literature-and-solidarity-the-power-of-commitment-and-bonds",
       "description": "A morning with Arundhati Roy",
       "status": "CANCELLED",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "09c503f1b028c3f34c1f039f74de@global-arts-culture": {
       "source": "artsatl",
@@ -13769,7 +13820,7 @@
       "url": "https://www.artsatl.org/event/between-here-infinity-celebrating-30-years-of-the-spelman-college-art-collection/2026-11-21/",
       "description": "Between Here & Infinity: Celebrating 30 Years of the Spelman College Art Collection, an expansive exhibition featuring nearly seventy works by Black women artists who shape our permanent collection and define our mission. Beginning September 9, 2026, visitors to the Spelman College Museum will have opportunities to discover art and artists from the collection. The first exhibition to span both the museum’s galleries, this exhibition will open in two waves: at the Bank of America Gallery at the Mary Schmidt Campbell Center for Innovation & the Arts, opening September 9, 2026, and in the gallery in the Camille Olivia Hanks Cosby, Ed.D. Academic Center on October 2, 2026. Between Here & Infinit",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "3c290868905d7f33af326924db67@global-arts-culture": {
       "source": "artsatl",
@@ -13786,7 +13837,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-21/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "a7b910e43f2600361e3a17b29c02@global-arts-culture": {
       "source": "artsatl",
@@ -13803,7 +13854,7 @@
       "url": "https://www.artsatl.org/event/musiq-soulchild/2026-11-21/",
       "description": "City Winery Atlanta presents Musiq Soulchild live on November 20th, 21st, 24th & 25th at 6:30pm and 10pm! Musiq Soulchild brings his celebrated neo-soul sound to City Winery Atlanta for a multi-night engagement this holiday season, an intimate evening of soulful music, powerful vocals, and timeless songs from one of R&B’s most respected artists. Doors open: 5:30 PM Food & beverage: Table service is available in the venue; restaurant dining reservations (via Resy) are encouraged for pre-show dining. Happens on the following Dates: Nov 20, 2026, 6:30pm to 8:00pm Timezone: Eastern Time (US & Canada) Nov 20, 2026, 10:00pm to 11:30pm Timezone: Eastern Time (US & Canada) Nov 21, 2026, 6:30pm to 8:",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "d9f8f540e009cb16cf832b198d49@global-arts-culture": {
       "source": "artsatl",
@@ -13820,7 +13871,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-21/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "0797e3830d1af813272748f8e102@global-arts-culture": {
       "source": "artsatl",
@@ -13837,7 +13888,7 @@
       "url": "https://www.artsatl.org/event/the-classic-improv-show-12/2026-11-21/",
       "description": "Whole World Improv Theatre Presents: The Award-Winning Classic Improv Show! Get ready for an electrifying night of spontaneous laughter with Atlanta’s best improv comedy! Whole World Improv Theatre, your favorite little venue nestled in the vibrant Heart of Midtown, Atlanta, is thrilled to feature our award-winning improvisers every Friday and Saturday night. Prepare to be amazed as our quick-witted performers transform your audience suggestions into side-splitting scenes, unforgettable characters, and hilarious stories – all made up on the spot, right before your eyes! ARE YOU READY TO PLAY? Wanna pull an all-nighter? 8pm ticket holders can purchase $10 tickets at the door for the 10pm show",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "e20f69fd4222cb3c70c6854a66ac@global-arts-culture": {
       "source": "artsatl",
@@ -13854,7 +13905,7 @@
       "url": "https://www.artsatl.org/event/fck-this-im-going-to-church/2026-11-21/",
       "description": "Virginia-Highland Church is proud to present an all new experimental theatre performance devised by local artists titled F*CK THIS, I’M GOING TO CHURCH taking place at Virginia-Highland Church every weekend of March. March 06 – March 28, 2026 Fridays at 8:00pm Saturdays at 3:00pm and 7:00pm F*CK THIS, I’M GOING TO CHURCH is an immersive, experimental theatre experience that reclaims the idea of church as loving community, rejecting religious dogma that preaches shame, judgment, oppression, and abuse. In the midst of our tumultuous political climate and with the rise of harmful Christian nationalism, local Atlanta theatre artists have come together to devise a performance that seeks to disman",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "2b13f4382c7f92f87ac7e8d71a12@global-arts-culture": {
       "source": "artsatl",
@@ -13871,7 +13922,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-21/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "298bedecf110087d6473f14df1f1@global-arts-culture": {
       "source": "artsatl",
@@ -13888,7 +13939,7 @@
       "url": "https://www.artsatl.org/event/the-dynamic-funny-scenes-songs-and-games-5/2026-11-21/",
       "description": "The Dynamic! is an improv show that thrives on chaos, quick thinking, and whatever ideas the audience throws at the cast. Every scene, game, and musical moment is built in real time, and the performers lean into the unexpected with a mix of confidence, silliness, and genuine surprise. They know how to turn a wild suggestion or a joke that goes off the rails into something even funnier, and half the joy is watching them navigate the mess together. The show moves fast, the energy stays high, and no two nights ever feel the same. You help spark the fun, and the cast runs with it to create a comedy experience that feels alive, loose, and completely in the moment.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "8d6296a400ec175abb511b8d9c15@global-arts-culture": {
       "source": "artsatl",
@@ -13905,7 +13956,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-22/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "b25d1c0d2cdc74541d2c611d7814@global-arts-culture": {
       "source": "artsatl",
@@ -13922,7 +13973,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-22/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "ed19f36f142544f3249cb724fc5c@global-arts-culture": {
       "source": "artsatl",
@@ -13939,7 +13990,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-22/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "d1e2c0dd686dddf0e45cce2fe661@global-arts-culture": {
       "source": "artsatl",
@@ -13956,7 +14007,7 @@
       "url": "https://www.artsatl.org/event/puppet-camp/2026-11-23/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "2a1b6c2e1215670b015ca6ca20d3@global-arts-culture": {
       "source": "artsatl",
@@ -13973,7 +14024,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-23/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "ba26b38d2487cfdb4b371634eb74@global-arts-culture": {
       "source": "artsatl",
@@ -13990,7 +14041,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-23/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "79df595bdd7fbca7727dee179746@global-arts-culture": {
       "source": "artsatl",
@@ -14007,7 +14058,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-23/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "f5568df5751968b2ab55cc0ceb70@global-arts-culture": {
       "source": "artsatl",
@@ -14024,7 +14075,7 @@
       "url": "https://www.artsatl.org/event/puppet-camp/2026-11-24/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "42b94c90c53b4efce372c8e79272@global-arts-culture": {
       "source": "artsatl",
@@ -14041,7 +14092,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-24/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "eaf4c17c5a88574a01d660fe3b5c@global-arts-culture": {
       "source": "artsatl",
@@ -14058,7 +14109,7 @@
       "url": "https://www.artsatl.org/event/musiq-soulchild/2026-11-24/",
       "description": "City Winery Atlanta presents Musiq Soulchild live on November 20th, 21st, 24th & 25th at 6:30pm and 10pm! Musiq Soulchild brings his celebrated neo-soul sound to City Winery Atlanta for a multi-night engagement this holiday season, an intimate evening of soulful music, powerful vocals, and timeless songs from one of R&B’s most respected artists. Doors open: 5:30 PM Food & beverage: Table service is available in the venue; restaurant dining reservations (via Resy) are encouraged for pre-show dining. Happens on the following Dates: Nov 20, 2026, 6:30pm to 8:00pm Timezone: Eastern Time (US & Canada) Nov 20, 2026, 10:00pm to 11:30pm Timezone: Eastern Time (US & Canada) Nov 21, 2026, 6:30pm to 8:",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "412eb5882fa2eb876f15c31eb711@global-arts-culture": {
       "source": "artsatl",
@@ -14075,7 +14126,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-24/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "d69247b8c566058b8480e6aa9ab6@global-arts-culture": {
       "source": "artsatl",
@@ -14092,7 +14143,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-24/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "613e7234a1e777fe21b00bf40471@global-arts-culture": {
       "source": "artsatl",
@@ -14109,7 +14160,7 @@
       "url": "https://www.artsatl.org/event/puppet-camp/2026-11-25/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "0aa27f2ed7f44d56c9ce9d604e7c@global-arts-culture": {
       "source": "artsatl",
@@ -14126,7 +14177,7 @@
       "url": "https://www.artsatl.org/event/between-here-infinity-celebrating-30-years-of-the-spelman-college-art-collection/2026-11-25/",
       "description": "Between Here & Infinity: Celebrating 30 Years of the Spelman College Art Collection, an expansive exhibition featuring nearly seventy works by Black women artists who shape our permanent collection and define our mission. Beginning September 9, 2026, visitors to the Spelman College Museum will have opportunities to discover art and artists from the collection. The first exhibition to span both the museum’s galleries, this exhibition will open in two waves: at the Bank of America Gallery at the Mary Schmidt Campbell Center for Innovation & the Arts, opening September 9, 2026, and in the gallery in the Camille Olivia Hanks Cosby, Ed.D. Academic Center on October 2, 2026. Between Here & Infinit",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "d4034e82aa58344d373dd7382467@global-arts-culture": {
       "source": "artsatl",
@@ -14143,7 +14194,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-25/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "01cdc93791c7fc03839937f6561b@global-arts-culture": {
       "source": "artsatl",
@@ -14160,7 +14211,7 @@
       "url": "https://www.artsatl.org/event/musiq-soulchild/2026-11-25/",
       "description": "City Winery Atlanta presents Musiq Soulchild live on November 20th, 21st, 24th & 25th at 6:30pm and 10pm! Musiq Soulchild brings his celebrated neo-soul sound to City Winery Atlanta for a multi-night engagement this holiday season, an intimate evening of soulful music, powerful vocals, and timeless songs from one of R&B’s most respected artists. Doors open: 5:30 PM Food & beverage: Table service is available in the venue; restaurant dining reservations (via Resy) are encouraged for pre-show dining. Happens on the following Dates: Nov 20, 2026, 6:30pm to 8:00pm Timezone: Eastern Time (US & Canada) Nov 20, 2026, 10:00pm to 11:30pm Timezone: Eastern Time (US & Canada) Nov 21, 2026, 6:30pm to 8:",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "57772fb06775ebca29f75489e55b@global-arts-culture": {
       "source": "artsatl",
@@ -14177,7 +14228,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-25/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "8d161aa056265586227f03165467@global-arts-culture": {
       "source": "artsatl",
@@ -14194,7 +14245,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-25/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "ffe25d55825aee54fc614f137743@global-arts-culture": {
       "source": "artsatl",
@@ -14211,7 +14262,7 @@
       "url": "https://www.artsatl.org/event/puppet-camp/2026-11-26/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "269e8fe053a522ae0890aa1b0fab@global-arts-culture": {
       "source": "artsatl",
@@ -14228,7 +14279,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-26/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "de9fb79ef7b999ac79fe80f929e0@global-arts-culture": {
       "source": "artsatl",
@@ -14245,7 +14296,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-26/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "0631c39f861fc1bc3d43298e9ad4@global-arts-culture": {
       "source": "artsatl",
@@ -14262,7 +14313,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-26/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "0d1dc0da508f344d481059ea547d@global-arts-culture": {
       "source": "artsatl",
@@ -14279,7 +14330,7 @@
       "url": "https://www.artsatl.org/event/puppet-camp/2026-11-27/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "c128ff00dfc3068e527f8b0d6cd8@global-arts-culture": {
       "source": "artsatl",
@@ -14296,7 +14347,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-27/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "8cdc196a12d958620f280cc6e5f3@global-arts-culture": {
       "source": "artsatl",
@@ -14313,7 +14364,7 @@
       "url": "https://www.artsatl.org/event/live-jazz-february-fridays-wine-live-music-sangria-specials/2026-11-27/",
       "description": "Ease into the weekend with smooth jazz and self-service wine. Join us for a laidback Friday night! 🍷🎶 Live Jazz Friday’s every Friday at Taste Wine Bar at The Works ATL 🎷 Cozy up with friends this winter season on Fridays from 7PM-10PM with the perfect hangout featuring: LIVE JAZZ • SELF-POUR WINE TASTINGS Check out the vibes here! ✨Live jazz from local Atlanta musicians each week ✨DIY wine tasting from our self-service wine dispensing system with 48 tap options. See how it works here! Wine card purchase required. ✨Sip on our signature Sangria Special The Lineup Feb 6 Feb 13 Feb 20 Feb 27 📍 Taste Wine Bar located at The Works ATL | 202 Chattahoochee Row NW, Suite B Free 2 Hour Parking in dec",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "596cd13d4209b8415443fd98892a@global-arts-culture": {
       "source": "artsatl",
@@ -14330,7 +14381,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-27/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "6e5a6a2de104a1946d9ea9691d22@global-arts-culture": {
       "source": "artsatl",
@@ -14347,7 +14398,7 @@
       "url": "https://www.artsatl.org/event/the-classic-improv-show-12/2026-11-27/",
       "description": "Whole World Improv Theatre Presents: The Award-Winning Classic Improv Show! Get ready for an electrifying night of spontaneous laughter with Atlanta’s best improv comedy! Whole World Improv Theatre, your favorite little venue nestled in the vibrant Heart of Midtown, Atlanta, is thrilled to feature our award-winning improvisers every Friday and Saturday night. Prepare to be amazed as our quick-witted performers transform your audience suggestions into side-splitting scenes, unforgettable characters, and hilarious stories – all made up on the spot, right before your eyes! ARE YOU READY TO PLAY? Wanna pull an all-nighter? 8pm ticket holders can purchase $10 tickets at the door for the 10pm show",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "0ee42717efabdac9e64771dbf5f7@global-arts-culture": {
       "source": "artsatl",
@@ -14364,7 +14415,7 @@
       "url": "https://www.artsatl.org/event/fck-this-im-going-to-church/2026-11-27/",
       "description": "Virginia-Highland Church is proud to present an all new experimental theatre performance devised by local artists titled F*CK THIS, I’M GOING TO CHURCH taking place at Virginia-Highland Church every weekend of March. March 06 – March 28, 2026 Fridays at 8:00pm Saturdays at 3:00pm and 7:00pm F*CK THIS, I’M GOING TO CHURCH is an immersive, experimental theatre experience that reclaims the idea of church as loving community, rejecting religious dogma that preaches shame, judgment, oppression, and abuse. In the midst of our tumultuous political climate and with the rise of harmful Christian nationalism, local Atlanta theatre artists have come together to devise a performance that seeks to disman",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "63c143c8e8d8776e1e5f63f64c44@global-arts-culture": {
       "source": "artsatl",
@@ -14381,7 +14432,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-27/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "202e5b56cb2a909e7e1a085ed092@global-arts-culture": {
       "source": "artsatl",
@@ -14398,7 +14449,7 @@
       "url": "https://www.artsatl.org/event/celebrating-hispanic-heritage/2026-11-27/",
       "description": "Celebrate Hispanic Heritage Month with Atlanta’s original all-Hispanic improv cast! Every Friday at 10 PM, Whole World Improv Theatre presents a unique, fully improvised show celebrating Latin culture and storytelling. From spooky musical comedy to real-life stories brought to the stage, no two Fridays are ever the same. Sept 18th – El Armando: Una historia real se convierte en una obra completamente improvisada. / A real story becomes a completely improvised play. Sept 25th – Whole World Gigante: Talentos hispanos de Atlanta, reunidos en un solo escenario. / Atlanta’s Hispanic talent, united on one stage. Oct 2nd – Caos Musical: Un musical 100% improvisado. / A 100% improvised musical. Oct ",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "5a8b9e1bd8852c94cdb73664999f@global-arts-culture": {
       "source": "artsatl",
@@ -14415,7 +14466,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-28/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "babf47b92f7501f84c5e4310812a@global-arts-culture": {
       "source": "artsatl",
@@ -14432,7 +14483,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-28/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "dc2513db3fb982ca94af12d7429b@global-arts-culture": {
       "source": "artsatl",
@@ -14449,7 +14500,7 @@
       "url": "https://www.artsatl.org/event/the-classic-improv-show-12/2026-11-28/",
       "description": "Whole World Improv Theatre Presents: The Award-Winning Classic Improv Show! Get ready for an electrifying night of spontaneous laughter with Atlanta’s best improv comedy! Whole World Improv Theatre, your favorite little venue nestled in the vibrant Heart of Midtown, Atlanta, is thrilled to feature our award-winning improvisers every Friday and Saturday night. Prepare to be amazed as our quick-witted performers transform your audience suggestions into side-splitting scenes, unforgettable characters, and hilarious stories – all made up on the spot, right before your eyes! ARE YOU READY TO PLAY? Wanna pull an all-nighter? 8pm ticket holders can purchase $10 tickets at the door for the 10pm show",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "5785e8f3122c814b7103bc71aad1@global-arts-culture": {
       "source": "artsatl",
@@ -14466,7 +14517,7 @@
       "url": "https://www.artsatl.org/event/fck-this-im-going-to-church/2026-11-28/",
       "description": "Virginia-Highland Church is proud to present an all new experimental theatre performance devised by local artists titled F*CK THIS, I’M GOING TO CHURCH taking place at Virginia-Highland Church every weekend of March. March 06 – March 28, 2026 Fridays at 8:00pm Saturdays at 3:00pm and 7:00pm F*CK THIS, I’M GOING TO CHURCH is an immersive, experimental theatre experience that reclaims the idea of church as loving community, rejecting religious dogma that preaches shame, judgment, oppression, and abuse. In the midst of our tumultuous political climate and with the rise of harmful Christian nationalism, local Atlanta theatre artists have come together to devise a performance that seeks to disman",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "30c77ea049dd0d07163f4f71766e@global-arts-culture": {
       "source": "artsatl",
@@ -14483,7 +14534,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-28/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "ba573abd3e2650a6fe9facee3f56@global-arts-culture": {
       "source": "artsatl",
@@ -14500,7 +14551,7 @@
       "url": "https://www.artsatl.org/event/the-dynamic-funny-scenes-songs-and-games-5/2026-11-28/",
       "description": "The Dynamic! is an improv show that thrives on chaos, quick thinking, and whatever ideas the audience throws at the cast. Every scene, game, and musical moment is built in real time, and the performers lean into the unexpected with a mix of confidence, silliness, and genuine surprise. They know how to turn a wild suggestion or a joke that goes off the rails into something even funnier, and half the joy is watching them navigate the mess together. The show moves fast, the energy stays high, and no two nights ever feel the same. You help spark the fun, and the cast runs with it to create a comedy experience that feels alive, loose, and completely in the moment.",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "c88b2f03210049904cf52dc1be8c@global-arts-culture": {
       "source": "artsatl",
@@ -14517,7 +14568,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-29/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "522a76823cade44cf2111861302f@global-arts-culture": {
       "source": "cccb",
@@ -14534,7 +14585,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 23
+      "missing_runs": 24
     },
     "9af50de4397a61e95e9362c9a5f6@global-arts-culture": {
       "source": "cccb",
@@ -14551,7 +14602,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 23
+      "missing_runs": 24
     },
     "7319a709ed610df1b5d67ecab640@global-arts-culture": {
       "source": "cccb",
@@ -14568,7 +14619,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 23
+      "missing_runs": 24
     },
     "b135f0e721ff49f1764efb204d8b@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -14585,7 +14636,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 36
+      "missing_runs": 37
     },
     "f9abb91d288be2f693f734e39124@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -14602,7 +14653,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 36
+      "missing_runs": 37
     },
     "e645a29ab59653f89c79ce328f1b@global-arts-culture": {
       "source": "redcat",
