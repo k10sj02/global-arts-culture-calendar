@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 SUMMARY:Ctedra Jos Ramn Alcntara Meja 2026 - Da 2 — Mexico City
 DTSTART;TZID="UTC-06:00":20261022T100000
-DTSTAMP:20261023T114424Z
+DTSTAMP:20261023T171226Z
 UID:c05970c917c8042dc6f8ba1f9182@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:El futuro del saber musical - Conferencia del maestro Benjamn Jure
  z Echenique — Mexico City
 DTSTART;TZID="UTC-06:00":20261022T120000
-DTSTAMP:20261023T114424Z
+DTSTAMP:20261023T171226Z
 UID:0d756159c8a39b6f70c2cdb2da04@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Crear\, transmitir\, transformar: el msico mexicano ante los desaf
  o del siglo XXI - Mesa redonda — Mexico City
 DTSTART;TZID="UTC-06:00":20261023T120000
-DTSTAMP:20261023T114424Z
+DTSTAMP:20261023T171226Z
 UID:b58f1f2fed0f21be881e1817905f@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Proyeccin del estreno en Mxico de Revolucin Diamantina de Gabriela
   Ortiz - Concierto de clausura — Mexico City
 DTSTART;TZID="UTC-06:00":20261023T140000
-DTSTAMP:20261023T114424Z
+DTSTAMP:20261023T171226Z
 UID:61f2a095459c5d6a31801877659b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Daniel Olmos\, guitarra - Ocho dcadas de msica.  Concertistas de B
  ellas Artes — Mexico City
 DTSTART;TZID="UTC-06:00":20261023T180000
-DTSTAMP:20261023T114424Z
+DTSTAMP:20261023T171226Z
 UID:a40d4332c57d0fc4cfc381fd155d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ensamble de flautas  - Concierto — Mexico City
 DTSTART;TZID="UTC-06:00":20261024T160000
-DTSTAMP:20261023T114424Z
+DTSTAMP:20261023T171226Z
 UID:25ea4659a612853ac04514b90721@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Lidia Guerberof Hahn\, clavecn - Compositores espaoles.  Catalua\,
   Andaluca\, Pas Vasco\, Navarra\, Aragn\, Castilla — Mexico City
 DTSTART;TZID="UTC-06:00":20261024T180000
-DTSTAMP:20261023T114424Z
+DTSTAMP:20261023T171226Z
 UID:a2f1fcc614dfafa955563c1bdad7@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Orquesta Sinfnica de Yucatn  - Alfonso Scarano\, director artstico
   — Mexico City
 DTSTART;TZID="UTC-06:00":20261024T190000
-DTSTAMP:20261023T114424Z
+DTSTAMP:20261023T171226Z
 UID:2fc4eadce554f30f38d8ee1c09a1@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
