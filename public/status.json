@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-24T00:42:03.894464-04:00",
-  "count": 860,
-  "cancelled": 47,
+  "generated": "2026-10-24T07:07:29.474463-04:00",
+  "count": 808,
+  "cancelled": 117,
   "regions": {
-    "us": 671,
-    "europe": 183,
+    "us": 625,
+    "europe": 177,
     "mexico": 6
   },
   "sources": {
@@ -15,7 +15,7 @@
     "gwu-arts": 106,
     "fringearts": 1,
     "redcat": 28,
-    "berkeley-arts": 11,
+    "berkeley-arts": 35,
     "northwest-film-forum": 126,
     "artsatl": 224,
     "noma": 17,
