@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T12:00:40.444176-04:00",
+  "generated": "2026-10-24T16:53:33.861443-04:00",
   "count": 809,
   "cancelled": 118,
   "regions": {
@@ -22,7 +22,7 @@
     "cac-new-orleans": 4,
     "ica-london": 3,
     "matadero-madrid": 50,
-    "cccb": 94,
+    "cccb": 7,
     "silent-green": 44
   },
   "errors": {
