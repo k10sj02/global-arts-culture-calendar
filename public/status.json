@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-25T07:37:49.711452-04:00",
-  "count": 756,
-  "cancelled": 129,
+  "generated": "2026-10-25T12:27:51.702174-04:00",
+  "count": 752,
+  "cancelled": 133,
   "regions": {
-    "us": 597,
+    "us": 593,
     "europe": 156,
     "mexico": 3
   },
