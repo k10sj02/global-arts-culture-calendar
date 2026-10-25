@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-25T00:47:45.668176-04:00",
-  "count": 846,
-  "cancelled": 30,
+  "generated": "2026-10-25T07:37:49.711452-04:00",
+  "count": 756,
+  "cancelled": 129,
   "regions": {
-    "us": 664,
-    "europe": 179,
+    "us": 597,
+    "europe": 156,
     "mexico": 3
   },
   "sources": {
@@ -12,10 +12,10 @@
     "brown-arts": 13,
     "chicago-humanities": 16,
     "harvard-film-archive": 38,
-    "gwu-arts": 107,
+    "gwu-arts": 104,
     "fringearts": 1,
     "redcat": 27,
-    "berkeley-arts": 18,
+    "berkeley-arts": 29,
     "northwest-film-forum": 121,
     "artsatl": 223,
     "noma": 15,

@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 SUMMARY:Ensamble de flautas  - Concierto — Mexico City
 DTSTART;TZID="UTC-06:00":20261024T160000
-DTSTAMP:20261025T044745Z
+DTSTAMP:20261025T113749Z
 UID:25ea4659a612853ac04514b90721@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Lidia Guerberof Hahn\, clavecn - Compositores espaoles.  Catalua\,
   Andaluca\, Pas Vasco\, Navarra\, Aragn\, Castilla — Mexico City
 DTSTART;TZID="UTC-06:00":20261024T180000
-DTSTAMP:20261025T044745Z
+DTSTAMP:20261025T113749Z
 UID:a2f1fcc614dfafa955563c1bdad7@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Orquesta Sinfnica de Yucatn  - Alfonso Scarano\, director artstico
   — Mexico City
 DTSTART;TZID="UTC-06:00":20261024T190000
-DTSTAMP:20261025T044745Z
+DTSTAMP:20261025T113749Z
 UID:2fc4eadce554f30f38d8ee1c09a1@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts\,Mexico City\,Mexico
 DESCRIPTION:Category: Arts\nOriginal listing: https://inba.gob.mx/activida
