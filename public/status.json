@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-26T00:53:06.610375-04:00",
-  "count": 760,
-  "cancelled": 22,
+  "generated": "2026-10-26T09:10:23.666411-04:00",
+  "count": 727,
+  "cancelled": 67,
   "regions": {
-    "us": 604,
-    "europe": 156,
+    "us": 580,
+    "europe": 147,
     "mexico": 0
   },
   "sources": {
@@ -15,15 +15,15 @@
     "gwu-arts": 106,
     "fringearts": 1,
     "redcat": 26,
-    "berkeley-arts": 9,
+    "berkeley-arts": 18,
     "northwest-film-forum": 116,
     "artsatl": 223,
     "noma": 14,
     "cac-new-orleans": 4,
-    "ica-london": 1,
+    "ica-london": 3,
     "matadero-madrid": 8,
     "cccb": 92,
-    "silent-green": 43
+    "silent-green": 44
   },
   "errors": {
     "inbal": "Client error '403 Forbidden' for url 'https://inba.gob.mx/cartelera/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
