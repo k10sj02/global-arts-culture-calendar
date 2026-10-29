@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-29T01:53:12.547471-04:00",
-  "count": 768,
-  "cancelled": 16,
+  "generated": "2026-10-29T09:08:43.574706-04:00",
+  "count": 755,
+  "cancelled": 43,
   "regions": {
-    "us": 599,
-    "europe": 169,
+    "us": 592,
+    "europe": 163,
     "mexico": 0
   },
   "sources": {
@@ -12,20 +12,20 @@
     "brown-arts": 10,
     "chicago-humanities": 16,
     "harvard-film-archive": 36,
-    "gwu-arts": 116,
+    "gwu-arts": 114,
     "redcat": 26,
+    "berkeley-arts": 16,
     "northwest-film-forum": 112,
-    "noma": 13,
+    "artsatl": 215,
     "cac-new-orleans": 3,
     "ica-london": 3,
     "matadero-madrid": 13,
     "cccb": 104,
-    "silent-green": 42
+    "silent-green": 43
   },
   "errors": {
     "fringearts": "No current FringeArts events found",
-    "berkeley-arts": "No current UC Berkeley arts events found",
-    "artsatl": "Client error '429 Too Many Requests' for url 'https://www.artsatl.org/wp-json/tribe/events/v1/events?per_page=50&page=1&start_date=2026-10-29&end_date=2027-10-29'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "noma": "Server error '500 Internal Server Error' for url 'https://noma.org/wp-json/tribe/events/v1/events?per_page=50&page=4'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
     "inbal": "Client error '403 Forbidden' for url 'https://inba.gob.mx/cartelera/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   }
 }
