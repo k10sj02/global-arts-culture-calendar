@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-29T09:08:43.574706-04:00",
-  "count": 755,
-  "cancelled": 43,
+  "generated": "2026-10-29T18:48:26.156372-04:00",
+  "count": 737,
+  "cancelled": 69,
   "regions": {
-    "us": 592,
-    "europe": 163,
+    "us": 573,
+    "europe": 164,
     "mexico": 0
   },
   "sources": {
@@ -14,18 +14,18 @@
     "harvard-film-archive": 36,
     "gwu-arts": 114,
     "redcat": 26,
-    "berkeley-arts": 16,
-    "northwest-film-forum": 112,
+    "berkeley-arts": 20,
+    "northwest-film-forum": 115,
     "artsatl": 215,
+    "noma": 13,
     "cac-new-orleans": 3,
     "ica-london": 3,
     "matadero-madrid": 13,
     "cccb": 104,
-    "silent-green": 43
+    "silent-green": 44
   },
   "errors": {
     "fringearts": "No current FringeArts events found",
-    "noma": "Server error '500 Internal Server Error' for url 'https://noma.org/wp-json/tribe/events/v1/events?per_page=50&page=4'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
     "inbal": "Client error '403 Forbidden' for url 'https://inba.gob.mx/cartelera/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   }
 }
