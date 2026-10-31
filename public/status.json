@@ -1,15 +1,15 @@
 {
-  "generated": "2026-10-31T08:39:11.715716-04:00",
-  "count": 753,
-  "cancelled": 63,
+  "generated": "2026-10-31T17:39:39.428535-04:00",
+  "count": 752,
+  "cancelled": 68,
   "regions": {
-    "us": 596,
-    "europe": 157,
+    "us": 594,
+    "europe": 158,
     "mexico": 0
   },
   "sources": {
     "poetry-project": 7,
-    "brown-arts": 12,
+    "brown-arts": 13,
     "chicago-humanities": 16,
     "harvard-film-archive": 35,
     "gwu-arts": 119,
@@ -21,7 +21,7 @@
     "cac-new-orleans": 2,
     "ica-london": 3,
     "matadero-madrid": 8,
-    "cccb": 102,
+    "cccb": 103,
     "silent-green": 44
   },
   "errors": {
