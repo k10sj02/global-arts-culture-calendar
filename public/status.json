@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-30T18:24:53.289617-04:00",
-  "count": 746,
-  "cancelled": 57,
+  "generated": "2026-10-31T01:50:31.814706-04:00",
+  "count": 779,
+  "cancelled": 12,
   "regions": {
-    "us": 585,
-    "europe": 161,
+    "us": 617,
+    "europe": 162,
     "mexico": 0
   },
   "sources": {
-    "poetry-project": 7,
-    "brown-arts": 10,
+    "brown-arts": 12,
     "chicago-humanities": 16,
     "gwu-arts": 121,
     "redcat": 26,
-    "berkeley-arts": 25,
-    "northwest-film-forum": 116,
-    "artsatl": 218,
+    "berkeley-arts": 9,
+    "northwest-film-forum": 115,
+    "artsatl": 216,
     "noma": 12,
     "cac-new-orleans": 2,
     "ica-london": 3,
-    "matadero-madrid": 12,
+    "matadero-madrid": 8,
     "cccb": 102,
     "silent-green": 44
   },
   "errors": {
+    "poetry-project": "timed out",
     "harvard-film-archive": "timed out",
     "fringearts": "No current FringeArts events found",
     "inbal": "timed out"
