@@ -1,125 +1,6 @@
 {
-  "updated": "2026-11-01T08:33:04.064205-05:00",
+  "updated": "2026-11-01T17:05:47.081531-05:00",
   "events": {
-    "3400e9451fa4b3388dc5da612b01@global-arts-culture": {
-      "source": "poetry-project",
-      "source_id": "https://www.poetryproject.org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-avant-garde-and-the-left-2026-11-02T00:00:00-05:00",
-      "title": "\"The future exists for the most part in the present\": On Poetry, the Avant-Garde, and the Left",
-      "start": "2026-11-02T00:00:00-05:00",
-      "end": null,
-      "venue": "St. Mark’s Church",
-      "address": "131 E 10th St, New York, NY 10003",
-      "city": "New York",
-      "country": "United States",
-      "region": "us",
-      "category": "Reading",
-      "url": "https://www.poetryproject.org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-avant-garde-and-the-left",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f7ddd5286587cebf7caf6cd7b299@global-arts-culture": {
-      "source": "poetry-project",
-      "source_id": "https://www.poetryproject.org/events/christeene-geo-wyex-2026-11-09T20:00:00-05:00",
-      "title": "Christeene + Geo Wyex",
-      "start": "2026-11-09T20:00:00-05:00",
-      "end": null,
-      "venue": "St. Mark’s Church",
-      "address": "131 E 10th St, New York, NY 10003",
-      "city": "New York",
-      "country": "United States",
-      "region": "us",
-      "category": "Reading",
-      "url": "https://www.poetryproject.org/events/christeene-geo-wyex",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f0fc1655c74ed74f377186b98181@global-arts-culture": {
-      "source": "poetry-project",
-      "source_id": "https://www.poetryproject.org/events/sophia-dahlin-harron-walker-2026-11-16T20:00:00-05:00",
-      "title": "Sophia Dahlin + Harron Walker",
-      "start": "2026-11-16T20:00:00-05:00",
-      "end": null,
-      "venue": "St. Mark’s Church",
-      "address": "131 E 10th St, New York, NY 10003",
-      "city": "New York",
-      "country": "United States",
-      "region": "us",
-      "category": "Reading",
-      "url": "https://www.poetryproject.org/events/sophia-dahlin-harron-walker",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "5607d5a72c7f6772a173070923cd@global-arts-culture": {
-      "source": "poetry-project",
-      "source_id": "https://www.poetryproject.org/events/amy-ching-yan-lam-jacqueline-waters-2026-11-18T20:00:00-05:00",
-      "title": "Amy Ching-Yan Lam + Jacqueline Waters",
-      "start": "2026-11-18T20:00:00-05:00",
-      "end": null,
-      "venue": "St. Mark’s Church",
-      "address": "131 E 10th St, New York, NY 10003",
-      "city": "New York",
-      "country": "United States",
-      "region": "us",
-      "category": "Reading",
-      "url": "https://www.poetryproject.org/events/amy-ching-yan-lam-jacqueline-waters",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ca3c40327c0236cb41a5128f9935@global-arts-culture": {
-      "source": "poetry-project",
-      "source_id": "https://www.poetryproject.org/events/crackhead-barney-ann-liv-young-2026-11-20T20:00:00-05:00",
-      "title": "Crackhead Barney + Ann Liv Young",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": null,
-      "venue": "St. Mark’s Church",
-      "address": "131 E 10th St, New York, NY 10003",
-      "city": "New York",
-      "country": "United States",
-      "region": "us",
-      "category": "Reading",
-      "url": "https://www.poetryproject.org/events/crackhead-barney-ann-liv-young",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "74ee0c22537578607ca2c98bc02f@global-arts-culture": {
-      "source": "poetry-project",
-      "source_id": "https://www.poetryproject.org/events/carolina-ebeid-mark-nowak-2026-12-02T20:00:00-05:00",
-      "title": "Carolina Ebeid + Mark Nowak",
-      "start": "2026-12-02T20:00:00-05:00",
-      "end": null,
-      "venue": "St. Mark’s Church",
-      "address": "131 E 10th St, New York, NY 10003",
-      "city": "New York",
-      "country": "United States",
-      "region": "us",
-      "category": "Reading",
-      "url": "https://www.poetryproject.org/events/carolina-ebeid-mark-nowak",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture": {
-      "source": "poetry-project",
-      "source_id": "https://www.poetryproject.org/events/s-an-d-henry-smith-julie-patton-2026-12-04T20:00:00-05:00",
-      "title": "S*an D. Henry-Smith + julie ezelle patton",
-      "start": "2026-12-04T20:00:00-05:00",
-      "end": null,
-      "venue": "St. Mark’s Church",
-      "address": "131 E 10th St, New York, NY 10003",
-      "city": "New York",
-      "country": "United States",
-      "region": "us",
-      "category": "Reading",
-      "url": "https://www.poetryproject.org/events/s-an-d-henry-smith-julie-patton",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "d33f9e44d4252837e886c1f0361e@global-arts-culture": {
       "source": "brown-arts",
       "source_id": "338354-2026-11-01T00:00:00-04:00",
@@ -3911,20 +3792,20 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "bb8866c23af5d6fc244c335c4f0a@global-arts-culture": {
+    "822d1c7c3a4a1ee0a36ac97a4b88@global-arts-culture": {
       "source": "berkeley-arts",
-      "source_id": "334143-2026-11-02T00:00:00-08:00",
+      "source_id": "334133-2026-11-02T00:00:00-08:00",
       "title": "Video Exhibition: Kōmij Mour Ijin / Our Life Is Here",
       "start": "2026-11-02T00:00:00-08:00",
       "end": null,
-      "venue": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
-      "address": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "venue": "Anthropology & Art Building",
+      "address": "Anthropology & Art Building",
       "city": "Berkeley/San Francisco",
       "country": "United States",
       "region": "us",
       "category": "Exhibits",
-      "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
-      "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
+      "url": "https://events.berkeley.edu/live/events/333518-video-exhibition-kmij-mour-ijin-our-life-is-here",
+      "description": "Worth Ryder Art Gallery and VIDRINE present four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific. All were made in the wake of the 2023 Kōmij Mour Ijin / Our Life Is Here voyage across the Marshall Islands.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -12768,6 +12649,142 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "3400e9451fa4b3388dc5da612b01@global-arts-culture": {
+      "source": "poetry-project",
+      "source_id": "https://www.poetryproject.org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-avant-garde-and-the-left-2026-11-02T00:00:00-05:00",
+      "title": "\"The future exists for the most part in the present\": On Poetry, the Avant-Garde, and the Left",
+      "start": "2026-11-02T00:00:00-05:00",
+      "end": null,
+      "venue": "St. Mark’s Church",
+      "address": "131 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "country": "United States",
+      "region": "us",
+      "category": "Reading",
+      "url": "https://www.poetryproject.org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-avant-garde-and-the-left",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f7ddd5286587cebf7caf6cd7b299@global-arts-culture": {
+      "source": "poetry-project",
+      "source_id": "https://www.poetryproject.org/events/christeene-geo-wyex-2026-11-09T20:00:00-05:00",
+      "title": "Christeene + Geo Wyex",
+      "start": "2026-11-09T20:00:00-05:00",
+      "end": null,
+      "venue": "St. Mark’s Church",
+      "address": "131 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "country": "United States",
+      "region": "us",
+      "category": "Reading",
+      "url": "https://www.poetryproject.org/events/christeene-geo-wyex",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f0fc1655c74ed74f377186b98181@global-arts-culture": {
+      "source": "poetry-project",
+      "source_id": "https://www.poetryproject.org/events/sophia-dahlin-harron-walker-2026-11-16T20:00:00-05:00",
+      "title": "Sophia Dahlin + Harron Walker",
+      "start": "2026-11-16T20:00:00-05:00",
+      "end": null,
+      "venue": "St. Mark’s Church",
+      "address": "131 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "country": "United States",
+      "region": "us",
+      "category": "Reading",
+      "url": "https://www.poetryproject.org/events/sophia-dahlin-harron-walker",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5607d5a72c7f6772a173070923cd@global-arts-culture": {
+      "source": "poetry-project",
+      "source_id": "https://www.poetryproject.org/events/amy-ching-yan-lam-jacqueline-waters-2026-11-18T20:00:00-05:00",
+      "title": "Amy Ching-Yan Lam + Jacqueline Waters",
+      "start": "2026-11-18T20:00:00-05:00",
+      "end": null,
+      "venue": "St. Mark’s Church",
+      "address": "131 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "country": "United States",
+      "region": "us",
+      "category": "Reading",
+      "url": "https://www.poetryproject.org/events/amy-ching-yan-lam-jacqueline-waters",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "ca3c40327c0236cb41a5128f9935@global-arts-culture": {
+      "source": "poetry-project",
+      "source_id": "https://www.poetryproject.org/events/crackhead-barney-ann-liv-young-2026-11-20T20:00:00-05:00",
+      "title": "Crackhead Barney + Ann Liv Young",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": null,
+      "venue": "St. Mark’s Church",
+      "address": "131 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "country": "United States",
+      "region": "us",
+      "category": "Reading",
+      "url": "https://www.poetryproject.org/events/crackhead-barney-ann-liv-young",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "74ee0c22537578607ca2c98bc02f@global-arts-culture": {
+      "source": "poetry-project",
+      "source_id": "https://www.poetryproject.org/events/carolina-ebeid-mark-nowak-2026-12-02T20:00:00-05:00",
+      "title": "Carolina Ebeid + Mark Nowak",
+      "start": "2026-12-02T20:00:00-05:00",
+      "end": null,
+      "venue": "St. Mark’s Church",
+      "address": "131 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "country": "United States",
+      "region": "us",
+      "category": "Reading",
+      "url": "https://www.poetryproject.org/events/carolina-ebeid-mark-nowak",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture": {
+      "source": "poetry-project",
+      "source_id": "https://www.poetryproject.org/events/s-an-d-henry-smith-julie-patton-2026-12-04T20:00:00-05:00",
+      "title": "S*an D. Henry-Smith + julie ezelle patton",
+      "start": "2026-12-04T20:00:00-05:00",
+      "end": null,
+      "venue": "St. Mark’s Church",
+      "address": "131 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "country": "United States",
+      "region": "us",
+      "category": "Reading",
+      "url": "https://www.poetryproject.org/events/s-an-d-henry-smith-julie-patton",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "bb8866c23af5d6fc244c335c4f0a@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334143-2026-11-02T00:00:00-08:00",
+      "title": "Video Exhibition: Kōmij Mour Ijin / Our Life Is Here",
+      "start": "2026-11-02T00:00:00-08:00",
+      "end": null,
+      "venue": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "address": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
+      "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "2f35078768509a51c61a69cd753d@global-arts-culture": {
       "source": "berkeley-arts",
       "source_id": "309712-2026-11-01T00:00:00-07:00",
@@ -12782,8 +12799,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/AC/event/309712-exhibit-divestment-now-student-activism-and-the",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "00f5aaf1b175944e781651738efa@global-arts-culture": {
       "source": "berkeley-arts",
@@ -12799,8 +12816,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ba9fdc26e283360f1746bd6ecb49@global-arts-culture": {
       "source": "berkeley-arts",
@@ -12816,8 +12833,8 @@
       "category": "Films",
       "url": "https://events.berkeley.edu/BAMPFA/event/331130-film-screening-goodfellas",
       "description": "Working with trusted accomplices, including editor Thelma Schoonmaker, cinematographer Michael Ballhaus, actors Robert De Niro and Joe Pesci, and brilliant first-time collaborators Ray Liotta and Lorraine Bracco, Martin Scorsese combines varied cinematic styles, camera techniques, and a precisely executed collage of popular music, adapting Nicholas Pileggi’s chronicle of real-life Mafia associate Henry Hill. Hurtling through some twenty-five years of “family” life, the riveting Liotta gives voice to Hill’s chilling and funny first-person account. As focused on quotidian details as on dramatic moments, Scorsese wanted the movie to have a documentary feel, “as if you had 16mm cameras with thes",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0529e065c191f9343b8258650c9c@global-arts-culture": {
       "source": "berkeley-arts",
@@ -12833,8 +12850,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/309073-exhibit-divestment-now-student-activism-and-the-anti-",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8b918f822c18ada8bcb546d2a1c8@global-arts-culture": {
       "source": "brown-arts",
@@ -12851,7 +12868,7 @@
       "url": "https://events.brown.edu/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh",
       "description": "In her practice, Dayanita Singh experiments with form through photography, architecture, and books to create exhibitions. Using these mediums, Singh extends an invitation to audiences to question how books, and book-making, might transform a space into an exhibition. This show takes cues from Singh’s artist-led approach to exhibitions to explore the relationship between “making” and “reading.” With Singh’s Book Building (2022) as a blueprint, this exhibition analyzes book-making as an artistic practice, material form, and conceptual process. Works in the exhibition span Singh’s career, including Book Building (2022), Blue Book (2009), File Room (2013), Museum of Chance (2014), and Sent a Let",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "74904d913ad57ac4f9ae263533ec@global-arts-culture": {
       "source": "harvard-film-archive",
@@ -12868,7 +12885,7 @@
       "url": "https://harvardfilmarchive.org/calendar/daughter-of-darkness-2026-10",
       "description": "Great Expectations: British Postwar Cinema, ... — Directed by Lance Comfort,                     1948",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "d8bf19a76d7da712e4d67b3bf924@global-arts-culture": {
       "source": "harvard-film-archive",
@@ -12885,7 +12902,7 @@
       "url": "https://harvardfilmarchive.org/calendar/the-three-weird-sisters-2026-10",
       "description": "Great Expectations: British Postwar Cinema, ... — Directed by Daniel Birt,                     1948",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "156b20e86d5672c5a22cfa3f864e@global-arts-culture": {
       "source": "gwu-arts",
@@ -12902,7 +12919,7 @@
       "url": "https://calendar.gwu.edu/event/a-gift-in-motion",
       "description": "A multidisciplinary showcase from the artists and scholars of the full-time faculty and staff at the Corcoran School of the Arts & Design. A Gift In Motion loosely draws from Robin Wall Kimmerer’s book The Serviceberry which uplifts Indigenous frameworks of the natural world to advance the possibilities in collectivity, reciprocity, and the mindset of abundance. These are anti-capitalist models and theories that provide insight into the systems of power we negotiate, but also offer a lens on how we individually move through our daily lives—together—through historically fraught landscapes. A keen reminder that working with, for, and because of each other remains the most human motivation, eve",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "1f84b663ff709f7b530c02768a17@global-arts-culture": {
       "source": "gwu-arts",
@@ -12919,7 +12936,7 @@
       "url": "https://calendar.gwu.edu/event/brady-art-gallery-tour-unfossilizing-african-art-and-cracks-reforms",
       "description": "Take a student-led tour of the exhibitions currently on view at the Brady Art Gallery: \"Unfossilizing African Art\" and \"Cracks and Reforms\". Unfossilizing African Art recontextualizes African material culture objects that have been held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students across four seminar courses conducted original research to deepen understanding of the collection and reconsider how these objects are interpreted and exhibited. Cracks & Reforms: The 1920s Through the GW Collection examines a decade shaped by political upheaval, social transformation, migration, modernization, and cultural redefinition. This exhibition, developed",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "b5d38591883c3be9c8845f54496f@global-arts-culture": {
       "source": "gwu-arts",
@@ -12936,7 +12953,7 @@
       "url": "https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect",
       "description": "REFLECT traces the evolution of artist Cannuap Hanska Luger’s Mirror Shield Project . In 2016, when the Dakota Access Pipeline threatened the waters of his ancestral homelands, Luger circulated a video demonstrating how to make “mirror shields” from inexpensive materials. Conceived during the Indigenous-led resistance at Standing Rock, North Dakota, the tutorial functioned as a call to collective action, an invitation for people across the country to stand in solidarity with the Water Protectors. Carried by Water Protectors in frontline actions and collective formations, the mirrored surfaces offered protection while redirecting the field of vision. More than a thousand mirror shields were c",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "57c7fdfd9f535834670227e4781b@global-arts-culture": {
       "source": "gwu-arts",
@@ -12953,7 +12970,7 @@
       "url": "https://calendar.gwu.edu/event/cracks-reforms-the-1920s-through-the-gw-collection",
       "description": "The 1920s emerged as a decade suspended between collapse and reconstruction, an era marked by “cracks and reforms” that ushered in a profound reconfiguration of the visual world.  During this period marked by civil transformation and political upheaval, artists, journalists, and makers had opportunities to reconstruct both individual and collective identities. A century later, Cracks & Reforms presents a distinct cross-section of this period, revealing global currents of migration, modernization, and cultural redefinition through the lens of the GW Collection. Students led by Associate Professor Bibiana Obler selected works to study and exhibit, their research eventually leading to unified t",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "542e7e5577b8b77a2d2182a820ca@global-arts-culture": {
       "source": "gwu-arts",
@@ -12970,7 +12987,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "f36c06c66b625f521a8f42b59ea4@global-arts-culture": {
       "source": "gwu-arts",
@@ -12987,7 +13004,7 @@
       "url": "https://calendar.gwu.edu/event/unfossilizing-african-art",
       "description": "Presented after extensive research, this exhibition recontextualizes African material culture objects held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students from four seminar courses offered between Fall 2024 and Spring 2026, conducted original research to deepen understanding of the university’s holdings and update how we interpret and exhibit these objects. The exhibition features 37 tangible heritage objects, ranging from an Egúngún Paaka from Yorubaland to a Kii [brass pipe], attributed to the Baumum people of Cameroon, accompanied by images and video that illuminate their rich histories. Research on the entire collection is presented in an ",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "1b89925ad74c3971e164b6f660ab@global-arts-culture": {
       "source": "gwu-arts",
@@ -13004,7 +13021,7 @@
       "url": "https://calendar.gwu.edu/event/mcp-servers-are-a-new-attack-surface-how-to-securely-build-and-use-them-at-bsides-northern-virginia",
       "description": "Hear from GW Engineering alumnus Saquib Saifee , M.S. '23, Security Engineer at IBM, CISSP, eCPPT, at BSides Northern Virginia in Arlington, VA! On October 31, he will present \"MCP Servers Are a New Attack Surface: How to Securely Build and Use Them\" to an engaged audience of security engineers and AI practitioners. Model Context Protocol (MCP) is only as secure as the server you build it on. In under two years, it has become the standard integration layer connecting AI agents to enterprise systems, databases, source code, and production APIs. However, an agent crosses a trust boundary on every tool call and resource fetch, and the protocol leaves the server to decide what is allowed. If the",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "c10b7019d80f8530ea434d07136d@global-arts-culture": {
       "source": "gwu-arts",
@@ -13021,7 +13038,7 @@
       "url": "https://calendar.gwu.edu/event/melancholy-play-by-sarah-ruhl",
       "description": "Directed by Jodi I. Kanter Music by Douglas Boyce Feeling sad has never been this sexy. Sarah Ruhl’s The Melancholy Play turns depression into an aphrodisiac and sadness into an art form. It’s a contemporary farce about a woman so beautifully blue, everyone is falling in love with her. Warning: Side effects may include sudden tree-nut transformations and unexpected laughing fits. Produced by the Corcoran Program of Theatre & Dance and the Corcoran Program of Music",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0b3d7dcbe5060d8a2e4873508313@global-arts-culture": {
       "source": "gwu-arts",
@@ -13038,7 +13055,7 @@
       "url": "https://calendar.gwu.edu/event/miscast-halloween-cabaret",
       "description": "A vocal showcase of the singers from the GW Program of Music - just in time to kick off Halloween. BOO! The Corcoran Program of Music says \"trick or treat\" with Miscast Halloween Cabaret , as students take the stage singing songs against type! Talk about being in \"costume\"! All under the direction of Prof. Millicent Scarlett and accompanist Patrick Merrill. Come join the fun!!",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0f1d9b37ff4bb902fb2f095cba5e@global-arts-culture": {
       "source": "gwu-arts",
@@ -13055,7 +13072,7 @@
       "url": "https://calendar.gwu.edu/event/melancholy-play-by-sarah-ruhl",
       "description": "Directed by Jodi I. Kanter Music by Douglas Boyce Feeling sad has never been this sexy. Sarah Ruhl’s The Melancholy Play turns depression into an aphrodisiac and sadness into an art form. It’s a contemporary farce about a woman so beautifully blue, everyone is falling in love with her. Warning: Side effects may include sudden tree-nut transformations and unexpected laughing fits. Produced by the Corcoran Program of Theatre & Dance and the Corcoran Program of Music",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "56d9b0b9d026423c9d0b64269177@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13072,7 +13089,7 @@
       "url": "https://events.berkeley.edu/Library/event/288815-centering-philippine-and-filipinx-american",
       "description": "The Bancroft Library’s collections of materials relating to the Philippines span nearly 500 years. Highlights in this exhibit include a transcript of an Inquisitorial trial from 1646, a prayer book written in the Cebuano language, and UC Berkeley Filipino student publications from 1905 to the present. The exhibit also features selections from the personal papers of acclaimed author Jessica Hagedorn, including typewritten drafts of her novels, poetry, song lyrics, and a screenplay, as well as childhood drawings and writings. Open hours may vary. Please view the The Bancroft Library hours page for the most up-to-date information.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "119ac6f046f8de21f5218e9079ad@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13089,7 +13106,7 @@
       "url": "https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pueblo-for-and-by-the-people-rev",
       "description": "The exhibition, De y para el pueblo / By and for the People: Revolutionary Mexican Prints, features highlights from The Bancroft Library’s extensive collection of prints.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "2e2ce01a81c1afd977417318564a@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13106,7 +13123,7 @@
       "url": "https://events.berkeley.edu/AC/event/309712-exhibit-divestment-now-student-activism-and-the",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "39f7c532cb91a5e7d9e3e19e60e1@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13123,7 +13140,7 @@
       "url": "https://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-ijin-our-life-is-here",
       "description": "Kōmij Mour Ijin / Our Life Is Here at Doe Library brings together reproductions of works and interpretive material from the 2023 voyage, exploring climate change, the legacy of US nuclear testing, and Marshallese knowledge and resilience.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "a68ce1633560617a877dd02da61f@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13140,7 +13157,7 @@
       "url": "https://events.berkeley.edu/art/event/333517-exit-signs-fall-2026-advanced-studio-and-critique-pro",
       "description": "Worth Ryder Art Gallery and the Department of Art Practice are excited to announce Exit Signs , a group exhibition featuring multidisciplinary artworks from students in the Department of Art Practice’s Fall 2026 Advanced Studio Critique Program.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "4092123509395d62ff73d0583f66@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13157,7 +13174,7 @@
       "url": "https://events.berkeley.edu/live/events/330194-photography-installation-remembering-the-future",
       "description": "At Giannini Hall, 36 photographs selected from the recently published Remembering the Future: Nuclear Testing, Rising Seas, and The Marshall Islands (Radius Books, © 2026) by Mark Klett and William L. Fox extend the two men’s decades-long collaboration tracing the nuclear history of the American West and the broader Pacific sphere.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "84d705e19373188a223e44db20e6@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13174,7 +13191,7 @@
       "url": "https://events.berkeley.edu/live/events/333518-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "Worth Ryder Art Gallery and VIDRINE present four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific. All were made in the wake of the 2023 Kōmij Mour Ijin / Our Life Is Here voyage across the Marshall Islands.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0375aa4f7dfa3d71822db37d45fd@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13191,7 +13208,7 @@
       "url": "https://events.berkeley.edu/BAMPFA/event/336514-performance-entanglement-steffani-jemison-and",
       "description": "Artist Steffani Jemison and choreographer Leslie Cuyjet perform a collaborative piece that reflects on the dynamic artistic relationship between Maren Hassinger and Senga Nengudi. Performing alongside projections of archival images depicting Hassinger and Nengudi’s collaborations, Jemison and Cuyjet improvise together with text, dance, and thread. The performance meditates on the intense intimacy and attunement involved in longstanding artistic collaborations like Hassinger and Nengudi’s, paying homage to the powerful intergenerational legacy of their collective works.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "38ede7569fbee762648f08955591@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13208,7 +13225,7 @@
       "url": "https://events.berkeley.edu/BAMPFA/event/328135-film-screening-vivre-sa-vie",
       "description": "Vivre sa vie depicts Nana (Anna Karina), a naive shopgirl, at the brief, flickering moment when she takes responsibility for her life. Nana takes to the streets, becoming a prostitute and a student of human emotions. Brechtian in its use of twelve dispassionately announced tableaux, Vivre sa vie is also intensely personal. Nana’s crucible is Jean-Luc Godard’s existential epiphany: Nana struggles to see, and say, things as they are, bravely concluding, “All is good.” In the famous scene in a movie theater, Nana’s rapt attention to Carl Theodor Dreyer’s The Passion of Joan of Arc is a tribute to another who sacrificed control to take control.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "203df2d20e052d1de678d7f0fb1e@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13225,7 +13242,7 @@
       "url": "https://events.berkeley.edu/BAMPFA/event/328138-film-screening-kwaidan",
       "description": "Breathtakingly photographed on hand-painted sets, Kwaidan is at once a Japanese woodcut writ large, and an abstract wash of luminescent colors that seem to come from another world. An electronic soundtrack by avant-garde composer Toru Takemitsu plays hauntingly with natural sounds—crickets, rain, the cracking of wood, the loud silence of snow. Yet the stories—four of Lafcadio Hearn’s ghostly tales—strangely contradict this plastic splendor in their simple, aching humanity. All are tales of mortals caught by forces beyond their comprehension when the supernatural world intervenes in their lives. This version of Kwaidan is the original three-hour Director’s Cut.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "47d83997f74739b31de99b09b8f2@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13242,7 +13259,7 @@
       "url": "https://nwfilmforum.org/events/2026-collide-o-scope-halloween-show/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "ce13b1af4ede73a411d0a438eec7@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13259,7 +13276,7 @@
       "url": "https://nwfilmforum.org/events/2026-collide-o-scope-halloween-show/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0ae39de95c98e0a650bce2aae606@global-arts-culture": {
       "source": "artsatl",
@@ -13276,7 +13293,7 @@
       "url": "https://www.artsatl.org/event/between-here-infinity-celebrating-30-years-of-the-spelman-college-art-collection/2026-10-31/",
       "description": "Between Here & Infinity: Celebrating 30 Years of the Spelman College Art Collection, an expansive exhibition featuring nearly seventy works by Black women artists who shape our permanent collection and define our mission. Beginning September 9, 2026, visitors to the Spelman College Museum will have opportunities to discover art and artists from the collection. The first exhibition to span both the museum’s galleries, this exhibition will open in two waves: at the Bank of America Gallery at the Mary Schmidt Campbell Center for Innovation & the Arts, opening September 9, 2026, and in the gallery in the Camille Olivia Hanks Cosby, Ed.D. Academic Center on October 2, 2026. Between Here & Infinit",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "4f3004fd9e9af1a7d98db73c43ca@global-arts-culture": {
       "source": "artsatl",
@@ -13293,7 +13310,7 @@
       "url": "https://www.artsatl.org/event/%e2%9a%94%ef%b8%8f-battle-of-the-generations-%e2%9a%94%ef%b8%8f-hosted-by-uptown-market-atlanta/2026-10-31/",
       "description": "⚔️ BATTLE OF THE GENERATIONS! ⚔️ Hosted by Uptown Market Atlanta Every other Saturday… It’s time to pick a side! We’re turning The Lawn at Uptown into a music battlefield. Three DJs go head-to-head, armed with the best tracks from three iconic eras. 🎧 With a flip of the switch, tune into your favorite music. The color of your headphones changes to indicate what you’re listening to. Look around and see which DJ/Color is winning. 🟢 Green DJ – Today’s Hits: Pop, K Pop, Hip Hop, & Latin hits. 🔴 Red DJ – 90’s & 2K Throwbacks: Boy Bands, Divas, Punk, Alternative. 🔵 Blue DJ – 70’s & 80’s Classics: Disco, Funk, Rock, & New wave. Your DJ Contenders are: DJ Sayers | DJ Tuurnuup | DJ Blaq Mozart ⚔️ The",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "d9d48a188911d84117d9814bbbb4@global-arts-culture": {
       "source": "artsatl",
@@ -13310,7 +13327,7 @@
       "url": "https://www.artsatl.org/event/a-fine-line/2026-10-31/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "b4e5f046bfbb1d857f7a050d21b3@global-arts-culture": {
       "source": "artsatl",
@@ -13327,7 +13344,7 @@
       "url": "https://www.artsatl.org/event/illumine-2026/2026-10-31/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0722fd5177f825eae6ed5e8fa8a5@global-arts-culture": {
       "source": "artsatl",
@@ -13344,7 +13361,7 @@
       "url": "https://www.artsatl.org/event/the-classic-improv-show-12/2026-10-31/",
       "description": "Whole World Improv Theatre Presents: The Award-Winning Classic Improv Show! Get ready for an electrifying night of spontaneous laughter with Atlanta’s best improv comedy! Whole World Improv Theatre, your favorite little venue nestled in the vibrant Heart of Midtown, Atlanta, is thrilled to feature our award-winning improvisers every Friday and Saturday night. Prepare to be amazed as our quick-witted performers transform your audience suggestions into side-splitting scenes, unforgettable characters, and hilarious stories – all made up on the spot, right before your eyes! ARE YOU READY TO PLAY? Wanna pull an all-nighter? 8pm ticket holders can purchase $10 tickets at the door for the 10pm show",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "a2c4054942e487de55d5c9a0acd4@global-arts-culture": {
       "source": "artsatl",
@@ -13361,7 +13378,7 @@
       "url": "https://www.artsatl.org/event/fck-this-im-going-to-church/2026-10-31/",
       "description": "Virginia-Highland Church is proud to present an all new experimental theatre performance devised by local artists titled F*CK THIS, I’M GOING TO CHURCH taking place at Virginia-Highland Church every weekend of March. March 06 – March 28, 2026 Fridays at 8:00pm Saturdays at 3:00pm and 7:00pm F*CK THIS, I’M GOING TO CHURCH is an immersive, experimental theatre experience that reclaims the idea of church as loving community, rejecting religious dogma that preaches shame, judgment, oppression, and abuse. In the midst of our tumultuous political climate and with the rise of harmful Christian nationalism, local Atlanta theatre artists have come together to devise a performance that seeks to disman",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "8ed5490c6a498cd8bcafa442c865@global-arts-culture": {
       "source": "artsatl",
@@ -13378,7 +13395,7 @@
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-10-31/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "02c12ef2d98d03582168d8895e30@global-arts-culture": {
       "source": "artsatl",
@@ -13395,7 +13412,7 @@
       "url": "https://www.artsatl.org/event/spring-street-asylum-an-immersive-halloween-improv-show/",
       "description": "“The doors are open. The patients are waiting. Welcome to visiting hours at Spring Street Asylum. Fluorescent lights buzzing, linoleum peeling, and something rotten behind every closed door. Watch the institution unravel in real time: orderlies who know more than they’re letting on, patients who insist they’re the sane ones, and a staff smiling just a little too hard to be trusted. Every session, every secret, every scream is built live, in the room, right in front of you. From the creators of Night of the Living Improv and The Improv Cult Show: Seek the Truth comes Whole World’s next immersive nightmare. Admission is voluntary. Discharge is not guaranteed. This show is intended for a mature",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "3a4fd90693161dfb64076dd18a6b@global-arts-culture": {
       "source": "artsatl",
@@ -13412,7 +13429,7 @@
       "url": "https://www.artsatl.org/event/the-dynamic-funny-scenes-songs-and-games-5/2026-10-31/",
       "description": "The Dynamic! is an improv show that thrives on chaos, quick thinking, and whatever ideas the audience throws at the cast. Every scene, game, and musical moment is built in real time, and the performers lean into the unexpected with a mix of confidence, silliness, and genuine surprise. They know how to turn a wild suggestion or a joke that goes off the rails into something even funnier, and half the joy is watching them navigate the mess together. The show moves fast, the energy stays high, and no two nights ever feel the same. You help spark the fun, and the cast runs with it to create a comedy experience that feels alive, loose, and completely in the moment.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "e61699b7b19e31456592b8818908@global-arts-culture": {
       "source": "matadero-madrid",
@@ -13429,7 +13446,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/retrospective-filmmaker-lucia-seles",
       "description": "Siempre hasta ser enterrada de verda respetaré a las hermanas Bronte, a los blisters y a las hermanas Ritz.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0f20c73c69bf8732b592e18051e0@global-arts-culture": {
       "source": "matadero-madrid",
@@ -13446,7 +13463,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/retrospective-filmmaker-lucia-seles",
       "description": "Un hombre de Lugo, Europa, termina caminando solo por la estación ferroviaria de La Plata.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "ade33da1ea01a692d62fe22f0bcf@global-arts-culture": {
       "source": "matadero-madrid",
@@ -13463,7 +13480,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/special-halloween-film-series-subjugated-bodies",
       "description": "Una anciana gitana es detenida por la policía por su supuesta relación con el secuestro de un recién nacido y la desaparición de una serie de objetos de una iglesia. Durante el interrogatorio, la mujer se suicida arrojándose por la ventana, no sin antes haberse encomendado al diablo. Como venganza, su espíritu toma el cuerpo de la hija del comisionado de la zona. > Presentación a cargo de Alberto Sedano, comisario del ciclo. > No recomendada para menores de 18 años.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "d80ddd507f49ce2d885e1e5e90cc@global-arts-culture": {
       "source": "matadero-madrid",
@@ -13480,7 +13497,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/what-cannot-be-spoken-about-better-ask-ghost",
       "description": "The Night of the Dead, All Hallows' Eve, Halloween Eve… On October 31, we gather to conclude the project Culturas del duelo al sur de Madrid ( Cultures of Grief in Southern Madrid ) by Inés Plasencia Camps, part of the Intermediae Distribuido programme. It will be a day dedicated to discussing grief as a process that generates culture, art, memory, languages, and belonging along its way. A process shaped by material and political conditions that profoundly affect how we die and grieve, but also by the possibilities that open up when thinking from its heterogeneity and the forms of memory that have brought it to where it is today. Programme Part One (5:00 PM – 7:00 PM) Layla Martínez , Lloron",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "af1c8375922bab6c796b88b1e29e@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13497,7 +13514,7 @@
       "url": "https://events.berkeley.edu/BAMPFA/event/331129-film-screening-the-valiant-ones",
       "description": "A righteous husband-and-wife swordfighting duo is called to protect China from the machinations of Japanese pirates and corrupt officials in King Hu’s masterly work, noted for its forest fight scene set to the moves of a Go match. “A muscleman is not enough; we need a schemer,” one character muses, illuminating the film’s intricate web of betrayals and plots. Pai Ying and Hsu Feng are elegance incarnate as the married couple, a suave, sword-wielding Bogart/Bacall act catching arrows out of midair, foiling assassins, or coolly demonstrating their fighting techniques on an assortment of Ming dynasty stooges.",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "842e961ca42cffeb13854a80ee1a@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13514,7 +13531,7 @@
       "url": "https://events.berkeley.edu/live/events/309073-exhibit-divestment-now-student-activism-and-the-anti-",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "0919ec150acb8ee309077043b9a0@global-arts-culture": {
       "source": "berkeley-arts",
@@ -13531,7 +13548,7 @@
       "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "21ba6877a5c306083b104d591b0f@global-arts-culture": {
       "source": "noma",
@@ -13548,7 +13565,7 @@
       "url": "https://noma.org/event/music-in-the-garden-november-15/",
       "description": "This year, experience the seasons change at NOMA with Music in the Garden! Enjoy local musicians performing alongside artworks new and old in the Sydney and Walda Besthoff Sculpture Garden on Sunday afternoons February 22nd, April 12th, October 25th, and November 15th. More information about the schedule and performers for Sunday, November 15’s Music in the Garden will be available soon. Please check this page for updates. This program is free and open to the public, with registration recommended. Individuals who register will receive notifications of weather-related location changes. Register Now Performance Schedule Schedule and Locations More information about the schedule for this Music ",
       "status": "CANCELLED",
-      "missing_runs": 17
+      "missing_runs": 18
     },
     "a4433e965949a0596aa998f9b375@global-arts-culture": {
       "source": "cccb",
@@ -13565,7 +13582,7 @@
       "url": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi",
       "description": "Dolor femení, resistència i literatura",
       "status": "CANCELLED",
-      "missing_runs": 18
+      "missing_runs": 19
     },
     "e813443dc8aa7e35bff9b8da4b0a@global-arts-culture": {
       "source": "cccb",
@@ -13582,7 +13599,7 @@
       "url": "https://www.cccb.org/en/w/activitats/les-ciutats-i-la-calor-extrema-el-cas-del-golf-persic-i-els-limits-de-ladaptacio",
       "description": "Seminari amb Camille Ammoun",
       "status": "CANCELLED",
-      "missing_runs": 30
+      "missing_runs": 31
     },
     "ae83408c31d5dd01f37221b39e65@global-arts-culture": {
       "source": "artsatl",
@@ -13599,7 +13616,7 @@
       "url": "https://www.artsatl.org/event/author-talk-with-actor-and-author-susan-huckle/",
       "description": "Dr. Beverly J. Armento, an Atlanta author and educator, will moderate what is sure to be a lively discussion about Susan’s #1 New Release debut memoir, The Earth Is Flat?! And Other Things My Mother Taught Me. Reserve your ticket now! This laugh-out-loud and vulnerable debut MOMoir is about a homeschooled Pentecostal girl in the ’90s, her flat-earther mother, and the hilarious, heartbreaking work of figuring out what’s actually true. “Unputdownable” -The Santa Barbara Independent Susan has appeared on Jane the Virgin, The Mindy Project, and hosts L.A. This Week. She earned her B.A. in Journalism and Dramatic Art from UNC-Chapel Hill and a Master of Sustainable Tourism from ASU.",
       "status": "CANCELLED",
-      "missing_runs": 34
+      "missing_runs": 35
     },
     "a748fe429eb4569265069609abcb@global-arts-culture": {
       "source": "cccb",
@@ -13616,7 +13633,7 @@
       "url": "https://www.cccb.org/en/w/activities/literature-and-solidarity-the-power-of-commitment-and-bonds",
       "description": "A morning with Arundhati Roy",
       "status": "CANCELLED",
-      "missing_runs": 43
+      "missing_runs": 44
     },
     "9af50de4397a61e95e9362c9a5f6@global-arts-culture": {
       "source": "cccb",
@@ -13633,7 +13650,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 57
+      "missing_runs": 58
     },
     "7319a709ed610df1b5d67ecab640@global-arts-culture": {
       "source": "cccb",
@@ -13650,7 +13667,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 57
+      "missing_runs": 58
     },
     "b135f0e721ff49f1764efb204d8b@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13667,7 +13684,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 70
+      "missing_runs": 71
     },
     "f9abb91d288be2f693f734e39124@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -13684,7 +13701,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 70
+      "missing_runs": 71
     }
   }
 }
