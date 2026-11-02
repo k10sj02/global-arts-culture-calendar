@@ -6,249 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Global Culture — Atlanta & New Orleans
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
- ge Art Collection — Atlanta
-DTSTART;TZID="UTC-04:00":20261031T120000
-DTEND;TZID="UTC-04:00":20261031T170000
-DTSTAMP:20261101T220547Z
-UID:0ae39de95c98e0a650bce2aae606@global-arts-culture
-CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
-DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
- ollege Art Collection\, an expansive exhibition featuring nearly seventy w
- orks by Black women artists who shape our permanent collection and define 
- our mission. Beginning September 9\, 2026\, visitors to the Spelman Colleg
- e Museum will have opportunities to discover art and artists from the coll
- ection. The first exhibition to span both the museum’s galleries\, this 
- exhibition will open in two waves: at the Bank of America Gallery at the M
- ary Schmidt Campbell Center for Innovation & the Arts\, opening September 
- 9\, 2026\, and in the gallery in the Camille Olivia Hanks Cosby\, Ed.D. Ac
- ademic Center on October 2\, 2026. Between Here & Infinit\nCategory: Art +
-  Design\nOriginal listing: https://www.artsatl.org/event/between-here-infi
- nity-celebrating-30-years-of-the-spelman-college-art-collection/2026-10-31
- /
-LOCATION:Spelman College Museum of Fine Art\, 350 Spelman Ln SW\, Atlanta
- \, 30314
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/between-here-infinity-celebrating-30-yea
- rs-of-the-spelman-college-art-collection/2026-10-31/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⚔️ BATTLE OF THE GENERATIONS! ⚔️ Hosted by Uptown Market A
- tlanta — Atlanta
-DTSTART;TZID="UTC-04:00":20261031T170000
-DTEND;TZID="UTC-04:00":20261031T210000
-DTSTAMP:20261101T220547Z
-UID:4f3004fd9e9af1a7d98db73c43ca@global-arts-culture
-CATEGORIES:Arts & Culture\,Dance\,Atlanta\,United States
-DESCRIPTION:⚔️ BATTLE OF THE GENERATIONS! ⚔️ Hosted by Uptown Mark
- et Atlanta Every other Saturday… It’s time to pick a side! We’re tur
- ning The Lawn at Uptown into a music battlefield. Three DJs go head-to-hea
- d\, armed with the best tracks from three iconic eras. 🎧 With a flip of
-  the switch\, tune into your favorite music. The color of your headphones 
- changes to indicate what you’re listening to. Look around and see which 
- DJ/Color is winning. 🟢 Green DJ – Today’s Hits: Pop\, K Pop\, Hip H
- op\, & Latin hits. 🔴 Red DJ – 90’s & 2K Throwbacks: Boy Bands\, Div
- as\, Punk\, Alternative. 🔵 Blue DJ – 70’s & 80’s Classics: Disco
- \, Funk\, Rock\, & New wave. Your DJ Contenders are: DJ Sayers | DJ Tuurnu
- up | DJ Blaq Mozart ⚔️ The\nCategory: Dance\nOriginal listing: https:/
- /www.artsatl.org/event/%e2%9a%94%ef%b8%8f-battle-of-the-generations-%e2%9a
- %94%ef%b8%8f-hosted-by-uptown-market-atlanta/2026-10-31/
-LOCATION:The Lawn at Uptown&#8217\;\, 521 Market St NE\, Atlanta\, GA\, 30
- 324
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/%e2%9a%94%ef%b8%8f-battle-of-the-generat
- ions-%e2%9a%94%ef%b8%8f-hosted-by-uptown-market-atlanta/2026-10-31/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A FINE LINE — Atlanta
-DTSTART;TZID="UTC-04:00":20261031T180000
-DTEND;TZID="UTC-04:00":20261031T200000
-DTSTAMP:20261101T220547Z
-UID:d9d48a188911d84117d9814bbbb4@global-arts-culture
-CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
-DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
- resentation of four shows by Kate Hooray Osmond\, Nancy Talero\, Shannon D
- avis and Laura Dargan on view January 24 – March 20. Charleston-based in
- terdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her
-  evolving relationship with the shifting landscape of America through vibr
- ant and expressive genre scene paintings. Atlanta-based Artist Nancy Taler
- o’s “Super Nature” is a series of geometric modular paintings explor
- ing the merging and blurred boundaries of the natural and supernatural wor
- lds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations i
- n Motion” is a series of photographic digital compositions explorin\nCat
- egory: Art + Design\nOriginal listing: https://www.artsatl.org/event/a-fin
- e-line/2026-10-31/
-LOCATION:Spalding Nix Fine Art\, 425 Peachtree Hills Ave NE Suite 30A\, At
- lanta\, GA\, 30305
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/a-fine-line/2026-10-31/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:illumine 2026 — Atlanta
-DTSTART;TZID="UTC-04:00":20261031T193000
-DTEND;TZID="UTC-04:00":20261031T230000
-DTSTAMP:20261101T220547Z
-UID:b4e5f046bfbb1d857f7a050d21b3@global-arts-culture
-CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
-DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
- orful lighting and art installations by some of Atlanta’s most innovativ
- e artists\, illumine 2026 will light up the shadows of the night. We’re 
- excited to once again partner with Atlanta gallery and studio Cat Eye Crea
- tive to curate artists\, and join us in creating an elevated Oakland after
-  dark experience against the inspiring backdrop of Atlanta’s glittering 
- skyline. In addition to exploring parts of the Cemetery after the sun sets
- \, illumine attendees will also enjoy live entertainment\, multiple bars\,
-  and an Oakland pop-up shop. This year\, we are excited to offer new ways 
- to experience illumine—including Premium Tickets\, Artist Sp\nCategory: 
- Art + Design\nOriginal listing: https://www.artsatl.org/event/illumine-202
- 6/2026-10-31/
-LOCATION:Oakland Cemetery\, 248 Oakland Ave SE\, Atlanta\, GA\, 30312
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/illumine-2026/2026-10-31/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
-DTSTART;TZID="UTC-04:00":20261031T200000
-DTEND;TZID="UTC-04:00":20261031T220000
-DTSTAMP:20261101T220547Z
-UID:a2c4054942e487de55d5c9a0acd4@global-arts-culture
-CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
-DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
- mental theatre performance devised by local artists titled F*CK THIS\, I
- ’M GOING TO CHURCH taking place at Virginia-Highland Church every weeken
- d of March. March 06 – March 28\, 2026 Fridays at 8:00pm Saturdays at 3:
- 00pm and 7:00pm F*CK THIS\, I’M GOING TO CHURCH is an immersive\, experi
- mental theatre experience that reclaims the idea of church as loving commu
- nity\, rejecting religious dogma that preaches shame\, judgment\, oppressi
- on\, and abuse. In the midst of our tumultuous political climate and with 
- the rise of harmful Christian nationalism\, local Atlanta theatre artists 
- have come together to devise a performance that seeks to disman\nCategory:
-  Theater\nOriginal listing: https://www.artsatl.org/event/fck-this-im-goin
- g-to-church/2026-10-31/
-LOCATION:Virginia-Highlands Church\, 743 Virginia Ave NE\, Atlanta
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/fck-this-im-going-to-church/2026-10-31/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring Street Asylum: An Immersive Halloween Improv Show — Atlan
- ta
-DTSTART;TZID="UTC-04:00":20261031T200000
-DTEND;TZID="UTC-04:00":20261031T220000
-DTSTAMP:20261101T220547Z
-UID:02c12ef2d98d03582168d8895e30@global-arts-culture
-CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
-DESCRIPTION:“The doors are open. The patients are waiting. Welcome to vi
- siting hours at Spring Street Asylum. Fluorescent lights buzzing\, linoleu
- m peeling\, and something rotten behind every closed door. Watch the insti
- tution unravel in real time: orderlies who know more than they’re lettin
- g on\, patients who insist they’re the sane ones\, and a staff smiling j
- ust a little too hard to be trusted. Every session\, every secret\, every 
- scream is built live\, in the room\, right in front of you. From the creat
- ors of Night of the Living Improv and The Improv Cult Show: Seek the Truth
-  comes Whole World’s next immersive nightmare. Admission is voluntary. D
- ischarge is not guaranteed. This show is intended for a mature\nCategory: 
- Theater\nOriginal listing: https://www.artsatl.org/event/spring-street-asy
- lum-an-immersive-halloween-improv-show/
-LOCATION:Whole World Improv Theatre\, 1216 Spring Street\, Atlanta\, 30309
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/spring-street-asylum-an-immersive-hallow
- een-improv-show/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Classic Improv Show — Atlanta
-DTSTART;TZID="UTC-04:00":20261031T200000
-DTEND;TZID="UTC-04:00":20261031T220000
-DTSTAMP:20261101T220547Z
-UID:0722fd5177f825eae6ed5e8fa8a5@global-arts-culture
-CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
-DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
-  Improv Show! Get ready for an electrifying night of spontaneous laughter 
- with Atlanta’s best improv comedy! Whole World Improv Theatre\, your fav
- orite little venue nestled in the vibrant Heart of Midtown\, Atlanta\, is 
- thrilled to feature our award-winning improvisers every Friday and Saturda
- y night. Prepare to be amazed as our quick-witted performers transform you
- r audience suggestions into side-splitting scenes\, unforgettable characte
- rs\, and hilarious stories – all made up on the spot\, right before your
-  eyes! ARE YOU READY TO PLAY? Wanna pull an all-nighter? 8pm ticket holder
- s can purchase $10 tickets at the door for the 10pm show\nCategory: Theate
- r\nOriginal listing: https://www.artsatl.org/event/the-classic-improv-show
- -12/2026-10-31/
-LOCATION:Whole World Improv Theatre\, 1216 Spring Street\, Atlanta\, 30309
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/the-classic-improv-show-12/2026-10-31/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
-DTSTART;TZID="UTC-04:00":20261031T200000
-DTEND;TZID="UTC-04:00":20261031T220000
-DTSTAMP:20261101T220547Z
-UID:8ed5490c6a498cd8bcafa442c865@global-arts-culture
-CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
-DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
- r”\, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTC
- theforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE\, At
- lanta There is free parking available across the street at Virginia Highla
- nd Elementary School. There is limited parking onsite at the church. Pleas
- e plan to take public transportation\, a ride share or arrive early to fin
- d street parking. We will begin shows promptly\, so please plan ahead to b
- e on time. PERFORMANCE DATES • Wednesday\, July 15th\, 2026 • 8PM • 
- Thursday\, July 16th\, 2026 • 8PM • Friday\, July 17th\, 2026 • 8PM 
- • Saturday\, July 18th\, 2026 • 2PM & 8PM COST OF ADMISSION We offer a
- dmiss\nCategory: Theater\nOriginal listing: https://www.artsatl.org/event/
- the-foreigner-a-comedy-by-larry-shue/2026-10-31/
-LOCATION:Virginia-Highlands Church\, 743 Virginia Ave NE\, Atlanta
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/202
- 6-10-31/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dynamic! – Funny scenes\, songs and games! — Atlanta
-DTSTART;TZID="UTC-04:00":20261031T220000
-DTEND;TZID="UTC-04:00":20261031T233000
-DTSTAMP:20261101T220547Z
-UID:3a4fd90693161dfb64076dd18a6b@global-arts-culture
-CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
-DESCRIPTION:The Dynamic! is an improv show that thrives on chaos\, quick t
- hinking\, and whatever ideas the audience throws at the cast. Every scene
- \, game\, and musical moment is built in real time\, and the performers le
- an into the unexpected with a mix of confidence\, silliness\, and genuine 
- surprise. They know how to turn a wild suggestion or a joke that goes off 
- the rails into something even funnier\, and half the joy is watching them 
- navigate the mess together. The show moves fast\, the energy stays high\, 
- and no two nights ever feel the same. You help spark the fun\, and the cas
- t runs with it to create a comedy experience that feels alive\, loose\, an
- d completely in the moment.\nCategory: Theater\nOriginal listing: https://
- www.artsatl.org/event/the-dynamic-funny-scenes-songs-and-games-5/2026-10-3
- 1/
-LOCATION:Dynamic El Dorado\, 572 Edgewood Ave SE #116\, Atlanta\, 30312
-STATUS:CANCELLED
-URL:https://www.artsatl.org/event/the-dynamic-funny-scenes-songs-and-games
- -5/2026-10-31/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:artsatl
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Book Signing: THE EARTH IS FLAT?! AND OTHER THINGS MY MOTHER TAUGH
  T ME — Atlanta
 DTSTART;TZID="UTC-05:00":20261101T140000
 DTEND;TZID="UTC-05:00":20261101T180000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:370f5f99d893a443b323f6db076a@global-arts-culture
 CATEGORIES:Arts & Culture\,Books\,Atlanta\,United States
 DESCRIPTION:As part of her national book tour for her memoir about her eva
@@ -274,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:AUTHOR TALK with Actor and Author SUSAN HUCKLE — Atlanta
 DTSTART;TZID="UTC-05:00":20261101T170000
 DTEND;TZID="UTC-05:00":20261101T190000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:ae83408c31d5dd01f37221b39e65@global-arts-culture
 CATEGORIES:Arts & Culture\,Books\,Atlanta\,United States
 DESCRIPTION:Dr. Beverly J. Armento\, an Atlanta author and educator\, will
@@ -300,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261101T180000
 DTEND;TZID="UTC-05:00":20261101T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:1b5b797ed6635f3e126dbe66fed5@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -326,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261101T193000
 DTEND;TZID="UTC-05:00":20261101T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:45764bb54bd0402dfd782820258b@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -351,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261101T200000
 DTEND;TZID="UTC-05:00":20261101T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d3277bc3e5c89f3d5a5a0f4e2c4e@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -377,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261102T083000
 DTEND;TZID="UTC-05:00":20261102T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:7507f88ed5b422058788a9229fee@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -400,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261102T180000
 DTEND;TZID="UTC-05:00":20261102T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:177d306e6051fd6276275ae77899@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -426,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261102T193000
 DTEND;TZID="UTC-05:00":20261102T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:45d2d6da4f507d7995b98c690d84@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -451,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261102T200000
 DTEND;TZID="UTC-05:00":20261102T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:4aafe5f2a5c5bdecbd4ff71ee78e@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -477,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261103T083000
 DTEND;TZID="UTC-05:00":20261103T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:74e9aa7eb813f7738753e3b5767a@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -500,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:LEGO® Heros and Villains — Atlanta
 DTSTART;TZID="UTC-05:00":20261103T160000
 DTEND;TZID="UTC-05:00":20261103T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:7f80be2cd25ccc8639423ebe17ac@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Ages 6 and up: Join MODA and the Fulton County Library for LEG
@@ -525,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261103T180000
 DTEND;TZID="UTC-05:00":20261103T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:262ddd9139bf843ab0b909516ae0@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -551,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261103T193000
 DTEND;TZID="UTC-05:00":20261103T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:59feacecaa4e5d55b4fc0aaaaadd@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -576,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261103T200000
 DTEND;TZID="UTC-05:00":20261103T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:e5b01e6ae785c5750d7da0f096dc@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -602,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261104T083000
 DTEND;TZID="UTC-05:00":20261104T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:37ad77217b60b97384dd9d6eb678@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -626,7 +388,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261104T120000
 DTEND;TZID="UTC-05:00":20261104T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5648d78defaceb792740c5f232b2@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -655,7 +417,7 @@ SUMMARY:Elders Sacred Talk Series with the Congo Square Preservation Socie
  ty: Benny Jones and Zohar Israel — New Orleans
 DTSTART;TZID="UTC-06:00":20261104T173000
 DTEND;TZID="UTC-06:00":20261104T191500
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:dec0ce78e3957592290268a45fd4@global-arts-culture
 CATEGORIES:Arts & Culture\,Talks &amp\; Tours\,New Orleans\,United States
 DESCRIPTION:In 2023\, NOMA and the Congo Square Preservation Society began
@@ -683,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261104T180000
 DTEND;TZID="UTC-05:00":20261104T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:7b889a823703079b9b7b9ea62d20@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -709,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Queer Figure Drawing: Queer Across Generations — Atlanta
 DTSTART;TZID="UTC-05:00":20261104T190000
 DTEND;TZID="UTC-05:00":20261104T210000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:b49f502d15ef6d5cb60c104f7fc4@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:What does it mean to grow older in a queer body\, surrounded b
@@ -736,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:The Emory Cinematheque Presents: HE GOT GAME (1998) — Atlanta
 DTSTART;TZID="UTC-05:00":20261104T193000
 DTEND;TZID="UTC-05:00":20261104T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0cf7f990c1c2ef0a87b5c31574ac@global-arts-culture
 CATEGORIES:Arts & Culture\,Film + TV\,Atlanta\,United States
 DESCRIPTION:1998 | Run Time: 136 min. | 35mm Directed by Spike Lee Introdu
@@ -762,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261104T193000
 DTEND;TZID="UTC-05:00":20261104T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:e5e043cac9cda863cbda8e3bb160@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -787,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261104T200000
 DTEND;TZID="UTC-05:00":20261104T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:65b032eb361be3701a7f044dd3cf@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -813,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261105T083000
 DTEND;TZID="UTC-05:00":20261105T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:f0d81c573c00b5a125e003eabed7@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -837,7 +599,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261105T120000
 DTEND;TZID="UTC-05:00":20261105T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:1915b5b151ad1062c3fc79aedf03@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -865,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:Art Thrives: Photography Workshop — New Orleans
 DTSTART;TZID="UTC-06:00":20261105T120000
 DTEND;TZID="UTC-06:00":20261105T140000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:61d7caab82f65dab3c88feeda89d@global-arts-culture
 CATEGORIES:Arts & Culture\,Workshops &amp\; Classes\,New Orleans\,United S
  tates
@@ -893,7 +655,7 @@ SUMMARY:Book Club: Call Me Larry: A Creole Man’s Triumph Over Racism and
   Homophobia by Larry Bagneris Jr. and Ryan Gomez — New Orleans
 DTSTART;TZID="UTC-06:00":20261105T120000
 DTEND;TZID="UTC-06:00":20261105T130000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5c927be0764e43902ead5429b897@global-arts-culture
 CATEGORIES:Arts & Culture\,Book Club\,New Orleans\,United States
 DESCRIPTION:NOMA’s book club meets monthly to discuss fiction and non-fi
@@ -919,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:Graphic Design Studio: Hidden Histories — Atlanta
 DTSTART;TZID="UTC-05:00":20261105T160000
 DTEND;TZID="UTC-05:00":20261105T180000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:857cb92a9fa83c2e04f8d0e817d1@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:In this virtual studio\, young designers will explore how muse
@@ -944,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261105T180000
 DTEND;TZID="UTC-05:00":20261105T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:83dcb480f1959df710fdaff3917c@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -970,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Movies on The Lawn: Coco — Atlanta
 DTSTART;TZID="UTC-05:00":20261105T190000
 DTEND;TZID="UTC-05:00":20261105T210000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5a0ef4fc7e4c6b21de3da9f0160d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film + TV\,Atlanta\,United States
 DESCRIPTION:Movies on The Lawn wraps up its season with a free outdoor scr
@@ -991,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261105T193000
 DTEND;TZID="UTC-05:00":20261105T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:6f62306455a24a338ea67c218cf3@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -1016,7 +778,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261105T200000
 DTEND;TZID="UTC-05:00":20261105T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:76d36b4d0fe7e63b3f3cc884bac1@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -1042,7 +804,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T083000
 DTEND;TZID="UTC-05:00":20261106T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8595114420d08650ca77e32cc164@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -1066,7 +828,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T120000
 DTEND;TZID="UTC-05:00":20261106T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:22dbc3093597c67ca12b12879bd0@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -1095,7 +857,7 @@ SUMMARY:ECMSA: Cooke Noontime Series— Robert McDuffie\, violin\; William
   Ransom\, piano — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T120000
 DTEND;TZID="UTC-05:00":20261106T130000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:ae7b1c3cb0d1fe55aac5be5964e8@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Violinist Robert McDuffie performs around the world as a soloi
@@ -1116,7 +878,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T180000
 DTEND;TZID="UTC-05:00":20261106T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:062dcc30e70dbe29253e00e53558@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -1143,7 +905,7 @@ SUMMARY:Live Jazz February Friday’s: Wine\, Live Music & Sangria Special
  s — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T190000
 DTEND;TZID="UTC-05:00":20261106T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:a3276e2d1634692209a4277f36c3@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Ease into the weekend with smooth jazz and self-service wine. 
@@ -1170,7 +932,7 @@ BEGIN:VEVENT
 SUMMARY:LOVE in the Garden Presented by Frischhertz — New Orleans
 DTSTART;TZID="UTC-06:00":20261106T190000
 DTEND;TZID="UTC-06:00":20261106T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:fbde9bb8e3530a02feb1a1f674dd@global-arts-culture
 CATEGORIES:Arts & Culture\,Fundraisers\,New Orleans\,United States
 DESCRIPTION:You’re Invited to Light up the Night at LOVE IN THE GARDEN P
@@ -1195,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T193000
 DTEND;TZID="UTC-05:00":20261106T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8496f371c16598431bf398e0f7d0@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -1220,7 +982,7 @@ BEGIN:VEVENT
 SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T200000
 DTEND;TZID="UTC-05:00":20261106T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:4845ee8485460e6b4f2c1287cb83@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
@@ -1245,7 +1007,7 @@ BEGIN:VEVENT
 SUMMARY:The Classic Improv Show — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T200000
 DTEND;TZID="UTC-05:00":20261106T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0a5619e9104ee7d6687ee1c2d911@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
@@ -1270,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T200000
 DTEND;TZID="UTC-05:00":20261106T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:992888ff53f834589fb74de42556@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -1296,7 +1058,7 @@ BEGIN:VEVENT
 SUMMARY:CELEBRATING HISPANIC HERITAGE — Atlanta
 DTSTART;TZID="UTC-05:00":20261106T220000
 DTEND;TZID="UTC-05:00":20261106T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:07a2fef738032f505e4223314508@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Celebrate Hispanic Heritage Month with Atlanta’s original al
@@ -1322,7 +1084,7 @@ BEGIN:VEVENT
 SUMMARY:Great Scott! The Life/Work of Carol Scott — New Orleans
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20270222
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:9391f1c4ad10d5e09d96fa6bbfa1@global-arts-culture
 CATEGORIES:Arts & Culture\,Retrospective\,New Orleans\,United States
 DESCRIPTION:A landmark solo exhibition\, “Great Scott\,” will showcase
@@ -1344,7 +1106,7 @@ BEGIN:VEVENT
 SUMMARY:Nic[o] Brierre Aziz: Sweet Surrender — New Orleans
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20270215
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0d98b77a6200c5a72c9c485178d5@global-arts-culture
 CATEGORIES:Arts & Culture\,Solo Exhibition\,New Orleans\,United States
 DESCRIPTION:Nic[o] Brierre Aziz: "Sweet Surrender" is the Haitian-New Orle
@@ -1366,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:Studio KIDS!: Woven in Color — New Orleans
 DTSTART;TZID="UTC-06:00":20261107T103000
 DTEND;TZID="UTC-06:00":20261107T120000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:83bcf57cae04e18bfa986ff7e2de@global-arts-culture
 CATEGORIES:Arts & Culture\,Kids &amp\; Families\,New Orleans\,United State
  s
@@ -1394,7 +1156,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T120000
 DTEND;TZID="UTC-05:00":20261107T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d202e8316f05096f7d63e561a20e@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -1422,7 +1184,7 @@ BEGIN:VEVENT
 SUMMARY:Brew Your Cask Off — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T150000
 DTEND;TZID="UTC-05:00":20261107T180000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:1675ff10423f5dede8a0a2db7064@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Brew Your Cask Off is back! Join us at SweetWater for a one-of
@@ -1445,7 +1207,7 @@ SUMMARY:Captain Planet Foundation’s Concert for the Planet & Gala — At
  lanta
 DTSTART;TZID="UTC-05:00":20261107T170000
 DTEND;TZID="UTC-05:00":20261107T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:99f240df352aa19752e1c2c832bd@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:The 2026 Concert for the Planet is a celebration of Captain Pl
@@ -1472,7 +1234,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T180000
 DTEND;TZID="UTC-05:00":20261107T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:796324194e2a93ff651a8f75fa16@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -1498,7 +1260,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T193000
 DTEND;TZID="UTC-05:00":20261107T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:789d87b82b79a2ec0d20a56e5911@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Silent Night is the powerful\, true account of the spontaneous
@@ -1524,7 +1286,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T193000
 DTEND;TZID="UTC-05:00":20261107T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:03b1c2593d8bc1fa2c3f5ebd8d47@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -1549,7 +1311,7 @@ BEGIN:VEVENT
 SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T200000
 DTEND;TZID="UTC-05:00":20261107T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5c8000069f32c6a2cc36d480dde2@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
@@ -1574,7 +1336,7 @@ BEGIN:VEVENT
 SUMMARY:The Classic Improv Show — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T200000
 DTEND;TZID="UTC-05:00":20261107T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:06e373a9d253663fce9cf5774590@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
@@ -1599,7 +1361,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T200000
 DTEND;TZID="UTC-05:00":20261107T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:37b100d832fc4fe7e89edd01e18a@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -1625,7 +1387,7 @@ BEGIN:VEVENT
 SUMMARY:The Dynamic! – Funny scenes\, songs and games! — Atlanta
 DTSTART;TZID="UTC-05:00":20261107T220000
 DTEND;TZID="UTC-05:00":20261107T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:59891ef23041377735fce05486e7@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:The Dynamic! is an improv show that thrives on chaos\, quick t
@@ -1651,7 +1413,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261108T180000
 DTEND;TZID="UTC-05:00":20261108T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:6ad906c561669c9f9718dfd76bad@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -1677,7 +1439,7 @@ BEGIN:VEVENT
 SUMMARY:Duruflé REQUIEM — Atlanta
 DTSTART;TZID="UTC-05:00":20261108T190000
 DTEND;TZID="UTC-05:00":20261108T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:872e108003e743234b649a09039b@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:The Adult Choir and Schola of St. Luke’s Episcopal Church pr
@@ -1700,7 +1462,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261108T193000
 DTEND;TZID="UTC-05:00":20261108T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:65efb9e68b46f9a5f34f677b7854@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -1725,7 +1487,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261108T200000
 DTEND;TZID="UTC-05:00":20261108T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0ab66006fed764eefe300b480c40@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -1751,7 +1513,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261109T083000
 DTEND;TZID="UTC-05:00":20261109T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d80c47ccf96fd3f1f283653f5839@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -1774,7 +1536,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261109T180000
 DTEND;TZID="UTC-05:00":20261109T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:045ec0fed1b3423b98521a4cb548@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -1800,7 +1562,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261109T193000
 DTEND;TZID="UTC-05:00":20261109T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3691824e6d1017b00482e122ab84@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -1825,7 +1587,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261109T200000
 DTEND;TZID="UTC-05:00":20261109T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:c7f31b112178a4899db8f5644ca4@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -1851,7 +1613,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261110T083000
 DTEND;TZID="UTC-05:00":20261110T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:a05c319771811dcc7e87b43ba1c1@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -1874,7 +1636,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261110T180000
 DTEND;TZID="UTC-05:00":20261110T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:9968851ece28d2b00b7107904c24@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -1900,7 +1662,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night — Atlanta
 DTSTART;TZID="UTC-05:00":20261110T193000
 DTEND;TZID="UTC-05:00":20261110T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:851fcb52e4d80ae03703f1e277ac@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Silent Night is the powerful\, true account of the spontaneous
@@ -1926,7 +1688,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261110T193000
 DTEND;TZID="UTC-05:00":20261110T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:cd66245a08992e1f994b88ae92fc@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -1951,7 +1713,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261110T200000
 DTEND;TZID="UTC-05:00":20261110T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5e7cdbd1e9776f20dc09f1c7e358@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -1977,7 +1739,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261111T083000
 DTEND;TZID="UTC-05:00":20261111T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d4fc010170633e48d93d807cdf49@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -2001,7 +1763,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261111T120000
 DTEND;TZID="UTC-05:00":20261111T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:cf34c834c831381e5931b82e2f26@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -2029,7 +1791,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261111T180000
 DTEND;TZID="UTC-05:00":20261111T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:a7fac638bfea8fd801d55514239e@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -2055,7 +1817,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Encounters: Peruvian Viceregal Paintings — New Orleans
 DTSTART;TZID="UTC-06:00":20261111T180000
 DTEND;TZID="UTC-06:00":20261111T183000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:57e70d7ec3811dc00c429e4e072d@global-arts-culture
 CATEGORIES:Arts & Culture\,Performances\,New Orleans\,United States
 DESCRIPTION:Join us for NOMA’s Musical Encounters Gallery Talk series\, 
@@ -2081,7 +1843,7 @@ BEGIN:VEVENT
 SUMMARY:The Emory Cinematheque Presents: SUMMER OF SAM (1999) — Atlanta
 DTSTART;TZID="UTC-05:00":20261111T193000
 DTEND;TZID="UTC-05:00":20261111T223000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:bb568edbb0ba603882752a9d4a66@global-arts-culture
 CATEGORIES:Arts & Culture\,Film + TV\,Atlanta\,United States
 DESCRIPTION:Introduced by Dr. Racquel Gates (Columbia University) Released
@@ -2107,7 +1869,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261111T193000
 DTEND;TZID="UTC-05:00":20261111T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:74722307e3240da2d4869a667473@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -2132,7 +1894,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261111T200000
 DTEND;TZID="UTC-05:00":20261111T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:24e95c1a0cd85f08962dcd3e0a97@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -2158,7 +1920,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261112T083000
 DTEND;TZID="UTC-05:00":20261112T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:636ddc9fe5681b24ee63cad5f0c0@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -2182,7 +1944,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261112T120000
 DTEND;TZID="UTC-05:00":20261112T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:b8d4101ff45f5045942f4a9d58b9@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -2210,7 +1972,7 @@ BEGIN:VEVENT
 SUMMARY:Game Design Studio: Lost Expedition — Atlanta
 DTSTART;TZID="UTC-05:00":20261112T160000
 DTEND;TZID="UTC-05:00":20261112T180000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:7d46cdc3c5aa2dfbadad14f1c142@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Join MODA for a virtual studio and build a game where players 
@@ -2233,7 +1995,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261112T180000
 DTEND;TZID="UTC-05:00":20261112T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d334401b553f1b47faf3ddaf26bb@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -2259,7 +2021,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261112T193000
 DTEND;TZID="UTC-05:00":20261112T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d57eb03e875bf87ce07ba2cbd099@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -2284,7 +2046,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261112T200000
 DTEND;TZID="UTC-05:00":20261112T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:4774346beb45c72c1e2910604df5@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -2310,7 +2072,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T083000
 DTEND;TZID="UTC-05:00":20261113T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:26df587aa89bc2e4aea22dac7fed@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -2334,7 +2096,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T120000
 DTEND;TZID="UTC-05:00":20261113T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:07198db73de1f3662bc1eb878545@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -2362,7 +2124,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T180000
 DTEND;TZID="UTC-05:00":20261113T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:6c58cb493a267feda758e7d88ff9@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -2388,7 +2150,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz at All Saints’ Presents Kenny Banks Jr. — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T190000
 DTEND;TZID="UTC-05:00":20261113T203000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:316e7e69c8c72d708e924c172ff1@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Atlanta’s own Kenny Banks Jr.\, a Yamaha artist\, has earned
@@ -2416,7 +2178,7 @@ SUMMARY:Live Jazz February Friday’s: Wine\, Live Music & Sangria Special
  s — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T190000
 DTEND;TZID="UTC-05:00":20261113T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8fb8bb62983e427cd072e3341abc@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Ease into the weekend with smooth jazz and self-service wine. 
@@ -2443,7 +2205,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T193000
 DTEND;TZID="UTC-05:00":20261113T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:f1c42b5ca65862d45e8f1b318dba@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Silent Night is the powerful\, true account of the spontaneous
@@ -2469,7 +2231,7 @@ BEGIN:VEVENT
 SUMMARY:The Harvest Home Concert: A Midtown Thanksgiving — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T193000
 DTEND;TZID="UTC-05:00":20261113T203000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3afa2ab509be50435f8a3be707ef@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:The Harvest Home Concert is Redeemer’s musical celebration o
@@ -2496,7 +2258,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T193000
 DTEND;TZID="UTC-05:00":20261113T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:47b4a10ea410f2c642bd48c358fa@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -2521,7 +2283,7 @@ BEGIN:VEVENT
 SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T200000
 DTEND;TZID="UTC-05:00":20261113T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:69f963f901575480f03594e1d90d@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
@@ -2546,7 +2308,7 @@ BEGIN:VEVENT
 SUMMARY:Oglethorpe Theatre presents Cyrano De Bergerac — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T200000
 DTEND;TZID="UTC-05:00":20261113T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:167783cfb8773ef12086e04c17fd@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:A genius with language\, Cyrano secretly loves the radiant Rox
@@ -2572,7 +2334,7 @@ BEGIN:VEVENT
 SUMMARY:The Classic Improv Show — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T200000
 DTEND;TZID="UTC-05:00":20261113T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:c570736cfe75c5ce9652c1331460@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
@@ -2597,7 +2359,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T200000
 DTEND;TZID="UTC-05:00":20261113T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:499437245db27b7bfca63d2a6b41@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -2623,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:CELEBRATING HISPANIC HERITAGE — Atlanta
 DTSTART;TZID="UTC-05:00":20261113T220000
 DTEND;TZID="UTC-05:00":20261113T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:77f19fd1aae1e0621fb4f64dc189@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Celebrate Hispanic Heritage Month with Atlanta’s original al
@@ -2650,7 +2412,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T120000
 DTEND;TZID="UTC-05:00":20261114T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0c24e68a092c44730fe847203c6e@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -2678,7 +2440,7 @@ BEGIN:VEVENT
 SUMMARY:CIVICS 4 ALL AGES!! — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T130000
 DTEND;TZID="UTC-05:00":20261114T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:10262fefff1cd00e96992b010802@global-arts-culture
 CATEGORIES:Arts & Culture\,Books\,Atlanta\,United States
 DESCRIPTION:The fight for justice\, equality\, and civic participation bel
@@ -2701,7 +2463,7 @@ BEGIN:VEVENT
 SUMMARY:GT Arts Presents: Mario the Maker Magician — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T140000
 DTEND;TZID="UTC-05:00":20261114T160000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:b930e602bc4885d4d1432e8eb2b2@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Robots\, magic\, engineering\, and nonstop laughs—Mario the 
@@ -2729,7 +2491,7 @@ SUMMARY:Ada Film Collective presents Echi Di Ime (Tomorrow Is Pregnant)
  — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T160000
 DTEND;TZID="UTC-05:00":20261114T180000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3eeb22c12d374158d448145c5544@global-arts-culture
 CATEGORIES:Arts & Culture\,Film + TV\,Atlanta\,United States
 DESCRIPTION:Ada Film Collective presents screenings and conversations arou
@@ -2756,7 +2518,7 @@ SUMMARY:⚔️ BATTLE OF THE GENERATIONS! ⚔️ Hosted by Uptown Market A
  tlanta — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T170000
 DTEND;TZID="UTC-05:00":20261114T210000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8a6923591cd4bc301787045221ca@global-arts-culture
 CATEGORIES:Arts & Culture\,Dance\,Atlanta\,United States
 DESCRIPTION:⚔️ BATTLE OF THE GENERATIONS! ⚔️ Hosted by Uptown Mark
@@ -2784,7 +2546,7 @@ BEGIN:VEVENT
 SUMMARY:Art Exhibit: Inner Landscapes\, opening reception — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T173000
 DTEND;TZID="UTC-05:00":20261114T213000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:a3571fa477075febe585f61d1ce2@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Join us for Inner Landscapes\, an art exhibition featuring fou
@@ -2810,7 +2572,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T180000
 DTEND;TZID="UTC-05:00":20261114T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:c625b19f31407e72ea4b500f2e45@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -2836,7 +2598,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T193000
 DTEND;TZID="UTC-05:00":20261114T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:e1915a809b7920d960009ef1eee6@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -2861,7 +2623,7 @@ BEGIN:VEVENT
 SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T200000
 DTEND;TZID="UTC-05:00":20261114T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:6652f581785f847f3c8c6c04f153@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
@@ -2886,7 +2648,7 @@ BEGIN:VEVENT
 SUMMARY:Oglethorpe Theatre presents Cyrano De Bergerac — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T200000
 DTEND;TZID="UTC-05:00":20261114T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:f24c444993d99678c6ded9d2e1cc@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:A genius with language\, Cyrano secretly loves the radiant Rox
@@ -2912,7 +2674,7 @@ BEGIN:VEVENT
 SUMMARY:The Classic Improv Show — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T200000
 DTEND;TZID="UTC-05:00":20261114T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:97a19539179b331a95e43682d423@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
@@ -2937,7 +2699,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T200000
 DTEND;TZID="UTC-05:00":20261114T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:e28d8ee4639fea7cd34c93059a50@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -2963,7 +2725,7 @@ BEGIN:VEVENT
 SUMMARY:The Dynamic! – Funny scenes\, songs and games! — Atlanta
 DTSTART;TZID="UTC-05:00":20261114T220000
 DTEND;TZID="UTC-05:00":20261114T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d6bd12ba9c4057e4a0d9b6b1986c@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:The Dynamic! is an improv show that thrives on chaos\, quick t
@@ -2990,7 +2752,7 @@ SUMMARY:Music in the Garden: Indian Arts Circle of New Orleans — New Orl
  eans
 DTSTART;TZID="UTC-06:00":20261115T120000
 DTEND;TZID="UTC-06:00":20261115T160000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:bb3952c0f6a31b3dbfcd2db56d95@global-arts-culture
 CATEGORIES:Arts & Culture\,Performances\,New Orleans\,United States
 DESCRIPTION:This year\, experience the seasons change at NOMA with Music i
@@ -3016,7 +2778,7 @@ BEGIN:VEVENT
 SUMMARY:Music in the Garden: November 15 — New Orleans
 DTSTART;TZID="UTC-06:00":20261115T140000
 DTEND;TZID="UTC-06:00":20261115T160000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:21ba6877a5c306083b104d591b0f@global-arts-culture
 CATEGORIES:Arts & Culture\,Performances\,New Orleans\,United States
 DESCRIPTION:This year\, experience the seasons change at NOMA with Music i
@@ -3042,7 +2804,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night — Atlanta
 DTSTART;TZID="UTC-05:00":20261115T150000
 DTEND;TZID="UTC-05:00":20261115T173000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:f74cc377ddd37acae5cb4d5cb6f6@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Silent Night is the powerful\, true account of the spontaneous
@@ -3068,7 +2830,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261115T180000
 DTEND;TZID="UTC-05:00":20261115T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d01b2f1f9e41c36bdead7f6b2477@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -3094,7 +2856,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261115T193000
 DTEND;TZID="UTC-05:00":20261115T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:1df8eb5d1267ccb4984788fe890e@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -3119,7 +2881,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261115T200000
 DTEND;TZID="UTC-05:00":20261115T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:464229ae5342dadc0f25d280cf4f@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -3145,7 +2907,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261116T083000
 DTEND;TZID="UTC-05:00":20261116T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:925a2576c1a174b28d8075a8a26c@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -3168,7 +2930,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261116T180000
 DTEND;TZID="UTC-05:00":20261116T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:241697785b7eb9d004c20b9fb60f@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -3194,7 +2956,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261116T193000
 DTEND;TZID="UTC-05:00":20261116T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:efd4e1f8777a74394bc7eb83ec9d@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -3219,7 +2981,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261116T200000
 DTEND;TZID="UTC-05:00":20261116T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3cd571a3bb5554fef04030922183@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -3245,7 +3007,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261117T083000
 DTEND;TZID="UTC-05:00":20261117T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:084949817a6bfe3dc02172ea8305@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -3269,7 +3031,7 @@ SUMMARY:Gallery Talk for Teens: Second Nature: Japanese Rinpa Paintings fr
  om the Gitter-Yelen Collection — New Orleans
 DTSTART;TZID="UTC-06:00":20261117T100000
 DTEND;TZID="UTC-06:00":20261117T113000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:4b04dc6c09eaec11fac7b2881010@global-arts-culture
 CATEGORIES:Arts & Culture\,Talks &amp\; Tours\,New Orleans\,United States
 DESCRIPTION:On November 17 and January 19\, New Orleans Museum of Art is h
@@ -3297,7 +3059,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261117T180000
 DTEND;TZID="UTC-05:00":20261117T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:579ec13195cc23e4c17d61eb5ea3@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -3323,7 +3085,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261117T193000
 DTEND;TZID="UTC-05:00":20261117T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d99ef48def298cff4d059512f5c7@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -3348,7 +3110,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261117T200000
 DTEND;TZID="UTC-05:00":20261117T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:a81bf478fb6c17a01169f8fc0155@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -3374,7 +3136,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261118T083000
 DTEND;TZID="UTC-05:00":20261118T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:57f17d65c77a13495835aa3f352e@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -3398,7 +3160,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261118T120000
 DTEND;TZID="UTC-05:00":20261118T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:71f98db82a2a8e263eb71d2ffb6e@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -3427,7 +3189,7 @@ SUMMARY:Gallery Talk: Chief Curator Anne Collins Smith on Danielle Mckinne
  y: Shelter — New Orleans
 DTSTART;TZID="UTC-06:00":20261118T123000
 DTEND;TZID="UTC-06:00":20261118T130000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5382819fed5e2ce0e1be5a2eec27@global-arts-culture
 CATEGORIES:Arts & Culture\,Talks &amp\; Tours\,New Orleans\,United States
 DESCRIPTION:Join us for weekly gallery talks every Wednesday at NOMA\, fea
@@ -3453,7 +3215,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261118T180000
 DTEND;TZID="UTC-05:00":20261118T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:87f5817f4b05b787a64a63ca850e@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -3480,7 +3242,7 @@ SUMMARY:Ami Taf Ra & Kamasi Washington presenting The Prophet & The Madman
   — Atlanta
 DTSTART;TZID="UTC-05:00":20261118T180000
 DTEND;TZID="UTC-05:00":20261118T193000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:6b2f5e9c52ed7a9db2aa212d3455@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:City Winery Atlanta and WLCK 91.9 presents Ami Taf Ra & Kamasi
@@ -3506,7 +3268,7 @@ BEGIN:VEVENT
 SUMMARY:The Emory Cinematheque Presents: BAMBOOZLED (2000) — Atlanta
 DTSTART;TZID="UTC-05:00":20261118T193000
 DTEND;TZID="UTC-05:00":20261118T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:66ce69ad2e90d12caadd00aa1169@global-arts-culture
 CATEGORIES:Arts & Culture\,Film + TV\,Atlanta\,United States
 DESCRIPTION:Introduced by Dr. Alessandra Raengo (Georgia State University)
@@ -3532,7 +3294,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261118T193000
 DTEND;TZID="UTC-05:00":20261118T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:edae7d8e15bd1a2f2c7a0c277b76@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -3557,7 +3319,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261118T200000
 DTEND;TZID="UTC-05:00":20261118T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:ae2a420157034e8f9d382459ebd8@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -3583,7 +3345,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261119T083000
 DTEND;TZID="UTC-05:00":20261119T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:b0248eaf483e974fecfedb3902fb@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -3607,7 +3369,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261119T120000
 DTEND;TZID="UTC-05:00":20261119T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:072af3af24afa51496795d303c2c@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -3635,7 +3397,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261119T180000
 DTEND;TZID="UTC-05:00":20261119T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:b992813fa892a63ac101d77e165a@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -3661,7 +3423,7 @@ BEGIN:VEVENT
 SUMMARY:Derbakeh Drum Workshop — Atlanta
 DTSTART;TZID="UTC-05:00":20261119T183000
 DTEND;TZID="UTC-05:00":20261119T203000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:76fb5a9601054e45ad93f73ea0e1@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Feel the rhythm! Join our Derbakeh Drum Workshop! Curious abou
@@ -3682,7 +3444,7 @@ BEGIN:VEVENT
 SUMMARY:Oud Workshop — Atlanta
 DTSTART;TZID="UTC-05:00":20261119T183000
 DTEND;TZID="UTC-05:00":20261119T203000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:2af617aee63464b055ffd088e731@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Always wanted to play the oud? Here’s your chance to give it
@@ -3703,7 +3465,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261119T193000
 DTEND;TZID="UTC-05:00":20261119T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:81d14e476624ce2ce9ebcdd24cd8@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -3728,7 +3490,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261119T200000
 DTEND;TZID="UTC-05:00":20261119T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:69bf7b07e2257f7251d0b91e751b@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -3754,7 +3516,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T083000
 DTEND;TZID="UTC-05:00":20261120T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:b50730f38d1680ae0252670d68f3@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -3778,7 +3540,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T120000
 DTEND;TZID="UTC-05:00":20261120T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:874e419963aed5afca3cb7f8287a@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -3806,7 +3568,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T180000
 DTEND;TZID="UTC-05:00":20261120T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:c70e25957bf632a751aca1bee3ae@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -3832,7 +3594,7 @@ BEGIN:VEVENT
 SUMMARY:Musiq Soulchild — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T183000
 DTEND;TZID="UTC-05:00":20261120T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:9b91f52c4ff807602c40a601f583@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:City Winery Atlanta presents Musiq Soulchild live on November 
@@ -3858,7 +3620,7 @@ SUMMARY:Live Jazz February Friday’s: Wine\, Live Music & Sangria Special
  s — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T190000
 DTEND;TZID="UTC-05:00":20261120T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:2e92508bf385a27a1b00fdb14728@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Ease into the weekend with smooth jazz and self-service wine. 
@@ -3885,7 +3647,7 @@ BEGIN:VEVENT
 SUMMARY:The Bad Plus Farewell Tour — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T190000
 DTEND;TZID="UTC-05:00":20261120T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:225a42bfa0fd24882734f506c4c0@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:The Bad Plus are the ultimate originals. A democratic unit wit
@@ -3910,7 +3672,7 @@ BEGIN:VEVENT
 SUMMARY:TRAD — Hannah Mitchell (Atlanta Premiere) — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T193000
 DTEND;TZID="UTC-05:00":20261120T203000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d88b37252bcc19bff1bbf47134c4@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:TRAD is a theatrical tear-down of the modern “trad wife” p
@@ -3936,7 +3698,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T193000
 DTEND;TZID="UTC-05:00":20261120T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:05963829ebee36cd7be32c695786@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -3961,7 +3723,7 @@ BEGIN:VEVENT
 SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T200000
 DTEND;TZID="UTC-05:00":20261120T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5e0f2f812e521b12db880d04e41b@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
@@ -3986,7 +3748,7 @@ BEGIN:VEVENT
 SUMMARY:Oglethorpe Theatre presents Cyrano De Bergerac — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T200000
 DTEND;TZID="UTC-05:00":20261120T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:710c53a1525102754cc808ca3b14@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:A genius with language\, Cyrano secretly loves the radiant Rox
@@ -4012,7 +3774,7 @@ BEGIN:VEVENT
 SUMMARY:The Classic Improv Show — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T200000
 DTEND;TZID="UTC-05:00":20261120T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:200c4931bc34b45825bca5f9db45@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
@@ -4037,7 +3799,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T200000
 DTEND;TZID="UTC-05:00":20261120T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d7d3a6c3d718e2422c85d1c2545e@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -4063,7 +3825,7 @@ BEGIN:VEVENT
 SUMMARY:DENTATA — Julia VanderVeen — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T211500
 DTEND;TZID="UTC-05:00":20261120T221500
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3a5a8ce724cb69c705212e2c5b40@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:New work from an award-winning idiot. Join Beth Anne (a woman!
@@ -4089,7 +3851,7 @@ BEGIN:VEVENT
 SUMMARY:CELEBRATING HISPANIC HERITAGE — Atlanta
 DTSTART;TZID="UTC-05:00":20261120T220000
 DTEND;TZID="UTC-05:00":20261120T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:2b4d8ef87a15daf5b820f1b950dc@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Celebrate Hispanic Heritage Month with Atlanta’s original al
@@ -4116,7 +3878,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T120000
 DTEND;TZID="UTC-05:00":20261121T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:09c503f1b028c3f34c1f039f74de@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -4144,7 +3906,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T180000
 DTEND;TZID="UTC-05:00":20261121T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3c290868905d7f33af326924db67@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -4170,7 +3932,7 @@ BEGIN:VEVENT
 SUMMARY:Musiq Soulchild — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T183000
 DTEND;TZID="UTC-05:00":20261121T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:a7b910e43f2600361e3a17b29c02@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:City Winery Atlanta presents Musiq Soulchild live on November 
@@ -4195,7 +3957,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T193000
 DTEND;TZID="UTC-05:00":20261121T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d9f8f540e009cb16cf832b198d49@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -4220,7 +3982,7 @@ BEGIN:VEVENT
 SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T200000
 DTEND;TZID="UTC-05:00":20261121T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:e20f69fd4222cb3c70c6854a66ac@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
@@ -4245,7 +4007,7 @@ BEGIN:VEVENT
 SUMMARY:Oglethorpe Theatre presents Cyrano De Bergerac — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T200000
 DTEND;TZID="UTC-05:00":20261121T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:363cf753ff9e67c113041710f9bd@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:A genius with language\, Cyrano secretly loves the radiant Rox
@@ -4271,7 +4033,7 @@ BEGIN:VEVENT
 SUMMARY:The Classic Improv Show — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T200000
 DTEND;TZID="UTC-05:00":20261121T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0797e3830d1af813272748f8e102@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
@@ -4296,7 +4058,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T200000
 DTEND;TZID="UTC-05:00":20261121T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:2b13f4382c7f92f87ac7e8d71a12@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -4322,7 +4084,7 @@ BEGIN:VEVENT
 SUMMARY:The Dynamic! – Funny scenes\, songs and games! — Atlanta
 DTSTART;TZID="UTC-05:00":20261121T220000
 DTEND;TZID="UTC-05:00":20261121T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:298bedecf110087d6473f14df1f1@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:The Dynamic! is an improv show that thrives on chaos\, quick t
@@ -4348,7 +4110,7 @@ BEGIN:VEVENT
 SUMMARY:Oglethorpe Theatre presents Cyrano De Bergerac — Atlanta
 DTSTART;TZID="UTC-05:00":20261122T140000
 DTEND;TZID="UTC-05:00":20261122T160000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:30a8a3793a8978ae3ce951832db9@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:A genius with language\, Cyrano secretly loves the radiant Rox
@@ -4374,7 +4136,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261122T180000
 DTEND;TZID="UTC-05:00":20261122T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8d6296a400ec175abb511b8d9c15@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -4400,7 +4162,7 @@ BEGIN:VEVENT
 SUMMARY:Oglethorpe’s Fall Music Gala — Atlanta
 DTSTART;TZID="UTC-05:00":20261122T193000
 DTEND;TZID="UTC-05:00":20261122T213000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8e164e077557486e430bff93d5c0@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:For the Fall Music Gala\, Oglethorpe University musicians will
@@ -4422,7 +4184,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261122T193000
 DTEND;TZID="UTC-05:00":20261122T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:b25d1c0d2cdc74541d2c611d7814@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -4447,7 +4209,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261122T200000
 DTEND;TZID="UTC-05:00":20261122T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:ed19f36f142544f3249cb724fc5c@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -4473,7 +4235,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261123T083000
 DTEND;TZID="UTC-05:00":20261123T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d1e2c0dd686dddf0e45cce2fe661@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -4496,7 +4258,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261123T180000
 DTEND;TZID="UTC-05:00":20261123T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:2a1b6c2e1215670b015ca6ca20d3@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -4522,7 +4284,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261123T193000
 DTEND;TZID="UTC-05:00":20261123T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:ba26b38d2487cfdb4b371634eb74@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -4547,7 +4309,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261123T200000
 DTEND;TZID="UTC-05:00":20261123T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:79df595bdd7fbca7727dee179746@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -4573,7 +4335,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261124T083000
 DTEND;TZID="UTC-05:00":20261124T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:f5568df5751968b2ab55cc0ceb70@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -4596,7 +4358,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261124T180000
 DTEND;TZID="UTC-05:00":20261124T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:42b94c90c53b4efce372c8e79272@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -4622,7 +4384,7 @@ BEGIN:VEVENT
 SUMMARY:Musiq Soulchild — Atlanta
 DTSTART;TZID="UTC-05:00":20261124T183000
 DTEND;TZID="UTC-05:00":20261124T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:eaf4c17c5a88574a01d660fe3b5c@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:City Winery Atlanta presents Musiq Soulchild live on November 
@@ -4647,7 +4409,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261124T193000
 DTEND;TZID="UTC-05:00":20261124T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:412eb5882fa2eb876f15c31eb711@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -4672,7 +4434,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261124T200000
 DTEND;TZID="UTC-05:00":20261124T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d69247b8c566058b8480e6aa9ab6@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -4698,7 +4460,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261125T083000
 DTEND;TZID="UTC-05:00":20261125T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:613e7234a1e777fe21b00bf40471@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -4722,7 +4484,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261125T120000
 DTEND;TZID="UTC-05:00":20261125T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0aa27f2ed7f44d56c9ce9d604e7c@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -4750,7 +4512,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261125T180000
 DTEND;TZID="UTC-05:00":20261125T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d4034e82aa58344d373dd7382467@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -4776,7 +4538,7 @@ BEGIN:VEVENT
 SUMMARY:Musiq Soulchild — Atlanta
 DTSTART;TZID="UTC-05:00":20261125T183000
 DTEND;TZID="UTC-05:00":20261125T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:01cdc93791c7fc03839937f6561b@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:City Winery Atlanta presents Musiq Soulchild live on November 
@@ -4801,7 +4563,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261125T193000
 DTEND;TZID="UTC-05:00":20261125T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:57772fb06775ebca29f75489e55b@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -4826,7 +4588,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261125T200000
 DTEND;TZID="UTC-05:00":20261125T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8d161aa056265586227f03165467@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -4852,7 +4614,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261126T083000
 DTEND;TZID="UTC-05:00":20261126T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:ffe25d55825aee54fc614f137743@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -4875,7 +4637,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261126T180000
 DTEND;TZID="UTC-05:00":20261126T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:269e8fe053a522ae0890aa1b0fab@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -4901,7 +4663,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261126T193000
 DTEND;TZID="UTC-05:00":20261126T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:de9fb79ef7b999ac79fe80f929e0@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -4926,7 +4688,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261126T200000
 DTEND;TZID="UTC-05:00":20261126T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0631c39f861fc1bc3d43298e9ad4@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -4952,7 +4714,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261127T083000
 DTEND;TZID="UTC-05:00":20261127T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0d1dc0da508f344d481059ea547d@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -4975,7 +4737,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261127T180000
 DTEND;TZID="UTC-05:00":20261127T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:c128ff00dfc3068e527f8b0d6cd8@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -5002,7 +4764,7 @@ SUMMARY:Live Jazz February Friday’s: Wine\, Live Music & Sangria Special
  s — Atlanta
 DTSTART;TZID="UTC-05:00":20261127T190000
 DTEND;TZID="UTC-05:00":20261127T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8cdc196a12d958620f280cc6e5f3@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Ease into the weekend with smooth jazz and self-service wine. 
@@ -5029,7 +4791,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261127T193000
 DTEND;TZID="UTC-05:00":20261127T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:596cd13d4209b8415443fd98892a@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -5054,7 +4816,7 @@ BEGIN:VEVENT
 SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
 DTSTART;TZID="UTC-05:00":20261127T200000
 DTEND;TZID="UTC-05:00":20261127T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:0ee42717efabdac9e64771dbf5f7@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
@@ -5079,7 +4841,7 @@ BEGIN:VEVENT
 SUMMARY:The Classic Improv Show — Atlanta
 DTSTART;TZID="UTC-05:00":20261127T200000
 DTEND;TZID="UTC-05:00":20261127T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:6e5a6a2de104a1946d9ea9691d22@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
@@ -5104,7 +4866,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261127T200000
 DTEND;TZID="UTC-05:00":20261127T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:63c143c8e8d8776e1e5f63f64c44@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -5130,7 +4892,7 @@ BEGIN:VEVENT
 SUMMARY:CELEBRATING HISPANIC HERITAGE — Atlanta
 DTSTART;TZID="UTC-05:00":20261127T220000
 DTEND;TZID="UTC-05:00":20261127T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:202e5b56cb2a909e7e1a085ed092@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Celebrate Hispanic Heritage Month with Atlanta’s original al
@@ -5156,7 +4918,7 @@ BEGIN:VEVENT
 SUMMARY:National Buy Nothing Day at the Center — Atlanta
 DTSTART;TZID="UTC-05:00":20261128T120000
 DTEND;TZID="UTC-05:00":20261128T160000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3f1266c53aa0113793268e1f3883@global-arts-culture
 CATEGORIES:Arts & Culture\,Books\,Atlanta\,United States
 DESCRIPTION:The day after Thanksgiving is often known as one of the bigges
@@ -5179,7 +4941,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261128T180000
 DTEND;TZID="UTC-05:00":20261128T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5a8b9e1bd8852c94cdb73664999f@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -5205,7 +4967,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261128T193000
 DTEND;TZID="UTC-05:00":20261128T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:babf47b92f7501f84c5e4310812a@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -5230,7 +4992,7 @@ BEGIN:VEVENT
 SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
 DTSTART;TZID="UTC-05:00":20261128T200000
 DTEND;TZID="UTC-05:00":20261128T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5785e8f3122c814b7103bc71aad1@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
@@ -5255,7 +5017,7 @@ BEGIN:VEVENT
 SUMMARY:The Classic Improv Show — Atlanta
 DTSTART;TZID="UTC-05:00":20261128T200000
 DTEND;TZID="UTC-05:00":20261128T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:dc2513db3fb982ca94af12d7429b@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
@@ -5280,7 +5042,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261128T200000
 DTEND;TZID="UTC-05:00":20261128T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:30c77ea049dd0d07163f4f71766e@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -5306,7 +5068,7 @@ BEGIN:VEVENT
 SUMMARY:The Dynamic! – Funny scenes\, songs and games! — Atlanta
 DTSTART;TZID="UTC-05:00":20261128T220000
 DTEND;TZID="UTC-05:00":20261128T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:ba573abd3e2650a6fe9facee3f56@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:The Dynamic! is an improv show that thrives on chaos\, quick t
@@ -5332,7 +5094,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261129T180000
 DTEND;TZID="UTC-05:00":20261129T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:c88b2f03210049904cf52dc1be8c@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -5358,7 +5120,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261129T193000
 DTEND;TZID="UTC-05:00":20261129T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:e72402be0d37a6744aa7ed207414@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -5383,7 +5145,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261129T200000
 DTEND;TZID="UTC-05:00":20261129T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:974e4eb300a6c2b320e64c575a99@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -5409,7 +5171,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261130T083000
 DTEND;TZID="UTC-05:00":20261130T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:a983c73788b0c72837885f7ae34a@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -5432,7 +5194,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261130T180000
 DTEND;TZID="UTC-05:00":20261130T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:15177c6c562d67cf1ae1f8231f3a@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -5459,7 +5221,7 @@ SUMMARY:CRAZY CHESTER – A VERY NC TRIBUTE TO THE BAND & THE LAST WALTZ 5
  0TH ANNIVERSARY with Wild Angels — Atlanta
 DTSTART;TZID="UTC-05:00":20261130T190000
 DTEND;TZID="UTC-05:00":20261130T233000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d75211b83a458fae9e2a18f27114@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Crazy Chester – A Very North Carolina Tribute To The Band & 
@@ -5487,7 +5249,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261130T193000
 DTEND;TZID="UTC-05:00":20261130T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:46a9f01bc25635ce0a29a181cac8@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -5513,7 +5275,7 @@ SUMMARY:Crazy Chester: A Very NC Tribute to The Band & The Last Waltz 50th
   Anniversary tour w/ Wild Angels @ THE GARDEN CLUB — Atlanta
 DTSTART;TZID="UTC-05:00":20261130T200000
 DTEND;TZID="UTC-05:00":20261130T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3b5a2270a17fa322b83e2358c601@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:CRAZY CHESTER – Crazy Chester is the Carrboro\, NC tribute t
@@ -5541,7 +5303,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261130T200000
 DTEND;TZID="UTC-05:00":20261130T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:d0c0979734d4b78198950a9edea8@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -5567,7 +5329,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261201T083000
 DTEND;TZID="UTC-05:00":20261201T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:587c2d3c7264932436df07caf4e6@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -5590,7 +5352,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261201T180000
 DTEND;TZID="UTC-05:00":20261201T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:24e1e9f32cfc64f3a1bd7715354e@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -5616,7 +5378,7 @@ BEGIN:VEVENT
 SUMMARY:Ethics at the Movies: Shot in the Arm — Atlanta
 DTSTART;TZID="UTC-05:00":20261201T190000
 DTEND;TZID="UTC-05:00":20261201T213000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:ca3cf059c50574c7ef6aa466e0f1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film + TV\,Atlanta\,United States
 DESCRIPTION:In partnership with the Emory Center for Ethics\, Ethics & the
@@ -5642,7 +5404,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261201T193000
 DTEND;TZID="UTC-05:00":20261201T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:7206236cc1fcbf78d656e1556514@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -5668,7 +5430,7 @@ SUMMARY:City Of Laughs Presents: A Special Night with T.K. KIRKLAND — At
  lanta
 DTSTART;TZID="UTC-05:00":20261201T200000
 DTEND;TZID="UTC-05:00":20261201T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:463f3808fd22621bb7d0c8f4ceb4@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:City Winery Atlanta and City Of Laughs Presents: A Special Nig
@@ -5694,7 +5456,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261201T200000
 DTEND;TZID="UTC-05:00":20261201T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:9cd472dd0c1c740a967f161b7655@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -5720,7 +5482,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261202T083000
 DTEND;TZID="UTC-05:00":20261202T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:5261d7cafbd7b183a505e9b6af9c@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -5744,7 +5506,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261202T120000
 DTEND;TZID="UTC-05:00":20261202T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:685e8b4a566ff118a165f0be5839@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -5772,7 +5534,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261202T180000
 DTEND;TZID="UTC-05:00":20261202T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:e2163d321e85afcdc12947cf89be@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -5798,7 +5560,7 @@ BEGIN:VEVENT
 SUMMARY:The Emory Cinematheque Presents: 25TH HOUR (2002) — Atlanta
 DTSTART;TZID="UTC-05:00":20261202T193000
 DTEND;TZID="UTC-05:00":20261202T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:4e36ff43a927d092163b3cd32c1a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film + TV\,Atlanta\,United States
 DESCRIPTION:2002 | 135 min. | 35mm Directed by Spike Lee Dr. Mark Cunningh
@@ -5824,7 +5586,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261202T193000
 DTEND;TZID="UTC-05:00":20261202T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:1e1c7cb8fed15ef536fa2236499c@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -5849,7 +5611,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261202T200000
 DTEND;TZID="UTC-05:00":20261202T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:6c1f48309db8d215d0f90360a93f@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -5875,7 +5637,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261203T083000
 DTEND;TZID="UTC-05:00":20261203T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:98f3ee6a6ddd9fc511e187902b7a@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -5899,7 +5661,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261203T120000
 DTEND;TZID="UTC-05:00":20261203T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:4c12375d333a9a904019bd170780@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -5927,7 +5689,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261203T180000
 DTEND;TZID="UTC-05:00":20261203T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:76baa941a158414f7dad99348f9e@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -5953,7 +5715,7 @@ BEGIN:VEVENT
 SUMMARY:illumine 2026 — Atlanta
 DTSTART;TZID="UTC-05:00":20261203T193000
 DTEND;TZID="UTC-05:00":20261203T230000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:f1171b3b35429687f74c69e64184@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
@@ -5978,7 +5740,7 @@ BEGIN:VEVENT
 SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
 DTSTART;TZID="UTC-05:00":20261203T200000
 DTEND;TZID="UTC-05:00":20261203T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:43143ae586b676bda6cd24d82350@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
@@ -6004,7 +5766,7 @@ BEGIN:VEVENT
 SUMMARY:Puppet Camp — Atlanta
 DTSTART;TZID="UTC-05:00":20261204T083000
 DTEND;TZID="UTC-05:00":20261204T150000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:b2ce21462b7c4d71f8ebc7607fb5@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
 DESCRIPTION:Come spend the summer with us and bring your imagination to li
@@ -6028,7 +5790,7 @@ SUMMARY:Between Here & Infinity: Celebrating 30 Years of the Spelman Colle
  ge Art Collection — Atlanta
 DTSTART;TZID="UTC-05:00":20261204T120000
 DTEND;TZID="UTC-05:00":20261204T170000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:8ef89a42ddbe9fa34c43007abf2d@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Between Here & Infinity: Celebrating 30 Years of the Spelman C
@@ -6056,7 +5818,7 @@ BEGIN:VEVENT
 SUMMARY:A FINE LINE — Atlanta
 DTSTART;TZID="UTC-05:00":20261204T180000
 DTEND;TZID="UTC-05:00":20261204T200000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:1a07455c0a28aad82658530183f8@global-arts-culture
 CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
 DESCRIPTION:Spalding Nix Fine Art is pleased to announce A FINE LINE\, a p
@@ -6083,7 +5845,7 @@ SUMMARY:Live Jazz February Friday’s: Wine\, Live Music & Sangria Special
  s — Atlanta
 DTSTART;TZID="UTC-05:00":20261204T190000
 DTEND;TZID="UTC-05:00":20261204T220000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3af8e23de0cf08d667604e5b4ce3@global-arts-culture
 CATEGORIES:Arts & Culture\,Music\,Atlanta\,United States
 DESCRIPTION:Ease into the weekend with smooth jazz and self-service wine. 
@@ -6107,10 +5869,137 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:artsatl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:illumine 2026 — Atlanta
+DTSTART;TZID="UTC-05:00":20261204T193000
+DTEND;TZID="UTC-05:00":20261204T230000
+DTSTAMP:20261102T061401Z
+UID:b95681259112a23f4a73202d5ec6@global-arts-culture
+CATEGORIES:Arts & Culture\,Art + Design\,Atlanta\,United States
+DESCRIPTION:As the sun sets\, Oakland Cemetery is transformed. Through col
+ orful lighting and art installations by some of Atlanta’s most innovativ
+ e artists\, illumine 2026 will light up the shadows of the night. We’re 
+ excited to once again partner with Atlanta gallery and studio Cat Eye Crea
+ tive to curate artists\, and join us in creating an elevated Oakland after
+  dark experience against the inspiring backdrop of Atlanta’s glittering 
+ skyline. In addition to exploring parts of the Cemetery after the sun sets
+ \, illumine attendees will also enjoy live entertainment\, multiple bars\,
+  and an Oakland pop-up shop. This year\, we are excited to offer new ways 
+ to experience illumine—including Premium Tickets\, Artist Sp\nCategory: 
+ Art + Design\nOriginal listing: https://www.artsatl.org/event/illumine-202
+ 6/2026-12-04/
+LOCATION:Oakland Cemetery\, 248 Oakland Ave SE\, Atlanta\, GA\, 30312
+STATUS:CONFIRMED
+URL:https://www.artsatl.org/event/illumine-2026/2026-12-04/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:artsatl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:F*CK THIS\, I’M GOING TO CHURCH — Atlanta
+DTSTART;TZID="UTC-05:00":20261204T200000
+DTEND;TZID="UTC-05:00":20261204T220000
+DTSTAMP:20261102T061401Z
+UID:5ffd25187097e9b0ebcb7d03a5c7@global-arts-culture
+CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
+DESCRIPTION:Virginia-Highland Church is proud to present an all new experi
+ mental theatre performance devised by local artists titled F*CK THIS\, I
+ ’M GOING TO CHURCH taking place at Virginia-Highland Church every weeken
+ d of March. March 06 – March 28\, 2026 Fridays at 8:00pm Saturdays at 3:
+ 00pm and 7:00pm F*CK THIS\, I’M GOING TO CHURCH is an immersive\, experi
+ mental theatre experience that reclaims the idea of church as loving commu
+ nity\, rejecting religious dogma that preaches shame\, judgment\, oppressi
+ on\, and abuse. In the midst of our tumultuous political climate and with 
+ the rise of harmful Christian nationalism\, local Atlanta theatre artists 
+ have come together to devise a performance that seeks to disman\nCategory:
+  Theater\nOriginal listing: https://www.artsatl.org/event/fck-this-im-goin
+ g-to-church/2026-12-04/
+LOCATION:Virginia-Highlands Church\, 743 Virginia Ave NE\, Atlanta
+STATUS:CONFIRMED
+URL:https://www.artsatl.org/event/fck-this-im-going-to-church/2026-12-04/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:artsatl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Classic Improv Show — Atlanta
+DTSTART;TZID="UTC-05:00":20261204T200000
+DTEND;TZID="UTC-05:00":20261204T220000
+DTSTAMP:20261102T061401Z
+UID:83812bb65c1bd49a59f87cfcfa18@global-arts-culture
+CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
+DESCRIPTION:Whole World Improv Theatre Presents: The Award-Winning Classic
+  Improv Show! Get ready for an electrifying night of spontaneous laughter 
+ with Atlanta’s best improv comedy! Whole World Improv Theatre\, your fav
+ orite little venue nestled in the vibrant Heart of Midtown\, Atlanta\, is 
+ thrilled to feature our award-winning improvisers every Friday and Saturda
+ y night. Prepare to be amazed as our quick-witted performers transform you
+ r audience suggestions into side-splitting scenes\, unforgettable characte
+ rs\, and hilarious stories – all made up on the spot\, right before your
+  eyes! ARE YOU READY TO PLAY? Wanna pull an all-nighter? 8pm ticket holder
+ s can purchase $10 tickets at the door for the 10pm show\nCategory: Theate
+ r\nOriginal listing: https://www.artsatl.org/event/the-classic-improv-show
+ -12/2026-12-04/
+LOCATION:Whole World Improv Theatre\, 1216 Spring Street\, Atlanta\, 30309
+STATUS:CONFIRMED
+URL:https://www.artsatl.org/event/the-classic-improv-show-12/2026-12-04/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:artsatl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“The Foreigner”\, a comedy by Larry Shue — Atlanta
+DTSTART;TZID="UTC-05:00":20261204T200000
+DTEND;TZID="UTC-05:00":20261204T220000
+DTSTAMP:20261102T061401Z
+UID:dcf168f9d1e1abe29a5329af2aa6@global-arts-culture
+CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
+DESCRIPTION:Renegade Theatre Company is excited to present “The Foreigne
+ r”\, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTC
+ theforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE\, At
+ lanta There is free parking available across the street at Virginia Highla
+ nd Elementary School. There is limited parking onsite at the church. Pleas
+ e plan to take public transportation\, a ride share or arrive early to fin
+ d street parking. We will begin shows promptly\, so please plan ahead to b
+ e on time. PERFORMANCE DATES • Wednesday\, July 15th\, 2026 • 8PM • 
+ Thursday\, July 16th\, 2026 • 8PM • Friday\, July 17th\, 2026 • 8PM 
+ • Saturday\, July 18th\, 2026 • 2PM & 8PM COST OF ADMISSION We offer a
+ dmiss\nCategory: Theater\nOriginal listing: https://www.artsatl.org/event/
+ the-foreigner-a-comedy-by-larry-shue/2026-12-04/
+LOCATION:Virginia-Highlands Church\, 743 Virginia Ave NE\, Atlanta
+STATUS:CONFIRMED
+URL:https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/202
+ 6-12-04/
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:artsatl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CELEBRATING HISPANIC HERITAGE — Atlanta
+DTSTART;TZID="UTC-05:00":20261204T220000
+DTEND;TZID="UTC-05:00":20261204T230000
+DTSTAMP:20261102T061401Z
+UID:a7c0899a749dd21043053ab42936@global-arts-culture
+CATEGORIES:Arts & Culture\,Theater\,Atlanta\,United States
+DESCRIPTION:Celebrate Hispanic Heritage Month with Atlanta’s original al
+ l-Hispanic improv cast! Every Friday at 10 PM\, Whole World Improv Theatre
+  presents a unique\, fully improvised show celebrating Latin culture and s
+ torytelling. From spooky musical comedy to real-life stories brought to th
+ e stage\, no two Fridays are ever the same. Sept 18th – El Armando: Una 
+ historia real se convierte en una obra completamente improvisada. / A real
+  story becomes a completely improvised play. Sept 25th – Whole World Gig
+ ante: Talentos hispanos de Atlanta\, reunidos en un solo escenario. / Atla
+ nta’s Hispanic talent\, united on one stage. Oct 2nd – Caos Musical: U
+ n musical 100% improvisado. / A 100% improvised musical. Oct \nCategory: T
+ heater\nOriginal listing: https://www.artsatl.org/event/celebrating-hispan
+ ic-heritage/2026-12-04/
+LOCATION:Whole World Improv Theatre\, 1216 Spring Street\, Atlanta\, 30309
+STATUS:CONFIRMED
+URL:https://www.artsatl.org/event/celebrating-hispanic-heritage/2026-12-04
+ /
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:artsatl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Little Learners: Puppet Party — New Orleans
 DTSTART;TZID="UTC-06:00":20261212T093000
 DTEND;TZID="UTC-06:00":20261212T101500
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:91a752c0b8f58041b270653405f1@global-arts-culture
 CATEGORIES:Arts & Culture\,Kids &amp\; Families\,New Orleans\,United State
  s
@@ -6137,7 +6026,7 @@ BEGIN:VEVENT
 SUMMARY:Studio KIDS!: Puppet Party — New Orleans
 DTSTART;TZID="UTC-06:00":20261212T103000
 DTEND;TZID="UTC-06:00":20261212T120000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:3f2a783875fd5397d4cad2cb0415@global-arts-culture
 CATEGORIES:Arts & Culture\,Kids &amp\; Families\,New Orleans\,United State
  s
@@ -6165,7 +6054,7 @@ SUMMARY:Gallery Talk for Teens: Second Nature: Japanese Rinpa Paintings fr
  om the Gitter-Yelen Collection — New Orleans
 DTSTART;TZID="UTC-06:00":20270119T100000
 DTEND;TZID="UTC-06:00":20270119T113000
-DTSTAMP:20261101T220547Z
+DTSTAMP:20261102T061401Z
 UID:55290c37f0c752c7d455a49fd3db@global-arts-culture
 CATEGORIES:Arts & Culture\,Talks &amp\; Tours\,New Orleans\,United States
 DESCRIPTION:On November 17 and January 19\, New Orleans Museum of Art is h
