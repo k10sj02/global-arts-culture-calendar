@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-06T01:53:26.117485-05:00",
-  "count": 747,
-  "cancelled": 12,
+  "generated": "2026-11-06T14:27:48.452373-05:00",
+  "count": 733,
+  "cancelled": 47,
   "regions": {
-    "us": 562,
-    "europe": 185,
+    "us": 555,
+    "europe": 178,
     "mexico": 0
   },
   "sources": {
@@ -12,20 +12,20 @@
     "brown-arts": 10,
     "chicago-humanities": 16,
     "harvard-film-archive": 32,
-    "gwu-arts": 107,
+    "gwu-arts": 102,
     "redcat": 25,
+    "berkeley-arts": 23,
     "northwest-film-forum": 103,
     "artsatl": 212,
     "noma": 10,
     "cac-new-orleans": 3,
-    "ica-london": 2,
+    "ica-london": 3,
     "matadero-madrid": 35,
     "cccb": 95,
     "silent-green": 45
   },
   "errors": {
     "fringearts": "No current FringeArts events found",
-    "berkeley-arts": "No current UC Berkeley arts events found",
     "inbal": "timed out"
   }
 }
