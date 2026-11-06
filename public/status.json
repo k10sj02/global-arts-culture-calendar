@@ -1,31 +1,31 @@
 {
-  "generated": "2026-11-05T14:59:53.154304-05:00",
-  "count": 749,
-  "cancelled": 38,
+  "generated": "2026-11-06T01:53:26.117485-05:00",
+  "count": 747,
+  "cancelled": 12,
   "regions": {
-    "us": 561,
-    "europe": 188,
+    "us": 562,
+    "europe": 185,
     "mexico": 0
   },
   "sources": {
     "poetry-project": 6,
     "brown-arts": 10,
+    "chicago-humanities": 16,
     "harvard-film-archive": 32,
-    "redcat": 26,
-    "berkeley-arts": 12,
-    "northwest-film-forum": 105,
-    "artsatl": 215,
-    "noma": 12,
+    "gwu-arts": 107,
+    "redcat": 25,
+    "northwest-film-forum": 103,
+    "artsatl": 212,
+    "noma": 10,
     "cac-new-orleans": 3,
     "ica-london": 2,
-    "matadero-madrid": 40,
-    "cccb": 96,
-    "silent-green": 46
+    "matadero-madrid": 35,
+    "cccb": 95,
+    "silent-green": 45
   },
   "errors": {
-    "chicago-humanities": "peer closed connection without sending complete message body (incomplete chunked read)",
-    "gwu-arts": "peer closed connection without sending complete message body (received 40058 bytes, expected 327152)",
     "fringearts": "No current FringeArts events found",
+    "berkeley-arts": "No current UC Berkeley arts events found",
     "inbal": "timed out"
   }
 }
