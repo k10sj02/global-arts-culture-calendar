@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-07T01:04:09.196776-05:00",
-  "count": 742,
-  "cancelled": 12,
+  "generated": "2026-11-07T08:09:34.489745-05:00",
+  "count": 706,
+  "cancelled": 71,
   "regions": {
-    "us": 564,
-    "europe": 178,
+    "us": 537,
+    "europe": 169,
     "mexico": 0
   },
   "sources": {
@@ -14,7 +14,7 @@
     "harvard-film-archive": 30,
     "gwu-arts": 100,
     "redcat": 24,
-    "berkeley-arts": 7,
+    "berkeley-arts": 37,
     "northwest-film-forum": 101,
     "artsatl": 208,
     "noma": 9,
