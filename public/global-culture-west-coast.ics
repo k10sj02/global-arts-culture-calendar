@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Bernice Akamine\, Lani Asunción\,… — Los Angeles
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:cae461993f872035795e2d05802d@global-arts-culture
 CATEGORIES:Arts & Culture\,Art\,Los Angeles\,United States
 DESCRIPTION:Category: Art\nOriginal listing: https://www.redcat.org/events
@@ -23,326 +23,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibit | Centering Philippine and Filipinx American Histories: Se
  lections from The Bancroft Library — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T000000
-DTSTAMP:20261107T215454Z
-UID:4db6cb7b08d1e3cd67620a6986f1@global-arts-culture
-CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
-DESCRIPTION:The Bancroft Library’s collections of materials relating to 
- the Philippines span nearly 500 years. Highlights in this exhibit include 
- a transcript of an Inquisitorial trial from 1646\, a prayer book written i
- n the Cebuano language\, and UC Berkeley Filipino student publications fro
- m 1905 to the present. The exhibit also features selections from the perso
- nal papers of acclaimed author Jessica Hagedorn\, including typewritten dr
- afts of her novels\, poetry\, song lyrics\, and a screenplay\, as well as 
- childhood drawings and writings. Open hours may vary. Please view the The 
- Bancroft Library hours page for the most up-to-date information.\nCategory
- : Exhibits\nOriginal listing: https://events.berkeley.edu/Library/event/28
- 8815-centering-philippine-and-filipinx-american
-LOCATION:The Bancroft Library (corridor)\, The Bancroft Library (corridor)
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/Library/event/288815-centering-philippine-
- and-filipinx-american
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibit | De y para el pueblo / By and for the People: Revolutiona
- ry Mexican Prints — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T000000
-DTSTAMP:20261107T215454Z
-UID:c19a05329f65c2a93a611ae31e9c@global-arts-culture
-CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
-DESCRIPTION:The exhibition\, De y para el pueblo / By and for the People: 
- Revolutionary Mexican Prints\, features highlights from The Bancroft Libra
- ry’s extensive collection of prints.\nCategory: Exhibits\nOriginal listi
- ng: https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pu
- eblo-for-and-by-the-people-rev
-LOCATION:The Bancroft Library Gallery\, The Bancroft Library Gallery
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pu
- eblo-for-and-by-the-people-rev
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibit | Divestment Now! Student Activism and the Anti-Apartheid 
- Movement at UC Berkeley — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T000000
-DTSTAMP:20261107T215454Z
-UID:97992bc85eeee43a7890b428f553@global-arts-culture
-CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
-DESCRIPTION:In 1985\, UC Berkeley students\, with support from faculty\, s
- taff\, and labor unions\, transformed the campus into the heart of a power
- ful anti-apartheid divestment campaign. They organized rallies\, teach-ins
- \, and shantytown encampments to protest the university’s financial ties
-  to companies profiting from South Africa’s system of racial segregation
- .\nCategory: Exhibits\nOriginal listing: https://events.berkeley.edu/live/
- events/309073-exhibit-divestment-now-student-activism-and-the-anti-
-LOCATION:The Rowell Exhibition Cases\, Doe Library\, 2nd floor\, The Rowel
- l Exhibition Cases\, Doe Library\, 2nd floor
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/live/events/309073-exhibit-divestment-now-
- student-activism-and-the-anti-
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibit | Kōmij Mour Ijin / Our Life Is Here — Berkeley/San Fra
- ncisco
-DTSTART;TZID="UTC-08:00":20261106T000000
-DTSTAMP:20261107T215454Z
-UID:acd16d896427f789cc4b71334778@global-arts-culture
-CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
-DESCRIPTION:Kōmij Mour Ijin / Our Life Is Here at Doe Library brings toge
- ther reproductions of works and interpretive material from the 2023 voyage
- \, exploring climate change\, the legacy of US nuclear testing\, and Marsh
- allese knowledge and resilience.\nCategory: Exhibits\nOriginal listing: ht
- tps://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-ijin-our-
- life-is-here
-LOCATION:Bernice Layne Brown Gallery (inside Doe Library)\, Bernice Layne 
- Brown Gallery (inside Doe Library)
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-iji
- n-our-life-is-here
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exit Signs: Fall 2026 Advanced Studio and Critique Program Exhibit
- ion — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T000000
-DTSTAMP:20261107T215454Z
-UID:a51e09dda883a588a0188be51d39@global-arts-culture
-CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
-DESCRIPTION:Worth Ryder Art Gallery and the Department of Art Practice are
-  excited to announce Exit Signs \, a group exhibition featuring multidisci
- plinary artworks from students in the Department of Art Practice’s Fall 
- 2026 Advanced Studio Critique Program.\nCategory: Exhibits\nOriginal listi
- ng: https://events.berkeley.edu/art/event/333517-exit-signs-fall-2026-adva
- nced-studio-and-critique-pro
-LOCATION:Worth Ryder Art Gallery\, Anthropology & Art Building\, Rm 116\, 
- Worth Ryder Art Gallery\, Anthropology & Art Building\, Rm 116
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/art/event/333517-exit-signs-fall-2026-adva
- nced-studio-and-critique-pro
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Photography Installation: Remembering the Future: Nuclear Testing
- \, Rising Seas\, and The Marshall Islands — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T000000
-DTSTAMP:20261107T215454Z
-UID:27dcdadf4a29b86e0661b5498fb7@global-arts-culture
-CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
-DESCRIPTION:At Giannini Hall\, 36 photographs selected from the recently p
- ublished Remembering the Future: Nuclear Testing\, Rising Seas\, and The M
- arshall Islands (Radius Books\, © 2026) by Mark Klett and William L. Fox 
- extend the two men’s decades-long collaboration tracing the nuclear hist
- ory of the American West and the broader Pacific sphere.\nCategory: Exhibi
- ts\nOriginal listing: https://events.berkeley.edu/live/events/330194-photo
- graphy-installation-remembering-the-future
-LOCATION:Giannini Hall\, Giannini Hall
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/live/events/330194-photography-installatio
- n-remembering-the-future
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Exhibition: Kōmij Mour Ijin / Our Life Is Here — Berkeley
- /San Francisco
-DTSTART;TZID="UTC-08:00":20261106T000000
-DTSTAMP:20261107T215454Z
-UID:21cb1b35a897673b7ff39ccb3ea4@global-arts-culture
-CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
-DESCRIPTION:The VIDRINE presents four artists’ video responses to nuclea
- r history\, colonialism\, and climate change in the Pacific\, made in the 
- wake of the Kōmij Mour Ijin / Our Life Is Here voyage.\nCategory: Exhibit
- s\nOriginal listing: https://events.berkeley.edu/live/events/333732-video-
- exhibition-kmij-mour-ijin-our-life-is-here
-LOCATION:Vidrine- Worth Ryder Galler\, Anthropology & Art Practice Buildin
- g\, Vidrine- Worth Ryder Galler\, Anthropology & Art Practice Building
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-m
- our-ijin-our-life-is-here
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Concert: Berkeley Camerata Orchestra — Berkeley/San Franc
- isco
-DTSTART;TZID="UTC-08:00":20261106T120000
-DTSTAMP:20261107T215454Z
-UID:53a5d64cf8b24dd664f616bac56e@global-arts-culture
-CATEGORIES:Arts & Culture\,Performing Arts\,Berkeley/San Francisco\,United
-  States
-DESCRIPTION:Bach\, Suite No. 3 in D major\, BWV 1068 Overture Air Gavotte 
- Bloch\, Concerto Grosso No. 1 Prelude Pastorale and Rustic Dances Fugue Mo
- ses Lei\, director Jean Ahn\, faculty advisor\nCategory: Performing Arts\n
- Original listing: https://events.berkeley.edu/live/events/336593-friday-co
- ncert-berkeley-camerata-orchestra
-LOCATION:Wu Performance Hall\, Wu Performance Hall
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/live/events/336593-friday-concert-berkeley
- -camerata-orchestra
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Composition Colloquium: Julius Dobos — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T150000
-DTSTAMP:20261107T215454Z
-UID:6e4a89ef90bd6111e77bfbd5dd42@global-arts-culture
-CATEGORIES:Arts & Culture\,Academic\,Berkeley/San Francisco\,United States
-DESCRIPTION:Spatial Composition: The New Frontier\nCategory: Academic\nOri
- ginal listing: https://events.berkeley.edu/live/events/328891-composition-
- colloquium-julius-dobos
-LOCATION:Morrison Hall Room 125\, UC Berkeley Campus\, 94720\, Morrison Ha
- ll Room 125\, UC Berkeley Campus\, 94720
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/live/events/328891-composition-colloquium-
- julius-dobos
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Film Screening: Mean Streets — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T160000
-DTSTAMP:20261107T215454Z
-UID:ce7f6d4936f119ff578e871b2304@global-arts-culture
-CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
-DESCRIPTION:Set during the Feast of San Gennaro in the Italian neighborhoo
- d where Martin Scorsese grew up\, and populated with characters and situat
- ions based on the neighborhood’s inhabitants\, Mean Streets is an early 
- distillation of the themes that would define the director’s career. Char
- lie (Harvey Keitel) is torn between his devout Catholicism\, his commitmen
- t to his volatile friend Johnny Boy (Robert De Niro)\, a romantic entangle
- ment with Johnny’s cousin Teresa\, and opportunities offered by his crim
- e boss uncle. Crackling with creative energy\, this now iconic neo-noir is
-  inflected with influences from French New Wave\, cinema verité\, and Ame
- rican independent filmmakers like Kenneth Anger\, John Cassave\nCategory: 
- Films\nOriginal listing: https://events.berkeley.edu/BAMPFA/event/331138-f
- ilm-screening-mean-streets
-LOCATION:BAMPFA\, BAMPFA
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/BAMPFA/event/331138-film-screening-mean-st
- reets
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engauge 2026 – Tainted — Seattle
-DTSTART;TZID="UTC-08:00":20261106T163000
-DTEND;TZID="UTC-08:00":20261106T174900
-DTSTAMP:20261107T215454Z
-UID:cac1b7541cc9ec51ff93afd1d083@global-arts-culture
-CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
-DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
- s/engauge-2026-tainted/
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-STATUS:CANCELLED
-URL:https://nwfilmforum.org/films/engauge-2026-tainted/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:northwest-film-forum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
-  fragmentary passage — Seattle
-DTSTART;TZID="UTC-08:00":20261106T183000
-DTEND;TZID="UTC-08:00":20261106T203600
-DTSTAMP:20261107T215454Z
-UID:83a9d34e313521fde5b78895d103@global-arts-culture
-CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
-DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
- s/castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragmen
- tary-passage/
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-STATUS:CANCELLED
-URL:https://nwfilmforum.org/films/castration-movie-chapter-iii-ii-junior-g
- hosts-premorphic-drift-a-fragmentary-passage/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:northwest-film-forum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Film Screening: Harakiri — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T190000
-DTEND;TZID="UTC-08:00":20261106T200000
-DTSTAMP:20261107T215454Z
-UID:61f9a184e14f264dedd9b205fa67@global-arts-culture
-CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
-DESCRIPTION:Masaki Kobayashi harnesses the breathtaking beauty of black-an
- d-white\, widescreen cinematography to create an abstract epic. Starring T
- atsuya Nakadai\, the film depicts one man’s desperate attempt to crack t
- he blind\, absolute authority that characterizes the feudal age and\, Koba
- yashi suggests\, our own. In an Edo-period mansion\, the camera inches dow
- n hallways and finds rooms within rooms to explicate a complex flashback n
- arration. In the bloody climax\, the black-robed figures who were caught a
- nd dissected by a stationary camera throughout the film come into their ow
- n as an inexorable prophecy\, like Toru Takemitsu’s haunting music and t
- he words that emerge almost rhythmically from the dialogue\nCategory: Film
- s\nOriginal listing: https://events.berkeley.edu/BAMPFA/event/331139-film-
- screening-harakiri
-LOCATION:BAMPFA\, BAMPFA
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/BAMPFA/event/331139-film-screening-harakir
- i
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engauge 2026 – Expanded Cinema Performance and Film — Seattle
-DTSTART;TZID="UTC-08:00":20261106T190000
-DTEND;TZID="UTC-08:00":20261106T200000
-DTSTAMP:20261107T215454Z
-UID:0e59425763cc50b8d72efd23bae2@global-arts-culture
-CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
-DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
- s/engauge-2026-expanded-cinema-performance-and-film/
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-STATUS:CANCELLED
-URL:https://nwfilmforum.org/films/engauge-2026-expanded-cinema-performance
- -and-film/
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:northwest-film-forum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UC Berkeley Symphony Orchestra — Berkeley/San Francisco
-DTSTART;TZID="UTC-08:00":20261106T193000
-DTSTAMP:20261107T215454Z
-UID:76753c5634dd2072dc5cdb21442e@global-arts-culture
-CATEGORIES:Arts & Culture\,Performing Arts\,Berkeley/San Francisco\,United
-  States
-DESCRIPTION:Beethoven\, Leonore Overture No. 3 Ravel\, Mother Goose Suite 
- Shostakovich\, Symphony No. 15 David Milnes \, music director Gene Chang 
- \, conductor\nCategory: Performing Arts\nOriginal listing: https://events.
- berkeley.edu/live/events/326565-uc-berkeley-symphony-orchestra
-LOCATION:Hertz Concert Hall\, Hertz Concert Hall
-STATUS:CANCELLED
-URL:https://events.berkeley.edu/live/events/326565-uc-berkeley-symphony-or
- chestra
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:berkeley-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOW 2026 — Los Angeles
-DTSTART;TZID="UTC-08:00":20261106T200000
-DTSTAMP:20261107T215454Z
-UID:74cc9cfbf6292254fff56ad80e12@global-arts-culture
-CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
-DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
- vents/now-2026-week-one
-LOCATION:REDCAT\, 631 W 2nd St\, Los Angeles\, CA 90012
-STATUS:CANCELLED
-URL:https://www.redcat.org/events/now-2026-week-one
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:redcat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibit | Centering Philippine and Filipinx American Histories: Se
- lections from The Bancroft Library — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d4ba999b2975ce040984997f35c9@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The Bancroft Library’s collections of materials relating to 
@@ -367,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | De y para el pueblo / By and for the People: Revolutiona
  ry Mexican Prints — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:e977e053f5891b9544acd1cdf331@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The exhibition\, De y para el pueblo / By and for the People: 
@@ -386,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Divestment Now! Student Activism and the Anti-Apartheid 
  Movement at UC Berkeley — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:7930d4bc2167c1be3efa41f7f7a5@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:In 1985\, UC Berkeley students\, with support from faculty\, s
@@ -408,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Kōmij Mour Ijin / Our Life Is Here — Berkeley/San Fra
  ncisco
 DTSTART;TZID="UTC-08:00":20261107T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d9d0704197ee74a9a1162163e788@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Kōmij Mour Ijin / Our Life Is Here at Doe Library brings toge
@@ -429,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Photography Installation: Remembering the Future: Nuclear Testing
  \, Rising Seas\, and The Marshall Islands — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:ff7cf9cf0ff76670958df5838b90@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:At Giannini Hall\, 36 photographs selected from the recently p
@@ -450,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Video Exhibition: Kōmij Mour Ijin / Our Life Is Here — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-08:00":20261107T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d5cea60cc2a3ac52aba885ca0456@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The VIDRINE presents four artists’ video responses to nuclea
@@ -470,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Video Exhibition: Kōmij Mour Ijin / Our Life Is Here — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-08:00":20261107T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:3f2b8aa75007d92d198b553b56a8@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Worth Ryder Art Gallery and VIDRINE present four artists’ vi
@@ -490,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Film Screening: Kwaidan — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T143000
 DTEND;TZID="UTC-08:00":20261107T153000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:e1ff9730b96d282a8e0f64fd08f8@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:Breathtakingly photographed on hand-painted sets\, Kwaidan is 
@@ -513,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Film Screening: Kwaidan — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T143000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:98216a3bf054ac882625a9596e26@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:Breathtakingly photographed on hand-painted sets\, Kwaidan is 
@@ -528,7 +210,7 @@ DESCRIPTION:Breathtakingly photographed on hand-painted sets\, Kwaidan is
  al three-hour Director’s Cut.\nCategory: Films\nOriginal listing: https:
  //events.berkeley.edu/BAMPFA/event/331140-film-screening-kwaidan
 LOCATION:BAMPFA\, BAMPFA
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://events.berkeley.edu/BAMPFA/event/331140-film-screening-kwaidan
 X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:berkeley-arts
@@ -537,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – Pattern and Place — Seattle
 DTSTART;TZID="UTC-08:00":20261107T150000
 DTEND;TZID="UTC-08:00":20261107T162600
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:81ccbeaa96b60ff68e58cf7ac155@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -553,7 +235,7 @@ SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
   fragmentary passage — Seattle
 DTSTART;TZID="UTC-08:00":20261107T153000
 DTEND;TZID="UTC-08:00":20261107T173600
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:9cc19704f42ce43af5c10f24295e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -570,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – We Are All Together — Seattle
 DTSTART;TZID="UTC-08:00":20261107T170000
 DTEND;TZID="UTC-08:00":20261107T182100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:9887e1de762bd25311b1af81ee8b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -585,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Film Screening: The Sword — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T183000
 DTEND;TZID="UTC-08:00":20261107T193000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d46a3135144ca1efc140e15c296f@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:An ambitious swordsman looking to bolster his reputation hunts
@@ -609,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Film Screening: The Sword — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T183000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:f382fb2c42000642c469d5471949@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:An ambitious swordsman looking to bolster his reputation hunts
@@ -624,7 +306,7 @@ DESCRIPTION:An ambitious swordsman looking to bolster his reputation hunts
  ting: https://events.berkeley.edu/townsend/event/337295-film-screening-the
  -sword
 LOCATION:BAMPFA\, BAMPFA
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://events.berkeley.edu/townsend/event/337295-film-screening-the-s
  word
 X-GLOBAL-CULTURE-REGION:us
@@ -635,7 +317,7 @@ SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
   fragmentary passage — Seattle
 DTSTART;TZID="UTC-08:00":20261107T183000
 DTEND;TZID="UTC-08:00":20261107T203600
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:290b2799961405c40ac67a3cb33e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -651,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UC Berkeley Symphony Orchestra — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261107T193000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:c6727834a485f477c73e1093fe78@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Berkeley/San Francisco\,United
   States
@@ -670,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Engauge 2026 – Rankin Renwick Solo Show — Seattle
 DTSTART;TZID="UTC-08:00":20261107T193000
 DTEND;TZID="UTC-08:00":20261107T203000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:9d7600d575d65d6d416d89eab278@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -684,7 +366,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261107T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:dccc8f36b92dbf561189fada4207@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -699,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Centering Philippine and Filipinx American Histories: Se
  lections from The Bancroft Library — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:58c31c1f494ada422ea1ba229089@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The Bancroft Library’s collections of materials relating to 
@@ -724,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | De y para el pueblo / By and for the People: Revolutiona
  ry Mexican Prints — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:a127304a07d70aac6051024fe983@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The exhibition\, De y para el pueblo / By and for the People: 
@@ -743,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Divestment Now! Student Activism and the Anti-Apartheid 
  Movement at UC Berkeley — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:6b3a5697b4a7ec9331f0ebd479f4@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:In 1985\, UC Berkeley students\, with support from faculty\, s
@@ -765,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Kōmij Mour Ijin / Our Life Is Here — Berkeley/San Fra
  ncisco
 DTSTART;TZID="UTC-08:00":20261108T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d98a0de628c42975c1c07bfdd7d5@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Kōmij Mour Ijin / Our Life Is Here at Doe Library brings toge
@@ -786,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:Photography Installation: Remembering the Future: Nuclear Testing
  \, Rising Seas\, and The Marshall Islands — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:78a54f5d9708ca13125c7cdc2b3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:At Giannini Hall\, 36 photographs selected from the recently p
@@ -807,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:Video Exhibition: Kōmij Mour Ijin / Our Life Is Here — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-08:00":20261108T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:ec64a82b5d647aad441070c9956e@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The VIDRINE presents four artists’ video responses to nuclea
@@ -827,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Video Exhibition: Kōmij Mour Ijin / Our Life Is Here — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-08:00":20261108T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:07c16c4d22a4dccd6411807c6e6d@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Worth Ryder Art Gallery and VIDRINE present four artists’ vi
@@ -837,7 +519,7 @@ DESCRIPTION:Worth Ryder Art Gallery and VIDRINE present four artists’ vi
  l listing: https://events.berkeley.edu/live/events/333518-video-exhibition
  -kmij-mour-ijin-our-life-is-here
 LOCATION:Anthropology & Art Building\, Anthropology & Art Building
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://events.berkeley.edu/live/events/333518-video-exhibition-kmij-m
  our-ijin-our-life-is-here
 X-GLOBAL-CULTURE-REGION:us
@@ -848,7 +530,7 @@ SUMMARY:BAMPFA Exhibition: Private Frontiers: Media Legacies of the Cold W
  ar — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T110000
 DTEND;TZID="UTC-08:00":20261108T190000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:5e42b67d96176b9a582ee6a25bdd@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:On display from Sep 9 - Dec 13\, 2026 | 11 am - 7 p.m. Bookend
@@ -875,7 +557,7 @@ SUMMARY:Exhibit | An Archive of Archives: Roman Vishniac’s Exhibition Hi
  story | New York\, 1971-72 — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T110000
 DTEND;TZID="UTC-08:00":20261108T160000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:8be7a1ad1e204029831c18fba7d6@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:An Archive of Archives: Roman Vishniac’s Exhibition History 
@@ -897,7 +579,7 @@ SUMMARY:Exhibit | Nancy Lee Katz: A Private Pantheon | Part 1 — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-08:00":20261108T110000
 DTEND;TZID="UTC-08:00":20261108T160000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:24d79cbcfafb598e69c8a707543f@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Nancy Lee Katz: A Private Pantheon explores the artist’s dec
@@ -919,7 +601,7 @@ SUMMARY:Exhibit | Time Capsules: Exploring the Permanent Collection — Be
  rkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T110000
 DTEND;TZID="UTC-08:00":20261108T160000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:a7c5bcd43f010f41df9e755a2b40@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:In celebrating 15 years at UC Berkeley\, Time Capsules revisit
@@ -940,7 +622,7 @@ SUMMARY:Film Screening: The Human Condition I: No Greater Love — Berkele
  y/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T133000
 DTEND;TZID="UTC-08:00":20261108T143000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:4e32cecdce54108275a22c0587e1@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:It is rare when an episode of national history can be interpre
@@ -966,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:Film Screening: The Human Condition I: No Greater Love — Berkele
  y/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T133000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:2001d4fd066605356cf6d43a4f91@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:It is rare when an episode of national history can be interpre
@@ -982,7 +664,7 @@ DESCRIPTION:It is rare when an episode of national history can be interpre
  Original listing: https://events.berkeley.edu/BAMPFA/event/331143-film-scr
  eening-the-human-condition-i-no-greater
 LOCATION:BAMPFA\, BAMPFA
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://events.berkeley.edu/BAMPFA/event/331143-film-screening-the-hum
  an-condition-i-no-greater
 X-GLOBAL-CULTURE-REGION:us
@@ -992,7 +674,7 @@ BEGIN:VEVENT
 SUMMARY:Jean Rondeau\, harpsichord: All-French Baroque Program — Berkele
  y/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T150000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:86a592307bdb09f53d3a483ba093@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Berkeley/San Francisco\,United
   States
@@ -1018,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:Jean Rondeau\, harpsichord: All-French Baroque Program — Berkele
  y/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T150000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:7d4d1264560be925c5ed6cee064d@global-arts-culture
 CATEGORIES:Arts & Culture\,Performing Arts\,Berkeley/San Francisco\,United
   States
@@ -1034,7 +716,7 @@ DESCRIPTION:Returning to Cal Performances following his memorable 2023 rec
  isting: https://events.berkeley.edu/live/events/323606-jean-rondeau-harpsi
  chord-all-french-baroque
 LOCATION:Hertz Hall\, Hertz Hall
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://events.berkeley.edu/live/events/323606-jean-rondeau-harpsichor
  d-all-french-baroque
 X-GLOBAL-CULTURE-REGION:us
@@ -1044,7 +726,7 @@ BEGIN:VEVENT
 SUMMARY:Vagabond — Seattle
 DTSTART;TZID="UTC-08:00":20261108T150000
 DTEND;TZID="UTC-08:00":20261108T164500
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:a8ae40fe8cb075a829b6061f1d21@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1060,7 +742,7 @@ SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
   fragmentary passage — Seattle
 DTSTART;TZID="UTC-08:00":20261108T153000
 DTEND;TZID="UTC-08:00":20261108T173600
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d50c643fb94b2ce19f235d7cad35@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1076,7 +758,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sage-Based Drag Night — Los Angeles
 DTSTART;TZID="UTC-08:00":20261108T180000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:cc2715a5c66228b1f999cc6b14e4@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Los Angeles\,United States
 DESCRIPTION:Category: Theater\nOriginal listing: https://www.redcat.org/ev
@@ -1091,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:Three Dollar Bill Cinema Presents: Two Eyes — Seattle
 DTSTART;TZID="UTC-08:00":20261108T180000
 DTEND;TZID="UTC-08:00":20261108T193500
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:98e1dc0bb7153b2b5cecd20c2aa4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1107,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Film Screening: Contempt — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261108T183000
 DTEND;TZID="UTC-08:00":20261108T193000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:772920fdb376c49cfc2551c1e53f@global-arts-culture
 CATEGORIES:Arts & Culture\,Films\,Berkeley/San Francisco\,United States
 DESCRIPTION:In Italy\, Fritz Lang is shooting The Odyssey for an American 
@@ -1134,7 +816,7 @@ SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
   fragmentary passage — Seattle
 DTSTART;TZID="UTC-08:00":20261108T183000
 DTEND;TZID="UTC-08:00":20261108T203600
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:daa26c0257c234046a859eb44b26@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1151,7 +833,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Centering Philippine and Filipinx American Histories: Se
  lections from The Bancroft Library — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261109T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:72e8a3bdf2a12060c8c5fc8e2801@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The Bancroft Library’s collections of materials relating to 
@@ -1176,7 +858,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | De y para el pueblo / By and for the People: Revolutiona
  ry Mexican Prints — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261109T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:dfa496f8907b6b93000e346ebcf4@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:The exhibition\, De y para el pueblo / By and for the People: 
@@ -1195,7 +877,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Divestment Now! Student Activism and the Anti-Apartheid 
  Movement at UC Berkeley — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261109T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:088a6dc19b76ae66462f8f717c7b@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:In 1985\, UC Berkeley students\, with support from faculty\, s
@@ -1217,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibit | Kōmij Mour Ijin / Our Life Is Here — Berkeley/San Fra
  ncisco
 DTSTART;TZID="UTC-08:00":20261109T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:3225b32295f6c70f3428e9ec5dac@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Kōmij Mour Ijin / Our Life Is Here at Doe Library brings toge
@@ -1238,7 +920,7 @@ BEGIN:VEVENT
 SUMMARY:Photography Installation: Remembering the Future: Nuclear Testing
  \, Rising Seas\, and The Marshall Islands — Berkeley/San Francisco
 DTSTART;TZID="UTC-08:00":20261109T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:6e09381c951d7f12e1b7ea7d9dec@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:At Giannini Hall\, 36 photographs selected from the recently p
@@ -1259,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:Video Exhibition: Kōmij Mour Ijin / Our Life Is Here — Berkeley
  /San Francisco
 DTSTART;TZID="UTC-08:00":20261109T000000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:a1946cd2348784c6795f204efc9f@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibits\,Berkeley/San Francisco\,United States
 DESCRIPTION:Worth Ryder Art Gallery and VIDRINE present four artists’ vi
@@ -1279,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:Vagabond — Seattle
 DTSTART;TZID="UTC-08:00":20261109T190000
 DTEND;TZID="UTC-08:00":20261109T204500
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:2872df67edf95bbc6635ae22555b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1294,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Vagabond — Seattle
 DTSTART;TZID="UTC-08:00":20261110T190000
 DTEND;TZID="UTC-08:00":20261110T204500
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b0f6a5f2fd5f44ed6e524a764c55@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1308,7 +990,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Film Society's Film Discussion Group — Seattle
 DTSTART;TZID="UTC-08:00":20261111T190000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:10cc3968f6d42028598a238c286b@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -1323,7 +1005,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Members Only Mystery Movie - November 2026 — Seattle
 DTSTART;TZID="UTC-08:00":20261111T193000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:a9632063e12891c8838f88971543@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1338,7 +1020,7 @@ BEGIN:VEVENT
 SUMMARY:The Parallax View — Seattle
 DTSTART;TZID="UTC-08:00":20261112T190000
 DTEND;TZID="UTC-08:00":20261112T204200
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:7849205a9e186b5067a86a15b0d8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1353,7 +1035,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261112T193000
 DTEND;TZID="UTC-08:00":20261112T210900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:e495f91f5fcd60f51f1de0e66ebf@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1367,7 +1049,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261112T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:734ee56dc685f3e7b9ab0033dd46@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -1382,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261113T170000
 DTEND;TZID="UTC-08:00":20261113T183900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:c2b039a36213e7ff3366c6d6f398@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1398,7 +1080,7 @@ SUMMARY:Veronica Project Space Presents DESSILLER LES YEUX: Four by Jean V
  igo — Seattle
 DTSTART;TZID="UTC-08:00":20261113T190000
 DTEND;TZID="UTC-08:00":20261113T214500
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:c4a510e3e2ac715df14a8698a014@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1413,7 +1095,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261113T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:3618cfc82cd24ae6f67e3c08a004@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -1427,7 +1109,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261114T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d2ad7a4560095fdbe420deebaf6e@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -1442,7 +1124,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261115T160000
 DTEND;TZID="UTC-08:00":20261115T173900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:1d80cab6fff41eb5a206aaa827e4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1457,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End — Seattle
 DTSTART;TZID="UTC-08:00":20261115T163000
 DTEND;TZID="UTC-08:00":20261115T173200
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:4b2590ca868619f175c86ba77d33@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1472,7 +1154,7 @@ BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End — Seattle
 DTSTART;TZID="UTC-08:00":20261115T180000
 DTEND;TZID="UTC-08:00":20261115T190200
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:bcf851030a42254de5c6cc1b2c7a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1487,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261115T190000
 DTEND;TZID="UTC-08:00":20261115T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:e464004e38699edca4f4a39d4a9a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1502,7 +1184,7 @@ BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End — Seattle
 DTSTART;TZID="UTC-08:00":20261115T193000
 DTEND;TZID="UTC-08:00":20261115T203200
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:25f4ab997186bb9520e1bda19476@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1517,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261116T190000
 DTEND;TZID="UTC-08:00":20261116T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:38aea247a6d1868d2840691c36cd@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1532,7 +1214,7 @@ BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End — Seattle
 DTSTART;TZID="UTC-08:00":20261116T193000
 DTEND;TZID="UTC-08:00":20261116T203200
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:a6bf848b598a2606ff0ff23961c8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1547,7 +1229,7 @@ BEGIN:VEVENT
 SUMMARY:Go Fish (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261117T190000
 DTEND;TZID="UTC-08:00":20261117T202800
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:bdee59891311e11ea9008b7ed756@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1561,7 +1243,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Film Society's Film Discussion Group — Seattle
 DTSTART;TZID="UTC-08:00":20261118T190000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:21cc33b043133eb38fa6b9e7b7b6@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -1577,7 +1259,7 @@ BEGIN:VEVENT
 SUMMARY:WTF with STUFF - Kokomo City — Seattle
 DTSTART;TZID="UTC-08:00":20261118T190000
 DTEND;TZID="UTC-08:00":20261118T201300
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:6caf6784f5e65070cf333d57f5ad@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1592,7 +1274,7 @@ BEGIN:VEVENT
 SUMMARY:Zi — Seattle
 DTSTART;TZID="UTC-08:00":20261118T193000
 DTEND;TZID="UTC-08:00":20261118T210900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:8fd947b5dd96e8069c9a592ffb8f@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1607,7 +1289,7 @@ BEGIN:VEVENT
 SUMMARY:SFCS at 10: The Witch — Seattle
 DTSTART;TZID="UTC-08:00":20261119T183000
 DTEND;TZID="UTC-08:00":20261119T200200
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:f6cac08772332ced87dc30fde8e0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1623,7 +1305,7 @@ SUMMARY:Seattle Film Society Presents Locals Only: November 2026 — Seatt
  le
 DTSTART;TZID="UTC-08:00":20261119T190000
 DTEND;TZID="UTC-08:00":20261119T193300
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d6b981c794ab43c9e71536bfcef1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1638,7 +1320,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261119T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b44bc402aa3159c29020dbfb9db1@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -1653,7 +1335,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261120T190000
 DTEND;TZID="UTC-08:00":20261120T212000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:72d7c69bbff3858dd18bcac0fc1a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1668,7 +1350,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261120T193000
 DTEND;TZID="UTC-08:00":20261120T205100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:2e6532a651f87fa0c69d151ecc3e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1682,7 +1364,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261120T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:cb9fcbae90080a0114c8535ab566@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -1697,7 +1379,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261121T160000
 DTEND;TZID="UTC-08:00":20261121T182000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:6d1e8052c5c60b57e4285f39643d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1712,7 +1394,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261121T163000
 DTEND;TZID="UTC-08:00":20261121T175100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:9c70edb067694e7f2e3184f9b306@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1727,7 +1409,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261121T190000
 DTEND;TZID="UTC-08:00":20261121T212000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:fcd7538eecfd82c4c8b69a101376@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1742,7 +1424,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261121T193000
 DTEND;TZID="UTC-08:00":20261121T205100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:4c1f3d3ab3d5197a8e3fc0647821@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1756,7 +1438,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOW 2026 — Los Angeles
 DTSTART;TZID="UTC-08:00":20261121T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:dffe29acc67ccb962b9d12de0534@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -1771,7 +1453,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261122T160000
 DTEND;TZID="UTC-08:00":20261122T182000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:4bbe8a6c5c8871afe0a87361c3b5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1786,7 +1468,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261122T163000
 DTEND;TZID="UTC-08:00":20261122T175100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:10566d710f907681c5a179e9e8ea@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1801,7 +1483,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - Love Streams — Seattle
 DTSTART;TZID="UTC-08:00":20261122T190000
 DTEND;TZID="UTC-08:00":20261122T212000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b396f79eba9f4e1007870752e412@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1816,7 +1498,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261122T193000
 DTEND;TZID="UTC-08:00":20261122T205100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:bacc6a746a60444d002fa1e5d1d4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1831,7 +1513,7 @@ BEGIN:VEVENT
 SUMMARY:La Bola Negra — Seattle
 DTSTART;TZID="UTC-08:00":20261123T180000
 DTEND;TZID="UTC-08:00":20261123T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:8dac9d470fa6a902b36a4a86f61d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1846,7 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261123T190000
 DTEND;TZID="UTC-08:00":20261123T202100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:5b789309bcf9a81104019f8d8370@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1861,7 +1543,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261123T193000
 DTEND;TZID="UTC-08:00":20261123T205100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b135f0e721ff49f1764efb204d8b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1876,7 +1558,7 @@ BEGIN:VEVENT
 SUMMARY:La Bola Negra — Seattle
 DTSTART;TZID="UTC-08:00":20261124T180000
 DTEND;TZID="UTC-08:00":20261124T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:1f9f87322afdb5ed6463b30bcc65@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1891,7 +1573,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261124T190000
 DTEND;TZID="UTC-08:00":20261124T202100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:5863446f796bd179cf8d5da09239@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1906,7 +1588,7 @@ BEGIN:VEVENT
 SUMMARY:My Brother's Wedding (4K Restoration) — Seattle
 DTSTART;TZID="UTC-08:00":20261124T193000
 DTEND;TZID="UTC-08:00":20261124T205100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:f9abb91d288be2f693f734e39124@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1921,7 +1603,7 @@ BEGIN:VEVENT
 SUMMARY:La Bola Negra — Seattle
 DTSTART;TZID="UTC-08:00":20261125T180000
 DTEND;TZID="UTC-08:00":20261125T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b5fcaa75d430e9358adbade4a72f@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1936,7 +1618,7 @@ BEGIN:VEVENT
 SUMMARY:Tokyo Story — Seattle
 DTSTART;TZID="UTC-08:00":20261128T153000
 DTEND;TZID="UTC-08:00":20261128T174700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:28a42fb3f22d497c13fa5e972289@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1951,7 +1633,7 @@ BEGIN:VEVENT
 SUMMARY:Late Autumn — Seattle
 DTSTART;TZID="UTC-08:00":20261128T160000
 DTEND;TZID="UTC-08:00":20261128T180800
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:bd356fc3428b9ffba9cb5452c8d4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1966,7 +1648,7 @@ BEGIN:VEVENT
 SUMMARY:Tokyo Story — Seattle
 DTSTART;TZID="UTC-08:00":20261128T183000
 DTEND;TZID="UTC-08:00":20261128T204700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b292261bce136a044af20fb0e0b3@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1981,7 +1663,7 @@ BEGIN:VEVENT
 SUMMARY:Late Autumn — Seattle
 DTSTART;TZID="UTC-08:00":20261128T190000
 DTEND;TZID="UTC-08:00":20261128T210800
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:0c06d4b8a1128384890681e45986@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -1996,7 +1678,7 @@ BEGIN:VEVENT
 SUMMARY:Tokyo Story — Seattle
 DTSTART;TZID="UTC-08:00":20261129T153000
 DTEND;TZID="UTC-08:00":20261129T174700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:2865518434da3ee6111ab69fcd84@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2011,7 +1693,7 @@ BEGIN:VEVENT
 SUMMARY:Late Autumn — Seattle
 DTSTART;TZID="UTC-08:00":20261129T160000
 DTEND;TZID="UTC-08:00":20261129T180800
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:5e266791c50e3b6db5b3ec3f2123@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2026,7 +1708,7 @@ BEGIN:VEVENT
 SUMMARY:Tokyo Story — Seattle
 DTSTART;TZID="UTC-08:00":20261129T183000
 DTEND;TZID="UTC-08:00":20261129T204700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:26da68380c79e3da3f1467384d6e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2041,7 +1723,7 @@ BEGIN:VEVENT
 SUMMARY:Late Autumn — Seattle
 DTSTART;TZID="UTC-08:00":20261129T190000
 DTEND;TZID="UTC-08:00":20261129T210800
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:0e6335052e388c8f8a96c16963f5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2056,7 +1738,7 @@ BEGIN:VEVENT
 SUMMARY:WTO/99 — Seattle
 DTSTART;TZID="UTC-08:00":20261130T190000
 DTEND;TZID="UTC-08:00":20261130T204000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:815746973c190be283a914170b68@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2071,7 +1753,7 @@ BEGIN:VEVENT
 SUMMARY:WTO/99 — Seattle
 DTSTART;TZID="UTC-08:00":20261201T190000
 DTEND;TZID="UTC-08:00":20261201T204000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:0f4ce87860a26ee7c8629d58e4b1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2086,7 +1768,7 @@ BEGIN:VEVENT
 SUMMARY:Seattle LGBTQ+ Center Presents: We Were Here — Seattle
 DTSTART;TZID="UTC-08:00":20261202T190000
 DTEND;TZID="UTC-08:00":20261202T203000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:0330b560361a2e22c967316c865c@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2102,7 +1784,7 @@ BEGIN:VEVENT
 SUMMARY:Zero Patience — Seattle
 DTSTART;TZID="UTC-08:00":20261202T193000
 DTEND;TZID="UTC-08:00":20261202T210700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:e28f731208dbdfea843d238f7805@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2117,7 +1799,7 @@ BEGIN:VEVENT
 SUMMARY:Truth To Fiction: The Store — Seattle
 DTSTART;TZID="UTC-08:00":20261203T190000
 DTEND;TZID="UTC-08:00":20261203T205800
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:74dee42e2e411037c9735deba047@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2132,7 +1814,7 @@ BEGIN:VEVENT
 SUMMARY:Zero Patience — Seattle
 DTSTART;TZID="UTC-08:00":20261203T193000
 DTEND;TZID="UTC-08:00":20261203T210700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:0e940d0c4a9dab8f2877d75c1d52@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2147,7 +1829,7 @@ BEGIN:VEVENT
 SUMMARY:The Disabled List Presents: Live Comedy (December 2026) — Seattl
  e
 DTSTART;TZID="UTC-08:00":20261204T190000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:8e9e4250fe31455280e9d03496f4@global-arts-culture
 CATEGORIES:Arts & Culture\,Event\,Seattle\,United States
 DESCRIPTION:Category: Event\nOriginal listing: https://nwfilmforum.org/eve
@@ -2162,7 +1844,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CalArts Winter Dance Festival — Los Angeles
 DTSTART;TZID="UTC-08:00":20261204T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:4ef6cc12730d873c81afbeca349f@global-arts-culture
 CATEGORIES:Arts & Culture\,Dance\,Los Angeles\,United States
 DESCRIPTION:Category: Dance\nOriginal listing: https://www.redcat.org/even
@@ -2177,7 +1859,7 @@ BEGIN:VEVENT
 SUMMARY:Zero Patience — Seattle
 DTSTART;TZID="UTC-08:00":20261205T160000
 DTEND;TZID="UTC-08:00":20261205T173700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:ea679d0be57d2fc0d20eeab08092@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2192,7 +1874,7 @@ BEGIN:VEVENT
 SUMMARY:Zero Patience — Seattle
 DTSTART;TZID="UTC-08:00":20261205T193000
 DTEND;TZID="UTC-08:00":20261205T210700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:67e3b023e9400ca9589080eb70c9@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2206,7 +1888,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CalArts Winter Dance Festival — Los Angeles
 DTSTART;TZID="UTC-08:00":20261205T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:9f07c2c1358307b67c24dbc45ae4@global-arts-culture
 CATEGORIES:Arts & Culture\,Dance\,Los Angeles\,United States
 DESCRIPTION:Category: Dance\nOriginal listing: https://www.redcat.org/even
@@ -2220,7 +1902,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 LA Writers’ Workshop Reading… — Los Angeles
 DTSTART;TZID="UTC-08:00":20261206T153000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:6d6ca0d41ae98f0ef7dbc28c8242@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Los Angeles\,United States
 DESCRIPTION:Category: Theater\nOriginal listing: https://www.redcat.org/ev
@@ -2235,7 +1917,7 @@ BEGIN:VEVENT
 SUMMARY:Zero Patience — Seattle
 DTSTART;TZID="UTC-08:00":20261206T163000
 DTEND;TZID="UTC-08:00":20261206T180700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b000c78ba3a1d5237326d5e2857a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2250,7 +1932,7 @@ BEGIN:VEVENT
 SUMMARY:Zero Patience — Seattle
 DTSTART;TZID="UTC-08:00":20261206T193000
 DTEND;TZID="UTC-08:00":20261206T210700
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:82ffc856cea09447a5957b0532da@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2265,7 +1947,7 @@ BEGIN:VEVENT
 SUMMARY:SFCS at 10: Moonlight — Seattle
 DTSTART;TZID="UTC-08:00":20261209T190000
 DTEND;TZID="UTC-08:00":20261209T205100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:962850d36e559c6ef079deff92c0@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2279,7 +1961,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Recital of Citations — Los Angeles
 DTSTART;TZID="UTC-08:00":20261211T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:22484206b4cd7fe8eaa07056fe00@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Los Angeles\,United States
 DESCRIPTION:Category: Theater\nOriginal listing: https://www.redcat.org/ev
@@ -2294,7 +1976,7 @@ BEGIN:VEVENT
 SUMMARY:Castration Movie ⅗ Year of the Hyaena — Seattle
 DTSTART;TZID="UTC-08:00":20261212T150000
 DTEND;TZID="UTC-08:00":20261212T210000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:83c3229a2cb014a7b9988d53bcd5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2308,7 +1990,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Recital of Citations — Los Angeles
 DTSTART;TZID="UTC-08:00":20261212T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:286b0b95b979de5946fe766e1609@global-arts-culture
 CATEGORIES:Arts & Culture\,Theater\,Los Angeles\,United States
 DESCRIPTION:Category: Theater\nOriginal listing: https://www.redcat.org/ev
@@ -2323,7 +2005,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270104T190000
 DTEND;TZID="UTC-08:00":20270104T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:e2881828912af578e9c18d0ba0d6@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2339,7 +2021,7 @@ BEGIN:VEVENT
 SUMMARY:The Day She Returns — Seattle
 DTSTART;TZID="UTC-08:00":20270104T193000
 DTEND;TZID="UTC-08:00":20270104T205400
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:fbf3b45b6c34f3d95368729f70c4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2354,7 +2036,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270105T190000
 DTEND;TZID="UTC-08:00":20270105T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b3794c0e6b65e834e71868b55854@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2370,7 +2052,7 @@ BEGIN:VEVENT
 SUMMARY:The Day She Returns — Seattle
 DTSTART;TZID="UTC-08:00":20270105T193000
 DTEND;TZID="UTC-08:00":20270105T205400
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:52b88b0e71d5287068e45eee9e71@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2385,7 +2067,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270106T190000
 DTEND;TZID="UTC-08:00":20270106T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:269117f071c744322e0bb88e0b2e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2401,7 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:The Day She Returns — Seattle
 DTSTART;TZID="UTC-08:00":20270106T193000
 DTEND;TZID="UTC-08:00":20270106T205400
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:8f468b5028be9bd30f203f423bc5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2416,7 +2098,7 @@ BEGIN:VEVENT
 SUMMARY:Truth To Fiction: Seeds — Seattle
 DTSTART;TZID="UTC-08:00":20270107T190000
 DTEND;TZID="UTC-08:00":20270107T210300
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:32c896899066491d1cc7bd81ce3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2431,7 +2113,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270107T193000
 DTEND;TZID="UTC-08:00":20270107T210900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:a30f4f0c7430dd6185982928f851@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2447,7 +2129,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270108T160000
 DTEND;TZID="UTC-08:00":20270108T173900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:f14e7c9ccb04afb23e1efb51b5c8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2463,7 +2145,7 @@ BEGIN:VEVENT
 SUMMARY:The Day She Returns — Seattle
 DTSTART;TZID="UTC-08:00":20270108T163000
 DTEND;TZID="UTC-08:00":20270108T175400
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:5639009284b0bbf5861f98fc2a38@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2478,7 +2160,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270108T190000
 DTEND;TZID="UTC-08:00":20270108T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:ef5d6d068d9a09e3c30ac50a130e@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2494,7 +2176,7 @@ BEGIN:VEVENT
 SUMMARY:The Day She Returns — Seattle
 DTSTART;TZID="UTC-08:00":20270108T193000
 DTEND;TZID="UTC-08:00":20270108T205400
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:6cddf0ae8161cc5576eea2d4c867@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2509,7 +2191,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270109T163000
 DTEND;TZID="UTC-08:00":20270109T180900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:18089562f61b2b49a1e16df21ef4@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2525,7 +2207,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270109T190000
 DTEND;TZID="UTC-08:00":20270109T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:2dde9ef9ddf64bdb4fd29a56b233@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2541,7 +2223,7 @@ BEGIN:VEVENT
 SUMMARY:The Day She Returns — Seattle
 DTSTART;TZID="UTC-08:00":20270109T193000
 DTEND;TZID="UTC-08:00":20270109T205400
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:41081c432035df8bc549b5003a7d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2556,7 +2238,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270110T160000
 DTEND;TZID="UTC-08:00":20270110T173900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:348a2af4c3fb603f3523a4f1f698@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2572,7 +2254,7 @@ BEGIN:VEVENT
 SUMMARY:The Day She Returns — Seattle
 DTSTART;TZID="UTC-08:00":20270110T163000
 DTEND;TZID="UTC-08:00":20270110T175400
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:fd4974151260b0770bbbfc224666@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2587,7 +2269,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270110T190000
 DTEND;TZID="UTC-08:00":20270110T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:eb3f1318b42da170144527faff35@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2603,7 +2285,7 @@ BEGIN:VEVENT
 SUMMARY:The Day She Returns — Seattle
 DTSTART;TZID="UTC-08:00":20270110T193000
 DTEND;TZID="UTC-08:00":20270110T205400
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:f1badcea76074ec77ee746c2f392@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2618,7 +2300,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270111T193000
 DTEND;TZID="UTC-08:00":20270111T210900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:12ca229457001abfa2401469e298@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2634,7 +2316,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270112T193000
 DTEND;TZID="UTC-08:00":20270112T210900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:cd69d731c8ec25c25aa531b94fd2@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2650,7 +2332,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270113T190000
 DTEND;TZID="UTC-08:00":20270113T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:7a18fad5205b7e24d2051af8837a@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2666,7 +2348,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270114T190000
 DTEND;TZID="UTC-08:00":20270114T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:9cd63a21b817065db20b274ff7a7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2682,7 +2364,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270115T160000
 DTEND;TZID="UTC-08:00":20270115T173900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:39ccb8cc6845f105979077d2cfac@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2698,7 +2380,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270115T190000
 DTEND;TZID="UTC-08:00":20270115T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:df66022a167b9f8b8af7dada9e40@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2714,7 +2396,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270116T160000
 DTEND;TZID="UTC-08:00":20270116T173900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:e954e274763c98df9ae6ced735e1@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2730,7 +2412,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270116T190000
 DTEND;TZID="UTC-08:00":20270116T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:4d0b98c510737d930160d3ad3825@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2746,7 +2428,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270117T160000
 DTEND;TZID="UTC-08:00":20270117T173900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:99b4938f192456f66ddb7647aa76@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2762,7 +2444,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270117T190000
 DTEND;TZID="UTC-08:00":20270117T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:22d7b94f85f95c52924fc25868c5@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2778,7 +2460,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270118T190000
 DTEND;TZID="UTC-08:00":20270118T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:e3e73335ae6862e141d589e14222@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2794,7 +2476,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour — Seattle
 DTSTART;TZID="UTC-08:00":20270119T190000
 DTEND;TZID="UTC-08:00":20270119T203900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:f73db76906245dbd1b9e7629fcf8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2810,7 +2492,7 @@ BEGIN:VEVENT
 SUMMARY:WTF with STUFF - Fresh Kill — Seattle
 DTSTART;TZID="UTC-08:00":20270120T190000
 DTEND;TZID="UTC-08:00":20270120T201900
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b036dc33b81023a7cbdc83c11f58@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2825,7 +2507,7 @@ BEGIN:VEVENT
 SUMMARY:MOURNING SICKNESS VOL. 5: Showgirls Annual Screenings — Seattle
 DTSTART;TZID="UTC-08:00":20270123T200000
 DTEND;TZID="UTC-08:00":20270123T221100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:86682a1ed25a019c413083e151b7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2841,7 +2523,7 @@ BEGIN:VEVENT
 SUMMARY:MOURNING SICKNESS VOL. 5: Showgirls Annual Screenings — Seattle
 DTSTART;TZID="UTC-08:00":20270124T200000
 DTEND;TZID="UTC-08:00":20270124T221100
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:f0b9865492c13531ca8ca5eee151@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2856,7 +2538,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270218T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:7c54401e9120ab32b0917275cd8f@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2871,7 +2553,7 @@ BEGIN:VEVENT
 SUMMARY:Unstreamable - The Taste of Tea — Seattle
 DTSTART;TZID="UTC-08:00":20270219T190000
 DTEND;TZID="UTC-08:00":20270219T212300
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:4a3392f14ee6d4c7f8d6fd54af36@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Seattle\,United States
 DESCRIPTION:Category: Film\nOriginal listing: https://nwfilmforum.org/film
@@ -2885,7 +2567,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270219T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:f81c18eae6e77ff6e00d984bd591@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2899,7 +2581,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270220T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:8f400e65ac69a25745c27fa66e8d@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2913,7 +2595,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270221T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:b0f18a69aeb634b58f19e100fe24@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2927,7 +2609,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270222T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:697228924df654276cb204c56bb1@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2941,7 +2623,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270223T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:9b9196042600097200790d9b1c9d@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2955,7 +2637,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270224T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:dda0ac9a4355e60178797da2efb0@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2969,7 +2651,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270225T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:1bbb42555e7d134667fc221a86ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2983,7 +2665,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270226T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:d21337be6f495b24c22ad1af2083@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
@@ -2997,7 +2679,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lesson — Los Angeles
 DTSTART;TZID="UTC-08:00":20270227T200000
-DTSTAMP:20261107T215454Z
+DTSTAMP:20261108T060824Z
 UID:c2a808b10109b093fd22f7397f95@global-arts-culture
 CATEGORIES:Arts & Culture\,Multiple\,Los Angeles\,United States
 DESCRIPTION:Category: Multiple\nOriginal listing: https://www.redcat.org/e
