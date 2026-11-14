@@ -6,182 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Global Culture — Europe
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-SUMMARY:'Sui Generis Madrid' Fantasy Literature Festival — Madrid
-DTSTART;TZID="UTC+01:00":20261112T000000
-DTEND;TZID="UTC+01:00":20261115T235959
-DTSTAMP:20261113T194653Z
-UID:2ab74e87453bb0a6c8054b81e63f@global-arts-culture
-CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
-DESCRIPTION:Artificial intelligence companies buy millions of books to tra
- in their language models and then destroy them\; privacy has slipped into 
- fiction due to mass surveillance and social media\; we believe we know wha
- t we like and need\, but in reality\, we are being guided by algorithms. I
- s freedom a fallacy? Has free will vanished\, stripping us of our autonomy
- ? Have we been deprived of the power to decide? These core questions shape
-  the theme of the 18th Sui Generis Madrid Festival: Neo-Fiction: New Narra
- tives for a Contested Present . To discuss and debate these issues\, the 2
- 026 edition brings together key figures in speculative literature from Arg
- entina\, Colombia\, Cuba\, Ecuador\, the United States\, \nCategory: Multi
- disciplinary\nOriginal listing: https://www.mataderomadrid.org/en/schedule
- /sui-generis-madrid-fantasy-literature-festival
-LOCATION:Casa del Lector\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CANCELLED
-URL:https://www.mataderomadrid.org/en/schedule/sui-generis-madrid-fantasy-
- literature-festival
-X-GLOBAL-CULTURE-REGION:europe
-X-GLOBAL-CULTURE-SOURCE:matadero-madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Which Annie Gives It Those Ones — Barcelona
-DTSTART;TZID="UTC+01:00":20261112T180000
-DTSTAMP:20261113T194653Z
-UID:da4650f42cb557234f8a107bf308@global-arts-culture
-CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
-DESCRIPTION:Screening with Arundhati Roy and Pankaj Mishra\nCategory: Audi
- ovisuals\nOriginal listing: https://www.cccb.org/en/w/activities/in-which-
- annie-gives-it-those-ones
-LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
- gre 5\, 08001 Barcelona
-STATUS:CANCELLED
-URL:https://www.cccb.org/en/w/activities/in-which-annie-gives-it-those-one
- s
-X-GLOBAL-CULTURE-REGION:europe
-X-GLOBAL-CULTURE-SOURCE:cccb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emily Dickinson\, una carta al món — Barcelona
-DTSTART;TZID="UTC+01:00":20261112T183000
-DTSTAMP:20261113T194653Z
-UID:ac2a67a03070811f442874dbb58c@global-arts-culture
-CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
-DESCRIPTION:Category: Courses and workshops\nOriginal listing: https://www
- .cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
-LOCATION:Centre de Cultura Contemporània de Barcelona\, Carrer de Montale
- gre 5\, 08001 Barcelona
-STATUS:CANCELLED
-URL:https://www.cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon
-X-GLOBAL-CULTURE-REGION:europe
-X-GLOBAL-CULTURE-SOURCE:cccb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Uchronia — Madrid
-DTSTART;TZID="UTC+01:00":20261112T190000
-DTEND;TZID="UTC+01:00":20261112T190000
-DTSTAMP:20261113T194653Z
-UID:0ca6b9138fbd5c485b52cc00dc4f@global-arts-culture
-CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
-DESCRIPTION:Docu-ensayo psicodélico inspirado en el visionario poema de A
- rthur Rimbaud Una temporada en el infierno . El fantasma del poeta viaja a
-  través de la historia para encontrarse con revolucionarios como Emma Gol
- dman\, David Wojnarowicz o Marsha P. Johnson\, celebrando la disidencia mi
- entras referencia el cine experimental queer del siglo XX.\nCategory: Mult
- idisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/schedul
- e/31-queercinemad
-LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CANCELLED
-URL:https://www.mataderomadrid.org/en/schedule/31-queercinemad
-X-GLOBAL-CULTURE-REGION:europe
-X-GLOBAL-CULTURE-SOURCE:matadero-madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cortos Nacionales I — Madrid
-DTSTART;TZID="UTC+01:00":20261112T200000
-DTEND;TZID="UTC+01:00":20261112T200000
-DTSTAMP:20261113T194653Z
-UID:e8299d0d54c17e63b10150afa125@global-arts-culture
-CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
-DESCRIPTION:Programa: Onades (Andoni Martínez\, 15') Álvaro regresa a su
-  pueblo mediterráneo para vender la casa familiar. Allí\, el Mediterrán
- eo cobra vida y lo guía a través de leyendas\, costumbres y recuerdos\, 
- en un viaje íntimo donde pasado y presente se entrelazan. Onades es una f
- ábula contemporánea sobre identidad\, nostalgia y deseo\, un corto poét
- ico y queer nacido desde y para La Vila. La plaza acuática (Teresa Carril
- \, Diego Lillo\, 22') Coral llega a Etxauri (Navarra) para ser la fotógra
- fa de una boda que finalmente no se celebra. Se entera de la noticia como 
- todos en este pueblo: en el lavadero. A partir de entonces\, descubrirá m
- uchas de las historias que hay escondidas allí. Flotar (Alexia Corral\nCa
- tegory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.or
- g/en/schedule/31-queercinemad
-LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CANCELLED
-URL:https://www.mataderomadrid.org/en/schedule/31-queercinemad
-X-GLOBAL-CULTURE-REGION:europe
-X-GLOBAL-CULTURE-SOURCE:matadero-madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peeping Tom — Madrid
-DTSTART;TZID="UTC+01:00":20261112T200000
-DTEND;TZID="UTC+01:00":20261115T190000
-DTSTAMP:20261113T194653Z
-UID:e30b533cc864560f42176da9c9dd@global-arts-culture
-CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
-DESCRIPTION:Five figures are trapped in a temporal maze\, mutating and col
- liding in an attempt to defy immortality. Their existence takes place in a
-  vast sulfuric landscape\, unfolding in a series of chronicles. Is this la
- ndscape the ground for new creations\, or made out of remnants of what onc
- e existed? Confronted with different laws and physical phenomena\, their b
- odies reveal other behaviors and possibilities of being\, without knowing 
- if they are at the twilight or dawn of their existence. We are witnessing 
- a bodily metamorphosis in an abyssal and poetic dimension.\nCategory: Mult
- idisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/schedul
- e/peeping-tom
-LOCATION:Centro Danza Matadero\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CANCELLED
-URL:https://www.mataderomadrid.org/en/schedule/peeping-tom
-X-GLOBAL-CULTURE-REGION:europe
-X-GLOBAL-CULTURE-SOURCE:matadero-madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever — Madrid
-DTSTART;TZID="UTC+01:00":20261112T210000
-DTEND;TZID="UTC+01:00":20261112T210000
-DTSTAMP:20261113T194653Z
-UID:0a84998b33abbc465fad2cc30060@global-arts-culture
-CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
-DESCRIPTION:Conocida por su valentía\, urgencia creativa y capacidad de t
- ransformar el cine\, Barbara Hammer creó películas que eran extensiones 
- de sí misma: sensuales\, experimentales y abiertamente lesbianas. A parti
- r de más de ochenta films\, materiales de archivo inéditos y entrevistas
-  en audio\, este documental es un homenaje y una prolongación de su legad
- o.\nCategory: Multidisciplinary\nOriginal listing: https://www.mataderomad
- rid.org/en/schedule/31-queercinemad
-LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CANCELLED
-URL:https://www.mataderomadrid.org/en/schedule/31-queercinemad
-X-GLOBAL-CULTURE-REGION:europe
-X-GLOBAL-CULTURE-SOURCE:matadero-madrid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roundtable on Contemporary Literature: 'Flesh\, Blood\, and Territ
- ory' — Madrid
-DTSTART;TZID="UTC+01:00":20261112T220000
-DTEND;TZID="UTC+01:00":20261112T220000
-DTSTAMP:20261113T194653Z
-UID:bc3068de89e441a6f44e5161484b@global-arts-culture
-CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
-DESCRIPTION:A panel discussion featuring prominent voices in contemporary 
- speculative literature in Spanish: Mariana Enríquez (Argentina)\, a leadi
- ng figure in Latin American horror and Gothic fiction and author of Our Sh
- are of Night \; Mónica Ojeda (Ecuador)\, author of Jawbone and Las Volado
- ras \, key works of Andean Gothic\; María Fernanda Ampuero (Ecuador)\, jo
- urnalist and writer of visceral\, dark fiction\, author of Cockfight \; an
- d Claudia Amador (Colombia)\, a refreshing voice in Tropical Gothic and cl
- assic genre myths\, author of Altasangre . Moderated by Susana Vallejo (Sp
- ain)\, fantasy and science fiction writer\, author of the Porta Coeli saga
- . Organized by: Besarilia Cultural Association ( Asociación Cu\nCategory:
-  Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/sc
- hedule/roundtable-contemporary-literature-flesh-blood-and-territory
-LOCATION:Casa del Lector\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CANCELLED
-URL:https://www.mataderomadrid.org/en/schedule/roundtable-contemporary-lit
- erature-flesh-blood-and-territory
-X-GLOBAL-CULTURE-REGION:europe
-X-GLOBAL-CULTURE-SOURCE:matadero-madrid
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tehran Contemporary Sounds Festival 2026 — Berlin
 DTSTART;TZID="UTC+01:00":20261113T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:70379550056e267b8ed461e32ca8@global-arts-culture
 CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
 DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
@@ -200,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Überleben in New York — Madrid
 DTSTART;TZID="UTC+01:00":20261113T173000
 DTEND;TZID="UTC+01:00":20261113T173000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:4f1cf8f47647829b587451bd82bc@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Tres mujeres alemanas\, Claudia\, Anna y Ulli\, llegan a Nueva
@@ -218,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Cortos disidentes — Madrid
 DTSTART;TZID="UTC+01:00":20261113T180000
 DTEND;TZID="UTC+01:00":20261113T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:bf739e5620ea115b9aee018b12eb@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Cairo Streets (Abdellah Taïa\, España\, 18') "Ener
@@ -243,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Los días posibles + La moto — Madrid
 DTSTART;TZID="UTC+01:00":20261113T193000
 DTEND;TZID="UTC+01:00":20261113T193000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:22e53075ede529f04349d7fe0e41@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: La moto (Matteo Giampetruzzi\, España\, 2026\, 20')
@@ -268,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Corren las liebres — Madrid
 DTSTART;TZID="UTC+01:00":20261113T200000
 DTEND;TZID="UTC+01:00":20261113T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:60f5fdac7b1299cc63e421ae605b@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Noa\, mujer gitana trans de 48 años\, intenta empezar de nuev
@@ -286,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yasuaki Shimizu + Merma Suelo – ausverkauft — Berlin
 DTSTART;TZID="UTC+01:00":20261113T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:216e91519c3be95269dc1f4ab177@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -304,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tehran Contemporary Sounds Festival 2026 — Berlin
 DTSTART;TZID="UTC+01:00":20261114T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:f7e67c0d197b369c1b5146555567@global-arts-culture
 CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
 DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
@@ -322,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walking\, Writing — Barcelona
 DTSTART;TZID="UTC+01:00":20261114T100000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c243e4628a09a5a7f32034c16179@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Workshop on Writing\, Literature and City\nCategory: Courses a
@@ -338,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mohammed el-Kurd and Mariam Barghouti — Barcelona
 DTSTART;TZID="UTC+01:00":20261114T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:d08e5f3b339d05787d308630cbc0@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:Palestine: Words against Erasure\nCategory: Debates\nOriginal 
@@ -356,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Cortos Internacionales I — Madrid
 DTSTART;TZID="UTC+01:00":20261114T190000
 DTEND;TZID="UTC+01:00":20261114T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:bf32f9cc93169cafb1f79154ff66@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Esprits tranquilles (Julien Lecat\, Francia\, 29') U
@@ -381,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:Lo que hacíamos en las sombras — Madrid
 DTSTART;TZID="UTC+01:00":20261114T193000
 DTEND;TZID="UTC+01:00":20261114T193000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c8c63f2f5438820d83d8ecd15fa0@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Tras una vida de brutal represión\, un grupo de ancianos LGTB
@@ -399,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Elles — Madrid
 DTSTART;TZID="UTC+01:00":20261114T200000
 DTEND;TZID="UTC+01:00":20261114T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c632a3cd04254585fb2303df4b91@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Lola empieza su transición de género sin una red que la enti
@@ -419,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Maria BC + Eli Wewentxu & Indrė Jurgelevičiūtė & Carolina Ovan
  do — Berlin
 DTSTART;TZID="UTC+01:00":20261114T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:1a777530d9af9d1c114bec5841ba@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -436,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Film-Concert: Palestine\, a Revised Narrative — Barcelona
 DTSTART;TZID="UTC+01:00":20261114T201500
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:f9ebdc895f02b4e0b7697991ce3c@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cynthia Zaven and Rana Eid\nCategory: Audiovisuals\nOriginal l
@@ -454,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:A Paixão Segundo G.H.B. + A Cúpula dos Prazeres — Madrid
 DTSTART;TZID="UTC+01:00":20261114T210000
 DTEND;TZID="UTC+01:00":20261114T210000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:9e160a54104681abb96a2cc0a532@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: A Cúpula dos Prazeres (Valter Pereira\, Brasil\, 20
@@ -476,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ICA Archive Sale — London
 DTSTART;VALUE=DATE:20261115
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:d01586fcdb47497b5938b169f439@global-arts-culture
 CATEGORIES:Arts & Culture\,Bookshop\,London\,United Kingdom
 DESCRIPTION:A one-day-only sale of film posters from the ICA Cinema archiv
@@ -492,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tehran Contemporary Sounds Festival 2026 — Berlin
 DTSTART;TZID="UTC+01:00":20261115T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:6302a87e631595bda813a6dc2895@global-arts-culture
 CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
 DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
@@ -511,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Cortos Internacionales II — Madrid
 DTSTART;TZID="UTC+01:00":20261115T190000
 DTEND;TZID="UTC+01:00":20261115T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:a469ebedbb8415e7a2746c15530d@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Programa: Selma (Christina Maria Schmid\, Alemania\, 29') En e
@@ -536,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:UNIVERSAL CHILDREN’S DAY AT MATADERO MADRID — Madrid
 DTSTART;TZID="UTC+01:00":20261115T190000
 DTEND;TZID="UTC+01:00":20261115T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2847b1b29d308c67b6edebfc1a09@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Once again\, the Regional Government of Madrid is celebrating 
@@ -562,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Härte — Madrid
 DTSTART;TZID="UTC+01:00":20261115T193000
 DTEND;TZID="UTC+01:00":20261115T193000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e0c288481a2df8b55d15454a37e0@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Un experto en karate habla sobre sus primeros años de vida\, 
@@ -580,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Cinemanía — Madrid
 DTSTART;TZID="UTC+01:00":20261115T200000
 DTEND;TZID="UTC+01:00":20261115T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:65d5c18cb7ea9ce0a4731e183876@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Un director de cine al que todo le va mal\, una psicóloga obs
@@ -599,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:A Song Without Home — Madrid
 DTSTART;TZID="UTC+01:00":20261115T210000
 DTEND;TZID="UTC+01:00":20261115T210000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:a455ddb46787065bf5b6a7b7df7d@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Tras haber estado once años encerrada en casa por su propia f
@@ -619,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Presentation of Cinémathèque Idéale des Banlieues du Monde — 
  Barcelona
 DTSTART;TZID="UTC+01:00":20261116T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:94973282fa0bdd4dc438dcd09910@global-arts-culture
 CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
 DESCRIPTION:Colloquium with Liza Alster and screening of two short films\n
@@ -636,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michel Foucault — Barcelona
 DTSTART;TZID="UTC+01:00":20261116T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2682be6b726ff57cc9bc6a007563@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Lighthouse\nCategory: Courses and workshops\nOriginal listing:
@@ -651,7 +478,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rif\, Diaspora and Reconstruction — Barcelona
 DTSTART;TZID="UTC+01:00":20261116T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:98ec543acb74d2ea358fdef58664@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:Khadija al Mourabit\, Fatiha Saïdi\, Asmaa Aouattah and Kari
@@ -669,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:'Pablo d'Ors: Biography of Silence'\, with Lluís Homar — Madrid
 DTSTART;TZID="UTC+01:00":20261117T180000
 DTEND;TZID="UTC+01:00":20261117T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:a0140fa9f0d8cfe8c97a42906144@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:“YOU MIGHT PASTE YOURSELF IN DESIRE TO CONTEMPLATE” There 
@@ -694,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Can Culture Rewrite the Rif? — Barcelona
 DTSTART;TZID="UTC+01:00":20261117T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2aab9159526fe3f878792c39e54f@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:Abdellah Karroum\, Younes Rahmoun and Ro Caminal\nCategory: De
@@ -710,7 +537,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gravada\, escrita\, pronunciada — Barcelona
 DTSTART;TZID="UTC+01:00":20261117T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:0c7f6f346bbd197c204fb25ac2bd@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La paraula al cinema experimental\nCategory: Courses and works
@@ -726,7 +553,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Press Photo 2026: Exhibition Tour — Barcelona
 DTSTART;TZID="UTC+01:00":20261117T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:defcfbc6f382ebb989d1b198c38d@global-arts-culture
 CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
 DESCRIPTION:Activitat exclusiva per als Amics CCCB\nCategory: Amics CCCB\n
@@ -744,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:Oca — Madrid
 DTSTART;TZID="UTC+01:00":20261117T193000
 DTEND;TZID="UTC+01:00":20261117T193000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c55f26671eeb2fb5cc668da62d73@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Rafaela es una joven monja que pertenece a una congregación p
@@ -760,7 +587,7 @@ DESCRIPTION:Rafaela es una joven monja que pertenece a una congregación p
   Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/sc
  hedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Borau\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -770,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:Un hombre en un puente — Madrid
 DTSTART;TZID="UTC+01:00":20261117T200000
 DTEND;TZID="UTC+01:00":20261117T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:b62649c06fa49f1d4897f01285b3@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Andrés\, un hombre de mediana edad\, atraviesa una crisis vit
@@ -786,7 +613,7 @@ DESCRIPTION:Andrés\, un hombre de mediana edad\, atraviesa una crisis vit
  ultidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/sche
  dule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -796,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost in the Machine — Madrid
 DTSTART;TZID="UTC+01:00":20261117T203000
 DTEND;TZID="UTC+01:00":20261117T203000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:12bcd9be80d04390a5b2f67b4c9d@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Ghost in the Machine es un documental de investigación fascin
@@ -812,7 +639,7 @@ DESCRIPTION:Ghost in the Machine es un documental de investigación fascin
  ultidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/sche
  dule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -821,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"MANIAC"\, by Benjamin Labatut — Barcelona
 DTSTART;TZID="UTC+01:00":20261118T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:7cd511b56a818f30c88a733b342b@global-arts-culture
 CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
 DESCRIPTION:Exclusive reading club for Friends of the CCCB\nCategory: Amic
@@ -837,7 +664,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beirut: The City and Collapse — Barcelona
 DTSTART;TZID="UTC+01:00":20261118T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:ff3d6faa9bd7a2e58ee24be7cbe9@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:Rana Eid and Camille Ammoun\nCategory: Debates\nOriginal listi
@@ -852,7 +679,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El món com a manicomi — Barcelona
 DTSTART;TZID="UTC+01:00":20261118T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:787ff732c20306d8d70e229f2b5b@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Dolor femení\, resistència i literatura\nCategory: Courses a
@@ -869,7 +696,7 @@ BEGIN:VEVENT
 SUMMARY:Cuento de verano — Madrid
 DTSTART;TZID="UTC+01:00":20261118T193000
 DTEND;TZID="UTC+01:00":20261118T193000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:3249d6cbdfa9b85fe4a466395103@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Jorge se abre paso a codazos por el implacable distrito financ
@@ -885,7 +712,7 @@ DESCRIPTION:Jorge se abre paso a codazos por el implacable distrito financ
  gory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/
  en/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Borau\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -895,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Los días libres — Madrid
 DTSTART;TZID="UTC+01:00":20261118T200000
 DTEND;TZID="UTC+01:00":20261118T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2dbe35ea2f83b537cfb94ecc195d@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:En un futuro cercano\, durante unas vacaciones de verano inter
@@ -911,7 +738,7 @@ DESCRIPTION:En un futuro cercano\, durante unas vacaciones de verano inter
  \,\nCategory: Multidisciplinary\nOriginal listing: https://www.mataderomad
  rid.org/en/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -921,7 +748,7 @@ BEGIN:VEVENT
 SUMMARY:Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein 
  — Berlin
 DTSTART;TZID="UTC+01:00":20261118T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c3831d39e7e2802ed0e706d2acdd@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -941,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Hermanas — Madrid
 DTSTART;TZID="UTC+01:00":20261118T203000
 DTEND;TZID="UTC+01:00":20261118T203000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:190071210272163cda088e817358@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Chelo es una mujer que quiere divorciarse de su marido Javier 
@@ -957,7 +784,7 @@ DESCRIPTION:Chelo es una mujer que quiere divorciarse de su marido Javier
  y: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/
  schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -966,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robocobra Quartet + Lara Jones — London
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c515205d4cde1af70c910e6a9e79@global-arts-culture
 CATEGORIES:Arts & Culture\,Live\,London\,United Kingdom
 DESCRIPTION:EFG London Jazz Festival presents Robocobra Quartet.\nCategory
@@ -981,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:VISIBLE JUSTICE   Anatomies of Disappearance:   Diana Matar and Hi
  sham Matar in conversation — London
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:0a5b12c3c14496187edd553b580c@global-arts-culture
 CATEGORIES:Arts & Culture\,Talks & Events\,London\,United Kingdom
 DESCRIPTION:As part of their year-long residency\, ICA Research Collective
@@ -997,7 +824,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Writing against oblivion — Barcelona
 DTSTART;TZID="UTC+01:00":20261119T120000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:98d75cca4ad12db4f9af21dd06f9@global-arts-culture
 CATEGORIES:Arts & Culture\,Education\,Barcelona\,Spain
 DESCRIPTION:A morning with Scholastique Mukasonga\nCategory: Education\nOr
@@ -1014,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:Visita comentada a l’exposició «Dana Lixenberg. American Image
  s»\, KBr Fundación Mapfre — Barcelona
 DTSTART;TZID="UTC+01:00":20261119T173000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c96aff826f7a8bfca204d1da782a@global-arts-culture
 CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
 DESCRIPTION:Activitat exclusiva per als Amics CCCB\nCategory: Amics CCCB\n
@@ -1031,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leviatan\, de Thomas Hobbes — Barcelona
 DTSTART;TZID="UTC+01:00":20261119T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:7f5cca3d8e366caf2264f48d4fb9@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Llegir filosofia\, 7\nCategory: Courses and workshops\nOrigina
@@ -1046,7 +873,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scholastique Mukasonga — Barcelona
 DTSTART;TZID="UTC+01:00":20261119T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:999bb56cb092418a2c96ea9ed629@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:Whoever tells stories has no hatred in their heart\nCategory: 
@@ -1063,7 +890,7 @@ BEGIN:VEVENT
 SUMMARY:The Tree of Knowledge — Madrid
 DTSTART;TZID="UTC+01:00":20261119T193000
 DTEND;TZID="UTC+01:00":20261119T193000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:97c297c7ab11ce64589e7da9121c@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Gaspard\, un adolescente de las afueras de Lisboa\, cae en man
@@ -1079,7 +906,7 @@ DESCRIPTION:Gaspard\, un adolescente de las afueras de Lisboa\, cae en man
  egory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org
  /en/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Borau\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1089,7 +916,7 @@ BEGIN:VEVENT
 SUMMARY:Calada — Madrid
 DTSTART;TZID="UTC+01:00":20261119T200000
 DTEND;TZID="UTC+01:00":20261119T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:1598acf60d91e8e93c2f11c5b590@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:María ha tenido una revelación que le ha cambiado la vida. S
@@ -1105,7 +932,7 @@ DESCRIPTION:María ha tenido una revelación que le ha cambiado la vida. S
   Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/sc
  hedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1115,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:Filipiñana — Madrid
 DTSTART;TZID="UTC+01:00":20261119T203000
 DTEND;TZID="UTC+01:00":20261119T203000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:b6e92c73cd40b141b8b44f9a5d76@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:En medio de un calor sofocante y una sequía generalizada\, Is
@@ -1131,7 +958,7 @@ DESCRIPTION:En medio de un calor sofocante y una sequía generalizada\, Is
  Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/sch
  edule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1140,7 +967,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philo.live! Das Philosophie-Festival in Berlin — Berlin
 DTSTART;TZID="UTC+01:00":20261120T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:27e34dde5e71b14b0d80b785ae74@global-arts-culture
 CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
 DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
@@ -1159,7 +986,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El món com a manicomi — Barcelona
 DTSTART;TZID="UTC+01:00":20261120T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2dd8c45082e924e546a6c09cbca4@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Dolor femení\, resistència i literatura\nCategory: Courses a
@@ -1176,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:'The Passenger'\, a lecture by McKenzie Wark — Madrid
 DTSTART;TZID="UTC+01:00":20261120T190000
 DTEND;TZID="UTC+01:00":20261120T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:cf5608d503dd031cfb11b463f168@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:McKenzie shares her reflections on two concepts she calls fict
@@ -1202,7 +1029,7 @@ BEGIN:VEVENT
 SUMMARY:Las mantis — Madrid
 DTSTART;TZID="UTC+01:00":20261120T190000
 DTEND;TZID="UTC+01:00":20261120T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:562d02b36eb670aecfd4c51ea125@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Aitana es una niña de trece años que pasará el verano en ca
@@ -1218,7 +1045,7 @@ DESCRIPTION:Aitana es una niña de trece años que pasará el verano en ca
  egory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org
  /en/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1228,7 +1055,7 @@ BEGIN:VEVENT
 SUMMARY:Hoxe e o resto do mundo — Madrid
 DTSTART;TZID="UTC+01:00":20261120T200000
 DTEND;TZID="UTC+01:00":20261120T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:11de31ca02a5edbaa3c1c68fb737@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Una película que nos sumerge en el periplo vital y artístico
@@ -1244,7 +1071,7 @@ DESCRIPTION:Una película que nos sumerge en el periplo vital y artístico
  Category: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.
  org/en/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1254,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:Yastay — Madrid
 DTSTART;TZID="UTC+01:00":20261120T203000
 DTEND;TZID="UTC+01:00":20261120T203000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:3612c14c3f33e84f920548801964@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Dos siglos después del histórico cruce de los Andes que cond
@@ -1270,7 +1097,7 @@ DESCRIPTION:Dos siglos después del histórico cruce de los Andes que cond
  egory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org
  /en/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Borau\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1280,7 +1107,7 @@ BEGIN:VEVENT
 SUMMARY:In_CORPUS — Madrid
 DTSTART;TZID="UTC+01:00":20261120T210000
 DTEND;TZID="UTC+01:00":20261120T210000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2d9d23d57d633e6127542810e4f6@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:In_CORPUS is a performative intervention conceived by Agnès L
@@ -1305,7 +1132,7 @@ BEGIN:VEVENT
 SUMMARY:La gran fiesta del cine — Madrid
 DTSTART;TZID="UTC+01:00":20261120T210000
 DTEND;TZID="UTC+01:00":20261120T210000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:769ce7ec280546e89a54e032164c@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:La última cena. Cinco años después de rodar aquella pelícu
@@ -1321,7 +1148,7 @@ DESCRIPTION:La última cena. Cinco años después de rodar aquella pelícu
  Category: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.
  org/en/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1330,7 +1157,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philo.live! Das Philosophie-Festival in Berlin — Berlin
 DTSTART;TZID="UTC+01:00":20261121T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:b6e34cb290f1255302733b97f176@global-arts-culture
 CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
 DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
@@ -1351,7 +1178,7 @@ SUMMARY:Women Against Disinformation Edit-a-thon with Carolina Pecharromá
  n — Madrid
 DTSTART;TZID="UTC+01:00":20261121T110000
 DTEND;TZID="UTC+01:00":20261121T110000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:86b29a45db8062660572b9a50ac1@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Theme On this occasion\, Wikiesfera\, in collaboration with Me
@@ -1377,7 +1204,7 @@ BEGIN:VEVENT
 SUMMARY:La muerte de Drácula — Madrid
 DTSTART;TZID="UTC+01:00":20261121T183000
 DTEND;TZID="UTC+01:00":20261121T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:a5545db78c308769d32320fdc9f2@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Mina está enferma y la vida la ahoga. Se le presenta la oport
@@ -1393,7 +1220,7 @@ DESCRIPTION:Mina está enferma y la vida la ahoga. Se le presenta la oport
  ry: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en
  /schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1403,7 +1230,7 @@ BEGIN:VEVENT
 SUMMARY:Simulacro — Madrid
 DTSTART;TZID="UTC+01:00":20261121T190000
 DTEND;TZID="UTC+01:00":20261121T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e10c7fafbdfc6285eb13cbd43f97@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Un director regresa a la casa de su infancia para recrear\, co
@@ -1419,7 +1246,7 @@ DESCRIPTION:Un director regresa a la casa de su infancia para recrear\, co
  ry: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en
  /schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1430,7 +1257,7 @@ SUMMARY:Entrega de premios + Live A/V: JayDee y Josephine’ Soundscapes
  — Madrid
 DTSTART;TZID="UTC+01:00":20261121T203000
 DTEND;TZID="UTC+01:00":20261121T203000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:4f6339b8ebf7576224936734d930@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:A partir de la conexión entre plástico\, celuloide e imagen 
@@ -1446,7 +1273,7 @@ DESCRIPTION:A partir de la conexión entre plástico\, celuloide e imagen
  egory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org
  /en/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1456,7 +1283,7 @@ BEGIN:VEVENT
 SUMMARY:November 2026 Open House — Madrid
 DTSTART;TZID="UTC+01:00":20261121T210000
 DTEND;TZID="UTC+01:00":20261121T210000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:b0145dee910f3415d1ba098466aa@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:The Artist Residency Center ( Centro de residencias artística
@@ -1481,7 +1308,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philo.live! Das Philosophie-Festival in Berlin — Berlin
 DTSTART;TZID="UTC+01:00":20261122T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:8bcfe53f2537389b2c965e4fd2aa@global-arts-culture
 CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
 DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
@@ -1500,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visit the Mirador CCCB 2026 — Barcelona
 DTSTART;TZID="UTC+01:00":20261122T100000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:0ae270a0d834385087ae1fd2749b@global-arts-culture
 CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
 DESCRIPTION:And enjoy the views of the city\nCategory: \nOriginal listing:
@@ -1515,7 +1342,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everything that dances — Barcelona
 DTSTART;TZID="UTC+01:00":20261122T110000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:f3d483bd68f3d3ea73a874efbfd3@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -1531,7 +1358,7 @@ BEGIN:VEVENT
 SUMMARY:Cristina y Los otros mundos — Madrid
 DTSTART;TZID="UTC+01:00":20261122T173000
 DTEND;TZID="UTC+01:00":20261122T173000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:d1a34fafc410ae4667b2b2bcd22f@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Es un retrato complejo\, irreverente y lúcido de la escritora
@@ -1547,7 +1374,7 @@ DESCRIPTION:Es un retrato complejo\, irreverente y lúcido de la escritora
  ry: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en
  /schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Plató\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1557,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:Càntics a la penombra — Madrid
 DTSTART;TZID="UTC+01:00":20261122T180000
 DTEND;TZID="UTC+01:00":20261122T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:87773044e5521f9696b0b3ed5147@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Existen todavía mujeres que guardan la memoria de aquellas qu
@@ -1573,7 +1400,7 @@ DESCRIPTION:Existen todavía mujeres que guardan la memoria de aquellas qu
  ltidisciplinary\nOriginal listing: https://www.mataderomadrid.org/en/sched
  ule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Borau\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1583,7 +1410,7 @@ BEGIN:VEVENT
 SUMMARY:Rose — Madrid
 DTSTART;TZID="UTC+01:00":20261122T193000
 DTEND;TZID="UTC+01:00":20261122T193000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e352135e56f99f007beab2a45b3e@global-arts-culture
 CATEGORIES:Arts & Culture\,Multidisciplinary\,Madrid\,Spain
 DESCRIPTION:Siglo XVII en un aislado pueblo en el corazón de Europa. La v
@@ -1599,7 +1426,7 @@ DESCRIPTION:Siglo XVII en un aislado pueblo en el corazón de Europa. La v
  ory: Multidisciplinary\nOriginal listing: https://www.mataderomadrid.org/e
  n/schedule/film-festival-rizoma-2026-plastic-dreams
 LOCATION:Sala Azcona\, Plaza de Legazpi\, 8\, Madrid\, 28045
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-p
  lastic-dreams
 X-GLOBAL-CULTURE-REGION:europe
@@ -1609,7 +1436,7 @@ BEGIN:VEVENT
 SUMMARY:Cities and Extreme Heat: The Case of the Gulf and the Limits of Ad
  aptation — Barcelona
 DTSTART;TZID="UTC+01:00":20261123T110000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:0f8165dca7287800f8e21434cf97@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:Seminar with Camille Ammoun\, Tomás Criado and Rubén Martín
@@ -1628,7 +1455,7 @@ BEGIN:VEVENT
 SUMMARY:Les ciutats i la calor extrema: el cas del golf Pèrsic i els lím
  its de l’adaptació — Barcelona
 DTSTART;TZID="UTC+01:00":20261123T110000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e813443dc8aa7e35bff9b8da4b0a@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:Seminari amb Camille Ammoun\nCategory: Debates\nOriginal listi
@@ -1645,7 +1472,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michel Foucault — Barcelona
 DTSTART;TZID="UTC+01:00":20261123T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:767ad83cdb1aa3c63e91376e57d9@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Lighthouse\nCategory: Courses and workshops\nOriginal listing:
@@ -1660,7 +1487,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gravada\, escrita\, pronunciada — Barcelona
 DTSTART;TZID="UTC+01:00":20261124T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:94145725084e78f573fc7b34d1e2@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La paraula al cinema experimental\nCategory: Courses and works
@@ -1676,7 +1503,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Permafrost or the Many Faces of a Transformation — Barcelona
 DTSTART;TZID="UTC+01:00":20261124T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:940bc56acf202b803415c53aff74@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:International Forum of Translators of Catalan Literature\nCate
@@ -1693,7 +1520,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Press Photo 2026: Exhibition Tour — Barcelona
 DTSTART;TZID="UTC+01:00":20261124T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:faea3425e73e9f621ffacfaa8a66@global-arts-culture
 CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
 DESCRIPTION:Activitat exclusiva per als Amics CCCB\nCategory: Amics CCCB\n
@@ -1710,7 +1537,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angel Bat Dawid — Berlin
 DTSTART;TZID="UTC+01:00":20261124T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:108e3cd5eb6401bd8c6c1e743783@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -1728,7 +1555,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Progetto Positano: Zeynep Toraman + Bertram Wee — Berlin
 DTSTART;TZID="UTC+01:00":20261124T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:9196263f3f4abeb6c1b217a70035@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -1746,7 +1573,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xcèntric Film Club — Barcelona
 DTSTART;TZID="UTC+01:00":20261125T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:480dcd7fe8292238994dab3589a9@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
@@ -1762,7 +1589,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El món com a manicomi — Barcelona
 DTSTART;TZID="UTC+01:00":20261125T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:3f03b5ac5b509f6970255d559325@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Dolor femení\, resistència i literatura\nCategory: Courses a
@@ -1778,7 +1605,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Opening of "The Atomic Age" — Barcelona
 DTSTART;TZID="UTC+01:00":20261125T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:4d4290f1a2623f4bd3e2dcc93e62@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibition + Scene\,Barcelona\,Spain
 DESCRIPTION:Open doors to the exhibition and performance\nCategory: Exhibi
@@ -1795,7 +1622,7 @@ BEGIN:VEVENT
 SUMMARY:Visita comentada a l’exposició «Dana Lixenberg. American Image
  s»\, KBr Fundación Mapfre — Barcelona
 DTSTART;TZID="UTC+01:00":20261126T173000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:0cbc6d9630c7c25530fb2fa4cf79@global-arts-culture
 CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
 DESCRIPTION:Activitat exclusiva per als Amics CCCB\nCategory: Amics CCCB\n
@@ -1812,7 +1639,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Emily Dickinson\, una carta al món — Barcelona
 DTSTART;TZID="UTC+01:00":20261126T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:63d856e53ae8735821dccf580025@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Category: Courses and workshops\nOriginal listing: https://www
@@ -1827,7 +1654,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frohes Festival 2026 — Berlin
 DTSTART;TZID="UTC+01:00":20261127T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:4898d3068f40504039d35ed01afe@global-arts-culture
 CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
 DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
@@ -1846,7 +1673,7 @@ BEGIN:VEVENT
 SUMMARY:Installation "Send Me Colors: Mechanical Gestures to Preserve Flow
  ers" — Barcelona
 DTSTART;TZID="UTC+01:00":20261127T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:522a76823cade44cf2111861302f@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -1863,7 +1690,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hand — Barcelona
 DTSTART;TZID="UTC+01:00":20261127T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:4f3f2a37a77e1f23779e402cf09c@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -1878,7 +1705,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIA LIA + Levi — Berlin
 DTSTART;TZID="UTC+01:00":20261127T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:8552a095fe3f26004d8a87666df0@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -1895,7 +1722,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frohes Festival 2026 — Berlin
 DTSTART;TZID="UTC+01:00":20261128T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:b5418d858ec36a79ede532b4bf19@global-arts-culture
 CATEGORIES:Arts & Culture\,Festival\,Berlin\,Germany
 DESCRIPTION:Category: Festival\nOriginal listing: https://www.silent-green
@@ -1914,7 +1741,7 @@ BEGIN:VEVENT
 SUMMARY:Installation "Send Me Colors: Mechanical Gestures to Preserve Flow
  ers" — Barcelona
 DTSTART;TZID="UTC+01:00":20261128T100000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:d5813764ad9bfe82aac76119160c@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -1932,7 +1759,7 @@ BEGIN:VEVENT
 SUMMARY:Installation: Send Me Colors: Mechanical Gestures to Preserve Flow
  ers — Barcelona
 DTSTART;TZID="UTC+01:00":20261128T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:9af50de4397a61e95e9362c9a5f6@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -1949,7 +1776,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eye — Barcelona
 DTSTART;TZID="UTC+01:00":20261128T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:09f676a8893a7c9c6b7f9e9414ac@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -1965,7 +1792,7 @@ BEGIN:VEVENT
 SUMMARY:Installation "Send Me Colors: Mechanical Gestures to Preserve Flow
  ers" — Barcelona
 DTSTART;TZID="UTC+01:00":20261129T100000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e6dfe38224b7b28f160a189b87a1@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -1982,7 +1809,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Historische Führung — Berlin
 DTSTART;TZID="UTC+01:00":20261129T120000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:4c14dff3d31ac6dd7329a7c81c66@global-arts-culture
 CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
 DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
@@ -2000,7 +1827,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kantine Musik — Berlin
 DTSTART;TZID="UTC+01:00":20261129T150000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:8956c06b0fc69bf3ab724f34b9a5@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -2019,7 +1846,7 @@ BEGIN:VEVENT
 SUMMARY:Masterclass "Beyond Obsolescence: A Reconstruction of Colour" — 
  Barcelona
 DTSTART;TZID="UTC+01:00":20261129T173000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:962231c6866cd1a2b95251e69a45@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -2037,7 +1864,7 @@ BEGIN:VEVENT
 SUMMARY:Installation: Send Me Colors: Mechanical Gestures to Preserve Flow
  ers — Barcelona
 DTSTART;TZID="UTC+01:00":20261129T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:7319a709ed610df1b5d67ecab640@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -2054,7 +1881,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Light — Barcelona
 DTSTART;TZID="UTC+01:00":20261129T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:0d6340e43db18637acbd08cc6992@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Xcèntric’s 25th Anniversary Programme\nCategory: Audiovisua
@@ -2069,7 +1896,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chernobyl: A Chronicle of the Future — Barcelona
 DTSTART;TZID="UTC+01:00":20261130T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:75342c09ba8f70153539d3ee710d@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:Kate Brown and Tatiana Kasperski\nCategory: Debates\nOriginal 
@@ -2086,7 +1913,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michel Foucault — Barcelona
 DTSTART;TZID="UTC+01:00":20261130T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:d7172ae483e69e6bfcaaae413e93@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Lighthouse\nCategory: Courses and workshops\nOriginal listing:
@@ -2101,7 +1928,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20261201T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e91702a2044dc7ad488244bee943@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -2117,7 +1944,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elegie für das letzte Licht – Buchpremiere — Berlin
 DTSTART;TZID="UTC+01:00":20261201T193000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:65fb5826e9a54a7955b288bea73c@global-arts-culture
 CATEGORIES:Arts & Culture\,Lesung\,Berlin\,Germany
 DESCRIPTION:Category: Lesung\nOriginal listing: https://www.silent-green.n
@@ -2135,7 +1962,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dubai: The Dream of the Twenty-First Century — Barcelona
 DTSTART;TZID="UTC+01:00":20261202T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:ac52aae6c2a683996d4b18238189@global-arts-culture
 CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
 DESCRIPTION:Roman Stadnicki and Camille Ammoun\nCategory: \nOriginal listi
@@ -2152,7 +1979,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salut — Barcelona
 DTSTART;TZID="UTC+01:00":20261202T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:29e0093b9a9ddf8fe53810c1dfb1@global-arts-culture
 CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
 DESCRIPTION:Lèxic quotidià de filosofia\, 6\nCategory: \nOriginal listin
@@ -2169,7 +1996,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dedicated Play Festival — Berlin
 DTSTART;TZID="UTC+01:00":20261202T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:eebc5c702ac7a92807297fa88f12@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -2187,7 +2014,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surviving the Heat. Cities and Climate Crisis — Barcelona
 DTSTART;TZID="UTC+01:00":20261203T120000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:04b1f23b449ff0d60b87d9de0df6@global-arts-culture
 CATEGORIES:Arts & Culture\,Education\,Barcelona\,Spain
 DESCRIPTION:A morning with Camille Ammoun\nCategory: Education\nOriginal l
@@ -2204,7 +2031,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colum McCann — Barcelona
 DTSTART;TZID="UTC+01:00":20261203T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:07cb7868a897c63e4075ba433e12@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates\,Barcelona\,Spain
 DESCRIPTION:The bus theory and other advice for young writers\nCategory: D
@@ -2220,7 +2047,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dedicated Play Festival — Berlin
 DTSTART;TZID="UTC+01:00":20261203T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:b1086306e9c2b1720ceb1a20a82c@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -2238,7 +2065,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mississippi Records pres. A People’s History of Music — Berlin
 DTSTART;TZID="UTC+01:00":20261203T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:da940bb0063b68ba7f7d12408dd9@global-arts-culture
 CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
 DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
@@ -2256,7 +2083,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Power of Sharing Our Stories — Barcelona
 DTSTART;TZID="UTC+01:00":20261204T120000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:836b0dd90f23f2c255f3d5594ddb@global-arts-culture
 CATEGORIES:Arts & Culture\,Education\,Barcelona\,Spain
 DESCRIPTION:A morning with Colum McCann\nCategory: Education\nOriginal lis
@@ -2272,7 +2099,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Demarried — Barcelona
 DTSTART;TZID="UTC+01:00":20261204T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:499bd25e513c2eb3820c0c637431@global-arts-culture
 CATEGORIES:Arts & Culture\,Music + Debates\,Barcelona\,Spain
 DESCRIPTION:Festival Clàssics\nCategory: Music + Debates\nOriginal listin
@@ -2287,7 +2114,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dedicated Play Festival — Berlin
 DTSTART;TZID="UTC+01:00":20261204T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:1102d85a2f6166dac3f65e23c206@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -2305,7 +2132,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic Matters VII – Independent Label Market — Berlin
 DTSTART;TZID="UTC+01:00":20261205T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:9c63d19c124ba4a0857523317af3@global-arts-culture
 CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
 DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
@@ -2323,7 +2150,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:silent green Winterfest 2026 — Berlin
 DTSTART;TZID="UTC+01:00":20261205T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c96581fc788f6aad53dd946a1213@global-arts-culture
 CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
 DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
@@ -2342,7 +2169,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poetry Slam Barcelona — Barcelona
 DTSTART;TZID="UTC+01:00":20261205T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:579f03cbda07ef143b438323c3c6@global-arts-culture
 CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
 DESCRIPTION:Creation centered on the word & the stage\nCategory: \nOrigina
@@ -2357,7 +2184,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonic Matters VII – Independent Label Market — Berlin
 DTSTART;TZID="UTC+01:00":20261206T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:9d2551d753455833a77661c780ed@global-arts-culture
 CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
 DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
@@ -2375,7 +2202,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:silent green Winterfest 2026 — Berlin
 DTSTART;TZID="UTC+01:00":20261206T000000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c1468bd904e84cdad6377607d816@global-arts-culture
 CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
 DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
@@ -2395,7 +2222,7 @@ BEGIN:VEVENT
 SUMMARY:Sintonia 2026 Attunement III: Tuce Alba + Mo'ong & Bilawa — Berl
  in
 DTSTART;TZID="UTC+01:00":20261209T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2dd8f333e60b7a576525e65c16b4@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -2413,7 +2240,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KONTEXT pres. Rezzett + Ludwig Wandinger — Berlin
 DTSTART;TZID="UTC+01:00":20261211T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:dfd1e11d7e98aac296130bdedcb8@global-arts-culture
 CATEGORIES:Arts & Culture\,Music & Arts\,Berlin\,Germany
 DESCRIPTION:Category: Music & Arts\nOriginal listing: https://www.silent-g
@@ -2431,7 +2258,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everything that dances — Barcelona
 DTSTART;TZID="UTC+01:00":20261212T170000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:99592bd5275d2599592688c13edc@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2446,7 +2273,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:30 years domizil records — Berlin
 DTSTART;TZID="UTC+01:00":20261212T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:d7a1bc61ca98221cd069aa2c5580@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -2464,7 +2291,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Everything that dances — Barcelona
 DTSTART;TZID="UTC+01:00":20261213T110000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:a2f36f684775e532c4dbfd8773d6@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2479,7 +2306,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Divina comèdia\, III: «Paradís» — Barcelona
 DTSTART;TZID="UTC+01:00":20261214T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:133433cbf4ebee501ef8664314c5@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Lectura i interpretació d’un clàssic\nCategory: Courses an
@@ -2495,7 +2322,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20261215T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:951eee8848000e5ce009dbd3bfa6@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -2511,7 +2338,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digues que m'estimes\, Montserrat Roig — Barcelona
 DTSTART;TZID="UTC+01:00":20261215T190000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:00660348e8f3fd66facd687c12b8@global-arts-culture
 CATEGORIES:Arts & Culture\,Debates + Scene\,Barcelona\,Spain
 DESCRIPTION:Festival Clàssics\nCategory: Debates + Scene\nOriginal listin
@@ -2528,7 +2355,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mink pres. Return To Sender — Berlin
 DTSTART;TZID="UTC+01:00":20261215T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:957e62ecc16685f4c7ff5236da15@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -2546,7 +2373,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Imaginar la fi"\, by Eudald Espluga — Barcelona
 DTSTART;TZID="UTC+01:00":20261216T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:5837aeff9b278255c7dcc5c69294@global-arts-culture
 CATEGORIES:Arts & Culture\,Amics CCCB\,Barcelona\,Spain
 DESCRIPTION:Exclusive reading club for Friends of the CCCB\nCategory: Amic
@@ -2562,7 +2389,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salut — Barcelona
 DTSTART;TZID="UTC+01:00":20261216T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:108d57d4d56105acaf05a42f8220@global-arts-culture
 CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
 DESCRIPTION:Lèxic quotidià de filosofia\, 6\nCategory: \nOriginal listin
@@ -2579,7 +2406,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leviatan\, de Thomas Hobbes — Barcelona
 DTSTART;TZID="UTC+01:00":20261217T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:47936080e6f633596439875748c7@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:Llegir filosofia\, 7\nCategory: Courses and workshops\nOrigina
@@ -2594,7 +2421,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261222T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:8ad6e824c2dd91e41e2f3bfd34e0@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2609,7 +2436,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20261222T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:dc4a42cd04157869e2d698a8a923@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -2625,7 +2452,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261223T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:4c27cc465f4267a5afb52c1f8576@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2640,7 +2467,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xcèntric Film Club — Barcelona
 DTSTART;TZID="UTC+01:00":20261223T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:d4f78e08f92f9a378836c95d52dd@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
@@ -2656,7 +2483,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261224T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e777625caea85ed16f6ef68037db@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2671,7 +2498,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261225T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:557b65341c093ba5bbf566d2f841@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2686,7 +2513,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261226T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e991eaf2e035ad4dbdfad81e6fa0@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2701,7 +2528,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visit the Mirador CCCB 2026 — Barcelona
 DTSTART;TZID="UTC+01:00":20261227T100000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:443e35841806c96cb30b2878b9c4@global-arts-culture
 CATEGORIES:Arts & Culture\,\,Barcelona\,Spain
 DESCRIPTION:And enjoy the views of the city\nCategory: \nOriginal listing:
@@ -2716,7 +2543,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261227T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:a5e3221ae0974c64130f4c5c3cac@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2731,7 +2558,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261228T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:26d4e08834337934bf64d3d48940@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2746,7 +2573,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261229T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:b11dfa84378a9021d08a2f54af9e@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2761,7 +2588,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261230T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e968d4afa513ac9d673e7a21c6fc@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2776,7 +2603,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20261231T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:0c0e9d26d0331f7a446ebe0c70cc@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2791,7 +2618,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20270101T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:81cced99fd60708935ed41eb100d@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2806,7 +2633,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20270102T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:f4af8225f5888a8dc861bb20bd81@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2821,7 +2648,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20270103T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:ac7b4c329b5bb1373ffcdd9b0801@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2836,7 +2663,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20270104T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:5f90f3650e431585d075beb95ce8@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2851,7 +2678,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20270105T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:aed138cf8717e32da2a2a0bb5142@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2866,7 +2693,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let’s Go to the Circus! — Barcelona
 DTSTART;TZID="UTC+01:00":20270107T113000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:5b45b9c0ed3d4307ff862cc64c69@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Cinema for all the family\nCategory: Audiovisuals\nOriginal li
@@ -2881,7 +2708,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20270112T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e496c85d84396c0f401bebb8b99a@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -2897,7 +2724,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20270119T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:65d22727b891e1c0cae934c12ba1@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -2913,7 +2740,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:da Googie + Cara Tivey — Berlin
 DTSTART;TZID="UTC+01:00":20270120T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:020c47faec7ae532c47946d0045a@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -2931,7 +2758,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20270126T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:5cc21b46bc939573ebe29887b42f@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -2947,7 +2774,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xcèntric Film Club — Barcelona
 DTSTART;TZID="UTC+01:00":20270127T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c01c606e720295175df75ad20c9d@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
@@ -2964,7 +2791,7 @@ BEGIN:VEVENT
 SUMMARY:«The Atomic Age» for Blind and Partially Sighted Visitors — Ba
  rcelona
 DTSTART;TZID="UTC+01:00":20270202T160000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2d764856357332531b684e06efe5@global-arts-culture
 CATEGORIES:Arts & Culture\,Accessible\,Barcelona\,Spain
 DESCRIPTION:Adapted guided tour\nCategory: Accessible\nOriginal listing: h
@@ -2981,7 +2808,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20270202T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:92f96f4392fa6dac642b79697e0f@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -2997,7 +2824,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sophia Stel – Zusatzshow II — Berlin
 DTSTART;TZID="UTC+01:00":20270206T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:ac4856af6355f214d630a16cad7e@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3015,7 +2842,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sophia Stel – Zusatzshow I – ausverkauft — Berlin
 DTSTART;TZID="UTC+01:00":20270208T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:17247264c33b43e17f81d773a4af@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3032,7 +2859,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20270209T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:aff4031352e3a164cc77c4b0f92e@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -3048,7 +2875,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sophia Stel – ausverkauft — Berlin
 DTSTART;TZID="UTC+01:00":20270209T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:4f1bff1f28fc9e48e99e0880015c@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3065,7 +2892,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20270216T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:1760002db7e1b821c8de0c625c93@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -3081,7 +2908,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maria Baptist pres. Music for the Now — Berlin
 DTSTART;TZID="UTC+01:00":20270219T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:16a04e2a13138bdb852eb2cdc2d3@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3099,7 +2926,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El segle XVIII — Barcelona
 DTSTART;TZID="UTC+01:00":20270223T183000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:c48126cadc2ae2219bf75320d24b@global-arts-culture
 CATEGORIES:Arts & Culture\,Courses and workshops\,Barcelona\,Spain
 DESCRIPTION:La tradició clàssica en la cultura occidental\, 4\nCategory:
@@ -3115,7 +2942,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xcèntric Film Club — Barcelona
 DTSTART;TZID="UTC+01:00":20270224T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:877c664148612ed7149891948436@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
@@ -3131,7 +2958,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Helena Deland — Berlin
 DTSTART;TZID="UTC+01:00":20270224T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2fe0e4c05071d204dd73be6e57c0@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3148,7 +2975,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HAINBACH presents VIVE — Berlin
 DTSTART;TZID="UTC+01:00":20270305T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:3875da7c5c67fcd5ac4d3a71c3bc@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3167,7 +2994,7 @@ BEGIN:VEVENT
 SUMMARY:«The Atomic Age» for Blind and Partially Sighted Visitors — Ba
  rcelona
 DTSTART;TZID="UTC+01:00":20270310T160000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:1a1a451c506f47aef6238757d16f@global-arts-culture
 CATEGORIES:Arts & Culture\,Accessible\,Barcelona\,Spain
 DESCRIPTION:Adapted guided tour\nCategory: Accessible\nOriginal listing: h
@@ -3184,7 +3011,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony Njoku — Berlin
 DTSTART;TZID="UTC+01:00":20270324T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:2429090ee7a2d790bd0f7066798c@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3201,7 +3028,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xcèntric Film Club — Barcelona
 DTSTART;TZID="UTC+02:00":20270331T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:f3019e8637079ca9997121dac493@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
@@ -3217,7 +3044,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Vernon Spring — Berlin
 DTSTART;TZID="UTC+02:00":20270405T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:07a9d5fe5529954a2eef4e25aa04@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3235,7 +3062,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Diles Que No Me Maten — Berlin
 DTSTART;TZID="UTC+02:00":20270426T200000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:8378fcf6b91c650d223e72ab36cd@global-arts-culture
 CATEGORIES:Arts & Culture\,Konzert\,Berlin\,Germany
 DESCRIPTION:Category: Konzert\nOriginal listing: https://www.silent-green.
@@ -3253,7 +3080,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xcèntric Film Club — Barcelona
 DTSTART;TZID="UTC+02:00":20270428T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:294e3b3d775896328340b8498d04@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
@@ -3270,7 +3097,7 @@ BEGIN:VEVENT
 SUMMARY:«The Atomic Age» for Blind and Partially Sighted Visitors — Ba
  rcelona
 DTSTART;TZID="UTC+02:00":20270429T160000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:d6819f32eb8be04b620203966c59@global-arts-culture
 CATEGORIES:Arts & Culture\,Accessible\,Barcelona\,Spain
 DESCRIPTION:Adapted guided tour\nCategory: Accessible\nOriginal listing: h
@@ -3287,7 +3114,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xcèntric Film Club — Barcelona
 DTSTART;TZID="UTC+02:00":20270526T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:497200ee347f98496a5fcb925522@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
@@ -3303,7 +3130,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xcèntric Film Club — Barcelona
 DTSTART;TZID="UTC+02:00":20270630T180000
-DTSTAMP:20261113T194653Z
+DTSTAMP:20261114T063117Z
 UID:e20ced95104f0cb986f4f84c282e@global-arts-culture
 CATEGORIES:Arts & Culture\,Audiovisuals\,Barcelona\,Spain
 DESCRIPTION:Monthly film forum sessions at Xcèntric Archive\nCategory: Au
