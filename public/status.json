@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-15T01:39:49.825278-05:00",
-  "count": 668,
-  "cancelled": 14,
+  "generated": "2026-11-15T13:54:51.171798-05:00",
+  "count": 611,
+  "cancelled": 72,
   "regions": {
-    "us": 510,
-    "europe": 158,
+    "us": 462,
+    "europe": 149,
     "mexico": 0
   },
   "sources": {
     "poetry-project": 5,
     "brown-arts": 9,
     "harvard-film-archive": 17,
-    "gwu-arts": 78,
+    "gwu-arts": 76,
     "redcat": 19,
     "berkeley-arts": 25,
     "northwest-film-forum": 98,
