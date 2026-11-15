@@ -1,30 +1,30 @@
 {
-  "generated": "2026-11-14T17:29:23.924391-05:00",
-  "count": 621,
-  "cancelled": 96,
+  "generated": "2026-11-15T01:39:49.825278-05:00",
+  "count": 668,
+  "cancelled": 14,
   "regions": {
-    "us": 482,
-    "europe": 139,
+    "us": 510,
+    "europe": 158,
     "mexico": 0
   },
   "sources": {
     "poetry-project": 5,
-    "brown-arts": 12,
-    "chicago-humanities": 1,
-    "harvard-film-archive": 20,
-    "gwu-arts": 81,
-    "redcat": 20,
-    "berkeley-arts": 40,
+    "brown-arts": 9,
+    "harvard-film-archive": 17,
+    "gwu-arts": 78,
+    "redcat": 19,
+    "berkeley-arts": 25,
     "northwest-film-forum": 98,
-    "artsatl": 203,
+    "artsatl": 202,
     "noma": 7,
     "cac-new-orleans": 3,
     "ica-london": 3,
-    "matadero-madrid": 14,
-    "cccb": 85,
-    "silent-green": 37
+    "matadero-madrid": 30,
+    "cccb": 82,
+    "silent-green": 35
   },
   "errors": {
+    "chicago-humanities": "No current Chicago Humanities events found",
     "fringearts": "No current FringeArts events found",
     "inbal": "Client error '403 Forbidden' for url 'https://inba.gob.mx/cartelera/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   }
