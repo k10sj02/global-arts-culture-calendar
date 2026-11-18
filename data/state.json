@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:35:07.015554-05:00",
+  "updated": "2026-11-18T15:36:57.564622-05:00",
   "events": {
     "5607d5a72c7f6772a173070923cd@global-arts-culture": {
       "source": "poetry-project",
@@ -653,8 +653,8 @@
       "title": "The Importance of Climate Leadership and the Power of Public Action",
       "start": "2026-11-19T09:00:00-05:00",
       "end": null,
-      "venue": "Lisner Auditorium",
-      "address": "730 21st Street NW, Washington DC 20052",
+      "venue": "Jack Morton Auditorium",
+      "address": "805 21st St NW, Washington, DC 20052",
       "city": "Washington, DC",
       "country": "United States",
       "region": "us",
@@ -1344,6 +1344,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "23a173b4afc8092b962e6ae3d912@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54549540501845-2026-12-03T16:30:00-05:00",
+      "title": "The Darkened Light of Faith",
+      "start": "2026-12-03T16:30:00-05:00",
+      "end": "2026-12-03T17:30:00-05:00",
+      "venue": "Elliott School of International Affairs",
+      "address": "1957 E St NW, Washington, DC 20052",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Academic",
+      "url": "https://calendar.gwu.edu/event/the-darkened-light-of-faith",
+      "description": "Could the African American political tradition save American democracy? African Americans have had every reason to reject America’s democratic experiment. Yet African American activists, intellectuals, and artists who have sought to transform the United States into a racially just society have put forward some of the most original and powerful ideas about how to make America live up to its democratic ideals. In The Darkened Light of Faith , Melvin Rogers provides a bold new account of African American political thought through the works and lives of individuals who built this vital tradition—a tradition that is urgently needed today. The book reexamines how figures as diverse as David Walker",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "29d70d1058d11eba61f26a831936@global-arts-culture": {
       "source": "gwu-arts",
       "source_id": "54409047259958-2026-12-03T17:00:00-05:00",
@@ -1888,57 +1905,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ff142e4ff5f89ad79a92934efa81@global-arts-culture": {
-      "source": "gwu-arts",
-      "source_id": "54382405846615-2026-12-11T13:00:00-05:00",
-      "title": "Are You For Sale? LIVE! with Miguel Gutierrez and Jane Raleigh",
-      "start": "2026-12-11T13:00:00-05:00",
-      "end": null,
-      "venue": "Flagg Building",
-      "address": "500 17th Street NW, Washington DC 20006",
-      "city": "Washington, DC",
-      "country": "United States",
-      "region": "us",
-      "category": "Arts & Culture",
-      "url": "https://calendar.gwu.edu/event/are-you-for-sale-live-with-miguel-gutierrez-and-jane-raleigh",
-      "description": "Join us for a live taping of Season 2, episode 2 of multi-disciplinary choreographer Miguel Gutierrez's podcast Are You For Sale? which examines the ethical entanglement between funding and dance-making. In this free public conversation, Miguel will talk to Jane Raleigh, former Director of Dance Programming at the Kennedy Center, about the current administration’s political assault on cultural spaces. Together they will discuss strategies for resistance and collectively ask, how do we continue to co-create nourishing art spaces? In the spirit of Are You For Sale? the conversation will be candid, cathartic, and community driven, so bring your questions for this live recording.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "45cbc49edf1a1663f11a75f92c87@global-arts-culture": {
-      "source": "gwu-arts",
-      "source_id": "54064785377449-2026-12-11T13:00:00-05:00",
-      "title": "Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Reforms",
-      "start": "2026-12-11T13:00:00-05:00",
-      "end": "2026-12-11T14:00:00-05:00",
-      "venue": "Flagg Building",
-      "address": "500 17th Street NW, Washington DC 20006",
-      "city": "Washington, DC",
-      "country": "United States",
-      "region": "us",
-      "category": "Arts & Culture",
-      "url": "https://calendar.gwu.edu/event/brady-art-gallery-tour-unfossilizing-african-art-and-cracks-reforms",
-      "description": "Take a student-led tour of the exhibitions currently on view at the Brady Art Gallery: \"Unfossilizing African Art\" and \"Cracks and Reforms\". Unfossilizing African Art recontextualizes African material culture objects that have been held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students across four seminar courses conducted original research to deepen understanding of the collection and reconsider how these objects are interpreted and exhibited. Cracks & Reforms: The 1920s Through the GW Collection examines a decade shaped by political upheaval, social transformation, migration, modernization, and cultural redefinition. This exhibition, developed",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "060259ba1a34e320009ab5e3127e@global-arts-culture": {
-      "source": "gwu-arts",
-      "source_id": "54312633362741-2026-12-11T13:00:00-05:00",
-      "title": "Cannupa Hanska Luger’s REFLECT",
-      "start": "2026-12-11T13:00:00-05:00",
-      "end": "2026-12-11T17:00:00-05:00",
-      "venue": "Flagg Building",
-      "address": "500 17th Street NW, Washington DC 20006",
-      "city": "Washington, DC",
-      "country": "United States",
-      "region": "us",
-      "category": "Arts & Culture",
-      "url": "https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect",
-      "description": "REFLECT traces the evolution of artist Cannuap Hanska Luger’s Mirror Shield Project . In 2016, when the Dakota Access Pipeline threatened the waters of his ancestral homelands, Luger circulated a video demonstrating how to make “mirror shields” from inexpensive materials. Conceived during the Indigenous-led resistance at Standing Rock, North Dakota, the tutorial functioned as a call to collective action, an invitation for people across the country to stand in solidarity with the Water Protectors. Carried by Water Protectors in frontline actions and collective formations, the mirrored surfaces offered protection while redirecting the field of vision. More than a thousand mirror shields were c",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "b44bc402aa3159c29020dbfb9db1@global-arts-culture": {
       "source": "redcat",
       "source_id": "https://www.redcat.org/events/now-2026-week-three-2026-11-19T20:00:00-08:00",
@@ -2347,20 +2313,122 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "278efe40932fb69691cd0578df9f@global-arts-culture": {
+    "eaee981ee066172e85e60517242c@global-arts-culture": {
       "source": "berkeley-arts",
-      "source_id": "334143-2026-11-18T00:00:00-08:00",
+      "source_id": "334133-2026-11-18T00:00:00-08:00",
       "title": "Video Exhibition: Kōmij Mour Ijin / Our Life Is Here",
       "start": "2026-11-18T00:00:00-08:00",
       "end": null,
-      "venue": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
-      "address": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "venue": "Anthropology & Art Building",
+      "address": "Anthropology & Art Building",
       "city": "Berkeley/San Francisco",
       "country": "United States",
       "region": "us",
       "category": "Exhibits",
-      "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
-      "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
+      "url": "https://events.berkeley.edu/live/events/333518-video-exhibition-kmij-mour-ijin-our-life-is-here",
+      "description": "Worth Ryder Art Gallery and VIDRINE present four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific. All were made in the wake of the 2023 Kōmij Mour Ijin / Our Life Is Here voyage across the Marshall Islands.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b65d95e4a5f5a3711495dd30dc9b@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334309-2026-11-18T11:00:00-08:00",
+      "title": "Exhibit | Nancy Lee Katz: A Private Pantheon | Part 1",
+      "start": "2026-11-18T11:00:00-08:00",
+      "end": "2026-11-18T16:00:00-08:00",
+      "venue": "2121 Allston Way, Berkeley, CA 94720",
+      "address": "2121 Allston Way, Berkeley, CA 94720",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/330837-nancy-lee-katz-a-private-pantheon-part-1",
+      "description": "Nancy Lee Katz: A Private Pantheon explores the artist’s decades-long effort to photograph artists, writers, musicians, and thinkers she admired, including Justice Ruth Bader Ginsburg, Stephen Sondheim, Philip Glass, Elie Wiesel, and Seiji Ozawa. Part 1 on view through Dec 17, 2026.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "0a6a1815f1263ef684fde114d0e4@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334261-2026-11-18T11:00:00-08:00",
+      "title": "Exhibit | Time Capsules: Exploring the Permanent Collection",
+      "start": "2026-11-18T11:00:00-08:00",
+      "end": "2026-11-18T16:00:00-08:00",
+      "venue": "2121 Allston Way, Berkeley, CA 94720",
+      "address": "2121 Allston Way, Berkeley, CA 94720",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/330901-exhibit-time-capsules-exploring-the-permanent",
+      "description": "In celebrating 15 years at UC Berkeley, Time Capsules revisits ten out of the over thirty exhibitions presented since the Magnes opened the doors of its new academic home to the public.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9ebec10a52d45f5ee1e68a1fb30e@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334204-2026-11-18T11:00:00-08:00",
+      "title": "Exhibit | An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72",
+      "start": "2026-11-18T11:00:00-08:00",
+      "end": "2026-11-18T16:00:00-08:00",
+      "venue": "2121 Allston Way, Berkeley, CA 94720",
+      "address": "2121 Allston Way, Berkeley, CA 94720",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/330963-exhibit-an-archive-of-archives-roman-vishniacs",
+      "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "2bd48baea1fdcb67a973aff2eebc@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "335987-2026-11-18T12:00:00-08:00",
+      "title": "Noon Concert: Renaissance: Songs Set to Texts from the Elizabethan and Harlem Renaissance Eras",
+      "start": "2026-11-18T12:00:00-08:00",
+      "end": null,
+      "venue": "Hertz Concert Hall",
+      "address": "Hertz Concert Hall",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Performing Arts",
+      "url": "https://events.berkeley.edu/live/events/323910-noon-concert-renaissance-songs-set-to-texts-from-the-",
+      "description": "Sharon Lee Kim, piano Wei Cheng, director",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "09fb3eb815e41f851a2a9d25df32@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "333497-2026-11-18T12:00:00-08:00",
+      "title": "Noon Concert Meet Up",
+      "start": "2026-11-18T12:00:00-08:00",
+      "end": "2026-11-18T13:00:00-08:00",
+      "venue": "Hertz Concert Hall",
+      "address": "Hertz Concert Hall",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Performing Arts",
+      "url": "https://events.berkeley.edu/brc/event/333497-noon-concert-meet-up",
+      "description": "Join other retirees to attend the free Berkeley Music noon concert, Renaissance: Songs Set to Texts from Elizabethan and Harlem Renaissance eras.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "a2e69f9b40548213be56e933df41@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "328915-2026-11-18T17:00:00-08:00",
+      "title": "German Film Club: Barbara",
+      "start": "2026-11-18T17:00:00-08:00",
+      "end": null,
+      "venue": "German Library, 5401 Dwinelle Hall, Level E",
+      "address": "German Library, 5401 Dwinelle Hall, Level E",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Films",
+      "url": "https://events.berkeley.edu/German/event/328915-german-film-club-barbara",
+      "description": "The German Film Club presents Christian Petzold’s Barbara, set in a provincial GDR hospital in 1980, where a doctor under Stasi surveillance quietly plans her escape west.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2989,6 +3057,23 @@
       "region": "us",
       "category": "Film",
       "url": "https://nwfilmforum.org/films/tokyo-godfathers/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "810feafdec007c344e8261061786@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/carol/-2026-12-05T19:00:00-08:00",
+      "title": "Carol",
+      "start": "2026-12-05T19:00:00-08:00",
+      "end": "2026-12-05T20:58:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/carol/",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -3975,6 +4060,23 @@
       "region": "us",
       "category": "Film",
       "url": "https://nwfilmforum.org/films/unstreamable-the-taste-of-tea/",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "041c524be1a818323853bd229427@global-arts-culture": {
+      "source": "northwest-film-forum",
+      "source_id": "https://nwfilmforum.org/films/twin-peaks-fire-walk-with-me/-2027-02-23T18:30:00-08:00",
+      "title": "Twin Peaks: Fire Walk With Me",
+      "start": "2027-02-23T18:30:00-08:00",
+      "end": "2027-02-23T20:45:00-08:00",
+      "venue": "Northwest Film Forum",
+      "address": "1515 12th Ave, Seattle, WA 98122",
+      "city": "Seattle",
+      "country": "United States",
+      "region": "us",
+      "category": "Film",
+      "url": "https://nwfilmforum.org/films/twin-peaks-fire-walk-with-me/",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -7535,8 +7637,8 @@
     "0a5b12c3c14496187edd553b580c@global-arts-culture": {
       "source": "ica-london",
       "source_id": "https://www.ica.art/talks",
-      "title": "VISIBLE JUSTICE   Anatomies of Disappearance:   Diana Matar and Hisham Matar in conversation",
-      "start": "2026-11-19",
+      "title": "On Becoming   Screening + Talk",
+      "start": "2026-11-25",
       "end": null,
       "venue": "Institute of Contemporary Arts",
       "address": "The Mall, London SW1Y 5AH",
@@ -7545,7 +7647,7 @@
       "region": "europe",
       "category": "Talks & Events",
       "url": "https://www.ica.art/talks",
-      "description": "As part of their year-long residency, ICA Research Collective in Residence Visible Justice present a conversation between Diana Matar and Hisham Matar.",
+      "description": "Join us for an evening exploring the importance of finding community and a sense of place, with special screenings of Harry Lawson’s  Stepney Western , Lewis Khan’s  The Leavers  and Maite de Orbe’s film  La Tripiadera .",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -8008,10 +8110,10 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ff3d6faa9bd7a2e58ee24be7cbe9@global-arts-culture": {
+    "787ff732c20306d8d70e229f2b5b@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/beirut-the-city-and-collapse-2026-11-18T18:30:00+01:00",
-      "title": "Beirut: The City and Collapse",
+      "source_id": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi-2026-11-18T18:30:00+01:00",
+      "title": "El món com a manicomi",
       "start": "2026-11-18T18:30:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -8019,9 +8121,9 @@
       "city": "Barcelona",
       "country": "Spain",
       "region": "europe",
-      "category": "Debates",
-      "url": "https://www.cccb.org/en/w/activities/beirut-the-city-and-collapse",
-      "description": "Rana Eid and Camille Ammoun",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi",
+      "description": "Dolor femení, resistència i literatura",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -8042,10 +8144,10 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "787ff732c20306d8d70e229f2b5b@global-arts-culture": {
+    "ff3d6faa9bd7a2e58ee24be7cbe9@global-arts-culture": {
       "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi-2026-11-18T18:30:00+01:00",
-      "title": "El món com a manicomi",
+      "source_id": "https://www.cccb.org/en/w/activities/beirut-the-city-and-collapse-2026-11-18T18:30:00+01:00",
+      "title": "Beirut: The City and Collapse",
       "start": "2026-11-18T18:30:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -8053,9 +8155,9 @@
       "city": "Barcelona",
       "country": "Spain",
       "region": "europe",
-      "category": "Courses and workshops",
-      "url": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi",
-      "description": "Dolor femení, resistència i literatura",
+      "category": "Debates",
+      "url": "https://www.cccb.org/en/w/activities/beirut-the-city-and-collapse",
+      "description": "Rana Eid and Camille Ammoun",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -8331,6 +8433,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "1fdb58f6853abf39b30064e9c87b@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/guided-tour-to-the-the-atomic-age-exhibition-for-teachers-2026-11-26T17:30:00+01:00",
+      "title": "Guided tour to the «The Atomic Age» exhibition for teachers",
+      "start": "2026-11-26T17:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Education + Visits",
+      "url": "https://www.cccb.org/en/w/activities/guided-tour-to-the-the-atomic-age-exhibition-for-teachers",
+      "description": "An exclusive activity for teachers",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "63d856e53ae8735821dccf580025@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/emily-dickinson-una-carta-al-mon-2026-11-26T18:30:00+01:00",
@@ -8501,6 +8620,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "28a2ebe0ed705a998f1553e1bd88@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/guided-tour-to-the-the-atomic-age-exhibition-for-teachers-2026-12-01T18:00:00+01:00",
+      "title": "Guided tour to the «The Atomic Age» exhibition for teachers",
+      "start": "2026-12-01T18:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Education + Visits",
+      "url": "https://www.cccb.org/en/w/activities/guided-tour-to-the-the-atomic-age-exhibition-for-teachers",
+      "description": "An exclusive activity for teachers",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "e91702a2044dc7ad488244bee943@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/el-segle-xviii-2026-12-01T18:30:00+01:00",
@@ -8668,23 +8804,6 @@
       "category": "Audiovisuals",
       "url": "https://www.cccb.org/en/w/activities/everything-that-dances",
       "description": "Cinema for all the family",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "7d5a4ca5f70b3fda95bdba539d21@global-arts-culture": {
-      "source": "cccb",
-      "source_id": "https://www.cccb.org/en/w/activities/beauty-and-screens-2026-12-14T12:00:00+01:00",
-      "title": "Beauty and screens",
-      "start": "2026-12-14T12:00:00+01:00",
-      "end": null,
-      "venue": "Centre de Cultura Contemporània de Barcelona",
-      "address": "Carrer de Montalegre 5, 08001 Barcelona",
-      "city": "Barcelona",
-      "country": "Spain",
-      "region": "europe",
-      "category": "Education",
-      "url": "https://www.cccb.org/en/w/activities/beauty-and-screens",
-      "description": "A morning with Remedios Zafra",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9912,6 +10031,91 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ff142e4ff5f89ad79a92934efa81@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54382405846615-2026-12-11T13:00:00-05:00",
+      "title": "Are You For Sale? LIVE! with Miguel Gutierrez and Jane Raleigh",
+      "start": "2026-12-11T13:00:00-05:00",
+      "end": null,
+      "venue": "Flagg Building",
+      "address": "500 17th Street NW, Washington DC 20006",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Arts & Culture",
+      "url": "https://calendar.gwu.edu/event/are-you-for-sale-live-with-miguel-gutierrez-and-jane-raleigh",
+      "description": "Join us for a live taping of Season 2, episode 2 of multi-disciplinary choreographer Miguel Gutierrez's podcast Are You For Sale? which examines the ethical entanglement between funding and dance-making. In this free public conversation, Miguel will talk to Jane Raleigh, former Director of Dance Programming at the Kennedy Center, about the current administration’s political assault on cultural spaces. Together they will discuss strategies for resistance and collectively ask, how do we continue to co-create nourishing art spaces? In the spirit of Are You For Sale? the conversation will be candid, cathartic, and community driven, so bring your questions for this live recording.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "45cbc49edf1a1663f11a75f92c87@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54064785377449-2026-12-11T13:00:00-05:00",
+      "title": "Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Reforms",
+      "start": "2026-12-11T13:00:00-05:00",
+      "end": "2026-12-11T14:00:00-05:00",
+      "venue": "Flagg Building",
+      "address": "500 17th Street NW, Washington DC 20006",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Arts & Culture",
+      "url": "https://calendar.gwu.edu/event/brady-art-gallery-tour-unfossilizing-african-art-and-cracks-reforms",
+      "description": "Take a student-led tour of the exhibitions currently on view at the Brady Art Gallery: \"Unfossilizing African Art\" and \"Cracks and Reforms\". Unfossilizing African Art recontextualizes African material culture objects that have been held in the GW Collection for nearly 50 years. Led by Assistant Professor Clement Akpang, 59 students across four seminar courses conducted original research to deepen understanding of the collection and reconsider how these objects are interpreted and exhibited. Cracks & Reforms: The 1920s Through the GW Collection examines a decade shaped by political upheaval, social transformation, migration, modernization, and cultural redefinition. This exhibition, developed",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "060259ba1a34e320009ab5e3127e@global-arts-culture": {
+      "source": "gwu-arts",
+      "source_id": "54312633362741-2026-12-11T13:00:00-05:00",
+      "title": "Cannupa Hanska Luger’s REFLECT",
+      "start": "2026-12-11T13:00:00-05:00",
+      "end": "2026-12-11T17:00:00-05:00",
+      "venue": "Flagg Building",
+      "address": "500 17th Street NW, Washington DC 20006",
+      "city": "Washington, DC",
+      "country": "United States",
+      "region": "us",
+      "category": "Arts & Culture",
+      "url": "https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect",
+      "description": "REFLECT traces the evolution of artist Cannuap Hanska Luger’s Mirror Shield Project . In 2016, when the Dakota Access Pipeline threatened the waters of his ancestral homelands, Luger circulated a video demonstrating how to make “mirror shields” from inexpensive materials. Conceived during the Indigenous-led resistance at Standing Rock, North Dakota, the tutorial functioned as a call to collective action, an invitation for people across the country to stand in solidarity with the Water Protectors. Carried by Water Protectors in frontline actions and collective formations, the mirrored surfaces offered protection while redirecting the field of vision. More than a thousand mirror shields were c",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "278efe40932fb69691cd0578df9f@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334143-2026-11-18T00:00:00-08:00",
+      "title": "Video Exhibition: Kōmij Mour Ijin / Our Life Is Here",
+      "start": "2026-11-18T00:00:00-08:00",
+      "end": null,
+      "venue": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "address": "Vidrine- Worth Ryder Galler, Anthropology & Art Practice Building",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
+      "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "7d5a4ca5f70b3fda95bdba539d21@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/beauty-and-screens-2026-12-14T12:00:00+01:00",
+      "title": "Beauty and screens",
+      "start": "2026-12-14T12:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Education",
+      "url": "https://www.cccb.org/en/w/activities/beauty-and-screens",
+      "description": "A morning with Remedios Zafra",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "3fe9e56fdad02e1a9eb30ce4cc39@global-arts-culture": {
       "source": "brown-arts",
       "source_id": "338354-2026-11-17T00:00:00-05:00",
@@ -9926,8 +10130,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh",
       "description": "In her practice, Dayanita Singh experiments with form through photography, architecture, and books to create exhibitions. Using these mediums, Singh extends an invitation to audiences to question how books, and book-making, might transform a space into an exhibition. This show takes cues from Singh’s artist-led approach to exhibitions to explore the relationship between “making” and “reading.” With Singh’s Book Building (2022) as a blueprint, this exhibition analyzes book-making as an artistic practice, material form, and conceptual process. Works in the exhibition span Singh’s career, including Book Building (2022), Blue Book (2009), File Room (2013), Museum of Chance (2014), and Sent a Let",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "789cff248c11713d17b30a818172@global-arts-culture": {
       "source": "brown-arts",
@@ -9943,8 +10147,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/library/event/341420-a-pictorial-dragon-the-art-of-fernando-birri",
       "description": "The exhibit A Pictorial Dragon: The Art of Fernando Birri is on view in the Harriette Hemmasi Exhibition Gallery at the John Hay Library at Brown University, and online through a digital exhibition. The exhibit celebrates the centennial of Fernando Birri (1925–2017), the pioneering Argentine filmmaker, artist, and theorist of the New Latin American Cinema.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a532eb142abf7076208b675c0478@global-arts-culture": {
       "source": "brown-arts",
@@ -9960,8 +10164,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/john-carter-brown-library/event/326693-1776-across-the-americas-a-hemispheric-history",
       "description": "The John Carter Brown Library is pleased to announce a year-long exhibition titled “1776 Across the Americas: A Hemispheric History from the Collections of the John Carter Brown Library.” The exhibition is now on display in the Bromsen Room at the Library and is open to the public during regular Reading Room hours. The John Carter Brown Library’s Reading Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and from 2 p.m. to 4:45 p.m., and Friday from 10 a.m. to 12:45 p.m. Curated by Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf and JCB 2026 Postdoc Program Coordinator Kathleen Telling , the exhibition is part of the initiative 2026 and Beyond at the JCB",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9f1c00c95c3403dd00aab9944d34@global-arts-culture": {
       "source": "brown-arts",
@@ -9977,8 +10181,8 @@
       "category": "Lectures, Seminars and Workshops",
       "url": "https://events.brown.edu/library/event/337715-research-fundamentals-evaluate-research-materials",
       "description": "You’ve found sources—but how do you know which ones are worth your time? This workshop teaches you to evaluate scholarly materials efficiently and critically before committing to a full read. You’ll learn to mine library records for key decision-making information like abstracts, subject terms, and citation data. We’ll break down the anatomy of scholarly articles so you can navigate them strategically rather than reading every word. Finally, you’ll practice a three-step reading approach—triage, skim, and deep read—that helps you manage dozens of sources without sacrificing critical engagement. Event registration is preferred. Please contact micah_saxton@brown.edu with any questions.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d1d7dba6bff1bf09f102c0cf216f@global-arts-culture": {
       "source": "brown-arts",
@@ -9994,8 +10198,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/john-carter-brown-library/event/326896-1776-across-the-americas-a-hemispheric-history",
       "description": "The John Carter Brown Library is pleased to announce a year-long exhibition titled “1776 Across the Americas: A Hemispheric History from the Collections of the John Carter Brown Library.” The exhibition is now on display in the Bromsen Room at the Library and is open to the public during regular Reading Room hours. The John Carter Brown Library’s Reading Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and from 2 p.m. to 4:45 p.m., and Friday from 10 a.m. to 12:45 p.m. Curated by Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf and JCB 2026 Postdoc Program Coordinator Kathleen Telling , the exhibition is part of the initiative 2026 and Beyond at the JCB",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "bb8475a47fbe519efd33e5f3f155@global-arts-culture": {
       "source": "brown-arts",
@@ -10011,8 +10215,8 @@
       "category": "Lectures, Seminars and Workshops",
       "url": "https://events.brown.edu/library/event/livingarchivesvirtualsession2",
       "description": "(Rescheduled for Tuesday, 11/17) This interactive session guides participants through the full lifecycle of an oral history interview. Topics include preparing interview questions, establishing consent and release forms, ethical responsibilities, and strategies for active listening. Grounded in the Six R’s of Oral History Interviewing, participants will practice interviewing through mock sessions, gaining practical experience in conducting respectful, effective oral history interviews. No prior experience with archives, oral history, or historical research is necessary. All three sessions must be attended to receive an Oral History Certificate.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4490d4f43bf86dd02b4ad6f9798c@global-arts-culture": {
       "source": "gwu-arts",
@@ -10028,8 +10232,8 @@
       "category": "Lectures & Speakers",
       "url": "https://calendar.gwu.edu/event/ai-and-educating-our-students-a-useful-knowledge-workshop",
       "description": "Session 1:  (9:00-10:00am) What Changes When A.I. Comes to Work in Education? Featuring Dr. Ryan Watkins, Professor of Educational Technology, GW Graduate School of Education and Human Development Dr. Ryan Watkins ' work focuses on trustworthy A.I., human-technology collaboration, educational technology, and the ethical use of large language models in scientific research and teaching workflows. He studies how people, organizations, and institutions define useful results, make decisions with emerging technologies, and design systems that better serve human needs. Learn more about Dr. Watkins→ Session 2: (10:00-11:00am) Leading Schools in the Era of A.I. Featuring Dr. Rodger E. Perkins, Jr., P",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ebd3e8f0d8ed9c6cd161c8629c6d@global-arts-culture": {
       "source": "gwu-arts",
@@ -10045,8 +10249,8 @@
       "category": "Lectures & Speakers",
       "url": "https://calendar.gwu.edu/event/lunch-learn-with-professor-papandrea-recent-attacks-on-the-press",
       "description": "Join Professor Papandrea in a Lunch & Learn discussing the recent attacks on the press. The event will be in the Moot Court Room on Tuesday, November 17th, at 12:30pm. Register for the Event Here",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "5177ecb2775224a3980dc82ec2fe@global-arts-culture": {
       "source": "gwu-arts",
@@ -10062,8 +10266,8 @@
       "category": "Academic",
       "url": "https://calendar.gwu.edu/event/nuclear-risks-and-regional-stability-in-the-middle-east",
       "description": "The Middle East Policy Forum, in partnership with the Institute for Security and Conflict Studies , welcomes Professor Sina Azodi , Ambassador (ret.) Bonnie Jenkins , and subject area expert Ms. Clara Sherwood, to discuss Nuclear Risks and Regional Stability in the Middle East. The Middle East nuclear debate has never been more relevant than it is in 2026. To discuss this issue, our panelists will examine regional and global attitudes towards nuclear weapons in the Middle East, with an eye toward generating conclusions and strategies regarding the future of non-proliferation in the region. This distinguished panel includes Professor Sina Azodi, a renowned Iran expert whose recent book, Iran ",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "404e1cc2d20a9d831d7ab98daa2a@global-arts-culture": {
       "source": "gwu-arts",
@@ -10079,8 +10283,8 @@
       "category": "Lectures & Speakers",
       "url": "https://calendar.gwu.edu/event/the-state-of-american-democracy-elections-in-the-digital-media-age",
       "description": "As local journalism declines, media ownership consolidates, and Americans increasingly turn to social media and AI tools for political information, the American information landscape is undergoing a profound transformation. What do these changes mean for public trust, political participation and the health of our democracy? In the wake of the 2026 midterm elections, the Institute for Data, Democracy and Politics (IDDP) will host a keynote by leading independent journalist Aaron Parnas , and a panel discussion featuring Michelle Cottle of the New York Times , Leticia Bode of Georgetown University, and Danny Hayes of George Washington University, moderated by Michael Tomasky of the New Republi",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ac5fe5ce759920831fc4046d80f1@global-arts-culture": {
       "source": "gwu-arts",
@@ -10096,8 +10300,8 @@
       "category": "Lectures & Speakers",
       "url": "https://calendar.gwu.edu/event/world-on-a-plate-guest-lecture-series-yael-reichler",
       "description": "World on A Plate , a class designed by world-renowned chef and humanitarian José Andrés, is an exploration of the many ways in which food and society interact. In this course and expanded guest lecture series, we invite you to think deeply about food in its many different roles – as a critical factor in public health, as an industry, as a science, as the medium of the craft of cooking, and as a political instrument. Join Yael Reichler , Fresh Connect Business Development Manager, for this lecture. RSVP here.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b81fe2471553c2930796fc8b6382@global-arts-culture": {
       "source": "gwu-arts",
@@ -10113,8 +10317,8 @@
       "category": "Academic",
       "url": "https://calendar.gwu.edu/event/2026-mergen-palmer-distinguished-lecture-part-i-prof-justin-mann",
       "description": "Join the GW Department of American Studies for part one of our 2026-27 Mergen-Palmer Distinguished Lecture Series featuring Justin Mann, associate professor of English at Northwestern University, and a GW American Studies PhD alum. This event has been rescheduled and will now be hosted virtually via Zoom. “Getting Lost in the Dark” analyzes two texts, Victor La Valle and Dietrich Smith’s graphic novel Destroyer and the Russo brothers' Captain America: The Winter Soldier , to show how Black speculative fictions reimagine the possibilities, limits and potential ends of the American security state.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "5db7c4e43324c86a8a65a5e28da5@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10130,8 +10334,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/Library/event/288815-centering-philippine-and-filipinx-american",
       "description": "The Bancroft Library’s collections of materials relating to the Philippines span nearly 500 years. Highlights in this exhibit include a transcript of an Inquisitorial trial from 1646, a prayer book written in the Cebuano language, and UC Berkeley Filipino student publications from 1905 to the present. The exhibit also features selections from the personal papers of acclaimed author Jessica Hagedorn, including typewritten drafts of her novels, poetry, song lyrics, and a screenplay, as well as childhood drawings and writings. Open hours may vary. Please view the The Bancroft Library hours page for the most up-to-date information.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0a7b17d96176d3e867adcf56c5f5@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10147,8 +10351,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pueblo-for-and-by-the-people-rev",
       "description": "The exhibition, De y para el pueblo / By and for the People: Revolutionary Mexican Prints, features highlights from The Bancroft Library’s extensive collection of prints.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ff51584a3807c0c8643180f08cec@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10164,8 +10368,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/309073-exhibit-divestment-now-student-activism-and-the-anti-",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c7b43631683f9608a3ee27d1b7e4@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10181,8 +10385,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-ijin-our-life-is-here",
       "description": "Kōmij Mour Ijin / Our Life Is Here at Doe Library brings together reproductions of works and interpretive material from the 2023 voyage, exploring climate change, the legacy of US nuclear testing, and Marshallese knowledge and resilience.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0c70b570f21b85ebdbede83c7961@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10198,8 +10402,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330194-photography-installation-remembering-the-future",
       "description": "At Giannini Hall, 36 photographs selected from the recently published Remembering the Future: Nuclear Testing, Rising Seas, and The Marshall Islands (Radius Books, © 2026) by Mark Klett and William L. Fox extend the two men’s decades-long collaboration tracing the nuclear history of the American West and the broader Pacific sphere.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "83fcd5697a5bb9c68f0ba6c5d035@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10215,8 +10419,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/333732-video-exhibition-kmij-mour-ijin-our-life-is-here",
       "description": "The VIDRINE presents four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific, made in the wake of the Kōmij Mour Ijin / Our Life Is Here voyage.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "558bcfd4f52073cfe119d8e9604f@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10232,8 +10436,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330900-exhibit-time-capsules-exploring-the-permanent",
       "description": "In celebrating 15 years at UC Berkeley, Time Capsules revisits ten out of the over thirty exhibitions presented since the Magnes opened the doors of its new academic home to the public.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9513b391e6357965f4bc2fd4d984@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10249,8 +10453,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330962-exhibit-an-archive-of-archives-roman-vishniacs",
       "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d811b6af548e4137fce09b733c38@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10266,25 +10470,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330836-nancy-lee-katz-a-private-pantheon-part-1",
       "description": "Nancy Lee Katz: A Private Pantheon explores the artist’s decades-long effort to photograph artists, writers, musicians, and thinkers she admired, including Justice Ruth Bader Ginsburg, Stephen Sondheim, Philip Glass, Elie Wiesel, and Seiji Ozawa. Part 1 on view through Dec 17, 2026.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "eaee981ee066172e85e60517242c@global-arts-culture": {
-      "source": "berkeley-arts",
-      "source_id": "334133-2026-11-18T00:00:00-08:00",
-      "title": "Video Exhibition: Kōmij Mour Ijin / Our Life Is Here",
-      "start": "2026-11-18T00:00:00-08:00",
-      "end": null,
-      "venue": "Anthropology & Art Building",
-      "address": "Anthropology & Art Building",
-      "city": "Berkeley/San Francisco",
-      "country": "United States",
-      "region": "us",
-      "category": "Exhibits",
-      "url": "https://events.berkeley.edu/live/events/333518-video-exhibition-kmij-mour-ijin-our-life-is-here",
-      "description": "Worth Ryder Art Gallery and VIDRINE present four artists’ video responses to nuclear history, colonialism, and climate change in the Pacific. All were made in the wake of the 2023 Kōmij Mour Ijin / Our Life Is Here voyage across the Marshall Islands.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "bdee59891311e11ea9008b7ed756@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -10300,8 +10487,8 @@
       "category": "Film",
       "url": "https://nwfilmforum.org/films/go-fish-4k-restoration/",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "084949817a6bfe3dc02172ea8305@global-arts-culture": {
       "source": "artsatl",
@@ -10317,8 +10504,8 @@
       "category": "Theater",
       "url": "https://www.artsatl.org/event/puppet-camp/2026-11-17/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "579ec13195cc23e4c17d61eb5ea3@global-arts-culture": {
       "source": "artsatl",
@@ -10334,8 +10521,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-17/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d99ef48def298cff4d059512f5c7@global-arts-culture": {
       "source": "artsatl",
@@ -10351,8 +10538,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-17/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a81bf478fb6c17a01169f8fc0155@global-arts-culture": {
       "source": "artsatl",
@@ -10368,8 +10555,8 @@
       "category": "Theater",
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-17/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c55f26671eeb2fb5cc668da62d73@global-arts-culture": {
       "source": "matadero-madrid",
@@ -10385,8 +10572,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-plastic-dreams",
       "description": "Rafaela es una joven monja que pertenece a una congregación precaria, casi extinta. Desde hace tiempo tiene ensoñaciones que, eventualmente, se hacen realidad, pero hay un sueño incompleto y recurrente que le ronda en la cabeza. Al tiempo, es enviada a un pueblo cercano en busca del nuevo arzobispo con la encomienda de exponer la situación del convento y orientarse respecto a sus sueños. En el camino, vivirá encuentros extraordinarios que la harán avanzar o retroceder de su objetivo. Karla Badillo es una joven cineasta mexicana. Presenta con el film Oca (2025) su debut como directora. Tras formarse en el Centro de Capacitación Cinematográfica (CCC), Badillo comenzó su camino en el cine desde",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b62649c06fa49f1d4897f01285b3@global-arts-culture": {
       "source": "matadero-madrid",
@@ -10402,8 +10589,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-plastic-dreams",
       "description": "Andrés, un hombre de mediana edad, atraviesa una crisis vital acentuada por su fracaso profesional. Tras quedarse sin hogar y verse obligado a dormir en su coche, regresa a su pueblo natal después de muchos años. Entre reencuentros con amores del pasado, amistades de la adolescencia y conflictos familiares sin resolver, Andrés oculta su realidad mientras busca un refugio desde el que rehacer su vida. David Martín de los Santos . Cineasta cazador-recolector. Subsisto a base del fruto de las películas y dedico la gran parte del tiempo a recolectarlas y procesarlas, en busca de los secretos de la naturaleza humana. > Presentación y coloquio posterior con David Martín de los Santos y Rodrigo Sor",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "12bcd9be80d04390a5b2f67b4c9d@global-arts-culture": {
       "source": "matadero-madrid",
@@ -10419,8 +10606,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/film-festival-rizoma-2026-plastic-dreams",
       "description": "Ghost in the Machine es un documental de investigación fascinante y de gran relevancia que expone la historia oculta de la inteligencia artificial, no como un sistema neutral de algoritmos, sino como una tecnología moldeada por el racismo, la misoginia, la eugenesia y estructuras de poder arraigadas mucho antes de su integración en la vida cotidiana. Rechazando la idea de la IA como algo inevitable u objetivo, el documental analiza cómo los mitos del progreso y la eficiencia han ocultado agendas políticas y culturales más profundas, revelando los fundamentos ideológicos que subyacen a los sistemas que ahora transforman la sociedad moderna. Estructurado en ocho capítulos, el documental combin",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a0140fa9f0d8cfe8c97a42906144@global-arts-culture": {
       "source": "matadero-madrid",
@@ -10436,8 +10623,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/pablo-dors-biography-silence-lluis-homar",
       "description": "“YOU MIGHT PASTE YOURSELF IN DESIRE TO CONTEMPLATE” There are events that only happen when nothing happens. When we contemplate, we stand up for our humanity. When we pause, we perform an artistic act. When we interrupt, we witness wonder. Contemplating Silence suggests something extraordinary in its premise: actor Lluís Homar, under the direction of Luis d’Ors, brings to the stage Biography of Silence , the essay by Pablo d’Ors that transformed meditation into an unexpected publishing phenomenon. On stage, a materialization of silent contemplation, a staging of suspension itself. Quite literally, something never before seen or heard. There is a deep curiosity to experience it. Following the",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0c7f6f346bbd197c204fb25ac2bd@global-arts-culture": {
       "source": "cccb",
@@ -10453,8 +10640,8 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/gravada-escrita-pronunciada",
       "description": "La paraula al cinema experimental",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "2aab9159526fe3f878792c39e54f@global-arts-culture": {
       "source": "cccb",
@@ -10470,8 +10657,8 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/can-culture-rewrite-the-rif",
       "description": "Abdellah Karroum, Younes Rahmoun and Ro Caminal",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "defcfbc6f382ebb989d1b198c38d@global-arts-culture": {
       "source": "cccb",
@@ -10487,8 +10674,8 @@
       "category": "Amics CCCB",
       "url": "https://www.cccb.org/en/w/activities/world-press-photo-2026-exhibition-tour",
       "description": "Activitat exclusiva per als Amics CCCB",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "940bc56acf202b803415c53aff74@global-arts-culture": {
       "source": "cccb",
@@ -10505,7 +10692,7 @@
       "url": "https://www.cccb.org/en/w/activities/permafrost-or-the-many-faces-of-a-transformation",
       "description": "International Forum of Translators of Catalan Literature",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "55290c37f0c752c7d455a49fd3db@global-arts-culture": {
       "source": "noma",
@@ -10522,7 +10709,7 @@
       "url": "https://noma.org/event/gallery-talk-for-teens-second-nature-japanese-rinpa-paintings-from-the-gitter-yelen-collection/2027-01-19/",
       "description": "On November 17 and January 19, New Orleans Museum of Art is hosting a Gallery Talk for Teens. The programs will take place in the museum’s first floor Ella West Freeman Gallery, where the exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is currently on view . This program will include an interactive gallery activity and a question-and-answer session to encourage peer discussion. To register for November 17’s program, please RSVP by October 30, 2026. To register for January 19’s program, please RSVP by December 10, 2026. To RSVP or for questions, contact Michelle Haysley, NOMA’s Education Programs Manager, at mhaysley@noma.org . Second Nature: Japanese Rinpa",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a445b94fc61361bdf0d98f4b9e89@global-arts-culture": {
       "source": "gwu-arts",
@@ -10539,7 +10726,7 @@
       "url": "https://calendar.gwu.edu/event/book-launch-transitional-shakespeare-gender-and-adaption",
       "description": "Join us for a book launch celebrating Professor of English Alexa Alice Joubin's new book, Transitional Shakespeare, Gender, and Adaption . About the Book The cross-gender role is a staple of Shakespeare’s plays, and drama is a transitional art. Gender is made flesh and brought into being by actors’ embodiment. Similarly, adaptations also operate transitionally. Some adaptations translate narratives into hospitable forms of expression. Other adaptations function as minor uses of established genres and gender categories. In Transitional Shakespeare, Gender, and Adaption , Professor Alexa Alice Joubin, PhD, theorizes “transness” in a number of modes, including composite figures in drama that ar",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "7c745dfcc3d55981ac3326ef1ab8@global-arts-culture": {
       "source": "matadero-madrid",
@@ -10556,7 +10743,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/lab-5-mechanics-truth",
       "description": "Exposición La mecánica de la verdad ¿Por qué se ha vuelto tan fácil y, al mismo tiempo, tan difícil creer lo que vemos? Medialab os invita a una exposición con obras site-specific que aborda la investigación de una nueva generación de artistas en torno a los mecanismos tecnoculturales que redefinen lo que solíamos llamar \"lo real\". ¿Por qué se ha vuelto tan fácil y, al mismo tiempo, tan difícil creer lo que vemos? La percepción de la realidad siempre ha sido un territorio en disputa: todo hecho es el resultado de instrumentos concretos y de decisiones sobre qué consideramos probado. Pero, claramente, algo está cambiando. Estamos asistiendo a una transformación profunda de las condiciones en ",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "0b8a3f673ac0aa1634de1d8f2fef@global-arts-culture": {
       "source": "matadero-madrid",
@@ -10573,7 +10760,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/lab-5-mechanics-truth",
       "description": "McKenzie Wark es ensayista y pionera de la reflexión sobre el poder de las redes, los nuevos vectores de clase y formas de resistencia cultural ante imaginarios tecnológicos tóxicos. Es internacionalmente conocida por sus ensayos filosóficos y el cuerpo de obras en las que unas experiencias biográficas construyen reflexión teórica. Entre sus libros traducidos al español figuran los clásicos Un manifiesto hacker y Sensoria , así como los más recientes Vaquera invertida , Raving e Historia de vida . En este evento especial, McKenzie comparte sus reflexiones sobre dos procedimientos que llama ficting y facting . En realidad, no son procedimientos separados. Todo intento de estabilizar un hecho ",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "7305beee473d82a5cddda5e9dcbc@global-arts-culture": {
       "source": "matadero-madrid",
@@ -10590,7 +10777,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/lab-5-mechanics-truth",
       "description": "A lo largo del año, LAB 5 La mecánica de la verdad ha explorado la producción tecnológica de lo real: cómo se ensamblan los hechos, cómo se fabrica una creencia, cómo la percepción está bajo presión constante y cómo los modelos y las simulaciones pueden manipularla o acudir en su rescate. El OpenLAB cierra este recorrido. Durante tres días de charlas y presentaciones, artistas, tecnólogos, diseñadores, pensadores y participantes del programa abordan esas cuestiones desde prácticas de investigación artística, innovación popular y visiones alternativas al mainstream comercial. Entre ellas se presentan los prototipos del Laboratorio de Prototipado Colaborativo, desarrollados por 25 participante",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "971861d67b111a1096594152beaa@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -10607,7 +10794,7 @@
       "url": "https://nwfilmforum.org/films/2026-sundance-film-festival-short-film-tour/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "4b04dc6c09eaec11fac7b2881010@global-arts-culture": {
       "source": "noma",
@@ -10624,7 +10811,7 @@
       "url": "https://noma.org/event/gallery-talk-for-teens-second-nature-japanese-rinpa-paintings-from-the-gitter-yelen-collection/2026-11-17/",
       "description": "On November 17 and January 19, New Orleans Museum of Art is hosting a Gallery Talk for Teens. The programs will take place in the museum’s first floor Ella West Freeman Gallery, where the exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is currently on view . This program will include an interactive gallery activity and a question-and-answer session to encourage peer discussion. To register for November 17’s program, please RSVP by October 30, 2026. To register for January 19’s program, please RSVP by December 10, 2026. To RSVP or for questions, contact Michelle Haysley, NOMA’s Education Programs Manager, at mhaysley@noma.org . Second Nature: Japanese Rinpa",
       "status": "CANCELLED",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "557b65341c093ba5bbf566d2f841@global-arts-culture": {
       "source": "cccb",
@@ -10641,7 +10828,7 @@
       "url": "https://www.cccb.org/en/w/activities/lets-go-to-the-circus",
       "description": "Cinema for all the family",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "26d4e08834337934bf64d3d48940@global-arts-culture": {
       "source": "cccb",
@@ -10658,7 +10845,7 @@
       "url": "https://www.cccb.org/en/w/activities/lets-go-to-the-circus",
       "description": "Cinema for all the family",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "81cced99fd60708935ed41eb100d@global-arts-culture": {
       "source": "cccb",
@@ -10675,7 +10862,7 @@
       "url": "https://www.cccb.org/en/w/activities/lets-go-to-the-circus",
       "description": "Cinema for all the family",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "5f90f3650e431585d075beb95ce8@global-arts-culture": {
       "source": "cccb",
@@ -10692,7 +10879,7 @@
       "url": "https://www.cccb.org/en/w/activities/lets-go-to-the-circus",
       "description": "Cinema for all the family",
       "status": "CANCELLED",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "e813443dc8aa7e35bff9b8da4b0a@global-arts-culture": {
       "source": "cccb",
@@ -10709,7 +10896,7 @@
       "url": "https://www.cccb.org/en/w/activitats/les-ciutats-i-la-calor-extrema-el-cas-del-golf-persic-i-els-limits-de-ladaptacio",
       "description": "Seminari amb Camille Ammoun",
       "status": "CANCELLED",
-      "missing_runs": 68
+      "missing_runs": 69
     },
     "9af50de4397a61e95e9362c9a5f6@global-arts-culture": {
       "source": "cccb",
@@ -10726,7 +10913,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 95
+      "missing_runs": 96
     },
     "7319a709ed610df1b5d67ecab640@global-arts-culture": {
       "source": "cccb",
@@ -10743,7 +10930,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 95
+      "missing_runs": 96
     },
     "b135f0e721ff49f1764efb204d8b@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -10760,7 +10947,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 108
+      "missing_runs": 109
     },
     "f9abb91d288be2f693f734e39124@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -10777,7 +10964,7 @@
       "url": "https://nwfilmforum.org/films/my-brothers-wedding-4k-restoration/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 108
+      "missing_runs": 109
     }
   }
 }
