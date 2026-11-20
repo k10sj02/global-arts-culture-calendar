@@ -8,441 +8,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 SUMMARY:Exhibition on View | Building Books with Dayanita Singh — Provid
  ence
-DTSTART;TZID="UTC-05:00":20261118T000000
-DTSTAMP:20261119T204145Z
-UID:1e785e4ccdcd957dddc70e9558a2@global-arts-culture
-CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
-DESCRIPTION:In her practice\, Dayanita Singh experiments with form through
-  photography\, architecture\, and books to create exhibitions. Using these
-  mediums\, Singh extends an invitation to audiences to question how books
- \, and book-making\, might transform a space into an exhibition. This show
-  takes cues from Singh’s artist-led approach to exhibitions to explore t
- he relationship between “making” and “reading.” With Singh’s Boo
- k Building (2022) as a blueprint\, this exhibition analyzes book-making as
-  an artistic practice\, material form\, and conceptual process. Works in t
- he exhibition span Singh’s career\, including Book Building (2022)\, Blu
- e Book (2009)\, File Room (2013)\, Museum of Chance (2014)\, and Sent a Le
- t\nCategory:  Open to the Public\nOriginal listing: https://events.brown.e
- du/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh
-LOCATION:Granoff Center for the Creative Arts\, Granoff Center for the Cre
- ative Arts
-STATUS:CANCELLED
-URL:https://events.brown.edu/bai/event/338354-exhibition-on-view-building-
- books-with-dayanita-singh
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:brown-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Pictorial Dragon: The Art of Fernando Birri Exhibit — Providen
- ce
-DTSTART;TZID="UTC-05:00":20261118T090000
-DTEND;TZID="UTC-05:00":20261118T170000
-DTSTAMP:20261119T204145Z
-UID:6e57f07208712b403f7e1f0bdbf8@global-arts-culture
-CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
-DESCRIPTION:The exhibit A Pictorial Dragon: The Art of Fernando Birri is o
- n view in the Harriette Hemmasi Exhibition Gallery at the John Hay Library
-  at Brown University\, and online through a digital exhibition. The exhibi
- t celebrates the centennial of Fernando Birri (1925–2017)\, the pioneeri
- ng Argentine filmmaker\, artist\, and theorist of the New Latin American C
- inema.\nCategory:  Open to the Public\nOriginal listing: https://events.br
- own.edu/library/event/341421-a-pictorial-dragon-the-art-of-fernando-birri
-LOCATION:John Hay Library\, John Hay Library
-STATUS:CANCELLED
-URL:https://events.brown.edu/library/event/341421-a-pictorial-dragon-the-a
- rt-of-fernando-birri
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:brown-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1776 Across the Americas: A Hemispheric History from the Collectio
- ns of the John Carter Brown Library — Providence
-DTSTART;TZID="UTC-05:00":20261118T100000
-DTEND;TZID="UTC-05:00":20261118T124500
-DTSTAMP:20261119T204145Z
-UID:7c1f3e24533bd065507766be82db@global-arts-culture
-CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
-DESCRIPTION:The John Carter Brown Library is pleased to announce a year-lo
- ng exhibition titled “1776 Across the Americas: A Hemispheric History fr
- om the Collections of the John Carter Brown Library.” The exhibition is 
- now on display in the Bromsen Room at the Library and is open to the publi
- c during regular Reading Room hours. The John Carter Brown Library’s Rea
- ding Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and f
- rom 2 p.m. to 4:45 p.m.\, and Friday from 10 a.m. to 12:45 p.m. Curated by
-  Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf 
- and JCB 2026 Postdoc Program Coordinator Kathleen Telling \, the exhibitio
- n is part of the initiative 2026 and Beyond at the JCB\nCategory:  Open to
-  the Public\nOriginal listing: https://events.brown.edu/john-carter-brown-
- library/event/326694-1776-across-the-americas-a-hemispheric-history
-LOCATION:94 George Street\, 94 George Street
-STATUS:CANCELLED
-URL:https://events.brown.edu/john-carter-brown-library/event/326694-1776-a
- cross-the-americas-a-hemispheric-history
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:brown-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creating a Digital Archive in Collection Builder — Providence
-DTSTART;TZID="UTC-05:00":20261118T120000
-DTEND;TZID="UTC-05:00":20261118T133000
-DTSTAMP:20261119T204145Z
-UID:d9ce8c7aea0e6401c1e7a03133d5@global-arts-culture
-CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
- United States
-DESCRIPTION:Interested in learning how to create lightweight\, sustainable
-  digital archives? Collection Builder is an open-source framework for buil
- ding metadata-driven\, customizable digital archives. Collection Builder r
- elies on static site technology and the principles of minimal computing\, 
- and helps you learn fundamental skills like working with Github\, Markdown
- \, and HTML. In this workshop\, we will walk you through the steps of crea
- ting your own digital archive using demo metadata and items\, or bring you
- r own! Want to learn git and Github fundamentals before getting started? C
- heck out our prior workshop (suggested but not required.) This is a hybrid
-  workshop that you can join in-person at the Rockefel\nCategory: Lectures
- \, Seminars and Workshops\nOriginal listing: https://events.brown.edu/libr
- ary/event/337137-creating-a-digital-archive-in-collection-builder
-LOCATION:Rockefeller Library\, Rockefeller Library
-STATUS:CANCELLED
-URL:https://events.brown.edu/library/event/337137-creating-a-digital-archi
- ve-in-collection-builder
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:brown-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Introduction to Health Sciences Systematic Reviews — Providence
-DTSTART;TZID="UTC-05:00":20261118T120000
-DTEND;TZID="UTC-05:00":20261118T130000
-DTSTAMP:20261119T204145Z
-UID:4c745f39e8a47b1d75a0da5731b8@global-arts-culture
-CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
- United States
-DESCRIPTION:Join the Brown University Library Evidence Synthesis Team for 
- a foundational overview of evidence synthesis methodology in the health sc
- iences.\nCategory: Lectures\, Seminars and Workshops\nOriginal listing: ht
- tps://events.brown.edu/library/event/338961-introduction-to-health-science
- s-systematic-reviews
-LOCATION:Warren Alpert Medical School\, Warren Alpert Medical School
-STATUS:CANCELLED
-URL:https://events.brown.edu/library/event/338961-introduction-to-health-s
- ciences-systematic-reviews
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:brown-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Gift in Motion — Washington\, DC
-DTSTART;TZID="UTC-05:00":20261118T130000
-DTEND;TZID="UTC-05:00":20261118T170000
-DTSTAMP:20261119T204145Z
-UID:8d1d4b062a1513b8febe30265494@global-arts-culture
-CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
-DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
- the full-time faculty and staff at the Corcoran School of the Arts & Desig
- n. A Gift In Motion loosely draws from Robin Wall Kimmerer’s book The Se
- rviceberry which uplifts Indigenous frameworks of the natural world to adv
- ance the possibilities in collectivity\, reciprocity\, and the mindset of 
- abundance. These are anti-capitalist models and theories that provide insi
- ght into the systems of power we negotiate\, but also offer a lens on how 
- we individually move through our daily lives—together—through historic
- ally fraught landscapes. A keen reminder that working with\, for\, and bec
- ause of each other remains the most human motivation\, eve\nCategory: Arts
-  & Culture\nOriginal listing: https://calendar.gwu.edu/event/a-gift-in-mot
- ion
-LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/a-gift-in-motion
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Camp One Heartland — Washington\, DC
-DTSTART;TZID="UTC-05:00":20261118T130000
-DTEND;TZID="UTC-05:00":20261118T170000
-DTSTAMP:20261119T204145Z
-UID:21a5ced4466a474d00fba3282a7e@global-arts-culture
-CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
-DESCRIPTION:Camp One Heartland is a solo exhibition by Tye DuSold-O’Conn
- or archiving documentation of one of the world’s first nonprofit summer 
- camps designated to supporting and empowering youth affected by HIV and AI
- DS\, eventually transforming into a vital beacon of safety\, liberation an
- d eutopia for LGBTQ+ youth across the country. After its inaugural session
-  in the summer of 1993 and many more held at different campsites across th
- e country\, Camp One Heartland found its permanent residence in Willow Riv
- er\, Minnesota. Over the next three decades it broadened its reach to prov
- ide summer camp sessions for youth experiencing housing instability\, LGBT
- Q+ youth\, and specifically trans youth. Tye attended Ca\nCategory: Arts &
-  Culture\nOriginal listing: https://calendar.gwu.edu/event/camp-one-heartl
- and
-LOCATION:Smith Hall of Art (Academic Center)\, 801 22nd Street NW\, Washin
- gton DC 20052
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/camp-one-heartland
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
-DTSTART;TZID="UTC-05:00":20261118T130000
-DTEND;TZID="UTC-05:00":20261118T170000
-DTSTAMP:20261119T204145Z
-UID:9c6e92ae48f9f407faa752ee8e47@global-arts-culture
-CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
-DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
- s Mirror Shield Project . In 2016\, when the Dakota Access Pipeline threat
- ened the waters of his ancestral homelands\, Luger circulated a video demo
- nstrating how to make “mirror shields” from inexpensive materials. Con
- ceived during the Indigenous-led resistance at Standing Rock\, North Dakot
- a\, the tutorial functioned as a call to collective action\, an invitation
-  for people across the country to stand in solidarity with the Water Prote
- ctors. Carried by Water Protectors in frontline actions and collective for
- mations\, the mirrored surfaces offered protection while redirecting the f
- ield of vision. More than a thousand mirror shields were c\nCategory: Arts
-  & Culture\nOriginal listing: https://calendar.gwu.edu/event/cannupa-hansk
- a-lugers-reflect
-LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
- on\, DC
-DTSTART;TZID="UTC-05:00":20261118T130000
-DTEND;TZID="UTC-05:00":20261118T170000
-DTSTAMP:20261119T204145Z
-UID:f1004168600b3872fedc9dca88a6@global-arts-culture
-CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
-DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
- econstruction\, an era marked by “cracks and reforms” that ushered in 
- a profound reconfiguration of the visual world.  During this period marke
- d by civil transformation and political upheaval\, artists\, journalists\,
-  and makers had opportunities to reconstruct both individual and collectiv
- e identities. A century later\, Cracks & Reforms presents a distinct cross
- -section of this period\, revealing global currents of migration\, moderni
- zation\, and cultural redefinition through the lens of the GW Collection. 
- Students led by Associate Professor Bibiana Obler selected works to study 
- and exhibit\, their research eventually leading to unified t\nCategory: Ar
- ts & Culture\nOriginal listing: https://calendar.gwu.edu/event/cracks-refo
- rms-the-1920s-through-the-gw-collection
-LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/cracks-reforms-the-1920s-through-the-gw
- -collection
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
-DTSTART;TZID="UTC-05:00":20261118T130000
-DTEND;TZID="UTC-05:00":20261118T170000
-DTSTAMP:20261119T204145Z
-UID:4f89dba196285b9afdbcb2122a96@global-arts-culture
-CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
-DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
- IGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma
- ’s controversial 1984 Amharic novel Oromay \, written under the Derg reg
- ime and banned shortly after its publication. Drawing on Gottesman’s dee
- p engagement with the novel\, NIGHT AND DAY considers how artists create\,
-  communicate\, and sustain cultural memory within and against conditions o
- f censorship\, political repression\, and state violence. The exhibition e
- xtends beyond the gallery through a library of banned books\, a self-guide
- d workshop station that invites visitors to respond to censorship through 
- writing and drawing\, and a public conversation on how artist\nCategory: A
- rts & Culture\nOriginal listing: https://calendar.gwu.edu/event/eric-gotte
- smans-night-and-day
-LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/eric-gottesmans-night-and-day
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unfossilizing African Art — Washington\, DC
-DTSTART;TZID="UTC-05:00":20261118T130000
-DTEND;TZID="UTC-05:00":20261118T170000
-DTSTAMP:20261119T204145Z
-UID:363d7865bacb08167cded5311531@global-arts-culture
-CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
-DESCRIPTION:Presented after extensive research\, this exhibition recontext
- ualizes African material culture objects held in the GW Collection for nea
- rly 50 years. Led by Assistant Professor Clement Akpang\, 59 students from
-  four seminar courses offered between Fall 2024 and Spring 2026\, conducte
- d original research to deepen understanding of the university’s holdings
-  and update how we interpret and exhibit these objects. The exhibition fea
- tures 37 tangible heritage objects\, ranging from an Egúngún Paaka from 
- Yorubaland to a Kii [brass pipe]\, attributed to the Baumum people of Came
- roon\, accompanied by images and video that illuminate their rich historie
- s. Research on the entire collection is presented in an \nCategory: Arts &
-  Culture\nOriginal listing: https://calendar.gwu.edu/event/unfossilizing-a
- frican-art
-LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/unfossilizing-african-art
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1776 Across the Americas: A Hemispheric History from the Collectio
- ns of the John Carter Brown Library — Providence
-DTSTART;TZID="UTC-05:00":20261118T140000
-DTEND;TZID="UTC-05:00":20261118T164500
-DTSTAMP:20261119T204145Z
-UID:a76e213e1ba4313b5b5ce756199c@global-arts-culture
-CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
-DESCRIPTION:The John Carter Brown Library is pleased to announce a year-lo
- ng exhibition titled “1776 Across the Americas: A Hemispheric History fr
- om the Collections of the John Carter Brown Library.” The exhibition is 
- now on display in the Bromsen Room at the Library and is open to the publi
- c during regular Reading Room hours. The John Carter Brown Library’s Rea
- ding Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and f
- rom 2 p.m. to 4:45 p.m.\, and Friday from 10 a.m. to 12:45 p.m. Curated by
-  Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf 
- and JCB 2026 Postdoc Program Coordinator Kathleen Telling \, the exhibitio
- n is part of the initiative 2026 and Beyond at the JCB\nCategory:  Open to
-  the Public\nOriginal listing: https://events.brown.edu/john-carter-brown-
- library/event/326810-1776-across-the-americas-a-hemispheric-history
-LOCATION:94 George Street\, 94 George Street
-STATUS:CANCELLED
-URL:https://events.brown.edu/john-carter-brown-library/event/326810-1776-a
- cross-the-americas-a-hemispheric-history
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:brown-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Macroeconomic Seminar: Annie Lee (Johns Hopkins) — Washington\, 
- DC
-DTSTART;TZID="UTC-05:00":20261118T143000
-DTEND;TZID="UTC-05:00":20261118T160000
-DTSTAMP:20261119T204145Z
-UID:2e9a2e287363ec5c7c51e026b596@global-arts-culture
-CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
-DESCRIPTION:Please join the Economics Department for a macroeconomic semin
- ar with Annie Lee\, assistant professor of international economics at the 
- Johns Hopkins University School of Advanced International Studies.\nCatego
- ry: Academic\nOriginal listing: https://calendar.gwu.edu/event/macroeconom
- ic-seminar-with-annie-lee-jhu
-LOCATION:Hall of Government\, 2115 G Street NW\, Washington DC 20052
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/macroeconomic-seminar-with-annie-lee-jh
- u
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:YEP! Sales Night — Providence
-DTSTART;TZID="UTC-05:00":20261118T170000
-DTEND;TZID="UTC-05:00":20261118T190000
-DTSTAMP:20261119T204145Z
-UID:06fe8d1a99ff8ac5685f4f7905df@global-arts-culture
-CATEGORIES:Arts & Culture\,Free Food\,Providence\,United States
-DESCRIPTION:Join us for a fun evening at YEP! Sales Night! Come support lo
- cal high school entrepreneurs\, hear their pitches\, and enjoy free food! 
- No registration required. To learn more about YEP! visit their website or 
- follow them on Instagram.\nCategory: Free Food\nOriginal listing: https://
- events.brown.edu/nelson-entrepreneurship/event/343179-yep-sales-night
-LOCATION:1 Euclid Ave\, Providence RI 02906\, 1 Euclid Ave\, Providence RI
-  02906
-STATUS:CANCELLED
-URL:https://events.brown.edu/nelson-entrepreneurship/event/343179-yep-sale
- s-night
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:brown-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Role of Solidarity in the End of the Cold War in Europe: A Rou
- ndtable Discussion with Lech Wałęsa and GW Cold War Historians — Washi
- ngton\, DC
-DTSTART;TZID="UTC-05:00":20261118T173000
-DTEND;TZID="UTC-05:00":20261118T190000
-DTSTAMP:20261119T204145Z
-UID:5608b6c829486b2832fe138528f6@global-arts-culture
-CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
- ates
-DESCRIPTION:The GW community is invited to join us for a discussion with N
- obel Peace Laureate and former President of Poland Lech Wałęsa\, along w
- ith GW Cold War historians Hope M. Harrison and James G. Hershberg\, as th
- ey discuss the role of Solidarity in the end of the Cold War in Europe. Th
- e discussion will be moderated by Harris Mylonas\, Director of the Institu
- te for European\, Russian\, and Eurasian Studies .\nCategory: Lectures & S
- peakers\nOriginal listing: https://calendar.gwu.edu/event/the-role-of-soli
- darity-in-the-end-of-the-cold-war-in-europe-a-roundtable-discussion-with-l
- ech-walesa-and-gw-cold-war-historians-6159
-LOCATION:1957 E Street NW\, 1957 E St NW\, Washington DC 20052
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/the-role-of-solidarity-in-the-end-of-th
- e-cold-war-in-europe-a-roundtable-discussion-with-lech-walesa-and-gw-cold-
- war-historians-6159
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Addressing Efforts to Update the 28-Hour Law | Adjunct Teachers in
-  Animal Law — Washington\, DC
-DTSTART;TZID="UTC-05:00":20261118T180000
-DTEND;TZID="UTC-05:00":20261118T190000
-DTSTAMP:20261119T204145Z
-UID:65a0fcdf4b0f10afca16d085e77e@global-arts-culture
-CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
- ates
-DESCRIPTION:Teaching animal law can be challenging. It has become more cha
- llenging recently due to the pace of statutory\, regulatory\, administrati
- ve\, and procedural change. Join us for a substantive session designed to 
- explore the proposed amendments to the 28-Hour Law in Congresswoman Titus
- ’ bill\, and the June GAO report assessing the current law. Our panelist
- s\, Peter Brandt and Zack Strong\, along with moderator Francesca Celino\,
-  comprise the next installation of our Adjunct Teachers in Animal Law seri
- es. Register for the Webinar Here\nCategory: Lectures & Speakers\nOriginal
-  listing: https://calendar.gwu.edu/event/addressing-efforts-to-update-the-
- 28-hour-law-adjunct-teachers-in-animal-law
-LOCATION:George Washington University\, Washington\, DC
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/addressing-efforts-to-update-the-28-hou
- r-law-adjunct-teachers-in-animal-law
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How States Comply with ISDS Awards: Presentation of 2026 Complianc
- e Report — Washington\, DC
-DTSTART;TZID="UTC-05:00":20261118T180000
-DTEND;TZID="UTC-05:00":20261118T193000
-DTSTAMP:20261119T204145Z
-UID:58318ebdc2477a649460b1f010e0@global-arts-culture
-CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
- ates
-DESCRIPTION:Dive into the latest data on how States are complying with ISD
- S awards presented by the new 2026 Compliance Report by Prof. Nikos Lavran
- os. This in-person event is for professionals interested in how states com
- ply with ISDS awards and in networking. Register for the Event Here\nCateg
- ory: Lectures & Speakers\nOriginal listing: https://calendar.gwu.edu/event
- /how-states-comply-with-isds-awards-presentation-of-2026-compliance-report
-LOCATION:Law School\, 2000 H St NW\, Washington DC 20052
-STATUS:CANCELLED
-URL:https://calendar.gwu.edu/event/how-states-comply-with-isds-awards-pres
- entation-of-2026-compliance-report
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:gwu-arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amy Ching-Yan Lam + Jacqueline Waters — New York
-DTSTART;TZID="UTC-05:00":20261118T200000
-DTSTAMP:20261119T204145Z
-UID:5607d5a72c7f6772a173070923cd@global-arts-culture
-CATEGORIES:Arts & Culture\,Reading\,New York\,United States
-DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
- .org/events/amy-ching-yan-lam-jacqueline-waters
-LOCATION:St. Mark’s Church\, 131 E 10th St\, New York\, NY 10003
-STATUS:CANCELLED
-URL:https://www.poetryproject.org/events/amy-ching-yan-lam-jacqueline-wate
- rs
-X-GLOBAL-CULTURE-REGION:us
-X-GLOBAL-CULTURE-SOURCE:poetry-project
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibition on View | Building Books with Dayanita Singh — Provid
- ence
 DTSTART;TZID="UTC-05:00":20261119T000000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:32d18f7c4bb77fbcc2490f000374@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:In her practice\, Dayanita Singh experiments with form through
@@ -470,7 +37,7 @@ SUMMARY:A Pictorial Dragon: The Art of Fernando Birri Exhibit — Providen
  ce
 DTSTART;TZID="UTC-05:00":20261119T090000
 DTEND;TZID="UTC-05:00":20261119T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:14ae07416c3bc96458bb3c7167b3@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:The exhibit A Pictorial Dragon: The Art of Fernando Birri is o
@@ -491,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:The Importance of Climate Leadership and the Power of Public Actio
  n — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T090000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:6d39a68453c4bdae882e61e7d7b4@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -519,7 +86,7 @@ SUMMARY:1776 Across the Americas: A Hemispheric History from the Collectio
  ns of the John Carter Brown Library — Providence
 DTSTART;TZID="UTC-05:00":20261119T100000
 DTEND;TZID="UTC-05:00":20261119T124500
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:9b8f97ae849abbb6a5b45ca8b212@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:The John Carter Brown Library is pleased to announce a year-lo
@@ -546,7 +113,7 @@ SUMMARY:Digital Humanities Salon: Spotlight on Design and Development Part
  ners Studio Rainwater and Jake & Co. — Providence
 DTSTART;TZID="UTC-05:00":20261119T120000
 DTEND;TZID="UTC-05:00":20261119T130000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:34f18d33aa1e7e46e8a6719aa229@global-arts-culture
 CATEGORIES:Arts & Culture\,Free Food\,Providence\,United States
 DESCRIPTION:Please join the Library’s Center for Digital Scholarship thi
@@ -572,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Public Interest Faculty Panel Series — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T120000
 DTEND;TZID="UTC-05:00":20261119T130000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:a0cfa6768bd80c1fe595d2369da6@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -596,7 +163,7 @@ SUMMARY:Forest Germans between Geography\, History and Memory: Mapping a F
  orgotten Settlement Region in Southern Poland — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T121500
 DTEND;TZID="UTC-05:00":20261119T133000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:25a3c91bbb221be57016ba747ede@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:One of the most intriguing paradoxes in Central European histo
@@ -623,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T130000
 DTEND;TZID="UTC-05:00":20261119T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:dac53bd9de27d43e160beaee6a6b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -648,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Camp One Heartland — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T130000
 DTEND;TZID="UTC-05:00":20261119T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:961cc32ea7079c984fd25a29c6a6@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Camp One Heartland is a solo exhibition by Tye DuSold-O’Conn
@@ -674,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T130000
 DTEND;TZID="UTC-05:00":20261119T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:fb939ce5d136ca7105eaf2dcfbb3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -700,7 +267,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261119T130000
 DTEND;TZID="UTC-05:00":20261119T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:fbbb40a88a8f81aaad2782c08f03@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -726,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T130000
 DTEND;TZID="UTC-05:00":20261119T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:f4e8e138682898863ef69b43f76c@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -751,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T130000
 DTEND;TZID="UTC-05:00":20261119T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:c070793233bb621322353065d204@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -777,7 +344,7 @@ SUMMARY:1776 Across the Americas: A Hemispheric History from the Collectio
  ns of the John Carter Brown Library — Providence
 DTSTART;TZID="UTC-05:00":20261119T140000
 DTEND;TZID="UTC-05:00":20261119T164500
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:b24a93304b4b624b62d4a8230592@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:The John Carter Brown Library is pleased to announce a year-lo
@@ -802,7 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Student Colloquium — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:8321edbd35f4ec4c9d708d3ccf39@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Students from Prof. Obler and Prof. Akpang's Seminar courses s
@@ -826,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:Copyright and Images — Providence
 DTSTART;TZID="UTC-05:00":20261119T150000
 DTEND;TZID="UTC-05:00":20261119T160000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:666e2a407ef0102347b44342dd92@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
  United States
@@ -845,7 +412,7 @@ SUMMARY:Living Archives: An Oral History Workshop Series (Session 3\, virt
  ual) — Providence
 DTSTART;TZID="UTC-05:00":20261119T163000
 DTEND;TZID="UTC-05:00":20261119T173000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:b5917b518f868d8644eed25ed2f9@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
  United States
@@ -870,7 +437,7 @@ SUMMARY:One Moses\, Two Scriptures: The Torah and the Qur'an in Conversati
  on — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261119T170000
 DTEND;TZID="UTC-05:00":20261119T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:b681180b7f302dba547ba35fd870@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:The Torah and the Qur'an tell stories about many of the same f
@@ -898,7 +465,7 @@ SUMMARY:Art at Watson Presents — Gallery Night: Human Mythology — Prov
  idence
 DTSTART;TZID="UTC-05:00":20261119T180000
 DTEND;TZID="UTC-05:00":20261119T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:2e1b7690b1b9a1c8e99435a7555d@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:This exhibit will be open along with Gallery Night Sara Homma 
@@ -924,7 +491,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brown Jazz Band Concert — Providence
 DTSTART;TZID="UTC-05:00":20261119T200000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:ab1379b848dffcc323db0b29b18c@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:The Brown Jazz Band\, led by Timo Vollbrecht\, performs a conc
@@ -946,7 +513,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Dance Concert 2026 — Providence
 DTSTART;TZID="UTC-05:00":20261119T200000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:894386b291470a1cb6603682057b@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:Brown University’s Department of Theatre Arts & Performance 
@@ -971,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:Exhibition on View | Building Books with Dayanita Singh — Provid
  ence
 DTSTART;TZID="UTC-05:00":20261120T000000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:55e331917b817590475cab843323@global-arts-culture
 CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
 DESCRIPTION:In her practice\, Dayanita Singh experiments with form through
@@ -995,11 +562,60 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:brown-arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Pictorial Dragon: The Art of Fernando Birri Exhibit — Providen
+ ce
+DTSTART;TZID="UTC-05:00":20261120T090000
+DTEND;TZID="UTC-05:00":20261120T170000
+DTSTAMP:20261120T072223Z
+UID:050a9de2bbb1c10dbc773a19c1f3@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:The exhibit A Pictorial Dragon: The Art of Fernando Birri is o
+ n view in the Harriette Hemmasi Exhibition Gallery at the John Hay Library
+  at Brown University\, and online through a digital exhibition. The exhibi
+ t celebrates the centennial of Fernando Birri (1925–2017)\, the pioneeri
+ ng Argentine filmmaker\, artist\, and theorist of the New Latin American C
+ inema.\nCategory:  Open to the Public\nOriginal listing: https://events.br
+ own.edu/library/event/341423-a-pictorial-dragon-the-art-of-fernando-birri
+LOCATION:John Hay Library\, John Hay Library
+STATUS:CONFIRMED
+URL:https://events.brown.edu/library/event/341423-a-pictorial-dragon-the-a
+ rt-of-fernando-birri
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1776 Across the Americas: A Hemispheric History from the Collectio
+ ns of the John Carter Brown Library — Providence
+DTSTART;TZID="UTC-05:00":20261120T100000
+DTEND;TZID="UTC-05:00":20261120T124500
+DTSTAMP:20261120T072223Z
+UID:1fe316b2c4d9244beb2c429d679d@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:The John Carter Brown Library is pleased to announce a year-lo
+ ng exhibition titled “1776 Across the Americas: A Hemispheric History fr
+ om the Collections of the John Carter Brown Library.” The exhibition is 
+ now on display in the Bromsen Room at the Library and is open to the publi
+ c during regular Reading Room hours. The John Carter Brown Library’s Rea
+ ding Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and f
+ rom 2 p.m. to 4:45 p.m.\, and Friday from 10 a.m. to 12:45 p.m. Curated by
+  Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf 
+ and JCB 2026 Postdoc Program Coordinator Kathleen Telling \, the exhibitio
+ n is part of the initiative 2026 and Beyond at the JCB\nCategory:  Open to
+  the Public\nOriginal listing: https://events.brown.edu/john-carter-brown-
+ library/event/326696-1776-across-the-americas-a-hemispheric-history
+LOCATION:94 George Street\, 94 George Street
+STATUS:CONFIRMED
+URL:https://events.brown.edu/john-carter-brown-library/event/326696-1776-a
+ cross-the-americas-a-hemispheric-history
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chloe Waldt\, Graduate Student\, Sadtchenko Lab\, GW Department of
   Chemistry — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T100000
 DTEND;TZID="UTC-05:00":20261120T103000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:d65c5e6ab9f0975b38993ce8c84a@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1018,11 +634,32 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:gwu-arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Slice of Solidarity: Picnic for Human Rights — Providence
+DTSTART;TZID="UTC-05:00":20261120T120000
+DTSTAMP:20261120T072223Z
+UID:d83f655d837c6ef1f7207292b99c@global-arts-culture
+CATEGORIES:Arts & Culture\,Free Food\,Providence\,United States
+DESCRIPTION:Join Amnesty International at Brown and collaborators for Slic
+ e of Solidarity: Picnic for Human Rights on the Main Green this Friday\, N
+ ov. 20\, from 12:00 to 1:00 p.m. Stop by during your lunch break to connec
+ t with student advocates\, learn about pressing global human rights issues
+ \, and enjoy complimentary fall desserts and drinks. All members of the Br
+ own community are welcome!\nCategory: Free Food\nOriginal listing: https:/
+ /events.brown.edu/general/event/344039-slice-of-solidarity-picnic-for-huma
+ n-rights
+LOCATION:Main Green\, Main Green
+STATUS:CONFIRMED
+URL:https://events.brown.edu/general/event/344039-slice-of-solidarity-picn
+ ic-for-human-rights
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Introduction to Lean Innovation - November 2026 — Washington\, D
  C
 DTSTART;TZID="UTC-05:00":20261120T120000
 DTEND;TZID="UTC-05:00":20261120T131500
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:07909508acb7e204bb02f5db1f29@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1046,7 +683,7 @@ SUMMARY:New Players\, Old Plays? Continuity and Change in Development Dipl
  omacy — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T120000
 DTEND;TZID="UTC-05:00":20261120T130000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:c86f8a587f8e25561db509b0c460@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1076,7 +713,7 @@ SUMMARY:Reversing the Negative Cardiovascular Effects of Weight: Knowledge
  n\, DC
 DTSTART;TZID="UTC-05:00":20261120T120000
 DTEND;TZID="UTC-05:00":20261120T130000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:7a4e3ab46c701c55a16f6e0d633e@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Please join us for the next installment of the Department of E
@@ -1095,10 +732,36 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:gwu-arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rachel Barton Pine // Masterclass — Providence
+DTSTART;TZID="UTC-05:00":20261120T123000
+DTSTAMP:20261120T072223Z
+UID:9bfd3b05009d37d43f8e33beccb5@global-arts-culture
+CATEGORIES:Arts & Culture\,Lectures\, Seminars and Workshops\,Providence\,
+ United States
+DESCRIPTION:World-renowned violinist Rachel Barton Pine leads a masterclas
+ s for Brown University student musicians. Admission is open to the public 
+ for observation. Rachel Barton Pine’s residency is sponsored by the Step
+ hen C. Kaye ’59 Fund for Visiting Musicians. Program J.S. Bach: Adagio a
+ nd Fugue from Violin Sonata No. 3 in C Major Jim Kaplan\, violin Samuel Ba
+ rber: Violin Concerto\, mvt. 2 Abraham Tsai\, violin Naomi Meng\, piano Pi
+ otr Ilyich Tchaikovsky: Violin Concerto\, mvt. 1 Mitsuki Jiang\, violin Da
+ niel Hu\, piano About Rachel Barton Pine The acclaimed American concert vi
+ olinist Rachel Barton Pine thrills international audiences with her dazzli
+ ng technique\, lustrous tone\, and emotional honesty. With \nCategory: Lec
+ tures\, Seminars and Workshops\nOriginal listing: https://events.brown.edu
+ /music/event/342185-rachel-barton-pine-masterclass
+LOCATION:Grant Recital Hall\, Grant Recital Hall
+STATUS:CONFIRMED
+URL:https://events.brown.edu/music/event/342185-rachel-barton-pine-masterc
+ lass
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T130000
 DTEND;TZID="UTC-05:00":20261120T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:27928f8a320c1161035b7d1eb59f@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -1124,7 +787,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T130000
 DTEND;TZID="UTC-05:00":20261120T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:2ea7ac4f89cfde36799a15af58f7@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -1150,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T130000
 DTEND;TZID="UTC-05:00":20261120T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:6ad462adcfe24c8bc631b3fccced@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -1176,7 +839,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261120T130000
 DTEND;TZID="UTC-05:00":20261120T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:80383daf026650e62978de8d1fe0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -1202,7 +865,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T130000
 DTEND;TZID="UTC-05:00":20261120T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:860d5a294a04d168cae70efba2c9@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -1227,7 +890,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T130000
 DTEND;TZID="UTC-05:00":20261120T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:f4f06e808ae269f4aa4a7b2f543d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -1253,7 +916,7 @@ SUMMARY:Astrobiology and the Law: What Policies are Needed to Protect Extr
  aterrestrial Life? — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T140000
 DTEND;TZID="UTC-05:00":20261120T153000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:bc89ee8dd02d5f39100b29b6b549@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1279,7 +942,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:This Was a Woman — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261120T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:9e25d7522542b286f70c840258ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Great Expectations: British Postwar Cinema\, ... — Directed 
@@ -1294,7 +957,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crackhead Barney + Ann Liv Young — New York
 DTSTART;TZID="UTC-05:00":20261120T200000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:ca3c40327c0236cb41a5128f9935@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -1306,10 +969,55 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:poetry-project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fall Dance Concert 2026 — Providence
+DTSTART;TZID="UTC-05:00":20261120T200000
+DTSTAMP:20261120T072223Z
+UID:ff84996e602089b6c45ac13daf40@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:Brown University’s Department of Theatre Arts & Performance 
+ Studies present Fall Dance Concert Produced by Shura Baryshnikov Fall Danc
+ e 2026 features works entirely by student makers. Created within the cours
+ e Contemporary Dance Studio Project 1\, Sophia Dean ’27\, Claire Lopez 
+ ’26.5\, and Rozita Papaellina ’28 share new ensemble choreographies. S
+ enior Slot dance recipient Moana Marx ’27 presents a work in progress\, 
+ a duet with dancers Nelah Kay and Rozita ’28 Papaellina\, as part of her
+  progression towards a fully produced project for Spring Dance 2027. Novem
+ ber 19 - 22 Thursday\, November 19: 8PM Friday\, November 20: 8PM Saturday
+ \, November 21: 8PM Sunday\, November 22: 2PM Ashamu Dance Studio 83\nCate
+ gory:  Open to the Public\nOriginal listing: https://events.brown.edu/taps
+ /event/336509-fall-dance-concert-2026
+LOCATION:Ashamu Dance Studio\, Ashamu Dance Studio
+STATUS:CONFIRMED
+URL:https://events.brown.edu/taps/event/336509-fall-dance-concert-2026
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wind Symphony & Percussion Ensemble — Providence
+DTSTART;TZID="UTC-05:00":20261120T200000
+DTSTAMP:20261120T072223Z
+UID:9e6ffdbfcc0ac3d20f098cafddf0@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:Kevin Plouffe directs the Brown University Wind Symphony in a 
+ concert at Grant Recital Hall on Friday\, November 20 at 8pm. Admission is
+  free. Program Percussion Ensemble Pen An Tonic With Seven by Chris Crocka
+ rell Wind Symphony Nobles of the Mystic Shrine by John Philip Sousa Rhosym
+ edre\, Prelude on a Welsh Hymn Tune by Ralph Vaughan Williams\, arr. Walte
+ r Beeler Rising Dragons by Robert W. Smith Danzon No.2 by Arturo Marquez\n
+ Category:  Open to the Public\nOriginal listing: https://events.brown.edu/
+ music/event/342192-wind-symphony-percussion-ensemble
+LOCATION:Grant Recital Hall\, Grant Recital Hall
+STATUS:CONFIRMED
+URL:https://events.brown.edu/music/event/342192-wind-symphony-percussion-e
+ nsemble
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Friday Argentine Tango class — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261120T200000
 DTEND;TZID="UTC-05:00":20261120T213000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:c47c48af7dcdacc8f23aced8af71@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Hi\,  Join us weekly for all levels argentine the tango lesso
@@ -1328,9 +1036,55 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:gwu-arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exhibition on View | Building Books with Dayanita Singh — Provid
+ ence
+DTSTART;TZID="UTC-05:00":20261121T000000
+DTSTAMP:20261120T072223Z
+UID:cb63bcb2de2736722025df14120f@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:In her practice\, Dayanita Singh experiments with form through
+  photography\, architecture\, and books to create exhibitions. Using these
+  mediums\, Singh extends an invitation to audiences to question how books
+ \, and book-making\, might transform a space into an exhibition. This show
+  takes cues from Singh’s artist-led approach to exhibitions to explore t
+ he relationship between “making” and “reading.” With Singh’s Boo
+ k Building (2022) as a blueprint\, this exhibition analyzes book-making as
+  an artistic practice\, material form\, and conceptual process. Works in t
+ he exhibition span Singh’s career\, including Book Building (2022)\, Blu
+ e Book (2009)\, File Room (2013)\, Museum of Chance (2014)\, and Sent a Le
+ t\nCategory:  Open to the Public\nOriginal listing: https://events.brown.e
+ du/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh
+LOCATION:Granoff Center for the Creative Arts\, Granoff Center for the Cre
+ ative Arts
+STATUS:CONFIRMED
+URL:https://events.brown.edu/bai/event/338354-exhibition-on-view-building-
+ books-with-dayanita-singh
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrew Boyacigiller // Senior Capstone Recital — Providence
+DTSTART;TZID="UTC-05:00":20261121T103000
+DTEND;TZID="UTC-05:00":20261121T113000
+DTSTAMP:20261120T072223Z
+UID:2f7852f93c82b280a48b95585256@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:Tenor Andrew Boyacigiller sings music by Samuel Coleridge-Tayl
+ or\, Benjamin Britten\, Reynaldo Hahn\, Robert Schumann\, as well as an or
+ iginal composition. Boyacigiller will be accompanied by pianist Luca Iallo
+ nardi. Admission is free and open to the public.\nCategory:  Open to the P
+ ublic\nOriginal listing: https://events.brown.edu/music/event/342187-andre
+ w-boyacigiller
+LOCATION:Grant Recital Hall\, Grant Recital Hall
+STATUS:CONFIRMED
+URL:https://events.brown.edu/music/event/342187-andrew-boyacigiller
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ashes and Diamonds — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261121T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:3b342aee3f0152b3c58ad2150847@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1343,10 +1097,60 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brown University Orchestra with Rachel Barton Pine — Providence
+DTSTART;TZID="UTC-05:00":20261121T190000
+DTSTAMP:20261120T072223Z
+UID:9b7bf9fcfdba7c2048f802c44c61@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:Mark Seto directs the Brown University Orchestra in a concert 
+ at The Lindemann Performing Arts Center at 7pm on Saturday\, November 21. 
+ The program includes music by Florence Price\, Pablo de Sarasate\, and Pio
+ tr Ilyich Tchaikovsky\, and a collaboration with student performers from C
+ ommunity MusicWorks Phase II Orchestra. “Phase II” is CMW’s youth le
+ adership program\, where teens build musicianship\, leadership skills\, an
+ d community through chamber music\, shared meals\, and discussions. Partic
+ ipants mentor younger musicians\, represent CMW in the wider community\, a
+ nd organize an annual Youth Salon exploring issues they care about. World-
+ renowned violinist Rachel Barton Pine is the featured soloist f\nCategory:
+   Open to the Public\nOriginal listing: https://events.brown.edu/music/eve
+ nt/337142-brown-university-orchestra-with-rachel-barton-pine
+LOCATION:The Lindemann Performing Arts Center\, The Lindemann Performing A
+ rts Center
+STATUS:CONFIRMED
+URL:https://events.brown.edu/music/event/337142-brown-university-orchestra
+ -with-rachel-barton-pine
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Dance Concert 2026 — Providence
+DTSTART;TZID="UTC-05:00":20261121T200000
+DTSTAMP:20261120T072223Z
+UID:555416f9b71effea3f10a78dc832@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:Brown University’s Department of Theatre Arts & Performance 
+ Studies present Fall Dance Concert Produced by Shura Baryshnikov Fall Danc
+ e 2026 features works entirely by student makers. Created within the cours
+ e Contemporary Dance Studio Project 1\, Sophia Dean ’27\, Claire Lopez 
+ ’26.5\, and Rozita Papaellina ’28 share new ensemble choreographies. S
+ enior Slot dance recipient Moana Marx ’27 presents a work in progress\, 
+ a duet with dancers Nelah Kay and Rozita ’28 Papaellina\, as part of her
+  progression towards a fully produced project for Spring Dance 2027. Novem
+ ber 19 - 22 Thursday\, November 19: 8PM Friday\, November 20: 8PM Saturday
+ \, November 21: 8PM Sunday\, November 22: 2PM Ashamu Dance Studio 83\nCate
+ gory:  Open to the Public\nOriginal listing: https://events.brown.edu/taps
+ /event/336508-fall-dance-concert-2026
+LOCATION:Ashamu Dance Studio\, Ashamu Dance Studio
+STATUS:CONFIRMED
+URL:https://events.brown.edu/taps/event/336508-fall-dance-concert-2026
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:National Symphony Orchestra: The Nutcracker & Cinderella — Washi
  ngton\, DC
 DTSTART;TZID="UTC-05:00":20261121T200000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:378f632e2a53be3fb31fe6eaff51@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Be moved by two treasured fairy tales through the music of Tch
@@ -1370,7 +1174,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Generation — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261121T211500
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:8ab79b648b80ae3a187293ec68d8@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1383,9 +1187,36 @@ X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:harvard-film-archive
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exhibition on View | Building Books with Dayanita Singh — Provid
+ ence
+DTSTART;TZID="UTC-05:00":20261122T000000
+DTSTAMP:20261120T072223Z
+UID:cef1afff1a17aaf9a9e0e1523224@global-arts-culture
+CATEGORIES:Arts & Culture\, Open to the Public\,Providence\,United States
+DESCRIPTION:In her practice\, Dayanita Singh experiments with form through
+  photography\, architecture\, and books to create exhibitions. Using these
+  mediums\, Singh extends an invitation to audiences to question how books
+ \, and book-making\, might transform a space into an exhibition. This show
+  takes cues from Singh’s artist-led approach to exhibitions to explore t
+ he relationship between “making” and “reading.” With Singh’s Boo
+ k Building (2022) as a blueprint\, this exhibition analyzes book-making as
+  an artistic practice\, material form\, and conceptual process. Works in t
+ he exhibition span Singh’s career\, including Book Building (2022)\, Blu
+ e Book (2009)\, File Room (2013)\, Museum of Chance (2014)\, and Sent a Le
+ t\nCategory:  Open to the Public\nOriginal listing: https://events.brown.e
+ du/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh
+LOCATION:Granoff Center for the Creative Arts\, Granoff Center for the Cre
+ ative Arts
+STATUS:CONFIRMED
+URL:https://events.brown.edu/bai/event/338354-exhibition-on-view-building-
+ books-with-dayanita-singh
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:brown-arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Innocent Sorcerers — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261122T150000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:fb88e5230704bf940435e224ed3b@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1401,7 +1232,7 @@ BEGIN:VEVENT
 SUMMARY:National Symphony Orchestra: The Nutcracker & Cinderella — Washi
  ngton\, DC
 DTSTART;TZID="UTC-05:00":20261122T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:df66f96954776d54f9ff3d9605b4@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Be moved by two treasured fairy tales through the music of Tch
@@ -1426,7 +1257,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kanał — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261123T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:beae554dafebe42cf75f362ae598@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1441,7 +1272,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Promised Land — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261127T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:71bc44f63142e4e7848bde541fa7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1456,7 +1287,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man of Marble — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261128T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:b282d79820315b85578d9e3a4817@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1471,7 +1302,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wałęsa: Man of Hope — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261129T150000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:f761cac4a4519e9e239ff75c3cfb@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1486,7 +1317,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Man of Iron — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261130T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:27050edc99652385f739d092e141@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -1503,7 +1334,7 @@ SUMMARY:What Do We Mean By... PrEP (Pre-Exposure Prophylaxis)? — Washing
  ton\, DC
 DTSTART;TZID="UTC-05:00":20261201T120000
 DTEND;TZID="UTC-05:00":20261201T130000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:d0b9a6224a0986d698fb2711c161@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1531,7 +1362,7 @@ SUMMARY:Fireside Chat with Hon. John Jovanovic\, President & Chairman\, EX
  IM Bank — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261201T173000
 DTEND;TZID="UTC-05:00":20261201T183000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:8dc5e468adb8043be0307a49c10e@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1558,7 +1389,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261202T130000
 DTEND;TZID="UTC-05:00":20261202T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:03ccab2025f652572083b0af199e@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -1583,7 +1414,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261202T130000
 DTEND;TZID="UTC-05:00":20261202T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:fc2e47ed1773efda577e6c9cd931@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -1609,7 +1440,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261202T130000
 DTEND;TZID="UTC-05:00":20261202T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:f2fe4e37c39da219a1d2c77f825f@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -1635,7 +1466,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261202T130000
 DTEND;TZID="UTC-05:00":20261202T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:1dbb76a929ae768f571ad69564c9@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -1660,7 +1491,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261202T130000
 DTEND;TZID="UTC-05:00":20261202T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:d2d3f226f1f18a7676a391e80880@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -1685,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:Macroeconomic Seminar: Chris Clayton (Yale) — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261202T143000
 DTEND;TZID="UTC-05:00":20261202T160000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:3ac35f7a92663ee5e531da4533d3@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Please join the Economics Department for a macroeconomic semin
@@ -1704,7 +1535,7 @@ SUMMARY:The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer
  — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261202T173000
 DTEND;TZID="UTC-05:00":20261202T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:3ef21bde3d75f7a29bb76c47a50f@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -1731,7 +1562,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carolina Ebeid + Mark Nowak — New York
 DTSTART;TZID="UTC-05:00":20261202T200000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:74ee0c22537578607ca2c98bc02f@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -1746,7 +1577,7 @@ BEGIN:VEVENT
 SUMMARY:A Taste of Elliott — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261203T120000
 DTEND;TZID="UTC-05:00":20261203T150000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:1b81f08b88086c4f026fbef4aaf7@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The Elliott Office of Diversity\, Equity\, and Inclusion invit
@@ -1767,7 +1598,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261203T130000
 DTEND;TZID="UTC-05:00":20261203T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:b7502df961cee6afcce098934842@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -1792,7 +1623,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261203T130000
 DTEND;TZID="UTC-05:00":20261203T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:8191b5ec115f8cd46e91bbe40b01@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -1818,7 +1649,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261203T130000
 DTEND;TZID="UTC-05:00":20261203T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:fbdde282f9da5ca5cb7e3a491ced@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -1844,7 +1675,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261203T130000
 DTEND;TZID="UTC-05:00":20261203T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:f4c7b02d51c16a61a48fa01b69e4@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -1869,7 +1700,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261203T130000
 DTEND;TZID="UTC-05:00":20261203T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:2bdd4d4a84dfe24670db2113011c@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -1894,7 +1725,7 @@ BEGIN:VEVENT
 SUMMARY:REIMAGINING THE CANON: African Art\, Display\, and Interpretation 
  — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261203T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:0c574984127a5173b2e953f5c9ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:This is a public-facing lecture and reception to accompany the
@@ -1920,7 +1751,7 @@ BEGIN:VEVENT
 SUMMARY:The Darkened Light of Faith — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261203T163000
 DTEND;TZID="UTC-05:00":20261203T173000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:23a173b4afc8092b962e6ae3d912@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Could the African American political tradition save American d
@@ -1947,7 +1778,7 @@ SUMMARY:Stories Worth Sharing: A Not Another Home Movie Student Film Memoi
  r Showcase (Fall 2026) — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261203T170000
 DTEND;TZID="UTC-05:00":20261203T193000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:29d70d1058d11eba61f26a831936@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Attend a film festival\, enjoy a special dinner and support GW
@@ -1973,7 +1804,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261204T130000
 DTEND;TZID="UTC-05:00":20261204T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:c25c066bd310323c8c6ecc7bbebd@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -1999,7 +1830,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261204T130000
 DTEND;TZID="UTC-05:00":20261204T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:d8b0bf50144ceaf582291c36877f@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -2025,7 +1856,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261204T130000
 DTEND;TZID="UTC-05:00":20261204T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:2dcf9d07cfba3f77e2458bf19ed2@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -2051,7 +1882,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261204T130000
 DTEND;TZID="UTC-05:00":20261204T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:f40fb4d5b31a35b7b2eab689e3ac@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -2077,7 +1908,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261204T130000
 DTEND;TZID="UTC-05:00":20261204T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:be63bdf31021fe1dbba255ab3cc0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -2102,7 +1933,7 @@ BEGIN:VEVENT
 SUMMARY:Food\, Flow\, Photography Gallery Presentation — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261204T130000
 DTEND;TZID="UTC-05:00":20261204T150000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:bcd0b48dfb63603938e43854f3ac@global-arts-culture
 CATEGORIES:Arts & Culture\,Exhibition\,Washington\, DC\,United States
 DESCRIPTION:All are invited to a photographic poster presentation where st
@@ -2127,7 +1958,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261204T130000
 DTEND;TZID="UTC-05:00":20261204T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:19867df29955f9d64a9031b7202e@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -2151,7 +1982,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S*an D. Henry-Smith + julie ezelle patton — New York
 DTSTART;TZID="UTC-05:00":20261204T200000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:c2abde37fcac4b1fa3a666cbc0e5@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -2166,7 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:A Gift in Motion — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261205T130000
 DTEND;TZID="UTC-05:00":20261205T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:cb5a35d2b702d93756c250c407e0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A multidisciplinary showcase from the artists and scholars of 
@@ -2192,7 +2023,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261205T130000
 DTEND;TZID="UTC-05:00":20261205T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:50db58cb47661eb4b3c07eb21750@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -2218,7 +2049,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261205T130000
 DTEND;TZID="UTC-05:00":20261205T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:9ace0e31cd620502ce26222a6e2b@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -2244,7 +2075,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261205T130000
 DTEND;TZID="UTC-05:00":20261205T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:d1425f6799f9dfe7c33932453082@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -2270,7 +2101,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261205T130000
 DTEND;TZID="UTC-05:00":20261205T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:10713e008a0b96322c7733e9de9a@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -2295,7 +2126,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261205T130000
 DTEND;TZID="UTC-05:00":20261205T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:e7b61b80cd3e1a26d269af6285dc@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -2320,7 +2151,7 @@ BEGIN:VEVENT
 SUMMARY:GW University BAND - Fall Concert 2026 — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261206T130000
 DTEND;TZID="UTC-05:00":20261206T141500
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:fbc15ae53aac91cb0b51be96ccd9@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A Corcoran Program of Music presents the GW University Band un
@@ -2338,7 +2169,7 @@ BEGIN:VEVENT
 SUMMARY:GW University Orchestra - Fall 2026 Concert! — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261206T170000
 DTEND;TZID="UTC-05:00":20261206T180000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:e657a39a332cfe5dc92a0e9ec6d5@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The GW University Orchestra under the baton of Professor A. Sc
@@ -2358,7 +2189,7 @@ SUMMARY:December First Monday Forum: Sports Diplomacy Award — Washington
  \, DC
 DTSTART;TZID="UTC-05:00":20261207T120000
 DTEND;TZID="UTC-05:00":20261207T130000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:5445486ae84c97596bc6118f2434@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -2387,7 +2218,7 @@ SUMMARY:Microeconomic Seminar: Nikhil Rao (National Bureau of Economic Res
  earch) — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261207T123000
 DTEND;TZID="UTC-05:00":20261207T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:ea654221687c928233822c790aad@global-arts-culture
 CATEGORIES:Arts & Culture\,Academic\,Washington\, DC\,United States
 DESCRIPTION:Please join the Economics Department for a microeconomic semin
@@ -2403,7 +2234,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conductor — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261207T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:2377bf638a13f931b19a54e5b62d@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -2419,7 +2250,7 @@ BEGIN:VEVENT
 SUMMARY:Percussion! - 2026 Fall Ensemble Showcase — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261207T190000
 DTEND;TZID="UTC-05:00":20261207T200000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:e9164593d3d3746cbcf80aca5c79@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A Corcoran Program of Music Fall 2026 Ensemble Showcase- Percu
@@ -2438,7 +2269,7 @@ BEGIN:VEVENT
 SUMMARY:Piano & Chamber Music - Fall 2026 Camerata — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261208T180000
 DTEND;TZID="UTC-05:00":20261208T210000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:c3a4f6521d5011134d15a07744c1@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:A Corcoran Program of Music Fall 2026 Camerata--Piano & Chambe
@@ -2457,7 +2288,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261209T130000
 DTEND;TZID="UTC-05:00":20261209T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:a068f6d303515767a3bcf110eeee@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -2483,7 +2314,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261209T130000
 DTEND;TZID="UTC-05:00":20261209T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:a04fcfff25639df626c594d40d3d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -2509,7 +2340,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261209T130000
 DTEND;TZID="UTC-05:00":20261209T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:d04c06b824b2ae1d7c392fc41006@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -2534,7 +2365,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261209T130000
 DTEND;TZID="UTC-05:00":20261209T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:6792104eb0de99df14a971e10199@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -2559,7 +2390,7 @@ BEGIN:VEVENT
 SUMMARY:BLACK & GOLD Showcase! — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261209T180000
 DTEND;TZID="UTC-05:00":20261209T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:cf0b75734de0a302e5b3d1f0c89d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The GW Corcoran Program of Music BLACK & GOLD Ensemble present
@@ -2578,7 +2409,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall 2026 Workshop Reading — New York
 DTSTART;TZID="UTC-05:00":20261209T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:3745504ff007f9f1a286497f2afe@global-arts-culture
 CATEGORIES:Arts & Culture\,Reading\,New York\,United States
 DESCRIPTION:Category: Reading\nOriginal listing: https://www.poetryproject
@@ -2593,7 +2424,7 @@ BEGIN:VEVENT
 SUMMARY:Fall 2026 Jazz Showcase! — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261209T190000
 DTEND;TZID="UTC-05:00":20261209T203000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:ceeafcb992938806a02aa13a58e3@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The GW Corcoran Program of Music Jazz Ensembles featuring The 
@@ -2611,7 +2442,7 @@ BEGIN:VEVENT
 SUMMARY:2nd Annual Food and Agriculture Policy Summit — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261210T000000
 DTEND;TZID="UTC-05:00":20261210T000000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:78b47abe211ed641e5d3d5ff075e@global-arts-culture
 CATEGORIES:Arts & Culture\,Lectures & Speakers\,Washington\, DC\,United St
  ates
@@ -2638,7 +2469,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261210T130000
 DTEND;TZID="UTC-05:00":20261210T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:0e33c1b390c1ac8955cee47bf917@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -2664,7 +2495,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261210T130000
 DTEND;TZID="UTC-05:00":20261210T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:086b041d57c60801e631c43b3726@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -2690,7 +2521,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261210T130000
 DTEND;TZID="UTC-05:00":20261210T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:e2d6ba0ec164acc9437c05234f0d@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -2715,7 +2546,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261210T130000
 DTEND;TZID="UTC-05:00":20261210T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:49426cc3e467235191ba062127c9@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -2740,7 +2571,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Hip Hop Showcase! — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261210T190000
 DTEND;TZID="UTC-05:00":20261210T203000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:bbba97e0c78deba8ac4f9e53a8cc@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The GW Corcoran Program of Music presents Hip Hop! The Fall Sh
@@ -2760,7 +2591,7 @@ BEGIN:VEVENT
 SUMMARY:Are You For Sale? LIVE! with Miguel Gutierrez and Jane Raleigh —
   Washington\, DC
 DTSTART;TZID="UTC-05:00":20261211T130000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:ff142e4ff5f89ad79a92934efa81@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Join us for a live taping of Season 2\, episode 2 of multi-dis
@@ -2787,7 +2618,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261211T130000
 DTEND;TZID="UTC-05:00":20261211T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:45cbc49edf1a1663f11a75f92c87@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -2813,7 +2644,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261211T130000
 DTEND;TZID="UTC-05:00":20261211T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:060259ba1a34e320009ab5e3127e@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -2839,7 +2670,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261211T130000
 DTEND;TZID="UTC-05:00":20261211T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:250392a63e8e70e6aecd836d37d0@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -2865,7 +2696,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261211T130000
 DTEND;TZID="UTC-05:00":20261211T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:f1bf01928648391a5468dde4ee94@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -2890,7 +2721,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261211T130000
 DTEND;TZID="UTC-05:00":20261211T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:54198301f440bc9f1d63e5f24a09@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -2914,7 +2745,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Without Anesthesia\, aka Rough Treatment — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261211T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:c27d527c8d660021685a785149a7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -2933,7 +2764,7 @@ SUMMARY:Brady Art Gallery Tour: Unfossilizing African Art and Cracks & Ref
  orms — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261212T130000
 DTEND;TZID="UTC-05:00":20261212T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:365e06e6d4b641f10c7a74fdece1@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Take a student-led tour of the exhibitions currently on view a
@@ -2959,7 +2790,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261212T130000
 DTEND;TZID="UTC-05:00":20261212T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:da4df62e0e5f86518f5b8efaba79@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -2985,7 +2816,7 @@ SUMMARY:Cracks & Reforms: The 1920s Through the GW Collection — Washingt
  on\, DC
 DTSTART;TZID="UTC-05:00":20261212T130000
 DTEND;TZID="UTC-05:00":20261212T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:d20b21b00b5ac5b3509e0d4b3771@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:The 1920s emerged as a decade suspended between collapse and r
@@ -3011,7 +2842,7 @@ BEGIN:VEVENT
 SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261212T130000
 DTEND;TZID="UTC-05:00":20261212T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:173715c194eee471ef6b70986374@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
@@ -3036,7 +2867,7 @@ BEGIN:VEVENT
 SUMMARY:Unfossilizing African Art — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261212T130000
 DTEND;TZID="UTC-05:00":20261212T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:b7d1a366c57c3c976f598a35e85c@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:Presented after extensive research\, this exhibition recontext
@@ -3060,7 +2891,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fanny and Alexander — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261212T140000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:70431b95f04053095432abb54ea7@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Nostalgia\, A Harvard Undergraduate Cinematheque ... — Direc
@@ -3076,7 +2907,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ashes — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261212T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:474b659e4677c73ed9a1c454c7ff@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -3091,7 +2922,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pan Tadeusz\, aka The Last Days — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261213T150000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:ada1d0c94b012c65826f34e8504c@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -3108,7 +2939,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ashes and Diamonds — Boston/Cambridge
 DTSTART;TZID="UTC-05:00":20261214T190000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:6236141e21a7981fb2106ae6ff47@global-arts-culture
 CATEGORIES:Arts & Culture\,Film\,Boston/Cambridge\,United States
 DESCRIPTION:Once There Was History ... Andrzej Wajda ... — Directed by A
@@ -3124,7 +2955,7 @@ BEGIN:VEVENT
 SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
 DTSTART;TZID="UTC-05:00":20261216T130000
 DTEND;TZID="UTC-05:00":20261216T170000
-DTSTAMP:20261119T204145Z
+DTSTAMP:20261120T072223Z
 UID:9cc770c9126542a8dedc1acc32a2@global-arts-culture
 CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
 DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
@@ -3142,6 +2973,440 @@ DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
 LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
 STATUS:CONFIRMED
 URL:https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261216T130000
+DTEND;TZID="UTC-05:00":20261216T170000
+DTSTAMP:20261120T072223Z
+UID:bf8d414fb0a57edd71cc62d95912@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
+ IGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma
+ ’s controversial 1984 Amharic novel Oromay \, written under the Derg reg
+ ime and banned shortly after its publication. Drawing on Gottesman’s dee
+ p engagement with the novel\, NIGHT AND DAY considers how artists create\,
+  communicate\, and sustain cultural memory within and against conditions o
+ f censorship\, political repression\, and state violence. The exhibition e
+ xtends beyond the gallery through a library of banned books\, a self-guide
+ d workshop station that invites visitors to respond to censorship through 
+ writing and drawing\, and a public conversation on how artist\nCategory: A
+ rts & Culture\nOriginal listing: https://calendar.gwu.edu/event/eric-gotte
+ smans-night-and-day
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/eric-gottesmans-night-and-day
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Symphony Orchestra: Handel's Messiah — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261216T190000
+DTSTAMP:20261120T072223Z
+UID:c4f14b8cb8c6d6f7ef269852c853@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:Hallelujah! You know the chorus\, but there is a universe to d
+ iscover beyond those famous four minutes. This December\, early-music mast
+ er Richard Egarr makes his NSO debut conducting Handels Messiah\, the icon
+ ic holiday favorite that can be hushed\, roaring\, and wondrously divine. 
+ However you know Messiah as a yearly tradition\, a piece you sang yourself
+ \, or music you have never heard live\, there is nothing like being in the
+  room when the first notes begin. There is a ticket limit of 8 tickets per
+  person and per credit card on this event.\nCategory: Arts & Culture\nOrig
+ inal listing: https://calendar.gwu.edu/event/national-symphony-orchestra-h
+ andels-messiah-635
+LOCATION:Lisner Auditorium\, 730 21st Street NW\, Washington DC 20052
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/national-symphony-orchestra-handels-mes
+ siah-635
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261217T130000
+DTEND;TZID="UTC-05:00":20261217T170000
+DTSTAMP:20261120T072223Z
+UID:7ad9abd62837b0f5cf606d5266d7@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
+ s Mirror Shield Project . In 2016\, when the Dakota Access Pipeline threat
+ ened the waters of his ancestral homelands\, Luger circulated a video demo
+ nstrating how to make “mirror shields” from inexpensive materials. Con
+ ceived during the Indigenous-led resistance at Standing Rock\, North Dakot
+ a\, the tutorial functioned as a call to collective action\, an invitation
+  for people across the country to stand in solidarity with the Water Prote
+ ctors. Carried by Water Protectors in frontline actions and collective for
+ mations\, the mirrored surfaces offered protection while redirecting the f
+ ield of vision. More than a thousand mirror shields were c\nCategory: Arts
+  & Culture\nOriginal listing: https://calendar.gwu.edu/event/cannupa-hansk
+ a-lugers-reflect
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261217T130000
+DTEND;TZID="UTC-05:00":20261217T170000
+DTSTAMP:20261120T072223Z
+UID:57f7e8445796d95a9a856d790406@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
+ IGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma
+ ’s controversial 1984 Amharic novel Oromay \, written under the Derg reg
+ ime and banned shortly after its publication. Drawing on Gottesman’s dee
+ p engagement with the novel\, NIGHT AND DAY considers how artists create\,
+  communicate\, and sustain cultural memory within and against conditions o
+ f censorship\, political repression\, and state violence. The exhibition e
+ xtends beyond the gallery through a library of banned books\, a self-guide
+ d workshop station that invites visitors to respond to censorship through 
+ writing and drawing\, and a public conversation on how artist\nCategory: A
+ rts & Culture\nOriginal listing: https://calendar.gwu.edu/event/eric-gotte
+ smans-night-and-day
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/eric-gottesmans-night-and-day
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Symphony Orchestra: Handel's Messiah — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261217T190000
+DTSTAMP:20261120T072223Z
+UID:d976cb282b498994af4522575276@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:Hallelujah! You know the chorus\, but there is a universe to d
+ iscover beyond those famous four minutes. This December\, early-music mast
+ er Richard Egarr makes his NSO debut conducting Handels Messiah\, the icon
+ ic holiday favorite that can be hushed\, roaring\, and wondrously divine. 
+ However you know Messiah?as a yearly tradition\, a piece you sang yourself
+ \, or music you have never heard live?there is nothing like being in the r
+ oom when the first notes begin. There is a ticket limit of 8 tickets per p
+ erson and per credit card on this event.\nCategory: Arts & Culture\nOrigin
+ al listing: https://calendar.gwu.edu/event/national-symphony-orchestra-han
+ dels-messiah
+LOCATION:Lisner Auditorium\, 730 21st Street NW\, Washington DC 20052
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/national-symphony-orchestra-handels-mes
+ siah
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261218T130000
+DTEND;TZID="UTC-05:00":20261218T170000
+DTSTAMP:20261120T072223Z
+UID:a597ab844c9713818dbe42929310@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
+ s Mirror Shield Project . In 2016\, when the Dakota Access Pipeline threat
+ ened the waters of his ancestral homelands\, Luger circulated a video demo
+ nstrating how to make “mirror shields” from inexpensive materials. Con
+ ceived during the Indigenous-led resistance at Standing Rock\, North Dakot
+ a\, the tutorial functioned as a call to collective action\, an invitation
+  for people across the country to stand in solidarity with the Water Prote
+ ctors. Carried by Water Protectors in frontline actions and collective for
+ mations\, the mirrored surfaces offered protection while redirecting the f
+ ield of vision. More than a thousand mirror shields were c\nCategory: Arts
+  & Culture\nOriginal listing: https://calendar.gwu.edu/event/cannupa-hansk
+ a-lugers-reflect
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261218T130000
+DTEND;TZID="UTC-05:00":20261218T170000
+DTSTAMP:20261120T072223Z
+UID:e3f544a0da040407602cba198963@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
+ IGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma
+ ’s controversial 1984 Amharic novel Oromay \, written under the Derg reg
+ ime and banned shortly after its publication. Drawing on Gottesman’s dee
+ p engagement with the novel\, NIGHT AND DAY considers how artists create\,
+  communicate\, and sustain cultural memory within and against conditions o
+ f censorship\, political repression\, and state violence. The exhibition e
+ xtends beyond the gallery through a library of banned books\, a self-guide
+ d workshop station that invites visitors to respond to censorship through 
+ writing and drawing\, and a public conversation on how artist\nCategory: A
+ rts & Culture\nOriginal listing: https://calendar.gwu.edu/event/eric-gotte
+ smans-night-and-day
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/eric-gottesmans-night-and-day
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Candlelight Christmas — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261218T193000
+DTSTAMP:20261120T072223Z
+UID:56d5a508605bb2147d36cee12a85@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:Join The Washington Chorus for one of the DC region’s most b
+ eloved holiday traditions! Returning for its 17th year\, we invite you to 
+ lift your voices with us for beloved carols and new classics alike\, ringi
+ ng in the holiday season with joy\, spirit\, and togetherness. Featuring o
+ ur joyous 180-voice chorus\, brass\, organ\, magical lights\, and extra sp
+ ecial guests\, this family-friendly concert celebrates the pervasive hope 
+ of the holidays for a better\, kinder world. There is an overall 15 ticket
+  limit for this event.\nCategory: Arts & Culture\nOriginal listing: https:
+ //calendar.gwu.edu/event/a-candlelight-christmas
+LOCATION:Lisner Auditorium\, 730 21st Street NW\, Washington DC 20052
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/a-candlelight-christmas
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Candlelight Christmas — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261219T110000
+DTSTAMP:20261120T072223Z
+UID:f89db0d0364f656412e91acca0c0@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:Join The Washington Chorus for one of the DC region’s most b
+ eloved holiday traditions! Returning for its 17th year\, we invite you to 
+ lift your voices with us for beloved carols and new classics alike\, ringi
+ ng in the holiday season with joy\, spirit\, and togetherness. Featuring o
+ ur joyous 180-voice chorus\, brass\, organ\, magical lights\, and extra sp
+ ecial guests\, this family-friendly concert celebrates the pervasive hope 
+ of the holidays for a better\, kinder world. There is an overall 15 ticket
+  limit for this event.\nCategory: Arts & Culture\nOriginal listing: https:
+ //calendar.gwu.edu/event/a-candlelight-christmas-8168
+LOCATION:Lisner Auditorium\, 730 21st Street NW\, Washington DC 20052
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/a-candlelight-christmas-8168
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261219T130000
+DTEND;TZID="UTC-05:00":20261219T170000
+DTSTAMP:20261120T072223Z
+UID:71f5cc76eba39484eda8e0d1cc27@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
+ s Mirror Shield Project . In 2016\, when the Dakota Access Pipeline threat
+ ened the waters of his ancestral homelands\, Luger circulated a video demo
+ nstrating how to make “mirror shields” from inexpensive materials. Con
+ ceived during the Indigenous-led resistance at Standing Rock\, North Dakot
+ a\, the tutorial functioned as a call to collective action\, an invitation
+  for people across the country to stand in solidarity with the Water Prote
+ ctors. Carried by Water Protectors in frontline actions and collective for
+ mations\, the mirrored surfaces offered protection while redirecting the f
+ ield of vision. More than a thousand mirror shields were c\nCategory: Arts
+  & Culture\nOriginal listing: https://calendar.gwu.edu/event/cannupa-hansk
+ a-lugers-reflect
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261219T130000
+DTEND;TZID="UTC-05:00":20261219T170000
+DTSTAMP:20261120T072223Z
+UID:88171e0c3cee041df5aefdc978b3@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
+ IGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma
+ ’s controversial 1984 Amharic novel Oromay \, written under the Derg reg
+ ime and banned shortly after its publication. Drawing on Gottesman’s dee
+ p engagement with the novel\, NIGHT AND DAY considers how artists create\,
+  communicate\, and sustain cultural memory within and against conditions o
+ f censorship\, political repression\, and state violence. The exhibition e
+ xtends beyond the gallery through a library of banned books\, a self-guide
+ d workshop station that invites visitors to respond to censorship through 
+ writing and drawing\, and a public conversation on how artist\nCategory: A
+ rts & Culture\nOriginal listing: https://calendar.gwu.edu/event/eric-gotte
+ smans-night-and-day
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/eric-gottesmans-night-and-day
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Candlelight Christmas — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261219T150000
+DTSTAMP:20261120T072223Z
+UID:5298027e63d31b8b78aaf4c93ee6@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:Join The Washington Chorus for one of the DC region’s most b
+ eloved holiday traditions! Returning for its 17th year\, we invite you to 
+ lift your voices with us for beloved carols and new classics alike\, ringi
+ ng in the holiday season with joy\, spirit\, and togetherness. Featuring o
+ ur joyous 180-voice chorus\, brass\, organ\, magical lights\, and extra sp
+ ecial guests\, this family-friendly concert celebrates the pervasive hope 
+ of the holidays for a better\, kinder world. There is an overall 15 ticket
+  limit for this event.\nCategory: Arts & Culture\nOriginal listing: https:
+ //calendar.gwu.edu/event/a-candlelight-christmas-8984
+LOCATION:Lisner Auditorium\, 730 21st Street NW\, Washington DC 20052
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/a-candlelight-christmas-8984
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261223T130000
+DTEND;TZID="UTC-05:00":20261223T170000
+DTSTAMP:20261120T072223Z
+UID:7aab10ead82679eb9c0419cadd88@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
+ s Mirror Shield Project . In 2016\, when the Dakota Access Pipeline threat
+ ened the waters of his ancestral homelands\, Luger circulated a video demo
+ nstrating how to make “mirror shields” from inexpensive materials. Con
+ ceived during the Indigenous-led resistance at Standing Rock\, North Dakot
+ a\, the tutorial functioned as a call to collective action\, an invitation
+  for people across the country to stand in solidarity with the Water Prote
+ ctors. Carried by Water Protectors in frontline actions and collective for
+ mations\, the mirrored surfaces offered protection while redirecting the f
+ ield of vision. More than a thousand mirror shields were c\nCategory: Arts
+  & Culture\nOriginal listing: https://calendar.gwu.edu/event/cannupa-hansk
+ a-lugers-reflect
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
+DTSTART;TZID="UTC-05:00":20261223T130000
+DTEND;TZID="UTC-05:00":20261223T170000
+DTSTAMP:20261120T072223Z
+UID:9ca547f21a9933a7a5919c5cd35f@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
+ IGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma
+ ’s controversial 1984 Amharic novel Oromay \, written under the Derg reg
+ ime and banned shortly after its publication. Drawing on Gottesman’s dee
+ p engagement with the novel\, NIGHT AND DAY considers how artists create\,
+  communicate\, and sustain cultural memory within and against conditions o
+ f censorship\, political repression\, and state violence. The exhibition e
+ xtends beyond the gallery through a library of banned books\, a self-guide
+ d workshop station that invites visitors to respond to censorship through 
+ writing and drawing\, and a public conversation on how artist\nCategory: A
+ rts & Culture\nOriginal listing: https://calendar.gwu.edu/event/eric-gotte
+ smans-night-and-day
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/eric-gottesmans-night-and-day
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
+DTSTART;TZID="UTC-05:00":20270102T130000
+DTEND;TZID="UTC-05:00":20270102T170000
+DTSTAMP:20261120T072223Z
+UID:9d264d2513a06f024613c2052109@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
+ s Mirror Shield Project . In 2016\, when the Dakota Access Pipeline threat
+ ened the waters of his ancestral homelands\, Luger circulated a video demo
+ nstrating how to make “mirror shields” from inexpensive materials. Con
+ ceived during the Indigenous-led resistance at Standing Rock\, North Dakot
+ a\, the tutorial functioned as a call to collective action\, an invitation
+  for people across the country to stand in solidarity with the Water Prote
+ ctors. Carried by Water Protectors in frontline actions and collective for
+ mations\, the mirrored surfaces offered protection while redirecting the f
+ ield of vision. More than a thousand mirror shields were c\nCategory: Arts
+  & Culture\nOriginal listing: https://calendar.gwu.edu/event/cannupa-hansk
+ a-lugers-reflect
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
+DTSTART;TZID="UTC-05:00":20270102T130000
+DTEND;TZID="UTC-05:00":20270102T170000
+DTSTAMP:20261120T072223Z
+UID:4f213a0de3a991f8f6065d553ceb@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
+ IGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma
+ ’s controversial 1984 Amharic novel Oromay \, written under the Derg reg
+ ime and banned shortly after its publication. Drawing on Gottesman’s dee
+ p engagement with the novel\, NIGHT AND DAY considers how artists create\,
+  communicate\, and sustain cultural memory within and against conditions o
+ f censorship\, political repression\, and state violence. The exhibition e
+ xtends beyond the gallery through a library of banned books\, a self-guide
+ d workshop station that invites visitors to respond to censorship through 
+ writing and drawing\, and a public conversation on how artist\nCategory: A
+ rts & Culture\nOriginal listing: https://calendar.gwu.edu/event/eric-gotte
+ smans-night-and-day
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/eric-gottesmans-night-and-day
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cannupa Hanska Luger’s REFLECT — Washington\, DC
+DTSTART;TZID="UTC-05:00":20270106T130000
+DTEND;TZID="UTC-05:00":20270106T170000
+DTSTAMP:20261120T072223Z
+UID:a11e67422244f0c50f4ef6e1c5da@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:REFLECT traces the evolution of artist Cannuap Hanska Luger’
+ s Mirror Shield Project . In 2016\, when the Dakota Access Pipeline threat
+ ened the waters of his ancestral homelands\, Luger circulated a video demo
+ nstrating how to make “mirror shields” from inexpensive materials. Con
+ ceived during the Indigenous-led resistance at Standing Rock\, North Dakot
+ a\, the tutorial functioned as a call to collective action\, an invitation
+  for people across the country to stand in solidarity with the Water Prote
+ ctors. Carried by Water Protectors in frontline actions and collective for
+ mations\, the mirrored surfaces offered protection while redirecting the f
+ ield of vision. More than a thousand mirror shields were c\nCategory: Arts
+  & Culture\nOriginal listing: https://calendar.gwu.edu/event/cannupa-hansk
+ a-lugers-reflect
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/cannupa-hanska-lugers-reflect
+X-GLOBAL-CULTURE-REGION:us
+X-GLOBAL-CULTURE-SOURCE:gwu-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Gottesman’s NIGHT AND DAY — Washington\, DC
+DTSTART;TZID="UTC-05:00":20270106T130000
+DTEND;TZID="UTC-05:00":20270106T170000
+DTSTAMP:20261120T072223Z
+UID:56f073d2bbb68e9164c06a049ce3@global-arts-culture
+CATEGORIES:Arts & Culture\,Arts & Culture\,Washington\, DC\,United States
+DESCRIPTION:For Freedoms presents artist and educator Eric Gottesman’s N
+ IGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma
+ ’s controversial 1984 Amharic novel Oromay \, written under the Derg reg
+ ime and banned shortly after its publication. Drawing on Gottesman’s dee
+ p engagement with the novel\, NIGHT AND DAY considers how artists create\,
+  communicate\, and sustain cultural memory within and against conditions o
+ f censorship\, political repression\, and state violence. The exhibition e
+ xtends beyond the gallery through a library of banned books\, a self-guide
+ d workshop station that invites visitors to respond to censorship through 
+ writing and drawing\, and a public conversation on how artist\nCategory: A
+ rts & Culture\nOriginal listing: https://calendar.gwu.edu/event/eric-gotte
+ smans-night-and-day
+LOCATION:Flagg Building\, 500 17th Street NW\, Washington DC 20006
+STATUS:CONFIRMED
+URL:https://calendar.gwu.edu/event/eric-gottesmans-night-and-day
 X-GLOBAL-CULTURE-REGION:us
 X-GLOBAL-CULTURE-SOURCE:gwu-arts
 END:VEVENT
