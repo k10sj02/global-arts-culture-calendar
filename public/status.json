@@ -1,19 +1,19 @@
 {
-  "generated": "2026-11-21T02:15:35.353945-05:00",
-  "count": 665,
-  "cancelled": 19,
+  "generated": "2026-11-21T14:20:54.933264-05:00",
+  "count": 618,
+  "cancelled": 90,
   "regions": {
-    "us": 505,
-    "europe": 160,
+    "us": 466,
+    "europe": 152,
     "mexico": 0
   },
   "sources": {
     "poetry-project": 3,
-    "brown-arts": 12,
+    "brown-arts": 11,
     "harvard-film-archive": 14,
-    "gwu-arts": 92,
+    "gwu-arts": 85,
     "redcat": 17,
-    "berkeley-arts": 11,
+    "berkeley-arts": 40,
     "northwest-film-forum": 93,
     "artsatl": 191,
     "noma": 8,
