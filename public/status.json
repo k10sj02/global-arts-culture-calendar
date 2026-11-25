@@ -1,27 +1,27 @@
 {
-  "generated": "2026-11-24T17:30:01.900565-05:00",
-  "count": 634,
-  "cancelled": 67,
+  "generated": "2026-11-25T03:42:38.803492-05:00",
+  "count": 655,
+  "cancelled": 38,
   "regions": {
-    "us": 443,
-    "europe": 191,
+    "us": 465,
+    "europe": 190,
     "mexico": 0
   },
   "sources": {
     "poetry-project": 4,
-    "brown-arts": 12,
+    "brown-arts": 10,
     "harvard-film-archive": 10,
-    "gwu-arts": 93,
+    "gwu-arts": 97,
     "redcat": 19,
-    "berkeley-arts": 33,
+    "berkeley-arts": 34,
     "northwest-film-forum": 84,
-    "artsatl": 179,
+    "artsatl": 178,
     "noma": 8,
     "cac-new-orleans": 3,
     "ica-london": 4,
-    "matadero-madrid": 28,
-    "cccb": 100,
-    "silent-green": 58
+    "matadero-madrid": 24,
+    "cccb": 97,
+    "silent-green": 56
   },
   "errors": {
     "chicago-humanities": "No current Chicago Humanities events found",
