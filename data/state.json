@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:26:45.260077-05:00",
+  "updated": "2026-11-26T16:38:14.758536-05:00",
   "events": {
     "74ee0c22537578607ca2c98bc02f@global-arts-culture": {
       "source": "poetry-project",
@@ -2500,23 +2500,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "3d3f5ac25104b5946a30fce8960f@global-arts-culture": {
-      "source": "berkeley-arts",
-      "source_id": "334229-2026-11-26T11:00:00-08:00",
-      "title": "Exhibit | Time Capsules: Exploring the Permanent Collection (copy)",
-      "start": "2026-11-26T11:00:00-08:00",
-      "end": "2026-11-26T19:00:00-08:00",
-      "venue": "2121 Allston Way, Berkeley, CA 94720",
-      "address": "2121 Allston Way, Berkeley, CA 94720",
-      "city": "Berkeley/San Francisco",
-      "country": "United States",
-      "region": "us",
-      "category": "Exhibits",
-      "url": "https://events.berkeley.edu/live/events/330926-exhibit-time-capsules-exploring-the-permanent",
-      "description": "In celebrating 15 years at UC Berkeley, Time Capsules revisits ten out of the over thirty exhibitions presented since the Magnes opened the doors of its new academic home to the public.",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "dde6d0424769f689a69665875c1b@global-arts-culture": {
       "source": "berkeley-arts",
       "source_id": "334167-2026-11-26T11:00:00-08:00",
@@ -2531,6 +2514,23 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330994-exhibit-an-archive-of-archives-roman-vishniacs",
       "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3d3f5ac25104b5946a30fce8960f@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "334229-2026-11-26T11:00:00-08:00",
+      "title": "Exhibit | Time Capsules: Exploring the Permanent Collection (copy)",
+      "start": "2026-11-26T11:00:00-08:00",
+      "end": "2026-11-26T19:00:00-08:00",
+      "venue": "2121 Allston Way, Berkeley, CA 94720",
+      "address": "2121 Allston Way, Berkeley, CA 94720",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Exhibits",
+      "url": "https://events.berkeley.edu/live/events/330926-exhibit-time-capsules-exploring-the-permanent",
+      "description": "In celebrating 15 years at UC Berkeley, Time Capsules revisits ten out of the over thirty exhibitions presented since the Magnes opened the doors of its new academic home to the public.",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -2636,12 +2636,12 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "e09d162498ca89a67ef32f2d41da@global-arts-culture": {
+    "75a96d902ab5588e1429edd34881@global-arts-culture": {
       "source": "berkeley-arts",
-      "source_id": "331164-2026-11-27T15:30:00-08:00",
+      "source_id": "331179-2026-11-27T15:30:00-08:00",
       "title": "Film Screening: Modern Times",
       "start": "2026-11-27T15:30:00-08:00",
-      "end": null,
+      "end": "2026-11-27T16:30:00-08:00",
       "venue": "BAMPFA",
       "address": "BAMPFA",
       "city": "Berkeley/San Francisco",
@@ -2653,12 +2653,12 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "9dfb90bf81c06f5cb576962d69ee@global-arts-culture": {
+    "baae5cfe36b38e4109d607a830db@global-arts-culture": {
       "source": "berkeley-arts",
-      "source_id": "331166-2026-11-27T17:30:00-08:00",
+      "source_id": "331178-2026-11-27T17:30:00-08:00",
       "title": "Film Screening: The Last Waltz",
       "start": "2026-11-27T17:30:00-08:00",
-      "end": null,
+      "end": "2026-11-27T18:30:00-08:00",
       "venue": "BAMPFA",
       "address": "BAMPFA",
       "city": "Berkeley/San Francisco",
@@ -2789,12 +2789,12 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "287ec890ea11268461ff5f4d935e@global-arts-culture": {
+    "69850be012f059b844ffddf2d11b@global-arts-culture": {
       "source": "berkeley-arts",
-      "source_id": "331167-2026-11-28T15:00:00-08:00",
+      "source_id": "331177-2026-11-28T15:00:00-08:00",
       "title": "Film Screening: Center Stage",
       "start": "2026-11-28T15:00:00-08:00",
-      "end": null,
+      "end": "2026-11-28T16:00:00-08:00",
       "venue": "BAMPFA",
       "address": "BAMPFA",
       "city": "Berkeley/San Francisco",
@@ -8181,7 +8181,7 @@
     "1fdb58f6853abf39b30064e9c87b@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/guided-tour-to-the-the-atomic-age-exhibition-for-teachers-2026-11-26T17:30:00+01:00",
-      "title": "Visit to the exhibition The Atomic Age for educators",
+      "title": "Visit to the exhibition \"The Atomic Age\" for educators",
       "start": "2026-11-26T17:30:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -8368,7 +8368,7 @@
     "28a2ebe0ed705a998f1553e1bd88@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/guided-tour-to-the-the-atomic-age-exhibition-for-teachers-2026-12-01T18:00:00+01:00",
-      "title": "Visit to the exhibition The Atomic Age for educators",
+      "title": "Visit to the exhibition \"The Atomic Age\" for educators",
       "start": "2026-12-01T18:00:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -9028,6 +9028,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "65abb0bfe573cc36f078e1802038@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0-2027-01-11T18:30:00+01:00",
+      "title": "Shakespeare, l’alliberament d'allò humà",
+      "start": "2027-01-11T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0",
+      "description": "Lectura i interpretació d’un clàssic",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "e496c85d84396c0f401bebb8b99a@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/el-segle-xviii-2027-01-12T18:30:00+01:00",
@@ -9042,6 +9059,40 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/el-segle-xviii",
       "description": "La tradició clàssica en la cultura occidental, 4",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "3315ff4a51f8621318d7ad89061d@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/j-v-foix-2027-01-13T18:30:00+01:00",
+      "title": "J. V. Foix, faroner de l’Eterna Permanència",
+      "start": "2027-01-13T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/j-v-foix",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "0e32914aa3c6aca9c3a1248da762@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/l-odissea-2027-01-14T18:30:00+01:00",
+      "title": "L'Odissea",
+      "start": "2027-01-14T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/l-odissea",
+      "description": "Lectura del clàssic per excel·lència",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9079,6 +9130,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "125c97bd128ee7ce9686f45cbb4e@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/l-odissea-2027-01-18T18:30:00+01:00",
+      "title": "L'Odissea",
+      "start": "2027-01-18T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/l-odissea",
+      "description": "Lectura del clàssic per excel·lència",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "65d22727b891e1c0cae934c12ba1@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activitats/el-segle-xviii-2027-01-19T18:30:00+01:00",
@@ -9113,6 +9181,40 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ea94792bbe08c2b53ecf82a032f5@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/j-v-foix-2027-01-20T18:30:00+01:00",
+      "title": "J. V. Foix, faroner de l’Eterna Permanència",
+      "start": "2027-01-20T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/j-v-foix",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5212e695a52d573d01e249834c24@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/actividades/el-contrato-sexual-2027-01-21T18:30:00+01:00",
+      "title": "El contracte sexual, de Carole Pateman",
+      "start": "2027-01-21T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/actividades/el-contrato-sexual",
+      "description": "Llegir filosofia, 8",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "48db4c6aa9fc3906896fcf171230@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/imagining-the-risk-2027-01-23T11:00:00+01:00",
@@ -9127,6 +9229,23 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activities/imagining-the-risk",
       "description": "Workshop on rewriting texts about nuclear risk, with Mariona Moncunill",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "56a66d9add4f5e63778e39ddebf9@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/l-odissea-2027-01-25T18:30:00+01:00",
+      "title": "L'Odissea",
+      "start": "2027-01-25T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/l-odissea",
+      "description": "Lectura del clàssic per excel·lència",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9164,6 +9283,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ef577790da48535eb0f1c972b3d2@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/j-v-foix-2027-01-27T18:30:00+01:00",
+      "title": "J. V. Foix, faroner de l’Eterna Permanència",
+      "start": "2027-01-27T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/j-v-foix",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "020b93b8f125d2fa8b8a5a06c7ce@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/technological-totalitarianism-2027-01-28T18:30:00+01:00",
@@ -9181,10 +9317,27 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "caa7260be8ab60d1a807dc175fa8@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/gunther-anders-etica-i-catastrofe-2027-01-28T18:30:00+01:00",
+      "title": "Günther Anders: ètica i catàstrofe",
+      "start": "2027-01-28T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/gunther-anders-etica-i-catastrofe",
+      "description": "Fars",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "a29144e1a47b3ca8ad19b0285249@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/she-shoots-her-colors-all-around-viktoria-schmids-films-and-companions-2027-01-28T19:00:00+01:00",
-      "title": "She Shoots Her Colors All Around. Viktoria Schmid’s Films and Companions",
+      "title": "\"She Shoots Her Colors All Around\". Viktoria Schmid’s Films and Companions",
       "start": "2027-01-28T19:00:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -9201,7 +9354,7 @@
     "00fbabcf39a73ec9f7ead8faab76@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/she-shoots-her-colors-all-around-viktoria-schmids-films-and-companions-2027-01-29T19:00:00+01:00",
-      "title": "She Shoots Her Colors All Around. Viktoria Schmid’s Films and Companions",
+      "title": "\"She Shoots Her Colors All Around\". Viktoria Schmid’s Films and Companions",
       "start": "2027-01-29T19:00:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -9215,10 +9368,44 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "d9c22d43a4e540101d674193daac@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/maps-to-nowhere-spiral-jetty-and-other-imagined-landscapes-2027-01-31T18:30:00+01:00",
+      "title": "Maps to Nowhere. Spiral Jetty and Other Imagined Landscapes",
+      "start": "2027-01-31T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/maps-to-nowhere-spiral-jetty-and-other-imagined-landscapes",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f063d7e25fe011bbd89237f16cf0@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/l-odissea-2027-02-01T18:30:00+01:00",
+      "title": "L'Odissea",
+      "start": "2027-02-01T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/l-odissea",
+      "description": "Lectura del clàssic per excel·lència",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "2d764856357332531b684e06efe5@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/the-atomic-age-for-blind-and-partially-sighted-visitors-2027-02-02T16:00:00+01:00",
-      "title": "«The Atomic Age» for Blind and Partially Sighted Visitors",
+      "title": "\"The Atomic Age\" for Blind and Partially Sighted Visitors",
       "start": "2027-02-02T16:00:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -9266,6 +9453,57 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "c33a6cb68903b442d09fa14c1b2a@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/j-v-foix-2027-02-03T18:30:00+01:00",
+      "title": "J. V. Foix, faroner de l’Eterna Permanència",
+      "start": "2027-02-03T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/j-v-foix",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "69903067b9c0158278f2514bfabe@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/gunther-anders-etica-i-catastrofe-2027-02-04T18:30:00+01:00",
+      "title": "Günther Anders: ètica i catàstrofe",
+      "start": "2027-02-04T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/gunther-anders-etica-i-catastrofe",
+      "description": "Fars",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b7d199527c4d61fdf29b5a2495eb@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/up-and-down-the-cinema-of-ernie-gehr-2027-02-04T19:00:00+01:00",
+      "title": "Up and Down: The Cinema of Ernie Gehr",
+      "start": "2027-02-04T19:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/up-and-down-the-cinema-of-ernie-gehr",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "dca70aff800ec6442eb5d8bd12d7@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/atomic-debate-2027-02-06T11:00:00+01:00",
@@ -9280,6 +9518,40 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activities/atomic-debate",
       "description": "An open space to discuss one of the great technological and scientific challenges of our time",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "6d9ef827f894db951aa14b9c063e@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/affective-matters-three-films-by-gunvor-nelson-2027-02-07T18:30:00+01:00",
+      "title": "Affective Matters. Three Films by Gunvor Nelson",
+      "start": "2027-02-07T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/affective-matters-three-films-by-gunvor-nelson",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "873be563dccfc4f64e6206dbefa7@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/l-odissea-2027-02-08T18:30:00+01:00",
+      "title": "L'Odissea",
+      "start": "2027-02-08T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/l-odissea",
+      "description": "Lectura del clàssic per excel·lència",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9317,6 +9589,40 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "25aac02e0c76b1bf825f30d74a9f@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/j-v-foix-2027-02-10T18:30:00+01:00",
+      "title": "J. V. Foix, faroner de l’Eterna Permanència",
+      "start": "2027-02-10T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/j-v-foix",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "ede39208d6059f9d7c69b81d9d6d@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/gunther-anders-etica-i-catastrofe-2027-02-11T18:30:00+01:00",
+      "title": "Günther Anders: ètica i catàstrofe",
+      "start": "2027-02-11T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/gunther-anders-etica-i-catastrofe",
+      "description": "Fars",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "e281b4bf40bd61e513fdf1180473@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/shelter-2027-02-13T11:00:00+01:00",
@@ -9331,6 +9637,23 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activities/shelter",
       "description": "Workshop to design and build a safe space, with Serrucho",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "38442f98cb1dd7e02b7dc2b7ff95@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0-2027-02-15T18:30:00+01:00",
+      "title": "Shakespeare, l’alliberament d'allò humà",
+      "start": "2027-02-15T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0",
+      "description": "Lectura i interpretació d’un clàssic",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9385,6 +9708,57 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "4141017e06ee1dd018bd030b4e70@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/j-v-foix-2027-02-17T18:30:00+01:00",
+      "title": "J. V. Foix, faroner de l’Eterna Permanència",
+      "start": "2027-02-17T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/j-v-foix",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e0ca35535d301e23552e3f55aa41@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/actividades/el-contrato-sexual-2027-02-18T18:30:00+01:00",
+      "title": "El contracte sexual, de Carole Pateman",
+      "start": "2027-02-18T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/actividades/el-contrato-sexual",
+      "description": "Llegir filosofia, 8",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e6612ad237a56111e3ce891267d2@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/the-multiple-forms-of-the-unknown-the-cinema-of-james-otis-2027-02-18T19:00:00+01:00",
+      "title": "The Multiple Forms of the Unknown. The Cinema of James Otis",
+      "start": "2027-02-18T19:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/the-multiple-forms-of-the-unknown-the-cinema-of-james-otis",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "419463c810df992360f560e02b7d@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/where-does-electricity-come-from-2027-02-20T11:00:00+01:00",
@@ -9416,6 +9790,40 @@
       "category": "Debates + Scene",
       "url": "https://www.cccb.org/en/w/activities/atomic-cult",
       "description": "A Ceremony of the Political Fiction Crisis Cabinet",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "eba7cf4dd3ac334e48c07491be40@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/rise-and-fall-of-the-emerald-city-mahagonny-by-harry-smith-2027-02-21T18:30:00+01:00",
+      "title": "Rise and Fall of the Emerald City. Mahagonny, by Harry Smith",
+      "start": "2027-02-21T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/rise-and-fall-of-the-emerald-city-mahagonny-by-harry-smith",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b19d1035ea9dc320b232fd8d44c4@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/beure-2027-02-22T18:30:00+01:00",
+      "title": "Beure",
+      "start": "2027-02-22T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/beure",
+      "description": "Lèxic quotidià de filosofia, 7",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9470,6 +9878,57 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "b3355889d353ff67aac37fa55ed9@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/actividades/por-un-humanismo-radical-2027-02-24T18:30:00+01:00",
+      "title": "Per un humanisme radical",
+      "start": "2027-02-24T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/actividades/por-un-humanismo-radical",
+      "description": "El llegat d’Ivan Illich",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "209648cb6ece5fe5e5e62557da1e@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/gunther-anders-etica-i-catastrofe-2027-02-25T18:30:00+01:00",
+      "title": "Günther Anders: ètica i catàstrofe",
+      "start": "2027-02-25T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/gunther-anders-etica-i-catastrofe",
+      "description": "Fars",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4e2dc8af8ec166077675398c5865@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/forms-of-love-the-cinema-of-maria-lang-and-ute-aurand-2027-02-25T19:00:00+01:00",
+      "title": "Forms of Love. The Cinema of Maria Lang and Ute Aurand",
+      "start": "2027-02-25T19:00:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/forms-of-love-the-cinema-of-maria-lang-and-ute-aurand",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "521c74918881ce2cf9d277ac010c@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/atomic-debate-2027-02-27T11:00:00+01:00",
@@ -9484,6 +9943,74 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activities/atomic-debate",
       "description": "An open space to discuss one of the great technological and scientific challenges of our time",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "cb4c0ff94ebdd178245fd75b73db@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activities/the-rhythm-of-my-films-is-the-rhythm-of-my-blood-the-cinema-diary-of-teo-hernandez-2027-02-28T18:30:00+01:00",
+      "title": "The Rhythm of My Films Is the Rhythm of My Blood: The Cinema-Diary of Teo Hernández",
+      "start": "2027-02-28T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Audiovisuals",
+      "url": "https://www.cccb.org/en/w/activities/the-rhythm-of-my-films-is-the-rhythm-of-my-blood-the-cinema-diary-of-teo-hernandez",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "12e9eccad53eb26cbfaa5bcfbe88@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/beure-2027-03-01T18:30:00+01:00",
+      "title": "Beure",
+      "start": "2027-03-01T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/beure",
+      "description": "Lèxic quotidià de filosofia, 7",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "017ed61a89366eaa0c0dbc4b573b@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-03-02T18:30:00+01:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-03-02T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "31e2220ae0c4476ed5fb075c67e4@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/actividades/por-un-humanismo-radical-2027-03-03T18:30:00+01:00",
+      "title": "Per un humanisme radical",
+      "start": "2027-03-03T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/actividades/por-un-humanismo-radical",
+      "description": "El llegat d’Ivan Illich",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9521,10 +10048,44 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "eb16326a251519d113593adf6135@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/activitats/beure-2027-03-08T18:30:00+01:00",
+      "title": "Beure",
+      "start": "2027-03-08T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/activitats/beure",
+      "description": "Lèxic quotidià de filosofia, 7",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b9cab4e0dd598b278d1c964f814f@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-03-09T18:30:00+01:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-03-09T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "1a1a451c506f47aef6238757d16f@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/the-atomic-age-for-blind-and-partially-sighted-visitors-2027-03-10T16:00:00+01:00",
-      "title": "«The Atomic Age» for Blind and Partially Sighted Visitors",
+      "title": "\"The Atomic Age\" for Blind and Partially Sighted Visitors",
       "start": "2027-03-10T16:00:00+01:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -9535,6 +10096,23 @@
       "category": "Accessible + Visits",
       "url": "https://www.cccb.org/en/w/activities/the-atomic-age-for-blind-and-partially-sighted-visitors",
       "description": "Adapted guided tour",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b7f19d3bb1eb972107b73ff86529@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/actividades/por-un-humanismo-radical-2027-03-10T18:30:00+01:00",
+      "title": "Per un humanisme radical",
+      "start": "2027-03-10T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/actividades/por-un-humanismo-radical",
+      "description": "El llegat d’Ivan Illich",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9555,6 +10133,40 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "0e1f7d4cacab54e0712affcd81f8@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0-2027-03-15T18:30:00+01:00",
+      "title": "Shakespeare, l’alliberament d'allò humà",
+      "start": "2027-03-15T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0",
+      "description": "Lectura i interpretació d’un clàssic",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e153a34de8914f5218c760bbcd8c@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-03-16T18:30:00+01:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-03-16T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "9dae8468c3bd39217921371dec5c@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/strangers-on-a-train-by-patricia-highsmith-2027-03-17T18:30:00+01:00",
@@ -9572,6 +10184,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ea42718883fd70af632643bafb29@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/actividades/por-un-humanismo-radical-2027-03-17T18:30:00+01:00",
+      "title": "Per un humanisme radical",
+      "start": "2027-03-17T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/actividades/por-un-humanismo-radical",
+      "description": "El llegat d’Ivan Illich",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "b29c90f1e4535d3e530bc4ad9d1f@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/a-justice-system-that-protects-the-rights-of-future-generations-2027-03-18T18:30:00+01:00",
@@ -9586,6 +10215,40 @@
       "category": "Debates",
       "url": "https://www.cccb.org/en/w/activities/a-justice-system-that-protects-the-rights-of-future-generations",
       "description": "Philippe Sands",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9037c58154d7b2b2bfcb2464d24d@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/actividades/el-contrato-sexual-2027-03-18T18:30:00+01:00",
+      "title": "El contracte sexual, de Carole Pateman",
+      "start": "2027-03-18T18:30:00+01:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/actividades/el-contrato-sexual",
+      "description": "Llegir filosofia, 8",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9f8fe15db985217d3308520d7513@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-03-30T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-03-30T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9623,6 +10286,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "20519ecaea9a00fc75a9bf36bab8@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-04-06T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-04-06T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "5b9e06f8bcfb83ad3fc4c1213443@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/atomic-debate-2027-04-10T11:00:00+02:00",
@@ -9637,6 +10317,40 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activities/atomic-debate",
       "description": "An open space to discuss one of the great technological and scientific challenges of our time",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5644b8fb6cd66b8218cb31029041@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0-2027-04-12T18:30:00+02:00",
+      "title": "Shakespeare, l’alliberament d'allò humà",
+      "start": "2027-04-12T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0",
+      "description": "Lectura i interpretació d’un clàssic",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5a57c3fb9e436dcbffbc334f5ccc@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-04-13T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-04-13T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9657,6 +10371,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "a26e74aadab984a2514717ca3bf4@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-04-20T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-04-20T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "72bc21a0a7a61685ed0bb485ce59@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/making-the-invisible-visible-2027-04-24T11:00:00+02:00",
@@ -9671,6 +10402,23 @@
       "category": "Courses and workshops + Family",
       "url": "https://www.cccb.org/en/w/activities/making-the-invisible-visible",
       "description": "A family workshop of phantasmagoria and projections, with Albert Gironès",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "89b209ca50a71cc158ee7d0874ba@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-04-27T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-04-27T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9694,7 +10442,7 @@
     "d6819f32eb8be04b620203966c59@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/the-atomic-age-for-blind-and-partially-sighted-visitors-2027-04-29T16:00:00+02:00",
-      "title": "«The Atomic Age» for Blind and Partially Sighted Visitors",
+      "title": "\"The Atomic Age\" for Blind and Partially Sighted Visitors",
       "start": "2027-04-29T16:00:00+02:00",
       "end": null,
       "venue": "Centre de Cultura Contemporània de Barcelona",
@@ -9705,6 +10453,23 @@
       "category": "Accessible + Visits",
       "url": "https://www.cccb.org/en/w/activities/the-atomic-age-for-blind-and-partially-sighted-visitors",
       "description": "Adapted guided tour",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "0e1ba5b10618f541a30898e0b194@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-05-04T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-05-04T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9725,6 +10490,23 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "a87fab4da9de742693491314bd7c@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-05-11T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-05-11T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "6fd5a49f3060e8ceb8229b71ebd3@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/thermal-prints-2027-05-15T11:00:00+02:00",
@@ -9742,6 +10524,57 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "6238c26dbee6c8a99c75750a06a8@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-05-18T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-05-18T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "1654551d65e9f51b7012d998d43f@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0-2027-05-24T18:30:00+02:00",
+      "title": "Shakespeare, l’alliberament d'allò humà",
+      "start": "2027-05-24T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0",
+      "description": "Lectura i interpretació d’un clàssic",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "076a6fcff8a11b7e2491e12e8ca3@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio-2027-05-25T18:30:00+02:00",
+      "title": "La novel·la de no-ficció",
+      "start": "2027-05-25T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/la-novel%C2%B7la-de-no-ficcio",
+      "description": "L'art de la novel·la",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "497200ee347f98496a5fcb925522@global-arts-culture": {
       "source": "cccb",
       "source_id": "https://www.cccb.org/en/w/activities/xcentric-film-club-2027-05-26T18:00:00+02:00",
@@ -9756,6 +10589,23 @@
       "category": "Audiovisuals",
       "url": "https://www.cccb.org/en/w/activities/xcentric-film-club",
       "description": "Monthly film forum sessions at Xcèntric Archive",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "62fd38b1b6fed17ec33a6fb066f6@global-arts-culture": {
+      "source": "cccb",
+      "source_id": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0-2027-06-21T18:30:00+02:00",
+      "title": "Shakespeare, l’alliberament d'allò humà",
+      "start": "2027-06-21T18:30:00+02:00",
+      "end": null,
+      "venue": "Centre de Cultura Contemporània de Barcelona",
+      "address": "Carrer de Montalegre 5, 08001 Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "category": "Courses and workshops",
+      "url": "https://www.cccb.org/en/w/shakespeare-l-alliberament-del-que-%C3%A9s-hum%C3%A0",
+      "description": "Lectura i interpretació d’un clàssic",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -9793,11 +10643,11 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "8552a095fe3f26004d8a87666df0@global-arts-culture": {
+    "574b7d21f7dcc0af290eaf933257@global-arts-culture": {
       "source": "silent-green",
-      "source_id": "https://www.silent-green.net/programm/detail/lia-lia-2026-11-27T20:00:00+01:00",
+      "source_id": "https://www.silent-green.net/programm/detail/lia-lia-2026-11-27T19:45:00+01:00",
       "title": "LIA LIA + Levi",
-      "start": "2026-11-27T20:00:00+01:00",
+      "start": "2026-11-27T19:45:00+01:00",
       "end": null,
       "venue": "silent green — Kuppelhalle",
       "address": "Gerichtstraße 35, 13347 Berlin",
@@ -10078,6 +10928,23 @@
       "region": "europe",
       "category": "Konzert",
       "url": "https://www.silent-green.net/programm/detail/mink-pres-return-to-sender?tx_news_pi1%5Bday%5D=15&tx_news_pi1%5Bmonth%5D=12&tx_news_pi1%5Byear%5D=2026&cHash=8db653e4b10b0952382a075f81b0638c",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "146da0ae42cf78f11e96f853db2d@global-arts-culture": {
+      "source": "silent-green",
+      "source_id": "https://www.silent-green.net/programm/detail/lake-memory-2027-01-15T19:00:00+01:00",
+      "title": "LAKE [memory]",
+      "start": "2027-01-15T19:00:00+01:00",
+      "end": null,
+      "venue": "silent green — Kuppelhalle",
+      "address": "Gerichtstraße 35, 13347 Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "europe",
+      "category": "Konzert",
+      "url": "https://www.silent-green.net/programm/detail/lake-memory?tx_news_pi1%5Bday%5D=15&tx_news_pi1%5Bmonth%5D=1&tx_news_pi1%5Byear%5D=2027&cHash=7f1f96be2ab91d40d4fe3161cb498fc4",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -10745,6 +11612,74 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "e09d162498ca89a67ef32f2d41da@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "331164-2026-11-27T15:30:00-08:00",
+      "title": "Film Screening: Modern Times",
+      "start": "2026-11-27T15:30:00-08:00",
+      "end": null,
+      "venue": "BAMPFA",
+      "address": "BAMPFA",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Films",
+      "url": "https://events.berkeley.edu/BAMPFA/event/331164-film-screening-modern-times",
+      "description": "It starts with an overhead shot of sheep and cuts to the throngs coming out of a subway station. Was Charlie Chaplin a Surrealist, or just a realist? His version of modern times looks forward in equal measure to Jacques Tati and 1984 . This “silent” is full of modern sounds, heard over loudspeakers and big corporate television screens (not to mention the Tramp’s outburst of French-inspired gibberish). Charlie, the ever-elegant Tramp, is an industrial swashbuckler with an oilcan for a sword, but he’s begun taking on the characteristics of factory machines, obsessively twisting buttons no matter where they are.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "9dfb90bf81c06f5cb576962d69ee@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "331166-2026-11-27T17:30:00-08:00",
+      "title": "Film Screening: The Last Waltz",
+      "start": "2026-11-27T17:30:00-08:00",
+      "end": null,
+      "venue": "BAMPFA",
+      "address": "BAMPFA",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Films",
+      "url": "https://events.berkeley.edu/BAMPFA/event/331166-film-screening-the-last-waltz",
+      "description": "Martin Scorsese grew up listening to seminal rock DJ Alan Freed, and from Mean Streets onward, his movies have been driven by the power of rock and roll. His love of music is innate and instinctual, so when The Band decided to hang it up after seventeen years on the road, they chose Scorsese to film their farewell concert at Winterland Ballroom on Thanksgiving 1976. The film intercuts the glorious music from one of the all-time great concert lineups with interviews with members of The Band as they talk about their lives and music. The Last Waltz is an elegiac masterpiece that captures a special moment in music history.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "287ec890ea11268461ff5f4d935e@global-arts-culture": {
+      "source": "berkeley-arts",
+      "source_id": "331167-2026-11-28T15:00:00-08:00",
+      "title": "Film Screening: Center Stage",
+      "start": "2026-11-28T15:00:00-08:00",
+      "end": null,
+      "venue": "BAMPFA",
+      "address": "BAMPFA",
+      "city": "Berkeley/San Francisco",
+      "country": "United States",
+      "region": "us",
+      "category": "Films",
+      "url": "https://events.berkeley.edu/BAMPFA/event/331167-film-screening-center-stage",
+      "description": "After a string of memorable performances as strong-willed, beautiful, and virtuous women, the actress Ruan Lingyu committed suicide in 1935, at the age of twenty-four. Stanley Kwan’s innovative film goes far beyond the traditional biopic to offer up several strata of “reality,” “reenactment,” and “cinema.” Detailed re-creations of scenes from the actress’s too-short life combine with documentary interviews of her contemporaries, actual footage from her existing silent films, and even discussions between star Maggie Cheung, Kwan, and other cast members. Like a Russian doll, Center Stage reveals a Modernist take on the ways in which cinema and culture create an actress, a legend, and a woman.",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "8552a095fe3f26004d8a87666df0@global-arts-culture": {
+      "source": "silent-green",
+      "source_id": "https://www.silent-green.net/programm/detail/lia-lia-2026-11-27T20:00:00+01:00",
+      "title": "LIA LIA + Levi",
+      "start": "2026-11-27T20:00:00+01:00",
+      "end": null,
+      "venue": "silent green — Kuppelhalle",
+      "address": "Gerichtstraße 35, 13347 Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "region": "europe",
+      "category": "Konzert",
+      "url": "https://www.silent-green.net/programm/detail/lia-lia?tx_news_pi1%5Bday%5D=27&tx_news_pi1%5Bmonth%5D=11&tx_news_pi1%5Byear%5D=2026&cHash=f915ce0e94384d32aac8b9319cd5f195",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "cbf59051707cbb169d7164b06516@global-arts-culture": {
       "source": "brown-arts",
       "source_id": "338354-2026-11-25T00:00:00-05:00",
@@ -10759,8 +11694,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/bai/event/338354-exhibition-on-view-building-books-with-dayanita-singh",
       "description": "In her practice, Dayanita Singh experiments with form through photography, architecture, and books to create exhibitions. Using these mediums, Singh extends an invitation to audiences to question how books, and book-making, might transform a space into an exhibition. This show takes cues from Singh’s artist-led approach to exhibitions to explore the relationship between “making” and “reading.” With Singh’s Book Building (2022) as a blueprint, this exhibition analyzes book-making as an artistic practice, material form, and conceptual process. Works in the exhibition span Singh’s career, including Book Building (2022), Blue Book (2009), File Room (2013), Museum of Chance (2014), and Sent a Let",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "18cf963377b1c7990c731114380f@global-arts-culture": {
       "source": "brown-arts",
@@ -10776,8 +11711,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/library/event/341426-a-pictorial-dragon-the-art-of-fernando-birri",
       "description": "The exhibit A Pictorial Dragon: The Art of Fernando Birri is on view in the Harriette Hemmasi Exhibition Gallery at the John Hay Library at Brown University, and online through a digital exhibition. The exhibit celebrates the centennial of Fernando Birri (1925–2017), the pioneering Argentine filmmaker, artist, and theorist of the New Latin American Cinema.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "83fe12d85d9a325c51195eea57cb@global-arts-culture": {
       "source": "brown-arts",
@@ -10793,8 +11728,8 @@
       "category": " Open to the Public",
       "url": "https://events.brown.edu/john-carter-brown-library/event/326699-1776-across-the-americas-a-hemispheric-history",
       "description": "The John Carter Brown Library is pleased to announce a year-long exhibition titled “1776 Across the Americas: A Hemispheric History from the Collections of the John Carter Brown Library.” The exhibition is now on display in the Bromsen Room at the Library and is open to the public during regular Reading Room hours. The John Carter Brown Library’s Reading Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and from 2 p.m. to 4:45 p.m., and Friday from 10 a.m. to 12:45 p.m. Curated by Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf and JCB 2026 Postdoc Program Coordinator Kathleen Telling , the exhibition is part of the initiative 2026 and Beyond at the JCB",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ba1786f65e1cb7e9d503a8076371@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10810,8 +11745,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/Library/event/288815-centering-philippine-and-filipinx-american",
       "description": "The Bancroft Library’s collections of materials relating to the Philippines span nearly 500 years. Highlights in this exhibit include a transcript of an Inquisitorial trial from 1646, a prayer book written in the Cebuano language, and UC Berkeley Filipino student publications from 1905 to the present. The exhibit also features selections from the personal papers of acclaimed author Jessica Hagedorn, including typewritten drafts of her novels, poetry, song lyrics, and a screenplay, as well as childhood drawings and writings. Open hours may vary. Please view the The Bancroft Library hours page for the most up-to-date information.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f14e63c489f34f80dc75482312ad@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10827,8 +11762,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/329954-exhibit-de-y-para-el-pueblo-for-and-by-the-people-rev",
       "description": "The exhibition, De y para el pueblo / By and for the People: Revolutionary Mexican Prints, features highlights from The Bancroft Library’s extensive collection of prints.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "2c0c9e130fc40223eb634235dae6@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10844,8 +11779,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/309073-exhibit-divestment-now-student-activism-and-the-anti-",
       "description": "In 1985, UC Berkeley students, with support from faculty, staff, and labor unions, transformed the campus into the heart of a powerful anti-apartheid divestment campaign. They organized rallies, teach-ins, and shantytown encampments to protest the university’s financial ties to companies profiting from South Africa’s system of racial segregation.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9902a0879403b5c505dbde34b602@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10861,8 +11796,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/Library/event/330981-exhibit-kmij-mour-ijin-our-life-is-here",
       "description": "Kōmij Mour Ijin / Our Life Is Here at Doe Library brings together reproductions of works and interpretive material from the 2023 voyage, exploring climate change, the legacy of US nuclear testing, and Marshallese knowledge and resilience.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "bc0a3cc7d5c19b4321bb043b7bdc@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10878,8 +11813,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330194-photography-installation-remembering-the-future",
       "description": "At Giannini Hall, 36 photographs selected from the recently published Remembering the Future: Nuclear Testing, Rising Seas, and The Marshall Islands (Radius Books, © 2026) by Mark Klett and William L. Fox extend the two men’s decades-long collaboration tracing the nuclear history of the American West and the broader Pacific sphere.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8b0f0f82d60db6113bbc9d812b74@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10895,8 +11830,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/lhs/event/337963-thanksgiving-week-potato-party",
       "description": "Join us during Thanksgiving Week as we show our appreciation for the humble potato!",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b416010ba92b449a2cbffb1777bc@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10912,8 +11847,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330840-nancy-lee-katz-a-private-pantheon-part-1",
       "description": "Nancy Lee Katz: A Private Pantheon explores the artist’s decades-long effort to photograph artists, writers, musicians, and thinkers she admired, including Justice Ruth Bader Ginsburg, Stephen Sondheim, Philip Glass, Elie Wiesel, and Seiji Ozawa. Part 1 on view through Dec 17, 2026.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4004c1b73001e3b2af510265768b@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10929,8 +11864,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330904-exhibit-time-capsules-exploring-the-permanent",
       "description": "In celebrating 15 years at UC Berkeley, Time Capsules revisits ten out of the over thirty exhibitions presented since the Magnes opened the doors of its new academic home to the public.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a43f49175960d16f85f22c6baff6@global-arts-culture": {
       "source": "berkeley-arts",
@@ -10946,42 +11881,8 @@
       "category": "Exhibits",
       "url": "https://events.berkeley.edu/live/events/330966-exhibit-an-archive-of-archives-roman-vishniacs",
       "description": "An Archive of Archives: Roman Vishniac’s Exhibition History | New York, 1971-72 shares some of Vishniac’s iconic images documenting Jewish life in Central and Eastern Europe between 1930 and 1940. The exhibition closes Dec 17, 2026.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "75a96d902ab5588e1429edd34881@global-arts-culture": {
-      "source": "berkeley-arts",
-      "source_id": "331179-2026-11-27T15:30:00-08:00",
-      "title": "Film Screening: Modern Times",
-      "start": "2026-11-27T15:30:00-08:00",
-      "end": "2026-11-27T16:30:00-08:00",
-      "venue": "BAMPFA",
-      "address": "BAMPFA",
-      "city": "Berkeley/San Francisco",
-      "country": "United States",
-      "region": "us",
-      "category": "Films",
-      "url": "https://events.berkeley.edu/BAMPFA/event/331164-film-screening-modern-times",
-      "description": "It starts with an overhead shot of sheep and cuts to the throngs coming out of a subway station. Was Charlie Chaplin a Surrealist, or just a realist? His version of modern times looks forward in equal measure to Jacques Tati and 1984 . This “silent” is full of modern sounds, heard over loudspeakers and big corporate television screens (not to mention the Tramp’s outburst of French-inspired gibberish). Charlie, the ever-elegant Tramp, is an industrial swashbuckler with an oilcan for a sword, but he’s begun taking on the characteristics of factory machines, obsessively twisting buttons no matter where they are.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "baae5cfe36b38e4109d607a830db@global-arts-culture": {
-      "source": "berkeley-arts",
-      "source_id": "331178-2026-11-27T17:30:00-08:00",
-      "title": "Film Screening: The Last Waltz",
-      "start": "2026-11-27T17:30:00-08:00",
-      "end": "2026-11-27T18:30:00-08:00",
-      "venue": "BAMPFA",
-      "address": "BAMPFA",
-      "city": "Berkeley/San Francisco",
-      "country": "United States",
-      "region": "us",
-      "category": "Films",
-      "url": "https://events.berkeley.edu/BAMPFA/event/331166-film-screening-the-last-waltz",
-      "description": "Martin Scorsese grew up listening to seminal rock DJ Alan Freed, and from Mean Streets onward, his movies have been driven by the power of rock and roll. His love of music is innate and instinctual, so when The Band decided to hang it up after seventeen years on the road, they chose Scorsese to film their farewell concert at Winterland Ballroom on Thanksgiving 1976. The film intercuts the glorious music from one of the all-time great concert lineups with interviews with members of The Band as they talk about their lives and music. The Last Waltz is an elegiac masterpiece that captures a special moment in music history.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b5fcaa75d430e9358adbade4a72f@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -10997,8 +11898,8 @@
       "category": "Film",
       "url": "https://nwfilmforum.org/films/la-bola-negra/",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "40903144936a3bb05507d2206413@global-arts-culture": {
       "source": "matadero-madrid",
@@ -11014,8 +11915,8 @@
       "category": "Multidisciplinary",
       "url": "https://www.mataderomadrid.org/en/schedule/cima-proyecta",
       "description": "To mark the International Day for the Elimination of Violence against Women, the upcoming session of CIMA Proyecta turns its focus to four stories highlighting different forms of gender-based violence. These short films are part of the series “Pieces for Another History of Spanish Cinema”, curated by Lola Mayo to commemorate the 20th Anniversary of CIMA, the Association of Women Filmmakers and Audiovisual Media.Programme:Suc de Síndria (Irene Moray, Fiction, 2019, 22') Bàrbara and Pol spend a few days on holiday surrounded by nature with a group of friends. Amidst tears and laughter, and with Pol’s support, Bàrbara learns to let go, heal old wounds, and redefine her sexuality.Tótem Loba (Ver",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "480dcd7fe8292238994dab3589a9@global-arts-culture": {
       "source": "cccb",
@@ -11031,8 +11932,8 @@
       "category": "Audiovisuals",
       "url": "https://www.cccb.org/en/w/activities/xcentric-film-club",
       "description": "Monthly film forum sessions at Xcèntric Archive",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "3f03b5ac5b509f6970255d559325@global-arts-culture": {
       "source": "cccb",
@@ -11048,8 +11949,8 @@
       "category": "Courses and workshops",
       "url": "https://www.cccb.org/en/w/activitats/el-mon-com-a-manicomi",
       "description": "Dolor femení, resistència i literatura",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4d4290f1a2623f4bd3e2dcc93e62@global-arts-culture": {
       "source": "cccb",
@@ -11065,8 +11966,8 @@
       "category": "Exhibition + Scene",
       "url": "https://www.cccb.org/en/w/activities/opening-of-the-atomic-age",
       "description": "Open doors to the exhibition and performance",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "613e7234a1e777fe21b00bf40471@global-arts-culture": {
       "source": "artsatl",
@@ -11082,8 +11983,8 @@
       "category": "Theater",
       "url": "https://www.artsatl.org/event/puppet-camp/2026-11-25/",
       "description": "Come spend the summer with us and bring your imagination to life! The Center for Puppetry Arts Puppet Camp values curiosity, creativity, and imagination. We invite your young artist, performer, doodler, singer, engineer, computer designer, and everyone in between to embark on a week (or two!) of creative confidence-building. At Puppet Camp, we will embark on an adventure in a program completely unique to Atlanta’s Center for Puppetry Arts. There will be puppet parties, parades, shows, and showcases.",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0aa27f2ed7f44d56c9ce9d604e7c@global-arts-culture": {
       "source": "artsatl",
@@ -11099,8 +12000,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/between-here-infinity-celebrating-30-years-of-the-spelman-college-art-collection/2026-11-25/",
       "description": "Between Here & Infinity: Celebrating 30 Years of the Spelman College Art Collection, an expansive exhibition featuring nearly seventy works by Black women artists who shape our permanent collection and define our mission. Beginning September 9, 2026, visitors to the Spelman College Museum will have opportunities to discover art and artists from the collection. The first exhibition to span both the museum’s galleries, this exhibition will open in two waves: at the Bank of America Gallery at the Mary Schmidt Campbell Center for Innovation & the Arts, opening September 9, 2026, and in the gallery in the Camille Olivia Hanks Cosby, Ed.D. Academic Center on October 2, 2026. Between Here & Infinit",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d4034e82aa58344d373dd7382467@global-arts-culture": {
       "source": "artsatl",
@@ -11116,8 +12017,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/a-fine-line/2026-11-25/",
       "description": "Spalding Nix Fine Art is pleased to announce A FINE LINE, a presentation of four shows by Kate Hooray Osmond, Nancy Talero, Shannon Davis and Laura Dargan on view January 24 – March 20. Charleston-based interdisciplinary Artist Kate Hooray Osmond’s “Americana” explores her evolving relationship with the shifting landscape of America through vibrant and expressive genre scene paintings. Atlanta-based Artist Nancy Talero’s “Super Nature” is a series of geometric modular paintings exploring the merging and blurred boundaries of the natural and supernatural worlds. Atlanta-based multi-media Artist Shannon Davis’s “Conversations in Motion” is a series of photographic digital compositions explorin",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "01cdc93791c7fc03839937f6561b@global-arts-culture": {
       "source": "artsatl",
@@ -11133,8 +12034,8 @@
       "category": "Music",
       "url": "https://www.artsatl.org/event/musiq-soulchild/2026-11-25/",
       "description": "City Winery Atlanta presents Musiq Soulchild live on November 20th, 21st, 24th & 25th at 6:30pm and 10pm! Musiq Soulchild brings his celebrated neo-soul sound to City Winery Atlanta for a multi-night engagement this holiday season, an intimate evening of soulful music, powerful vocals, and timeless songs from one of R&B’s most respected artists. Doors open: 5:30 PM Food & beverage: Table service is available in the venue; restaurant dining reservations (via Resy) are encouraged for pre-show dining. Happens on the following Dates: Nov 20, 2026, 6:30pm to 8:00pm Timezone: Eastern Time (US & Canada) Nov 20, 2026, 10:00pm to 11:30pm Timezone: Eastern Time (US & Canada) Nov 21, 2026, 6:30pm to 8:",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "57772fb06775ebca29f75489e55b@global-arts-culture": {
       "source": "artsatl",
@@ -11150,8 +12051,8 @@
       "category": "Art + Design",
       "url": "https://www.artsatl.org/event/illumine-2026/2026-11-25/",
       "description": "As the sun sets, Oakland Cemetery is transformed. Through colorful lighting and art installations by some of Atlanta’s most innovative artists, illumine 2026 will light up the shadows of the night. We’re excited to once again partner with Atlanta gallery and studio Cat Eye Creative to curate artists, and join us in creating an elevated Oakland after dark experience against the inspiring backdrop of Atlanta’s glittering skyline. In addition to exploring parts of the Cemetery after the sun sets, illumine attendees will also enjoy live entertainment, multiple bars, and an Oakland pop-up shop. This year, we are excited to offer new ways to experience illumine—including Premium Tickets, Artist Sp",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8d161aa056265586227f03165467@global-arts-culture": {
       "source": "artsatl",
@@ -11167,8 +12068,8 @@
       "category": "Theater",
       "url": "https://www.artsatl.org/event/the-foreigner-a-comedy-by-larry-shue/2026-11-25/",
       "description": "Renegade Theatre Company is excited to present “The Foreigner”, a comedy by Larry Shue. MAKE A RESERVATION in advance at bit.ly/RTCtheforeigner VENUE « Virginia-Highland Church at 743 Virginia Ave NE, Atlanta There is free parking available across the street at Virginia Highland Elementary School. There is limited parking onsite at the church. Please plan to take public transportation, a ride share or arrive early to find street parking. We will begin shows promptly, so please plan ahead to be on time. PERFORMANCE DATES • Wednesday, July 15th, 2026 • 8PM • Thursday, July 16th, 2026 • 8PM • Friday, July 17th, 2026 • 8PM • Saturday, July 18th, 2026 • 2PM & 8PM COST OF ADMISSION We offer admiss",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a9e03415f5e09dbdc3b3b3b106bc@global-arts-culture": {
       "source": "matadero-madrid",
@@ -11185,7 +12086,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/margenes-2026",
       "description": "Programa:Sophia (Anna Saura, 2026, 9’)Sophia es una adolescente cuya adicción a las pantallas y las redes sociales hacen que pierda la noción de la realidad. Presentada en el Festival de Málaga y en Punto de Vista Navarra. Calandra (Jaime Aurata, Chloe Cazorla, Laura Raniela, Lucas Lagrange, 2026, 23’)Nieves es una mujer con discapacidad psíquica que trabaja en una lavandería industrial a las afueras de Madrid. Vive en un piso de barrio con su hermana desde que su madre falleció. Hace años fue sometida a una cirugía de ligadura de trompas. Desde entonces, su único deseo es tener un conejo. Presentada en el Festival dei Popoli. Linda y Bobby en un pozo (Emilio Hupe, WIP, 9’)En las montañas de",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "a90e435ff12a504865a90c4f93a2@global-arts-culture": {
       "source": "matadero-madrid",
@@ -11202,7 +12103,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/margenes-2026",
       "description": "Programa:A Day in the Life of Jo: Chapter Phaedra (Jacqueline Lentzou, Grecia-Alemania-Francia, 2026, 88')Jo es indómita y melancólica, tiene quince años y vive en Atenas. En el transcurso de una sola jornada, lo que empieza como un coming of age entre primeros amores, disputas familiares y una amistad llamada a cambiar el curso de los acontecimientos se adentra en un territorio en el que la vigilia y el sueño empiezan a confundirse. A través de la mirada de Jo, lo cotidiano se vuelve extraño. En los detalles que ella apenas advierte, intuimos que ese día es distinto de todos los demás. Tras participar en la edición de 2021 de Márgenes con Moon, 66 Questions, Jacqueline Lentzou vuelve al fes",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "c37a913d7431e917324f2b7b8a32@global-arts-culture": {
       "source": "matadero-madrid",
@@ -11219,7 +12120,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/margenes-2026",
       "description": "El viaje de Elsa, una fotógrafa que recorre el país para un proyecto sobre los campos de concentración franquistas, hace emerger una cartografía de los vencidos, y con ella la historia de Carmen y Ángel, dos amantes separados por la guerra. La noticia del fallecimiento de un familiar obliga a Elsa a interrumpir su trabajo, retomar el contacto con su familia y asumir una herencia pendiente. Gran Premio de la competición internacional de FIDMarseille, la película combina ficción y documental para indagar en las heridas aún abiertas de un país.> Con la presencia del director.",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "1cd625a1584b90bb4daeb2bcff39@global-arts-culture": {
       "source": "matadero-madrid",
@@ -11236,7 +12137,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/openlab-2026-visual-trust-multi-modal-and-experimental-project-presentation-amanda-bernal",
       "description": "What makes people from different cultures and societies trust (or distrust) an image? How is the visual fake assessed and debunked in science, religion, AI or documentary photography? What is the relation between image-making and visual trust? Amanda Bernal introduces Visual Trust, an experimental and multimodal research initiative funded by the European Research Council (2021-2027). Drawing mainly on anthropology, the project takes a comparative approach to current regimes of visual authenticity and forgery. Bernal presents the main guidelines and methods of the project through some of its outcomes: films, photo-essays and texts. This activity is part of the OpenLAB The Mechanics of Truth f",
       "status": "CANCELLED",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "c0214ee7326367a31d946d8a3f92@global-arts-culture": {
       "source": "brown-arts",
@@ -11253,7 +12154,7 @@
       "url": "https://events.brown.edu/john-carter-brown-library/event/326811-1776-across-the-americas-a-hemispheric-history",
       "description": "The John Carter Brown Library is pleased to announce a year-long exhibition titled “1776 Across the Americas: A Hemispheric History from the Collections of the John Carter Brown Library.” The exhibition is now on display in the Bromsen Room at the Library and is open to the public during regular Reading Room hours. The John Carter Brown Library’s Reading Room is open Monday through Thursday from 10 a.m. to 12:45 p.m. and from 2 p.m. to 4:45 p.m., and Friday from 10 a.m. to 12:45 p.m. Curated by Beatrice and Julio Mario Santo Domingo Director and Librarian Karin Wulf and JCB 2026 Postdoc Program Coordinator Kathleen Telling , the exhibition is part of the initiative 2026 and Beyond at the JCB",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "532645c190ec4ab3de3b3b6e5128@global-arts-culture": {
       "source": "matadero-madrid",
@@ -11270,7 +12171,7 @@
       "url": "https://www.mataderomadrid.org/en/schedule/book-launch-names-fear-fear-love-and-revolution",
       "description": "In the introduction to this digital publication, written by Inés Plasencia Camps, we read: “Bodies ‘feel’ fear—though not the same fear—when they cross paths. They cannot shed their history; it is from within that history that they inevitably experience fear.” Four years after our programmes exploring fear and artistic practices, The Names of Fear (2021) and Fear, Love and Revolution (2022)—which examined this emotion as a central axis of contemporary social relations—we present a publication gathering part of what took place then, alongside essays written especially for this book, born out of a desire to keep the conversation going. Guided by the urgency of continuing to talk about fear, th",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "0cbc6d9630c7c25530fb2fa4cf79@global-arts-culture": {
       "source": "cccb",
@@ -11287,7 +12188,7 @@
       "url": "https://www.cccb.org/en/w/activitats/visita-comentada-a-lexposicio-dana-lixenberg-american-images-kbr-fundacion-mapfre",
       "description": "Activitat exclusiva per als Amics CCCB",
       "status": "CANCELLED",
-      "missing_runs": 8
+      "missing_runs": 9
     },
     "1dbb76a929ae768f571ad69564c9@global-arts-culture": {
       "source": "gwu-arts",
@@ -11304,7 +12205,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "f4c7b02d51c16a61a48fa01b69e4@global-arts-culture": {
       "source": "gwu-arts",
@@ -11321,7 +12222,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "be63bdf31021fe1dbba255ab3cc0@global-arts-culture": {
       "source": "gwu-arts",
@@ -11338,7 +12239,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "10713e008a0b96322c7733e9de9a@global-arts-culture": {
       "source": "gwu-arts",
@@ -11355,7 +12256,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "d04c06b824b2ae1d7c392fc41006@global-arts-culture": {
       "source": "gwu-arts",
@@ -11372,7 +12273,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "e2d6ba0ec164acc9437c05234f0d@global-arts-culture": {
       "source": "gwu-arts",
@@ -11389,7 +12290,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "f1bf01928648391a5468dde4ee94@global-arts-culture": {
       "source": "gwu-arts",
@@ -11406,7 +12307,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "173715c194eee471ef6b70986374@global-arts-culture": {
       "source": "gwu-arts",
@@ -11423,7 +12324,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "bf8d414fb0a57edd71cc62d95912@global-arts-culture": {
       "source": "gwu-arts",
@@ -11440,7 +12341,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "57f7e8445796d95a9a856d790406@global-arts-culture": {
       "source": "gwu-arts",
@@ -11457,7 +12358,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "e3f544a0da040407602cba198963@global-arts-culture": {
       "source": "gwu-arts",
@@ -11474,7 +12375,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "88171e0c3cee041df5aefdc978b3@global-arts-culture": {
       "source": "gwu-arts",
@@ -11491,7 +12392,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "9ca547f21a9933a7a5919c5cd35f@global-arts-culture": {
       "source": "gwu-arts",
@@ -11508,7 +12409,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "4f213a0de3a991f8f6065d553ceb@global-arts-culture": {
       "source": "gwu-arts",
@@ -11525,7 +12426,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "56f073d2bbb68e9164c06a049ce3@global-arts-culture": {
       "source": "gwu-arts",
@@ -11542,7 +12443,7 @@
       "url": "https://calendar.gwu.edu/event/eric-gottesmans-night-and-day",
       "description": "For Freedoms presents artist and educator Eric Gottesman’s NIGHT AND DAY which centers on Ethiopian journalist and author Baalu Girma’s controversial 1984 Amharic novel Oromay , written under the Derg regime and banned shortly after its publication. Drawing on Gottesman’s deep engagement with the novel, NIGHT AND DAY considers how artists create, communicate, and sustain cultural memory within and against conditions of censorship, political repression, and state violence. The exhibition extends beyond the gallery through a library of banned books, a self-guided workshop station that invites visitors to respond to censorship through writing and drawing, and a public conversation on how artist",
       "status": "CANCELLED",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "cd69d731c8ec25c25aa531b94fd2@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -11559,7 +12460,7 @@
       "url": "https://nwfilmforum.org/films/2026-sundance-film-festival-short-film-tour/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 15
+      "missing_runs": 16
     },
     "55290c37f0c752c7d455a49fd3db@global-arts-culture": {
       "source": "noma",
@@ -11576,7 +12477,7 @@
       "url": "https://noma.org/event/gallery-talk-for-teens-second-nature-japanese-rinpa-paintings-from-the-gitter-yelen-collection/2027-01-19/",
       "description": "On November 17 and January 19, New Orleans Museum of Art is hosting a Gallery Talk for Teens. The programs will take place in the museum’s first floor Ella West Freeman Gallery, where the exhibition Second Nature: Japanese Rinpa Paintings from the Gitter-Yelen Collection is currently on view . This program will include an interactive gallery activity and a question-and-answer session to encourage peer discussion. To register for November 17’s program, please RSVP by October 30, 2026. To register for January 19’s program, please RSVP by December 10, 2026. To RSVP or for questions, contact Michelle Haysley, NOMA’s Education Programs Manager, at mhaysley@noma.org . Second Nature: Japanese Rinpa",
       "status": "CANCELLED",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "971861d67b111a1096594152beaa@global-arts-culture": {
       "source": "northwest-film-forum",
@@ -11593,7 +12494,7 @@
       "url": "https://nwfilmforum.org/films/2026-sundance-film-festival-short-film-tour/",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "557b65341c093ba5bbf566d2f841@global-arts-culture": {
       "source": "cccb",
@@ -11610,7 +12511,7 @@
       "url": "https://www.cccb.org/en/w/activities/lets-go-to-the-circus",
       "description": "Cinema for all the family",
       "status": "CANCELLED",
-      "missing_runs": 45
+      "missing_runs": 46
     },
     "26d4e08834337934bf64d3d48940@global-arts-culture": {
       "source": "cccb",
@@ -11627,7 +12528,7 @@
       "url": "https://www.cccb.org/en/w/activities/lets-go-to-the-circus",
       "description": "Cinema for all the family",
       "status": "CANCELLED",
-      "missing_runs": 45
+      "missing_runs": 46
     },
     "81cced99fd60708935ed41eb100d@global-arts-culture": {
       "source": "cccb",
@@ -11644,7 +12545,7 @@
       "url": "https://www.cccb.org/en/w/activities/lets-go-to-the-circus",
       "description": "Cinema for all the family",
       "status": "CANCELLED",
-      "missing_runs": 45
+      "missing_runs": 46
     },
     "5f90f3650e431585d075beb95ce8@global-arts-culture": {
       "source": "cccb",
@@ -11661,7 +12562,7 @@
       "url": "https://www.cccb.org/en/w/activities/lets-go-to-the-circus",
       "description": "Cinema for all the family",
       "status": "CANCELLED",
-      "missing_runs": 45
+      "missing_runs": 46
     },
     "9af50de4397a61e95e9362c9a5f6@global-arts-culture": {
       "source": "cccb",
@@ -11678,7 +12579,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 111
+      "missing_runs": 112
     },
     "7319a709ed610df1b5d67ecab640@global-arts-culture": {
       "source": "cccb",
@@ -11695,7 +12596,7 @@
       "url": "https://www.cccb.org/en/w/activities/installation-send-me-colors-mechanical-gestures-to-preserve-flowers",
       "description": "Xcèntric’s 25th Anniversary Programme",
       "status": "CANCELLED",
-      "missing_runs": 111
+      "missing_runs": 112
     }
   }
 }

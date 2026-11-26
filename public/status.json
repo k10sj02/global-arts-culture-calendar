@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-26T03:26:45.260077-05:00",
-  "count": 657,
-  "cancelled": 31,
+  "generated": "2026-11-26T16:38:14.758536-05:00",
+  "count": 687,
+  "cancelled": 54,
   "regions": {
-    "us": 468,
-    "europe": 189,
+    "us": 450,
+    "europe": 237,
     "mexico": 0
   },
   "sources": {
@@ -20,8 +20,8 @@
     "cac-new-orleans": 3,
     "ica-london": 4,
     "matadero-madrid": 32,
-    "cccb": 95,
-    "silent-green": 57
+    "cccb": 145,
+    "silent-green": 58
   },
   "errors": {
     "chicago-humanities": "No current Chicago Humanities events found",
