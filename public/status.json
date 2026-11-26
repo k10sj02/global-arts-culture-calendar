@@ -1,31 +1,31 @@
 {
-  "generated": "2026-11-25T16:45:19.754648-05:00",
-  "count": 642,
-  "cancelled": 62,
+  "generated": "2026-11-26T03:26:45.260077-05:00",
+  "count": 657,
+  "cancelled": 31,
   "regions": {
-    "us": 450,
-    "europe": 192,
+    "us": 468,
+    "europe": 189,
     "mexico": 0
   },
   "sources": {
     "poetry-project": 4,
-    "brown-arts": 10,
+    "brown-arts": 11,
     "harvard-film-archive": 10,
-    "gwu-arts": 95,
+    "gwu-arts": 97,
     "redcat": 19,
-    "berkeley-arts": 34,
-    "northwest-film-forum": 85,
+    "berkeley-arts": 38,
+    "northwest-film-forum": 84,
+    "artsatl": 178,
     "noma": 8,
     "cac-new-orleans": 3,
     "ica-london": 4,
-    "matadero-madrid": 20,
-    "cccb": 98,
+    "matadero-madrid": 32,
+    "cccb": 95,
     "silent-green": 57
   },
   "errors": {
     "chicago-humanities": "No current Chicago Humanities events found",
     "fringearts": "No current FringeArts events found",
-    "artsatl": "Client error '429 Too Many Requests' for url 'https://www.artsatl.org/wp-json/tribe/events/v1/events?per_page=50&page=1&start_date=2026-11-25&end_date=2027-11-25'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
     "inbal": "Client error '403 Forbidden' for url 'https://inba.gob.mx/cartelera/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
   }
 }
